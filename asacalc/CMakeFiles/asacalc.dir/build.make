@@ -35,10 +35,10 @@ RM = /opt/local/bin/cmake -E remove -f
 CMAKE_EDIT_COMMAND = /opt/local/bin/ccmake
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/paul/metabolomics/asa_calc
+CMAKE_SOURCE_DIR = /Users/paul/metabolomics_work/asacalc
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/paul/metabolomics/asa_calc
+CMAKE_BINARY_DIR = /Users/paul/metabolomics_work/asacalc
 
 # Include any dependencies generated for this target.
 include CMakeFiles/asacalc.dir/depend.make
@@ -51,17 +51,17 @@ include CMakeFiles/asacalc.dir/flags.make
 
 CMakeFiles/asacalc.dir/main.cpp.o: CMakeFiles/asacalc.dir/flags.make
 CMakeFiles/asacalc.dir/main.cpp.o: main.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /Users/paul/metabolomics/asa_calc/CMakeFiles $(CMAKE_PROGRESS_1)
+	$(CMAKE_COMMAND) -E cmake_progress_report /Users/paul/metabolomics_work/asacalc/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/asacalc.dir/main.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/asacalc.dir/main.cpp.o -c /Users/paul/metabolomics/asa_calc/main.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/asacalc.dir/main.cpp.o -c /Users/paul/metabolomics_work/asacalc/main.cpp
 
 CMakeFiles/asacalc.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/asacalc.dir/main.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /Users/paul/metabolomics/asa_calc/main.cpp > CMakeFiles/asacalc.dir/main.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /Users/paul/metabolomics_work/asacalc/main.cpp > CMakeFiles/asacalc.dir/main.cpp.i
 
 CMakeFiles/asacalc.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/asacalc.dir/main.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /Users/paul/metabolomics/asa_calc/main.cpp -o CMakeFiles/asacalc.dir/main.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /Users/paul/metabolomics_work/asacalc/main.cpp -o CMakeFiles/asacalc.dir/main.cpp.s
 
 CMakeFiles/asacalc.dir/main.cpp.o.requires:
 .PHONY : CMakeFiles/asacalc.dir/main.cpp.o.requires
@@ -101,6 +101,6 @@ CMakeFiles/asacalc.dir/clean:
 .PHONY : CMakeFiles/asacalc.dir/clean
 
 CMakeFiles/asacalc.dir/depend:
-	cd /Users/paul/metabolomics/asa_calc && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/paul/metabolomics/asa_calc /Users/paul/metabolomics/asa_calc /Users/paul/metabolomics/asa_calc /Users/paul/metabolomics/asa_calc /Users/paul/metabolomics/asa_calc/CMakeFiles/asacalc.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/paul/metabolomics_work/asacalc && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/paul/metabolomics_work/asacalc /Users/paul/metabolomics_work/asacalc /Users/paul/metabolomics_work/asacalc /Users/paul/metabolomics_work/asacalc /Users/paul/metabolomics_work/asacalc/CMakeFiles/asacalc.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/asacalc.dir/depend
 

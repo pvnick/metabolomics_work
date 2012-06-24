@@ -4,7 +4,7 @@ SET(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 SET(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/paul/metabolomics/asa_calc/main.cpp" "/Users/paul/metabolomics/asa_calc/CMakeFiles/asacalc.dir/main.cpp.o"
+  "/Users/paul/metabolomics_work/asacalc/main.cpp" "/Users/paul/metabolomics_work/asacalc/CMakeFiles/asacalc.dir/main.cpp.o"
   )
 SET(CMAKE_CXX_COMPILER_ID "GNU")
 

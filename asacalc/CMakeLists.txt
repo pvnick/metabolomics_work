@@ -1,17 +1,13 @@
 cmake_minimum_required(VERSION 2.6)
 
-if(NOT ${CHEMKIT_WITH_WEB})
-    message("chemkit with web not installed")
-    return()
-endif()
- 
+#find qt
 find_package(Qt4 4.6 COMPONENTS QtCore QtNetwork QtXml REQUIRED)
 set(QT_DONT_USE_QTGUI TRUE)
 set(QT_USE_QTNETWORK TRUE)
 set(QT_USE_QTXML TRUE)
 include(${QT_USE_FILE})
 
-# Find Boost
+#find boost
 find_package(Boost COMPONENTS iostreams system filesystem thread REQUIRED)
 link_directories(${Boost_LIBRARY_DIRS})
 include_directories(${Boost_INCLUDE_DIRS})
@@ -19,7 +15,6 @@ include_directories(${Boost_INCLUDE_DIRS})
 #find chemkit
 find_package(Chemkit COMPONENTS io web REQUIRED)
 include_directories(${CHEMKIT_INCLUDE_DIRS})
-
 
 add_executable(asacalc main.cpp)
 target_link_libraries(asacalc ${CHEMKIT_IO_LIBRARY} ${CHEMKIT_WEB_LIBRARY} ${CHEMKIT_LIBRARIES} ${QT_LIBRARIES} ${Boost_LIBRARIES})

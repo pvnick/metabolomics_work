@@ -39,10 +39,10 @@ RM = /opt/local/bin/cmake -E remove -f
 CMAKE_EDIT_COMMAND = /opt/local/bin/ccmake
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/paul/metabolomics/asa_calc
+CMAKE_SOURCE_DIR = /Users/paul/metabolomics_work/asacalc
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/paul/metabolomics/asa_calc
+CMAKE_BINARY_DIR = /Users/paul/metabolomics_work/asacalc
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -69,9 +69,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/paul/metabolomics/asa_calc/CMakeFiles /Users/paul/metabolomics/asa_calc/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/paul/metabolomics_work/asacalc/CMakeFiles /Users/paul/metabolomics_work/asacalc/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/paul/metabolomics/asa_calc/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/paul/metabolomics_work/asacalc/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
