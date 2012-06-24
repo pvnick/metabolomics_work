@@ -11,6 +11,7 @@ int main(int argc, char *argv[])
 {
 	if (argc != 2) {
 		std::cerr << "need exactly 1 argument - molecule file name" << endl;
+		std::cout << -1;
 		return 1;
 	}
 
@@ -18,6 +19,7 @@ int main(int argc, char *argv[])
     bool ok = file.read();
     if(!ok){
         std::cerr << "Failed to read file" << std::endl;
+		std::cout << -1;
         return -1;
     }
 

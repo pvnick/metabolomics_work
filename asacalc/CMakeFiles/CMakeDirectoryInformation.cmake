@@ -11,6 +11,7 @@ SET(CMAKE_FORCE_UNIX_PATHS 1)
 # The C and CXX include file search paths:
 SET(CMAKE_C_INCLUDE_PATH
   "/Users/paul/QtSDK/Desktop/Qt/4.8.1/gcc/include"
+  "/Users/paul/QtSDK/Desktop/Qt/4.8.1/gcc/lib/QtCore.framework"
   "/Users/paul/QtSDK/Desktop/Qt/4.8.1/gcc/include/QtXml"
   "/Users/paul/QtSDK/Desktop/Qt/4.8.1/gcc/include/QtNetwork"
   "/Users/paul/QtSDK/Desktop/Qt/4.8.1/gcc/include/QtCore"

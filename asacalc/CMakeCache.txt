@@ -977,7 +977,7 @@ CMAKE_USE_RELATIVE_PATHS-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_VERBOSE_MAKEFILE
 CMAKE_VERBOSE_MAKEFILE-ADVANCED:INTERNAL=1
 //Details about finding Qt4
-FIND_PACKAGE_MESSAGE_DETAILS_Qt4:INTERNAL=[/Users/paul/QtSDK/Desktop/Qt/4.8.1/gcc/bin/qmake][/Users/paul/QtSDK/Desktop/Qt/4.8.1/gcc/bin/moc][/Users/paul/QtSDK/Desktop/Qt/4.8.1/gcc/bin/rcc][/Users/paul/QtSDK/Desktop/Qt/4.8.1/gcc/include][/Users/paul/QtSDK/Desktop/Qt/4.8.1/gcc/lib][/Users/paul/QtSDK/Desktop/Qt/4.8.1/gcc/include/QtCore][/Users/paul/QtSDK/Desktop/Qt/4.8.1/gcc/lib/QtCore.framework][/Users/paul/QtSDK/Desktop/Qt/4.8.1/gcc/include/QtNetwork][/Users/paul/QtSDK/Desktop/Qt/4.8.1/gcc/lib/QtNetwork.framework][/Users/paul/QtSDK/Desktop/Qt/4.8.1/gcc/include/QtXml][/Users/paul/QtSDK/Desktop/Qt/4.8.1/gcc/lib/QtXml.framework][v4.8.1(4.6)]
+FIND_PACKAGE_MESSAGE_DETAILS_Qt4:INTERNAL=[/Users/paul/QtSDK/Desktop/Qt/4.8.1/gcc/bin/qmake][/Users/paul/QtSDK/Desktop/Qt/4.8.1/gcc/bin/moc][/Users/paul/QtSDK/Desktop/Qt/4.8.1/gcc/bin/rcc][/Users/paul/QtSDK/Desktop/Qt/4.8.1/gcc/include;/Users/paul/QtSDK/Desktop/Qt/4.8.1/gcc/lib/QtCore.framework][/Users/paul/QtSDK/Desktop/Qt/4.8.1/gcc/lib][/Users/paul/QtSDK/Desktop/Qt/4.8.1/gcc/include/QtCore][/Users/paul/QtSDK/Desktop/Qt/4.8.1/gcc/lib/QtCore.framework][/Users/paul/QtSDK/Desktop/Qt/4.8.1/gcc/include/QtNetwork][/Users/paul/QtSDK/Desktop/Qt/4.8.1/gcc/lib/QtNetwork.framework][/Users/paul/QtSDK/Desktop/Qt/4.8.1/gcc/include/QtXml][/Users/paul/QtSDK/Desktop/Qt/4.8.1/gcc/lib/QtXml.framework][v4.8.1(4.6)]
 //ADVANCED property for variable: QT_ARTHURPLUGIN_PLUGIN_DEBUG
 QT_ARTHURPLUGIN_PLUGIN_DEBUG-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: QT_ARTHURPLUGIN_PLUGIN_RELEASE
@@ -1377,7 +1377,7 @@ QT_TRANSLATIONS_DIR-ADVANCED:INTERNAL=1
 QT_UIC3_EXECUTABLE-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: QT_UIC_EXECUTABLE
 QT_UIC_EXECUTABLE-ADVANCED:INTERNAL=1
-QT_USE_FRAMEWORKS:INTERNAL=OFF
+QT_USE_FRAMEWORKS:INTERNAL=ON
 //ADVANCED property for variable: QT_WORLDTIMECLOCKPLUGIN_PLUGIN_DEBUG
 QT_WORLDTIMECLOCKPLUGIN_PLUGIN_DEBUG-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: QT_WORLDTIMECLOCKPLUGIN_PLUGIN_RELEASE
