@@ -1,0 +1,187 @@
+17396420
+  -OEChem-06241222562D
+
+ 34 35  0     0  0  0  0  0  0999 V2000
+    2.0000   -0.8318    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    7.0468    2.5046    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    0.1682    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.1682    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5468    3.3706    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    2.1682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    1.6682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3776    1.7614    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5686    3.1627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.6682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.8318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5856    0.7833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8255    3.8318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -2.8318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.3318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -1.3318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.3318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -2.3318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -3.8318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3860    2.2508    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9875    1.5605    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1951    0.4782    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9791    0.6544    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7145    0.1768    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1920    0.9122    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2404    4.2926    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3647    4.2467    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4106    3.3711    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -1.0218    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291   -2.6418    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -2.6418    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1120   -3.8318    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -4.4518    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3520   -3.8318    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3 10  2  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 20  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 11 15  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 14 18  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 29  1  0  0  0  0
+ 17 30  1  0  0  0  0
+ 18 31  1  0  0  0  0
+ 19 32  1  0  0  0  0
+ 19 33  1  0  0  0  0
+ 19 34  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+17396420
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+327
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzMAAEAAAAAAAAAAAAAAAAAWAAAAAwAAAAAAAAAAABwAAAHgIUAAAADA6BniAyxJLQAACpA6VyUgCCAAAlJwAomCE0btoIJjrBl5PEMYhmlBjIyUc/gAAOCAAAIAAAABAQAABAAAAAIAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+N-(2-chloro-4-methyl-phenyl)-2-(3,5-dimethylisoxazol-4-yl)acetamide
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+N-(2-chloro-4-methylphenyl)-2-(3,5-dimethyl-4-isoxazolyl)acetamide
+
+> <PUBCHEM_IUPAC_NAME>
+N-(2-chloro-4-methylphenyl)-2-(3,5-dimethyl-1,2-oxazol-4-yl)acetamide
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+N-(2-chloranyl-4-methyl-phenyl)-2-(3,5-dimethyl-1,2-oxazol-4-yl)ethanamide
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+N-(2-chloro-4-methyl-phenyl)-2-(3,5-dimethylisoxazol-4-yl)acetamide
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C14H15ClN2O2/c1-8-4-5-13(12(15)6-8)16-14(18)7-11-9(2)17-19-10(11)3/h4-6H,7H2,1-3H3,(H,16,18)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+ADPBXNGAFYVMSY-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+2.9
+
+> <PUBCHEM_EXACT_MASS>
+278.082205
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C14H15ClN2O2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+278.7341
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=CC(=C(C=C1)NC(=O)CC2=C(ON=C2C)C)Cl
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=CC(=C(C=C1)NC(=O)CC2=C(ON=C2C)C)Cl
+
+> <PUBCHEM_CACTVS_TPSA>
+55.1
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+278.082205
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+19
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+3
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  15  8
+11  16  8
+14  17  8
+14  18  8
+15  17  8
+16  18  8
+2  5  8
+2  8  8
+5  9  8
+6  8  8
+6  9  8
+
+$$$$
+

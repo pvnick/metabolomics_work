@@ -1,0 +1,192 @@
+47205256
+  -OEChem-06241222582D
+
+ 36 37  0     1  0  0  0  0  0999 V2000
+    5.1805   -0.2196    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6453    1.4277    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6485    2.0186    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6942    1.1187    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.9511    1.7878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3395    1.0676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4863    0.1405    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1485    0.4798    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3884    0.7586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.4788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1485   -0.5202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6485    2.0186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9575    1.0676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2824   -1.0202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0145   -1.0202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2824   -2.0202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0145   -2.0202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1485   -2.5202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8231    1.7251    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4396    2.1695    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6600    2.3352    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7742    2.0341    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8798    0.2694    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3574   -0.4659    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0927    0.0116    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8084    2.0684    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4103    1.2872    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1916    0.8891    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2840    2.5202    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5472    0.8760    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0129    2.5202    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7455   -0.7102    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5514   -0.7102    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7455   -2.3302    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5514   -2.3302    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1485   -3.1402    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 22  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 31  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 19  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 20  1  0  0  0  0
+  5 21  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 12  2  0  0  0  0
+  7 23  1  0  0  0  0
+  7 24  1  0  0  0  0
+  7 25  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 13  2  0  0  0  0
+ 10 26  1  0  0  0  0
+ 10 27  1  0  0  0  0
+ 10 28  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 29  1  0  0  0  0
+ 13 30  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 32  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 33  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 34  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 35  1  0  0  0  0
+ 18 36  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+47205256
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+274
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBzIAAAAAAAAAAAAAAAAAAAAWAAAAAwAAAAAAAAAAABwAAAHgAQAAAADCjBmgQ+gJLJkACoAjF3VACCgCA1ACAI2aEoRNgIIHrA1ZGEIYhglgDIyccciMCOgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+4-phenyl-N-sec-butyl-1H-pyrrole-3-carboxamide
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+N-butan-2-yl-4-phenyl-1H-pyrrole-3-carboxamide
+
+> <PUBCHEM_IUPAC_NAME>
+N-butan-2-yl-4-phenyl-1H-pyrrole-3-carboxamide
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+N-butan-2-yl-4-phenyl-1H-pyrrole-3-carboxamide
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+4-phenyl-N-sec-butyl-1H-pyrrole-3-carboxamide
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H18N2O/c1-3-11(2)17-15(18)14-10-16-9-13(14)12-7-5-4-6-8-12/h4-11,16H,3H2,1-2H3,(H,17,18)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+AZBVQQADHNQTOO-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+2.9
+
+> <PUBCHEM_EXACT_MASS>
+242.141913
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H18N2O
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+242.31622
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCC(C)NC(=O)C1=CNC=C1C2=CC=CC=C2
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCC(C)NC(=O)C1=CNC=C1C2=CC=CC=C2
+
+> <PUBCHEM_CACTVS_TPSA>
+44.9
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+242.141913
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+18
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+5
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  14  8
+11  15  8
+14  16  8
+15  17  8
+16  18  8
+17  18  8
+3  12  8
+3  13  8
+4  7  3
+6  12  8
+6  8  8
+8  13  8
+
+$$$$
+

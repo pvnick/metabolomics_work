@@ -1,0 +1,132 @@
+12959
+  -OEChem-06261207352D
+
+ 14 13  0     0  0  0  0  0  0999 V2000
+    4.5981    0.0670    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2320   -1.2990    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.4330    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.9330    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2320    0.4330    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100    0.1039    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -0.1230    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900   -0.9699    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    0.9890    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0420    1.8360    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1951    1.6090    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -0.2430    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+12959
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+85.7
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYBAMAJgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgAAACAAAAAAAAICAAAAARAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+dimethoxy-sulfanyl-thioxo-$l^{5}-phosphane
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+mercapto-dimethoxy-sulfanylidenephosphorane
+
+> <PUBCHEM_IUPAC_NAME>
+dimethoxy-sulfanyl-sulfanylidene-$l^{5}-phosphane
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+dimethoxy-sulfanyl-sulfanylidene-$l^{5}-phosphane
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+mercapto-dimethoxy-thioxo-phosphorane
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C2H7O2PS2/c1-3-5(6,7)4-2/h1-2H3,(H,6,7)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+CZGGKXNYNPJFAX-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+1.7
+
+> <PUBCHEM_EXACT_MASS>
+157.962508
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C2H7O2PS2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+158.179542
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+COP(=S)(OC)S
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+COP(=S)(OC)S
+
+> <PUBCHEM_CACTVS_TPSA>
+51.6
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+157.962508
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+7
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+

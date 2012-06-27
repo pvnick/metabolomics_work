@@ -1,0 +1,157 @@
+583294
+  -OEChem-06241222452D
+
+ 21 22  0     1  0  0  0  0  0999 V2000
+    3.8660    1.0670    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    1.0670    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.3660    1.9330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.5670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.9330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8410    2.3315    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8911    2.3315    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4030    0.7570    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100    2.1039    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631    1.8770    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900    1.0300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -0.1230    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -0.1230    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -1.7430    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -1.7430    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.5530    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 18  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 19  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+583294
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+127
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccByAAAAAAAAAAAAAAAAFgAAAAAAAAAwAAAAAAAAAAABAAAAHAAQAAAADIjBGAQyAILAAACAAiBCAACCAAAgAAAIiIAIBIgIICKAkRGEIAhgkAAIiAcQgMAOgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-methyl-2-phenyl-aziridine
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-methyl-2-phenylaziridine
+
+> <PUBCHEM_IUPAC_NAME>
+2-methyl-2-phenylaziridine
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-methyl-2-phenyl-aziridine
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-methyl-2-phenyl-ethylenimine
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C9H11N/c1-9(7-10-9)8-5-3-2-4-6-8/h2-6,10H,7H2,1H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+ZMNLRZKDSRLADF-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+1.3
+
+> <PUBCHEM_EXACT_MASS>
+133.089149
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C9H11N
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+133.19034
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1(CN1)C2=CC=CC=C2
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1(CN1)C2=CC=CC=C2
+
+> <PUBCHEM_CACTVS_TPSA>
+21.9
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+133.089149
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+10
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+2  5  3
+4  6  8
+4  7  8
+6  8  8
+7  9  8
+8  10  8
+9  10  8
+
+$$$$
+

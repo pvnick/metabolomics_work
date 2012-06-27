@@ -1,0 +1,164 @@
+9313
+  -OEChem-06261203362D
+
+ 30 28  0     1  0  0  0  0  0999 V2000
+    1.4030    1.0000    0.0000 As  0  0  3  0  0  0  0  0  0  0  0  0
+    3.1350    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.5369    0.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9030    1.8660    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.9030    0.1340    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0010    4.6569    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    4.8671    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7331    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0010    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5991    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4651    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2656    0.5251    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4685    0.5251    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1316    1.9749    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3346    1.9749    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6025    1.9749    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3996    1.9749    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2006    0.5251    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9976    0.5251    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7751    0.9631    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0021    1.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1551    2.0369    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    2.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3110    4.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6910    5.1939    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4641    4.3469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5380    4.9669    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  1 13  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3 26  1  0  0  0  0
+  6 27  1  0  0  0  0
+  6 28  1  0  0  0  0
+  6 29  1  0  0  0  0
+  6 30  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 12 13  2  3  0  0  0
+ 13 25  1  0  0  0  0
+M  CHG  2   4  -1   6   1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+9313
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+195
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBiMAAEAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAMQCAAACAKAAAACAAAAAACAAABCAAAAAAAgAACAAAAAAggAAAIBAQAAAAAAgAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+ammonium 2-chlorohept-1-enyl(hydroxy)arsinate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+ammonium 2-chlorohept-1-enyl(hydroxy)arsinate
+
+> <PUBCHEM_IUPAC_NAME>
+azanium 2-chlorohept-1-enyl(hydroxy)arsinate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+azanium 2-chloranylhept-1-enyl(oxidanyl)arsinate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+ammonium 2-chlorohept-1-enyl(hydroxy)arsinate
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C7H14AsClO3.H3N/c1-2-3-4-5-7(9)6-8(10,11)12;/h6H,2-5H2,1H3,(H2,10,11,12);1H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+KTBKWJRLKSFWMY-UHFFFAOYSA-N
+
+> <PUBCHEM_EXACT_MASS>
+273.011293
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C7H17AsClNO3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+273.58938
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCCCCC(=C[As](=O)(O)[O-])Cl.[NH4+]
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCCCCC(=C[As](=O)(O)[O-])Cl.[NH4+]
+
+> <PUBCHEM_CACTVS_TPSA>
+61.4
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+273.011293
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+13
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+2
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+12  13  1
+
+$$$$
+

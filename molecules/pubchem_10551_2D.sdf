@@ -1,0 +1,172 @@
+10551
+  -OEChem-06261204402D
+
+ 37 33  0     0  0  0  0  0  0999 V2000
+    7.5079    0.8660    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5369    5.3535    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2089    5.2320    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2089    9.2070    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    3.8535    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0749    3.7320    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0749    7.7070    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3740    1.3660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6419    0.3660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0079    1.7320    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0079    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    4.8535    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8070    4.7320    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8070    8.7070    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    5.3535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9409    5.2320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9409    9.2070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    4.8535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0749    4.7320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0749    8.7070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6675    5.8284    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8705    5.8284    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3395    5.7070    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5424    5.7070    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3395    9.6820    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5424    9.6820    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3439    9.0170    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8070    8.0870    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3439    5.0420    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8070    4.1120    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6720    5.1635    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    4.2335    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    5.0435    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6720    4.9220    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6720    8.8970    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1050    0.6760    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9109    1.0560    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  2  0  0  0  0
+  1 11  2  0  0  0  0
+  2 18  1  0  0  0  0
+  2 33  1  0  0  0  0
+  3 19  1  0  0  0  0
+  3 34  1  0  0  0  0
+  4 20  1  0  0  0  0
+  4 35  1  0  0  0  0
+  5 18  2  0  0  0  0
+  6 19  2  0  0  0  0
+  7 20  2  0  0  0  0
+  8 37  1  0  0  0  0
+  9 36  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 31  1  0  0  0  0
+ 12 32  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 13 30  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 15 21  1  0  0  0  0
+ 15 22  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 16 23  1  0  0  0  0
+ 16 24  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 17 25  1  0  0  0  0
+ 17 26  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+10551
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+124
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+13
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+8
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBjPABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAQCAAAAADBgAQACABAAoAIAACQCDAAAAAAAAAAAICAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-aminoacetic acid; sulfuric acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-aminoacetic acid; sulfuric acid
+
+> <PUBCHEM_IUPAC_NAME>
+2-aminoacetic acid; sulfuric acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-azanylethanoic acid; sulfuric acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-aminoacetic acid; sulfuric acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/3C2H5NO2.H2O4S/c3*3-1-2(4)5;1-5(2,3)4/h3*1,3H2,(H,4,5);(H2,1,2,3,4)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+GZXOHHPYODFEGO-UHFFFAOYSA-N
+
+> <PUBCHEM_EXACT_MASS>
+323.063465
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C6H17N3O10S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+323.27828
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(C(=O)O)N.C(C(=O)O)N.C(C(=O)O)N.OS(=O)(=O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C(C(=O)O)N.C(C(=O)O)N.C(C(=O)O)N.OS(=O)(=O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+273
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+323.063465
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+20
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+4
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+

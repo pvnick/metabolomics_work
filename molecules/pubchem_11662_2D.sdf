@@ -1,0 +1,196 @@
+11662
+  -OEChem-06261205572D
+
+ 36 38  0     0  0  0  0  0  0999 V2000
+    4.1701    0.2342    0.0000 Sb  0  0  0  0  0  0  0  0  0  0  0  0
+    5.1212   -0.0748    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.2190   -0.0748    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.1701   -0.7658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9991    0.7934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5823    1.0432    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9890    1.9568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8979    0.3550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3041   -1.2658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5878    0.9387    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9294    1.7910    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0361   -1.2658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3041   -2.2658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7270    0.9142    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4013    2.7658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7584    2.3502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0361   -2.2658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.7477    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1701   -2.7658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6572    1.9118    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4067    2.6613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7671   -0.9558    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9412   -0.2635    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6056    2.0216    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5730   -0.9558    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3721    2.0628    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3356    0.3723    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7671   -2.5758    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2842    0.6424    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6534    3.3322    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7152    2.9686    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5730   -2.5758    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3834    1.6829    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1701   -3.3858    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1712    2.2585    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0423    3.1628    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  4  9  2  0  0  0  0
+  4 12  1  0  0  0  0
+  5  8  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 24  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 23  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 18  2  0  0  0  0
+ 10 27  1  0  0  0  0
+ 11 16  2  0  0  0  0
+ 11 26  1  0  0  0  0
+ 12 17  2  0  0  0  0
+ 12 25  1  0  0  0  0
+ 13 19  2  0  0  0  0
+ 13 28  1  0  0  0  0
+ 14 20  2  0  0  0  0
+ 14 29  1  0  0  0  0
+ 15 21  2  0  0  0  0
+ 15 30  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 16 31  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 32  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 18 33  1  0  0  0  0
+ 19 34  1  0  0  0  0
+ 20 35  1  0  0  0  0
+ 21 36  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+11662
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+285
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+0
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccB4AAAGAAAAAABAAAAAAAAAAAAAAAAwYMAAAAAAAAABUAAAGAAAAAAACACAEAAwAIAAAACAACBCAAACAAAgAAAIiAAAAIgIICKAERCAIAAggAAIiAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+dichloro(triphenyl)-$l^{5}-stibane
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+dichloro(triphenyl)stiborane
+
+> <PUBCHEM_IUPAC_NAME>
+dichloro(triphenyl)-$l^{5}-stibane
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+bis(chloranyl)-triphenyl-$l^{5}-stibane
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+dichloro(triphenyl)stiborane
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/3C6H5.2ClH.Sb/c3*1-2-4-6-5-3-1;;;/h3*1-5H;2*1H;/q;;;;;+2/p-2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+PDGPVQHGCLPCES-UHFFFAOYSA-L
+
+> <PUBCHEM_EXACT_MASS>
+421.958897
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C18H15Cl2Sb
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+423.9777
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=CC=C(C=C1)[Sb](C2=CC=CC=C2)(C3=CC=CC=C3)(Cl)Cl
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=CC=C(C=C1)[Sb](C2=CC=CC=C2)(C3=CC=CC=C3)(Cl)Cl
+
+> <PUBCHEM_CACTVS_TPSA>
+0
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+421.958897
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+21
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  18  8
+11  16  8
+12  17  8
+13  19  8
+14  20  8
+15  21  8
+16  20  8
+17  19  8
+18  21  8
+4  12  8
+4  9  8
+5  11  8
+5  8  8
+6  10  8
+6  7  8
+7  15  8
+8  14  8
+9  13  8
+
+$$$$
+

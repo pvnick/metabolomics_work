@@ -1,0 +1,143 @@
+9532
+  -OEChem-06261203472D
+
+ 22 19  0     0  0  0  0  0  0999 V2000
+    2.2020    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.2020    2.5000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.5369    5.6200    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8671    6.1200    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    5.6200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    6.1200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    6.1200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0010    5.6200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8705    5.1450    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6675    5.1450    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5335    6.5950    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7365    6.5950    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8015    6.5950    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0044    6.5950    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6025    5.1450    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3996    5.1450    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4040    5.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8671    6.7400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    5.9300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5369    5.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2020    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2020    2.5000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 21  1  0  0  0  0
+  2 22  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 19  1  0  0  0  0
+  3 20  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 17  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+9532
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+17.5
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+4
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBjAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAAQAAAACADBAAQAAABAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAgAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+butane-1,4-diamine dihydrochloride
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+butane-1,4-diamine dihydrochloride
+
+> <PUBCHEM_IUPAC_NAME>
+butane-1,4-diamine dihydrochloride
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+butane-1,4-diamine dihydrochloride
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+4-aminobutylamine dihydrochloride
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C4H12N2.2ClH/c5-3-1-2-4-6;;/h1-6H2;2*1H
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+XXWCODXIQWIHQN-UHFFFAOYSA-N
+
+> <PUBCHEM_EXACT_MASS>
+160.053404
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C4H14Cl2N2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+161.07336
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(CCN)CN.Cl.Cl
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C(CCN)CN.Cl.Cl
+
+> <PUBCHEM_CACTVS_TPSA>
+52
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+160.053404
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+8
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+3
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+

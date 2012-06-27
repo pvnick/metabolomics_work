@@ -1,0 +1,143 @@
+13836
+  -OEChem-06241222402D
+
+ 21 19  0     0  0  0  0  0  0999 V2000
+    4.0010    1.9030    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.7505    4.8059    0.0000 Cl  0  5  0  0  0  0  0  0  0  0  0  0
+    1.4030    1.4030    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.2690    1.9030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5369    0.9030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9030    2.2690    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9030    0.5369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    1.4030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6675    2.3779    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8705    2.3779    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2269    1.4399    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.5930    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8469    0.3660    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4399    2.5790    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5930    2.8059    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3660    1.9590    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3660    0.2269    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2130    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4399    0.8469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7365    0.9280    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5335    0.9280    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+M  CHG  2   2  -1   3   1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+13836
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+46.5
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBiAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAIAAAAAAAPBAEQCAAMAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-chloroethyl(trimethyl)ammonium chloride
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-chloroethyl(trimethyl)ammonium chloride
+
+> <PUBCHEM_IUPAC_NAME>
+2-chloroethyl(trimethyl)azanium chloride
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-chloroethyl(trimethyl)azanium chloride
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-chloroethyl(trimethyl)ammonium chloride
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C5H13ClN.ClH/c1-7(2,3)5-4-6;/h4-5H2,1-3H3;1H/q+1;/p-1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+UHZZMRAGKVHANO-UHFFFAOYSA-M
+
+> <PUBCHEM_EXACT_MASS>
+157.042505
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C5H13Cl2N
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+158.06942
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C[N+](C)(C)CCCl.[Cl-]
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C[N+](C)(C)CCCl.[Cl-]
+
+> <PUBCHEM_CACTVS_TPSA>
+0
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+157.042505
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+8
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+2
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+

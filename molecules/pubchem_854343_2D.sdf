@@ -1,0 +1,189 @@
+854343
+  -OEChem-06241222482D
+
+ 35 36  0     0  0  0  0  0  0999 V2000
+    4.3665    1.1051    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5922    3.7412    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1909    2.7231    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6453   -0.6550    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2633   -0.6550    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9543    0.2961    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4543   -1.2428    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4543   -2.2428    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6942   -0.9640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9543    0.2961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5883   -2.7428    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5883   -3.7428    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3203   -2.7428    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4543   -4.2428    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3203   -3.7428    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9511   -0.2949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7222   -4.2428    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7732    2.0186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.6039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1854    2.8276    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2056   -1.3457    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9853   -1.5114    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0513   -2.4328    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8572   -2.4328    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4543   -4.8628    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8572   -4.0528    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0800    0.3116    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4122   -3.7058    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1853   -4.5528    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0322   -4.7797    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2872    1.6719    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2039    2.4646    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5392   -0.1890    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8711   -1.2104    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2278    4.2428    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2 20  1  0  0  0  0
+  2 35  1  0  0  0  0
+  3 20  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6 10  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 13  2  0  0  0  0
+  9 16  1  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 25  1  0  0  0  0
+ 15 26  1  0  0  0  0
+ 16 19  2  0  0  0  0
+ 16 27  1  0  0  0  0
+ 17 28  1  0  0  0  0
+ 17 29  1  0  0  0  0
+ 17 30  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 18 31  1  0  0  0  0
+ 18 32  1  0  0  0  0
+ 19 33  1  0  0  0  0
+ 19 34  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+854343
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+353
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+6
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzMABAAAAAAAAAAAAAAAAAAWAAAAAwAAAAAAAAAAABwAAAHgQICAAADADF2wSzGIcMEgiqAiLyLACS0AtgALAdyCAoBJiIKKKAmRGEIAhgiAKIiAcQgEAOAAACAAAAAAAAAAQAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-[[4-allyl-5-(m-tolyl)-1,2,4-triazol-3-yl]sulfanyl]acetic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-[[5-(3-methylphenyl)-4-prop-2-enyl-1,2,4-triazol-3-yl]thio]acetic acid
+
+> <PUBCHEM_IUPAC_NAME>
+2-[[5-(3-methylphenyl)-4-prop-2-enyl-1,2,4-triazol-3-yl]sulfanyl]acetic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-[[5-(3-methylphenyl)-4-prop-2-enyl-1,2,4-triazol-3-yl]sulfanyl]ethanoic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-[[4-allyl-5-(m-tolyl)-1,2,4-triazol-3-yl]thio]acetic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C14H15N3O2S/c1-3-7-17-13(11-6-4-5-10(2)8-11)15-16-14(17)20-9-12(18)19/h3-6,8H,1,7,9H2,2H3,(H,18,19)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+WRESDJFYJKVBCD-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+2.6
+
+> <PUBCHEM_EXACT_MASS>
+289.088498
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C14H15N3O2S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+289.3528
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=CC=CC(=C1)C2=NN=C(N2CC=C)SCC(=O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=CC=CC(=C1)C2=NN=C(N2CC=C)SCC(=O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+93.3
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+289.088498
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+20
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  12  8
+12  14  8
+13  15  8
+14  15  8
+4  10  8
+4  7  8
+5  6  8
+5  7  8
+6  10  8
+8  11  8
+8  13  8
+
+$$$$
+

@@ -1,0 +1,179 @@
+6081
+  -OEChem-06261201052D
+
+ 34 33  0     1  0  0  0  0  0999 V2000
+    7.4871    2.9650    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    5.1200    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    3.6200    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8671    1.6200    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0010    6.1200    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    4.6200    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.0010    5.1200    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.1350    3.6200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8671    4.6200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    3.1200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0010    3.1200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0010    2.1200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    2.1200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    1.6200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5369    3.1200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8671    0.6200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    5.2400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5380    5.4300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5571    4.0831    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4040    4.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1771    5.1569    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5380    3.4300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5380    6.4300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4641    6.4300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7320    1.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    5.7400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    1.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2269    3.6569    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8469    2.5831    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2471    0.6200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8671    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4871    0.6200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4871    2.9650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 34  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 26  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 23  1  0  0  0  0
+  5 24  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 11  1  0  0  0  0
+  9 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 22  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 25  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 15 29  1  0  0  0  0
+ 15 30  1  0  0  0  0
+ 16 31  1  0  0  0  0
+ 16 32  1  0  0  0  0
+ 16 33  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+6081
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+189
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceByMAAEAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAHgAQCAAADDzhmAYyBoBABgCAAiBCAAACCAAgIAAIiIAGCIgONyKEsRuAcCAl0BEIuAfw0LEOAQABAAAIAAACAAIAABAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-amino-1-(2,5-dimethoxyphenyl)propan-1-ol hydrochloride
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-amino-1-(2,5-dimethoxyphenyl)-1-propanol hydrochloride
+
+> <PUBCHEM_IUPAC_NAME>
+2-amino-1-(2,5-dimethoxyphenyl)propan-1-ol hydrochloride
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-azanyl-1-(2,5-dimethoxyphenyl)propan-1-ol hydrochloride
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-amino-1-(2,5-dimethoxyphenyl)propan-1-ol hydrochloride
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C11H17NO3.ClH/c1-7(12)11(13)9-6-8(14-2)4-5-10(9)15-3;/h4-7,11,13H,12H2,1-3H3;1H
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+YGRFXPCHZBRUKP-UHFFFAOYSA-N
+
+> <PUBCHEM_EXACT_MASS>
+247.097521
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C11H18ClNO3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+247.71852
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(C(C1=C(C=CC(=C1)OC)OC)O)N.Cl
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(C(C1=C(C=CC(=C1)OC)OC)O)N.Cl
+
+> <PUBCHEM_CACTVS_TPSA>
+64.7
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+247.097521
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+16
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+2
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+2
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  13  8
+11  12  8
+12  14  8
+13  14  8
+6  2  3
+7  5  3
+8  10  8
+8  11  8
+
+$$$$
+

@@ -1,0 +1,181 @@
+582838
+  -OEChem-06241222442D
+
+ 33 33  0     1  0  0  0  0  0999 V2000
+    4.4641    1.7500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    3.7500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4641    2.7500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4641    2.7500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4641    1.7500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    0.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -3.7500    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -3.7500    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    7.1962   -2.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.2500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.7500    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    6.3301   -2.7500    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    1.7500    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.7320   -2.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -2.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -2.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    2.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9641    0.8840    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0611    0.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -0.9400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -3.3700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1760   -0.2131    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291   -0.4400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5560   -1.2869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4272    0.5740    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2741    0.3470    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5010    1.1940    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  1  0  0  0  0
+  2 23  1  0  0  0  0
+  3 23  1  0  0  0  0
+  4 23  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 24  1  0  0  0  0
+  6 18  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8 12  2  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 20  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 19  2  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 22  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 23  1  0  0  0  0
+ 17 21  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 26  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 27  1  0  0  0  0
+ 22 28  1  0  0  0  0
+ 22 29  1  0  0  0  0
+ 22 30  1  0  0  0  0
+ 24 31  1  0  0  0  0
+ 24 32  1  0  0  0  0
+ 24 33  1  0  0  0  0
+M  CHG  4   7  -1   9  -1  12   1  13   1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+582838
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+519
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+10
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzOcAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAHwAUAAAADAyBmBIywILQRACJAiVSUwKCAAAhAgAgiAFAZIoKICLA0dWFIAhglADYyAcQgAAOCAAAAAQCAAAQAAAACAQAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2,3,3,3-tetrafluoro-2-methoxy-N-(2-methyl-3,5-dinitro-phenyl)propanamide
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2,3,3,3-tetrafluoro-2-methoxy-N-(2-methyl-3,5-dinitrophenyl)propanamide
+
+> <PUBCHEM_IUPAC_NAME>
+2,3,3,3-tetrafluoro-2-methoxy-N-(2-methyl-3,5-dinitrophenyl)propanamide
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2,3,3,3-tetrakis(fluoranyl)-2-methoxy-N-(2-methyl-3,5-dinitro-phenyl)propanamide
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2,3,3,3-tetrafluoro-2-methoxy-N-(2-methyl-3,5-dinitro-phenyl)propionamide
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C11H9F4N3O6/c1-5-7(3-6(17(20)21)4-8(5)18(22)23)16-9(19)10(12,24-2)11(13,14)15/h3-4H,1-2H3,(H,16,19)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+XWEKGMTXRSUTJU-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+2.4
+
+> <PUBCHEM_EXACT_MASS>
+355.042748
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C11H9F4N3O6
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+355.199273
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=C(C=C(C=C1NC(=O)C(C(F)(F)F)(OC)F)[N+](=O)[O-])[N+](=O)[O-]
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=C(C=C(C=C1NC(=O)C(C(F)(F)F)(OC)F)[N+](=O)[O-])[N+](=O)[O-]
+
+> <PUBCHEM_CACTVS_TPSA>
+130
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+355.042748
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+24
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+2
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+16  1  3
+14  15  8
+14  19  8
+15  17  8
+17  21  8
+19  20  8
+20  21  8
+
+$$$$
+

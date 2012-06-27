@@ -1,0 +1,188 @@
+6042
+  -OEChem-06261201042D
+
+ 36 36  0     0  0  0  0  0  0999 V2000
+    7.3997    3.8784    0.0000 Cl  0  5  0  0  0  0  0  0  0  0  0  0
+    0.8987    5.1588    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6675    7.6904    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3987    3.6200    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.1307    0.6200    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9968    2.1200    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3987    0.6200    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2077    4.2078    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3987    2.6200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8987    5.1588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4865    5.9679    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5897    4.2078    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2647    2.1200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1588    3.8988    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0797    6.8814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2647    1.1200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1307    2.6200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9968    1.1200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8628    0.6200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7881    2.7277    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1866    2.0374    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9172    5.5219    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0005    6.3146    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    4.0162    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9672    3.3091    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7484    3.7072    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3503    4.4884    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6490    7.3274    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5657    6.5347    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1307    3.2400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3987    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8617    0.9300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4153    8.2568    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5528    0.0831    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3997    0.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1728    1.1569    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2 10  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3 15  1  0  0  0  0
+  3 33  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 12  2  0  0  0  0
+  5 16  2  0  0  0  0
+  5 18  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  2  0  0  0  0
+  7 16  1  0  0  0  0
+  7 31  1  0  0  0  0
+  7 32  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 14  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 13 17  2  0  0  0  0
+ 14 25  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 15 29  1  0  0  0  0
+ 17 30  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 34  1  0  0  0  0
+ 19 35  1  0  0  0  0
+ 19 36  1  0  0  0  0
+M  CHG  2   1  -1   4   1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+6042
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+269
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+6
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBzoABEAAAAAAAAAAAAAAAAAWAAAAAsAAAAAAAAAAAB4AAAHgQQCAAADAjh3wavsZdMEgikAxZnZACA8KlxCLgBWDQ4RBiAOIJgyUAERAgsQAPISCKgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-[3-[(4-amino-2-methyl-pyrimidin-5-yl)methyl]-4-methyl-thiazol-3-ium-5-yl]ethanol chloride
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-[3-[(4-amino-2-methyl-5-pyrimidinyl)methyl]-4-methyl-5-thiazol-3-iumyl]ethanol chloride
+
+> <PUBCHEM_IUPAC_NAME>
+2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol chloride
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-[3-[(4-azanyl-2-methyl-pyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol chloride
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+thiamin chloride
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C12H17N4OS.ClH/c1-8-11(3-4-17)18-7-16(8)6-10-5-14-9(2)15-12(10)13;/h5,7,17H,3-4,6H2,1-2H3,(H2,13,14,15);1H/q+1;/p-1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+MYVIATVLJGTBFV-UHFFFAOYSA-M
+
+> <PUBCHEM_EXACT_MASS>
+300.08116
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C12H17ClN4OS
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+300.80758
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCO.[Cl-]
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCO.[Cl-]
+
+> <PUBCHEM_CACTVS_TPSA>
+104
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+300.08116
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+19
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+2
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+3
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+13  16  8
+13  17  8
+2  10  8
+2  12  8
+4  12  8
+4  8  8
+5  16  8
+5  18  8
+6  17  8
+6  18  8
+8  10  8
+
+$$$$
+

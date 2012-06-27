@@ -1,0 +1,198 @@
+583226
+  -OEChem-06241222452D
+
+ 36 38  0     1  0  0  0  0  0999 V2000
+    8.4993    3.9602    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6353   -1.7430    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2566    0.1581    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6783   -2.1554    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6783   -3.7649    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9889   -1.2049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9674   -0.9987    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.7320   -2.4602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2781   -0.0482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -3.4602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2619   -2.9602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.9602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -3.9602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.4602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -3.4602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5673    1.1086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5458    1.3148    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8994    1.8529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8564    2.2653    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2101    2.8034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1886    3.0096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9684   -0.5852    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3751   -1.1175    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7748   -1.5880    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2575    0.5715    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6643    0.0392    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8819   -2.9602    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.3402    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -4.5802    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2420   -1.6151    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -2.1502    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -3.7702    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9598    0.8533    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2928    1.7250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4631    2.3932    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7960    3.2649    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 21  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 30  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6 22  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 24  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 12  2  0  0  0  0
+  9 25  1  0  0  0  0
+  9 26  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 31  1  0  0  0  0
+ 15 32  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 33  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 18 34  1  0  0  0  0
+ 19 21  2  0  0  0  0
+ 19 35  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 36  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+583226
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+323
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccB7MAAAAgAAAAAAAAAAAAAAAWAAAAAwYAAAAAAAAFgB9AAAHgAgCAAACBzjlgY11rcMFgCgASRjZACCiC0xMqAJ2CA+fJiPfqLEuZuWOCjuwBPb6CeQQAAAAAAAAAAAACAAAAAAAAAAQAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1-(benzimidazol-1-yl)-3-(4-iodophenoxy)propan-2-ol
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1-(1-benzimidazolyl)-3-(4-iodophenoxy)-2-propanol
+
+> <PUBCHEM_IUPAC_NAME>
+1-(benzimidazol-1-yl)-3-(4-iodophenoxy)propan-2-ol
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1-(benzimidazol-1-yl)-3-(4-iodanylphenoxy)propan-2-ol
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1-(benzimidazol-1-yl)-3-(4-iodophenoxy)propan-2-ol
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C16H15IN2O2/c17-12-5-7-14(8-6-12)21-10-13(20)9-19-11-18-15-3-1-2-4-16(15)19/h1-8,11,13,20H,9-10H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+LLINFNNLQWCUBN-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+3.1
+
+> <PUBCHEM_EXACT_MASS>
+394.017826
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C16H15IN2O2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+394.20697
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=CC=C2C(=C1)N=CN2CC(COC3=CC=C(C=C3)I)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=CC=C2C(=C1)N=CN2CC(COC3=CC=C(C=C3)I)O
+
+> <PUBCHEM_CACTVS_TPSA>
+47.3
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+394.017826
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+21
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  13  8
+12  14  8
+13  15  8
+14  15  8
+16  17  8
+16  18  8
+17  19  8
+18  20  8
+19  21  8
+7  2  3
+20  21  8
+4  11  8
+4  8  8
+5  10  8
+5  11  8
+8  10  8
+8  12  8
+
+$$$$
+

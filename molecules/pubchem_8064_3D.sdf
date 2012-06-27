@@ -1,0 +1,147 @@
+8064
+  -OEChem-06261202343D
+
+ 16 15  0     0  0  0  0  0  0999 V2000
+   -3.0455    0.2457    0.0038 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0454   -0.2457    0.0091 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6553    0.3895   -0.0089 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6554   -0.3894   -0.0192 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8610   -0.5392    0.0101 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8611    0.5391    0.0051 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6966    1.0531    0.8640 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7135    1.0454   -0.8866 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7085   -1.0334   -0.9058 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6985   -1.0648    0.8445 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8687   -1.1873   -0.8721 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8605   -1.1622    0.9102 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8613    1.1762    0.8952 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8802    1.1811   -0.8808 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7967   -0.3717    0.0161 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0354   -0.7888    0.8156 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+8064
+
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
+
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+1
+16
+10
+12
+15
+6
+14
+4
+11
+7
+13
+5
+2
+8
+9
+3
+
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+6
+1 -0.68
+15 0.4
+16 0.4
+2 -0.68
+5 0.28
+6 0.28
+
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
+3
+
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+4
+1 1 acceptor
+1 1 donor
+1 2 acceptor
+1 2 donor
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+6
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_CONFORMER_ID>
+00001F8000000001
+
+> <PUBCHEM_MMFF94_ENERGY>
+1.2573
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+20.297
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+14390081 3 18260552212248322377
+16714656 1 18410856551229209647
+29004967 10 18409161104151505522
+5460574 1 9295291637888450564
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+111.74
+4.46
+0.76
+0.58
+0
+0
+0
+0
+0.03
+0
+0
+0
+0
+0
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+190.307
+
+> <PUBCHEM_SHAPE_VOLUME>
+75.4
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
+
+$$$$
+

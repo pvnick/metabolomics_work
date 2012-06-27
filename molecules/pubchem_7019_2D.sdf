@@ -1,0 +1,175 @@
+7019
+  -OEChem-06261201412D
+
+ 25 27  0     0  0  0  0  0  0999 V2000
+    4.6660   -1.6377    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6660    1.3623    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5321   -0.1377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8000   -0.1377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6660    0.3623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5321   -1.1377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8000   -1.1377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4260    0.3970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9061    0.3970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4260   -1.6723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9061   -1.6723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3321   -0.1169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.1169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3321   -1.1585    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.1585    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4188    1.0170    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9132    1.0170    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4188   -2.2923    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9132   -2.2923    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8678    0.1952    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4643    0.1952    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8678   -1.4706    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4643   -1.4706    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2030    1.6723    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1291    1.6723    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 24  1  0  0  0  0
+  2 25  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  9  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  2  0  0  0  0
+  8 12  2  0  0  0  0
+  8 16  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 14  2  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 21  1  0  0  0  0
+ 14 22  1  0  0  0  0
+ 15 23  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+7019
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+207
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzAAAAAAAAAAAAAAAAAAAAAAAAAAA8YIAAAAAAAACx/AAAHAAQAAAADAiBHgAwwPJIEACgAyRiRACCgCAhAiAImCAwZJgIIOLA0dGEJAhggADIyAcQgMAOAAAAAAACAAAAAAAAAAQAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+acridin-9-amine
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+9-acridinamine
+
+> <PUBCHEM_IUPAC_NAME>
+acridin-9-amine
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+acridin-9-amine
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+acridin-9-ylamine
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C13H10N2/c14-13-9-5-1-3-7-11(9)15-12-8-4-2-6-10(12)13/h1-8H,(H2,14,15)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+XJGFWWJLMVZSIG-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+2.8
+
+> <PUBCHEM_EXACT_MASS>
+194.084398
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C13H10N2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+194.2319
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=CC=C2C(=C1)C(=C3C=CC=CC3=N2)N
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=CC=C2C(=C1)C(=C3C=CC=CC3=N2)N
+
+> <PUBCHEM_CACTVS_TPSA>
+38.9
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+194.084398
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+15
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+2
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+1  6  8
+1  7  8
+10  14  8
+11  15  8
+12  14  8
+13  15  8
+3  5  8
+3  6  8
+3  8  8
+4  5  8
+4  7  8
+4  9  8
+6  10  8
+7  11  8
+8  12  8
+9  13  8
+
+$$$$
+

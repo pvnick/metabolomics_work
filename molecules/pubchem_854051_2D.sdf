@@ -1,0 +1,151 @@
+854051
+  -OEChem-06241222472D
+
+ 19 19  0     0  0  0  0  0  0999 V2000
+    2.5369    1.4400    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -2.0600    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -0.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -0.5600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    0.9400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -0.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -1.5600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -0.5600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -1.5600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7924    0.0477    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1909   -0.6426    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0135    0.8323    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6150    1.5226    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    0.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.8700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5380   -0.2500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369    2.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.1300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5380   -1.8700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 17  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  2  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 19  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+854051
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+73.3
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBjAAAAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAABgAAAHAAQAAAADADBGgQ8gJJIEACgAjBnRACCgCAxAiAI2KA4ZJgIIOLAkZGEIAhgkADIyAcQAAAOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-(3-pyridyl)ethanamine
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-(3-pyridinyl)ethanamine
+
+> <PUBCHEM_IUPAC_NAME>
+2-pyridin-3-ylethanamine
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-pyridin-3-ylethanamine
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-(3-pyridyl)ethylamine
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C7H10N2/c8-4-3-7-2-1-5-9-6-7/h1-2,5-6H,3-4,8H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+NAHHNSMHYCLMON-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3>
+-0.1
+
+> <PUBCHEM_EXACT_MASS>
+122.084398
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C7H10N2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+122.1677
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=CC(=CN=C1)CCN
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=CC(=CN=C1)CCN
+
+> <PUBCHEM_CACTVS_TPSA>
+38.9
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+122.084398
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+2  7  8
+2  9  8
+4  6  8
+4  7  8
+6  8  8
+8  9  8
+
+$$$$
+

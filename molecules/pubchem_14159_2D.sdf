@@ -1,0 +1,194 @@
+14159
+  -OEChem-06241222422D
+
+ 34 36  0     1  0  0  0  0  0999 V2000
+    3.6180   -2.0857    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5411   -1.4979    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4071    0.0021    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6750    0.0021    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.6750    1.0021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8090   -0.4979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5411    1.5021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5411    2.5021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8090    1.5021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8090   -1.4979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5411   -0.4979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4350    0.9674    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6750    3.0021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8090    2.5021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4350    3.0368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.0857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3411    1.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3411    2.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3090   -3.0368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3090   -3.0368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2120    0.3121    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5970    0.0847    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1984   -0.6056    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2721    1.1921    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4278    0.3475    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6750    3.6221    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2721    2.8121    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4278    3.6567    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4103   -1.8941    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8768    1.1692    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8768    2.8350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9446   -3.5383    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6734   -3.5383    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0780   -1.8079    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 20  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 34  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 21  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6 10  1  0  0  0  0
+  6 22  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  2  0  0  0  0
+  8 13  1  0  0  0  0
+  8 15  2  0  0  0  0
+  9 14  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 16  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 26  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 16 29  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 30  1  0  0  0  0
+ 18 31  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 32  1  0  0  0  0
+ 20 33  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+14159
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+344
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccB4MABAAAAAAAAAAAAAAAAAASAAAAAwYAAAAAAAAADB1AAAGgQACAAADQCE2ACwCcAAAgiMAiDSCAADAIAgCBBIiBkAAIgIIDKgFRCAYAAkwAEoiAeIyPCOgAACAAAQAAAAAAQAACAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-(1-naphthyl)-3-(2-thienyl)propanoic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-(1-naphthalenyl)-3-thiophen-2-ylpropanoic acid
+
+> <PUBCHEM_IUPAC_NAME>
+2-naphthalen-1-yl-3-thiophen-2-ylpropanoic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-naphthalen-1-yl-3-thiophen-2-yl-propanoic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-(1-naphthyl)-3-(2-thienyl)propionic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C17H14O2S/c18-17(19)16(11-13-7-4-10-20-13)15-9-3-6-12-5-1-2-8-14(12)15/h1-10,16H,11H2,(H,18,19)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+IBCHNEZGGJNGHS-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+4.3
+
+> <PUBCHEM_EXACT_MASS>
+282.071451
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C17H14O2S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+282.35686
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=CC=C2C(=C1)C=CC=C2C(CC3=CC=CS3)C(=O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=CC=C2C(=C1)C=CC=C2C(CC3=CC=CS3)C(=O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+65.5
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+282.071451
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+20
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+1  10  8
+1  20  8
+10  16  8
+12  17  8
+13  14  8
+15  18  8
+16  19  8
+17  18  8
+19  20  8
+4  6  3
+5  7  8
+5  9  8
+7  12  8
+7  8  8
+8  13  8
+8  15  8
+9  14  8
+
+$$$$
+

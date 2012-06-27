@@ -1,0 +1,187 @@
+47205224
+  -OEChem-06241222582D
+
+ 37 38  0     0  0  0  0  0  0999 V2000
+    3.0000   -3.2047    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -3.2047    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0000   -3.2047    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1340    1.2953    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -2.2047    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8660    1.2953    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8366    3.7898    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8147    3.9977    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -0.2047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1340   -0.7047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8660   -0.7047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1340   -1.7047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8660   -1.7047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    0.7953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -4.2047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8660    2.2953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7320    2.7953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6456    2.3886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3147    3.1317    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5369    0.1053    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4766   -0.8124    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0781   -0.1221    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9219   -0.1221    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5234   -0.8124    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0781   -2.2873    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4766   -1.5970    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5234   -1.5970    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9219   -2.2873    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4030    0.9853    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3800   -4.2047    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -4.8247    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6200   -4.2047    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6540    2.8779    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2554    2.1876    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7745    1.7821    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3758    4.2047    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9313    3.0669    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  2  0  0  0  0
+  1  5  1  0  0  0  0
+  1 15  1  0  0  0  0
+  4 14  2  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 29  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 36  1  0  0  0  0
+  8 19  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 14  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 15 30  1  0  0  0  0
+ 15 31  1  0  0  0  0
+ 15 32  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 33  1  0  0  0  0
+ 16 34  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 35  1  0  0  0  0
+ 19 37  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+47205224
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+412
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBzsABAAAAAAAAAAAAAAAAAAWAAAAAsAAAAAAAAAAABgAAAHgQYQAAADQjBlgS+gJLjAAKqATV3UHCQBAAgggAYOaE4ZBgAYJIAwcEUhAhAHgCAQAAUAAAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1-methylsulfonyl-N-(1H-pyrazol-5-ylmethyl)piperidine-4-carboxamide
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1-methylsulfonyl-N-(1H-pyrazol-5-ylmethyl)-4-piperidinecarboxamide
+
+> <PUBCHEM_IUPAC_NAME>
+1-methylsulfonyl-N-(1H-pyrazol-5-ylmethyl)piperidine-4-carboxamide
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1-methylsulfonyl-N-(1H-pyrazol-5-ylmethyl)piperidine-4-carboxamide
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1-mesyl-N-(1H-pyrazol-5-ylmethyl)isonipecotamide
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C11H18N4O3S/c1-19(17,18)15-6-3-9(4-7-15)11(16)12-8-10-2-5-13-14-10/h2,5,9H,3-4,6-8H2,1H3,(H,12,16)(H,13,14)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+GTFGVXWWDIWUSN-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+-0.9
+
+> <PUBCHEM_EXACT_MASS>
+286.109961
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C11H18N4O3S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+286.35062
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CS(=O)(=O)N1CCC(CC1)C(=O)NCC2=CC=NN2
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CS(=O)(=O)N1CCC(CC1)C(=O)NCC2=CC=NN2
+
+> <PUBCHEM_CACTVS_TPSA>
+104
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+286.109961
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+19
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+4
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+17  18  8
+18  19  8
+7  17  8
+7  8  8
+8  19  8
+
+$$$$
+

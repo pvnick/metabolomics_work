@@ -1,0 +1,160 @@
+9098
+  -OEChem-06261203242D
+
+ 27 28  0     0  0  0  0  0  0999 V2000
+    4.7784   -0.8090    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7784    0.8090    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1906    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7568   -0.9010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7568    0.9010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7818   -1.1235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7818    1.1235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7295   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7295    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3612    1.0389    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7568    1.5210    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7568   -1.5210    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3612   -1.0389    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2971   -1.5100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0508   -1.6821    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0508    1.6821    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2971    1.5100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3955   -0.3620    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7310   -1.0586    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7310    1.0586    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3955    0.3620    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8584   -1.1064    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3461   -0.4352    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3461    0.4352    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8584    1.1064    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 11 27  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+9098
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+128
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwIABAAAAAAAAAAAAAAAAAASAAAAAAAAAABgAAAAAAAAAAGgQAAAAACASkwAKAAAAABAgAAAAAAAAAAAAAABAAAAAAAAAAAAIgAAACAAAEAAAgAAGAwCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1-oxa-4-thiaspiro[4.6]undecane
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1-oxa-4-thiaspiro[4.6]undecane
+
+> <PUBCHEM_IUPAC_NAME>
+1-oxa-4-thiaspiro[4.6]undecane
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1-oxa-4-thiaspiro[4.6]undecane
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1-oxa-4-thiaspiro[4.6]undecane
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C9H16OS/c1-2-4-6-9(5-3-1)10-7-8-11-9/h1-8H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+YMBFOROXKKKJEE-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+2.8
+
+> <PUBCHEM_EXACT_MASS>
+172.092186
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C9H16OS
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+172.28774
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1CCCC2(CC1)OCCS2
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1CCCC2(CC1)OCCS2
+
+> <PUBCHEM_CACTVS_TPSA>
+34.5
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+172.092186
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+11
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+

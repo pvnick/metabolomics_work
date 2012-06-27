@@ -1,0 +1,144 @@
+12010
+  -OEChem-06261206232D
+
+ 20 19  0     0  0  0  0  0  0999 V2000
+    4.5981   -1.2500    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    1.2500    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -0.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5947    0.7249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7976    0.7249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4675   -0.7249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2646   -0.7249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100    0.7869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631    0.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900   -0.2869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7522   -0.7869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5991   -0.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3722    0.2869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0  0  0  0
+  2 10  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+12010
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+118
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBgMABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgQAAAAAAACgwAICAAAABAAEAAAAAAAAAAAAAAAAAAAAAAABAAAAAAACAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+O1,O2-diethyl ethanebis(thioate)
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+ethanebis(thioic acid) O1,O2-diethyl ester
+
+> <PUBCHEM_IUPAC_NAME>
+1-O,2-O-diethyl ethanebis(thioate)
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+O1,O2-diethyl ethanebis(thioate)
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+ethanebis(thioic acid) O1,O2-diethyl ester
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C6H10O2S2/c1-3-7-5(9)6(10)8-4-2/h3-4H2,1-2H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+VZPUGKMESHWUPK-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+2.3
+
+> <PUBCHEM_EXACT_MASS>
+178.012222
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C6H10O2S2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+178.2724
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCOC(=S)C(=S)OCC
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCOC(=S)C(=S)OCC
+
+> <PUBCHEM_CACTVS_TPSA>
+82.6
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+178.012222
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+10
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+

@@ -1,0 +1,191 @@
+17395386
+  -OEChem-06241222492D
+
+ 33 35  0     0  0  0  0  0  0999 V2000
+    2.0933    1.6333    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.4782    0.5118    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3147   -0.4827    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9128    2.0173    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4487   -1.9827    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9128   -0.9827    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0468    0.5173    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7788   -0.4827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7788    0.5173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6728   -1.0174    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0468   -0.4827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6728    1.0520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5788   -0.5035    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9128    1.0173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1808   -0.9827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5788    0.5381    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6612   -2.0173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4487   -0.9827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5827   -0.4827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6691   -0.8894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.1463    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5000    0.7197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9128   -1.6027    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6656    1.6719    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1146   -0.8156    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7822   -1.4576    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5793   -1.4576    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1146    0.8502    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0412   -2.0101    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6540   -2.6373    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2812   -2.0245    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5402   -1.4959    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3834   -0.2111    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 22  1  0  0  0  0
+  2 19  1  0  0  0  0
+  2 22  1  0  0  0  0
+  3 15  1  0  0  0  0
+  3 18  1  0  0  0  0
+  4 14  2  0  0  0  0
+  5 18  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7 11  2  0  0  0  0
+  7 14  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 12  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 13 16  2  0  0  0  0
+ 13 25  1  0  0  0  0
+ 15 26  1  0  0  0  0
+ 15 27  1  0  0  0  0
+ 16 28  1  0  0  0  0
+ 17 29  1  0  0  0  0
+ 17 30  1  0  0  0  0
+ 17 31  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 32  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 21 33  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+17395386
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+499
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzMABEAAAAAAAAAAAAAAAAASAAAAAwQAAAAAAAAACBwAAAHgYQAAAADAqh2CIzyYLABAisAifyfASDAIElDRBJiBkQTsgKJjrh/5mHMYhk0AH46ceYiECOAAACAAACAAAAAAQAAAQAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(8-methyl-4-oxo-1H-quinazolin-2-yl)methyl 5-chlorothiophene-2-carboxylate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+5-chloro-2-thiophenecarboxylic acid (8-methyl-4-oxo-1H-quinazolin-2-yl)methyl ester
+
+> <PUBCHEM_IUPAC_NAME>
+(8-methyl-4-oxo-1H-quinazolin-2-yl)methyl 5-chlorothiophene-2-carboxylate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(8-methyl-4-oxidanylidene-1H-quinazolin-2-yl)methyl 5-chloranylthiophene-2-carboxylate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+5-chlorothiophene-2-carboxylic acid (4-keto-8-methyl-1H-quinazolin-2-yl)methyl ester
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H11ClN2O3S/c1-8-3-2-4-9-13(8)17-12(18-14(9)19)7-21-15(20)10-5-6-11(16)22-10/h2-6H,7H2,1H3,(H,17,18,19)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+YJAYSLFEHCPHLQ-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+3.6
+
+> <PUBCHEM_EXACT_MASS>
+334.017891
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H11ClN2O3S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+334.77744
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=CC=CC2=C1NC(=NC2=O)COC(=O)C3=CC=C(S3)Cl
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=CC=CC2=C1NC(=NC2=O)COC(=O)C3=CC=C(S3)Cl
+
+> <PUBCHEM_CACTVS_TPSA>
+96
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+334.017891
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+22
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+10
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  13  8
+12  16  8
+13  16  8
+19  20  8
+2  19  8
+2  22  8
+20  21  8
+21  22  8
+6  11  8
+6  8  8
+7  11  8
+7  14  8
+8  10  8
+8  9  8
+9  12  8
+9  14  8
+
+$$$$
+

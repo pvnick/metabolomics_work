@@ -1,0 +1,186 @@
+47205117
+  -OEChem-06241222582D
+
+ 36 37  0     0  0  0  0  0  0999 V2000
+    4.6906   -0.9948    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    5.6906    0.7373    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6906   -2.7268    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5567    1.2373    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8246    0.2373    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1906    1.6033    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1906    1.6033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7568    0.7024    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7568    2.5043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7818    0.4798    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7818    2.7268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.1033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    2.1033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1906   -0.1287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6906   -0.9948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1906   -0.1287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1906   -1.8608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6906   -0.9948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1906   -1.8608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5205    1.0784    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7568    0.0823    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3612    0.5644    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3612    2.6423    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7568    3.1243    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2971    0.0933    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0508   -0.0788    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0508    3.2854    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2971    3.1134    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3955    1.2413    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7310    0.5447    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7310    2.6619    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3955    1.9654    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5006    2.1402    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5006    0.4082    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8806   -2.3977    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3106   -0.9948    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3 19  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 33  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 11 28  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 29  1  0  0  0  0
+ 12 30  1  0  0  0  0
+ 13 31  1  0  0  0  0
+ 13 32  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 34  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 35  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 36  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+47205117
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+377
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceByMQBAEAAAAAAAAAAAAAAAAAAAAAAwAAAABgAAAAABAAAAHQRQQAABqCjBUAwwAYBAAAKAACBCAHBCABAgAAQIiJgAAKgIICKAkRCAIAAgkAAIihcQgAAAAAAAAAAAAEAAAAAAAAAAgAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-bromo-N-cycloheptyl-4-fluoro-benzenesulfonamide
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-bromo-N-cycloheptyl-4-fluorobenzenesulfonamide
+
+> <PUBCHEM_IUPAC_NAME>
+2-bromo-N-cycloheptyl-4-fluorobenzenesulfonamide
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-bromanyl-N-cycloheptyl-4-fluoranyl-benzenesulfonamide
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-bromo-N-cycloheptyl-4-fluoro-benzenesulfonamide
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C13H17BrFNO2S/c14-12-9-10(15)7-8-13(12)19(17,18)16-11-5-3-1-2-4-6-11/h7-9,11,16H,1-6H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+QIEXXMZKAHCEGX-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+4
+
+> <PUBCHEM_EXACT_MASS>
+349.01474
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C13H17BrFNO2S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+350.246983
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1CCCC(CC1)NS(=O)(=O)C2=C(C=C(C=C2)F)Br
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1CCCC(CC1)NS(=O)(=O)C2=C(C=C(C=C2)F)Br
+
+> <PUBCHEM_CACTVS_TPSA>
+54.6
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+349.01474
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+19
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+14  15  8
+14  16  8
+15  17  8
+16  18  8
+17  19  8
+18  19  8
+
+$$$$
+

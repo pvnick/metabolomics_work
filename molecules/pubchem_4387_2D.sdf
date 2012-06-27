@@ -1,0 +1,177 @@
+4387
+  -OEChem-06261200052D
+
+ 35 34  0     1  0  0  0  0  0999 V2000
+    9.7942    1.0950    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282   -0.4050    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    1.0950    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    2.0950    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.4050    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    1.0950    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    0.5950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    1.0950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    1.0950    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    5.4641    0.5950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282    0.5950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.5950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.9050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.9050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.4050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7976    0.1201    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5947    0.1201    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7287    1.5700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9316    1.5700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5252    1.4050    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0656    0.1201    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8626    0.1201    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    1.7150    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5991    2.4050    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5252    2.4050    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6540   -0.3224    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2554   -1.0127    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0781   -2.4876    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4766   -1.7973    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900   -1.8681    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -2.7150    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -2.9419    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291    0.7850    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    1.7150    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3312    0.7850    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 35  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3 10  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 23  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 24  1  0  0  0  0
+  4 25  1  0  0  0  0
+  5 12  2  0  0  0  0
+  5 13  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 33  1  0  0  0  0
+  6 34  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 14 29  1  0  0  0  0
+ 15 30  1  0  0  0  0
+ 15 31  1  0  0  0  0
+ 15 32  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+4387
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+218
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+4
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+8
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBzsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAQCAAACCjBgAQDCALAAgAoAACQLAAAAAEAAAABAIGIAACCABIAiAAEQAAEEAIAAACYEQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-amino-5-[(N'-propylcarbamimidoyl)amino]pentanoic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-amino-5-[[amino(propylimino)methyl]amino]pentanoic acid
+
+> <PUBCHEM_IUPAC_NAME>
+2-amino-5-[(N'-propylcarbamimidoyl)amino]pentanoic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-azanyl-5-[(N'-propylcarbamimidoyl)amino]pentanoic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-amino-5-[(N'-propylamidino)amino]valeric acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C9H20N4O2/c1-2-5-12-9(11)13-6-3-4-7(10)8(14)15/h7H,2-6,10H2,1H3,(H,14,15)(H3,11,12,13)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+AOMXURITGZJPKB-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3>
+-3.3
+
+> <PUBCHEM_EXACT_MASS>
+216.158626
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C9H20N4O2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+216.2807
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCCN=C(N)NCCCC(C(=O)O)N
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCCN=C(N)NCCCC(C(=O)O)N
+
+> <PUBCHEM_CACTVS_TPSA>
+114
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+216.158626
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+15
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+3
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+9  4  3
+
+$$$$
+

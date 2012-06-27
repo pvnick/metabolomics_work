@@ -1,0 +1,137 @@
+12175
+  -OEChem-06261206372D
+
+ 18 16  0     0  0  0  0  0  0999 V2000
+    2.4520    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  0  0  0
+    3.1350    4.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    2.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5369    3.5000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.4030    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0010    3.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    3.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8671    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8015    4.4750    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0044    4.4750    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6025    3.0250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3996    3.0250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.1900    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2269    4.0369    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8469    2.9631    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1771    3.4631    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4040    4.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5571    4.5369    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+M  CHG  2   1  -1   4   1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+12175
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+62.7
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBiMAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAQAAAAAADhgAYCCABABAAIAACQCAAAAAAAAAAAAICAAAACAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(2-ethoxy-2-oxo-ethyl)ammonium chloride
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(2-ethoxy-2-oxoethyl)ammonium chloride
+
+> <PUBCHEM_IUPAC_NAME>
+(2-ethoxy-2-oxoethyl)azanium chloride
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(2-ethoxy-2-oxidanylidene-ethyl)azanium chloride
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2-ethoxy-2-keto-ethyl)ammonium chloride
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C4H9NO2.ClH/c1-2-7-4(6)3-5;/h2-3,5H2,1H3;1H
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+TXTWXQXDMWILOF-UHFFFAOYSA-N
+
+> <PUBCHEM_EXACT_MASS>
+139.040006
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C4H10ClNO2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+139.5807
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCOC(=O)C[NH3+].[Cl-]
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCOC(=O)C[NH3+].[Cl-]
+
+> <PUBCHEM_CACTVS_TPSA>
+53.9
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+139.040006
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+8
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+2
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+

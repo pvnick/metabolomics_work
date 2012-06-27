@@ -1,0 +1,179 @@
+9437
+  -OEChem-06261203422D
+
+ 29 31  0     0  0  0  0  0  0999 V2000
+   10.6587   -0.4271    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8931   -1.6161    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4697    0.3386    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5274    1.8027    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3987   -1.8027    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0321   -0.1099    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0274   -0.7362    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3364    0.2149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0274   -0.7362    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7183    0.2149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5274    0.8027    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3518    0.4471    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7123   -1.5209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0547   -0.3216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3424   -1.5209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7328   -1.3122    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7029    0.4471    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3219   -1.3122    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.3216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7040   -0.8504    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6814   -0.6388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5365    1.0390    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5139   -2.1083    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5408   -2.1083    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1459   -1.7746    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5182    1.0390    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9088   -1.7746    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3940   -0.1903    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2214    0.4805    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 21  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5 20  2  0  0  0  0
+  6 14  1  0  0  0  0
+  6 20  1  0  0  0  0
+  6 29  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 15  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 17  2  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 16  2  0  0  0  0
+ 13 23  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 15 24  1  0  0  0  0
+ 16 25  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 26  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 27  1  0  0  0  0
+ 19 28  1  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+9437
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+449
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccByMYAAAAAAAAAAAAAAAAAAAYAAAAAwYAAAAAAAAGABQAAAHwAQAAAADAyBmBAwwILAAACIAqVSUACCAAAlAgAIiAEAZMgIIDLAlZGEIQhglADIyYcciMCOiAAAQAAQAAAQAACAACAAAQAACAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2,2,2-trifluoro-N-(9-oxofluoren-2-yl)acetamide
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2,2,2-trifluoro-N-(9-oxo-2-fluorenyl)acetamide
+
+> <PUBCHEM_IUPAC_NAME>
+2,2,2-trifluoro-N-(9-oxofluoren-2-yl)acetamide
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2,2,2-tris(fluoranyl)-N-(9-oxidanylidenefluoren-2-yl)ethanamide
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2,2,2-trifluoro-N-(9-ketofluoren-2-yl)acetamide
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H8F3NO2/c16-15(17,18)14(21)19-8-5-6-10-9-3-1-2-4-11(9)13(20)12(10)7-8/h1-7H,(H,19,21)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+JBUUOKOKZCHZNB-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3>
+3.9
+
+> <PUBCHEM_EXACT_MASS>
+291.050713
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H8F3NO2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+291.22473
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=CC=C2C(=C1)C3=C(C2=O)C=C(C=C3)NC(=O)C(F)(F)F
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=CC=C2C(=C1)C3=C(C2=O)C=C(C=C3)NC(=O)C(F)(F)F
+
+> <PUBCHEM_CACTVS_TPSA>
+46.2
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+291.050713
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+21
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+9
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  17  8
+12  14  8
+13  16  8
+14  16  8
+15  18  8
+17  19  8
+18  19  8
+7  13  8
+7  8  8
+8  12  8
+9  10  8
+9  15  8
+
+$$$$
+

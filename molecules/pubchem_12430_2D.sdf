@@ -1,0 +1,171 @@
+12430
+  -OEChem-06261206552D
+
+ 35 33  0     0  0  0  0  0  0999 V2000
+    5.7331    3.6350    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5369    2.6350    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6350    5.7331    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6350    0.5369    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6350    8.2700    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.1350    3.1350    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    4.0010    3.6350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    2.6350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6350    4.0010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6350    2.2690    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8671    3.1350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    3.1350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    4.8671    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    1.4030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1100    1.8705    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1100    2.6675    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1601    4.3996    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1601    3.6025    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8705    2.1601    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6675    2.1601    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3996    4.1100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6025    4.1100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6601    1.8015    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6601    1.0044    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6100    4.4685    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6100    5.2656    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8015    3.6100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0044    3.6100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4685    2.6601    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2656    2.6601    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3250    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9450    6.2700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.9450    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2700    3.3250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6350    8.2700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 34  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 33  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 32  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 31  1  0  0  0  0
+  5 35  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 21  1  0  0  0  0
+  7 22  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 29  1  0  0  0  0
+ 11 30  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 14 24  1  0  0  0  0
+M  CHG  2   5  -1   6   1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+12430
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+91.2
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+5
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+8
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceByOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAACAAAAADhgAYAAAMAAgAAAAAAAAAAAAAAAAAAAAAIAAACEAAAAAAAAAAAAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+tetrakis(2-hydroxyethyl)ammonium hydroxide
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+tetrakis(2-hydroxyethyl)ammonium hydroxide
+
+> <PUBCHEM_IUPAC_NAME>
+tetrakis(2-hydroxyethyl)azanium hydroxide
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+tetrakis(2-hydroxyethyl)azanium hydroxide
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+tetrakis(2-hydroxyethyl)ammonium hydroxide
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H20NO4.H2O/c10-5-1-9(2-6-11,3-7-12)4-8-13;/h10-13H,1-8H2;1H2/q+1;/p-1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+VHLDQAOFSQCOFS-UHFFFAOYSA-M
+
+> <PUBCHEM_EXACT_MASS>
+211.141973
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C8H21NO5
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+211.25604
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(CO)[N+](CCO)(CCO)CCO.[OH-]
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C(CO)[N+](CCO)(CCO)CCO.[OH-]
+
+> <PUBCHEM_CACTVS_TPSA>
+81.9
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+211.141973
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+14
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+2
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+

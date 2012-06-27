@@ -1,0 +1,193 @@
+3548
+  -OEChem-06251223302D
+
+ 36 38  0     1  0  0  0  0  0999 V2000
+    5.0132   -0.2470    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5000   -2.2754    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6792    2.2738    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1472   -0.7470    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.3209   -0.1837    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2219   -1.7442    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3653   -0.4785    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4888   -2.4244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.4093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0132    0.7530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8792    1.2530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1472    1.2530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8792    2.2530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1472    2.2530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7732    0.7183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0132    2.7530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7732    2.7876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6792    1.2322    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1703   -0.1275    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7754    0.2380    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0109    0.3532    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5319   -2.2812    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8143   -1.5615    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3190    0.1398    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7523   -0.3861    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2623   -3.0016    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0011   -2.7737    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4877   -1.0601    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5455   -1.8310    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1507   -2.7876    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6102    0.9430    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6102    2.5630    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7660    0.0984    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0132    3.3730    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7660    3.4076    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2150    0.9201    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 30  1  0  0  0  0
+  3 17  2  0  0  0  0
+  3 18  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 19  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 20  1  0  0  0  0
+  5 21  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 22  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 24  1  0  0  0  0
+  7 25  1  0  0  0  0
+  8 26  1  0  0  0  0
+  8 27  1  0  0  0  0
+  9 28  1  0  0  0  0
+  9 29  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 31  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 32  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 15 33  1  0  0  0  0
+ 16 34  1  0  0  0  0
+ 17 35  1  0  0  0  0
+ 18 36  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+3548
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+259
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBzAABAAAAAAAAAAAAAAAAAAAAAAAA8QAAABYAAAACx8AAAHAQQAAAADADFWgS8gdLIEAigAjBnRACCgCAxCjAI2Lg4ZJgIIOLgkZGEIAhgkADoyAcQgIAOgAAAgAAUAAAAAAEAACgAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+5-(azepan-4-ylsulfanyl)isoquinoline
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+5-(4-azepanylthio)isoquinoline
+
+> <PUBCHEM_IUPAC_NAME>
+5-(azepan-4-ylsulfanyl)isoquinoline
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+5-(azepan-4-ylsulfanyl)isoquinoline
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+5-(azepan-4-ylthio)isoquinoline
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H18N2S/c1-3-12-11-17-10-7-14(12)15(5-1)18-13-4-2-8-16-9-6-13/h1,3,5,7,10-11,13,16H,2,4,6,8-9H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+YPRIFUUPDHAYCA-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+3.1
+
+> <PUBCHEM_EXACT_MASS>
+258.11907
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H18N2S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+258.38182
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1CC(CCNC1)SC2=CC=CC3=C2C=CN=C3
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1CC(CCNC1)SC2=CC=CC3=C2C=CN=C3
+
+> <PUBCHEM_CACTVS_TPSA>
+50.2
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+258.11907
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+18
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+4  1  3
+10  11  8
+10  12  8
+11  13  8
+11  15  8
+12  14  8
+13  16  8
+13  17  8
+14  16  8
+15  18  8
+3  17  8
+3  18  8
+
+$$$$
+

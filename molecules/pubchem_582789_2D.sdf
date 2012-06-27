@@ -1,0 +1,197 @@
+582789
+  -OEChem-06241222442D
+
+ 36 33  0     1  0  0  0  0  0999 V2000
+    4.2142   -1.4560    0.0000 Cr  0  0  0  0  0  0  0  0  0  0  0  0
+    3.2788    2.5918    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1922   -3.4559    0.0000 O   0  3  0  0  0  0  0  0  0  0  0  0
+    5.3719   -3.0869    0.0000 O   0  3  0  0  0  0  0  0  0  0  0  0
+    3.0209   -3.0610    0.0000 O   0  3  0  0  0  0  0  0  0  0  0  0
+    2.3162    0.8944    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1429    3.0951    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4147    2.0885    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8010    0.0952    0.0000 C   0  5  3  0  0  0  0  0  0  0  0  0
+    4.7080    0.0952    0.0000 C   0  5  3  0  0  0  0  0  0  0  0  0
+    3.3274   -0.4080    0.0000 C   0  5  3  0  0  0  0  0  0  0  0  0
+    5.1413   -0.4080    0.0000 C   0  5  3  0  0  0  0  0  0  0  0  0
+    3.7406   -0.7299    0.0000 C   0  5  3  0  0  0  0  0  0  0  0  0
+    4.6475   -0.7299    0.0000 C   0  5  3  0  0  0  0  0  0  0  0  0
+    4.2032   -2.4560    0.0000 C   0  5  0  0  0  0  0  0  0  0  0  0
+    4.7930   -2.2715    0.0000 C   0  5  0  0  0  0  0  0  0  0  0  0
+    3.6175   -2.2585    0.0000 C   0  5  0  0  0  0  0  0  0  0  0  0
+    3.3161    0.9060    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    5.1929    0.9060    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7821    1.7277    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.7268    1.7277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7755    3.4559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7076   -0.3917    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7612   -0.4122    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2842   -1.1495    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0945   -1.1595    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0134    0.3649    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6626    0.5014    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6719    1.2996    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1622    1.7241    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6207    2.3386    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3105    1.9368    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.4277    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3112    3.7680    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4634    3.9916    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2397    3.1438    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  7  2  0  0  0  0
+  2  8  2  0  0  0  0
+  2 20  1  0  0  0  0
+  2 22  1  0  0  0  0
+  3 15  3  0  0  0  0
+  4 16  3  0  0  0  0
+  5 17  3  0  0  0  0
+  6 18  1  0  0  0  0
+  6 33  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 18 27  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 19 28  1  0  0  0  0
+ 19 29  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 30  1  0  0  0  0
+ 21 31  1  0  0  0  0
+ 21 32  1  0  0  0  0
+ 22 34  1  0  0  0  0
+ 22 35  1  0  0  0  0
+ 22 36  1  0  0  0  0
+M  CHG  8   1   6   3   1   4   1   5   1   9  -1  10  -1  11  -1  12  -1
+M  CHG  5  13  -1  14  -1  15  -1  16  -1  17  -1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+582789
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+449
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+12
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBwOABAAACAAAAAAAAAEiRIkSJEgAAwAAAABIASJAAAAAAAGgQACAAADBSkwAKCAAAAAgoAAAAAAHBAAAAAABAAAAAAAAAAEAIgAAAAQAAEAAAAAAGAwLAOgAAAAAAAAAAgAAMAADBAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+chromyl; carbon monoxide; 2-methylsulfonyldecalin-4a,5,6,7,8,8a-hexaid-1-ol
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+carbon monoxide; chromium(6+); 2-methylsulfonyl-1,2,3,4,5,6,7,8-octahydronaphthalene-4a,5,6,7,8,8a-hexaid-1-ol
+
+> <PUBCHEM_IUPAC_NAME>
+carbon monoxide; chromium(6+); 2-methylsulfonyl-1,2,3,4,5,6,7,8-octahydronaphthalene-4a,5,6,7,8,8a-hexaid-1-ol
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+carbon monoxide; chromium(6+); 2-methylsulfonyl-1,2,3,4,5,6,7,8-octahydronaphthalene-4a,5,6,7,8,8a-hexaid-1-ol
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+chromyl; carbon monoxide; 2-mesyldecalin-4a,5,6,7,8,8a-hexaid-1-ol
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C11H14O3S.3CO.Cr/c1-15(13,14)10-7-6-8-4-2-3-5-9(8)11(10)12;3*1-2;/h2-5,10-12H,6-7H2,1H3;;;;/q-6;;;;+6
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+YMWVVQONJYFFRQ-UHFFFAOYSA-N
+
+> <PUBCHEM_EXACT_MASS>
+361.991617
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C14H14CrO6S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+362.31846
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CS(=O)(=O)C1CC[C-]2[CH-][CH-][CH-][CH-][C-]2C1O.[C-]#[O+].[C-]#[O+].[C-]#[O+].[Cr+6]
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CS(=O)(=O)C1CC[C-]2[CH-][CH-][CH-][CH-][C-]2C1O.[C-]#[O+].[C-]#[O+].[C-]#[O+].[Cr+6]
+
+> <PUBCHEM_CACTVS_TPSA>
+65.8
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+361.991617
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+22
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+2
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+5
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_NONSTANDARDBOND>
+1  10  6
+1  11  6
+1  12  6
+1  13  6
+1  14  6
+1  15  6
+1  16  6
+1  17  6
+1  9  6
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+1  10  4
+1  11  4
+1  12  4
+1  13  4
+1  14  4
+1  15  4
+1  16  4
+1  17  4
+1  9  4
+20  2  3
+18  6  3
+
+$$$$
+

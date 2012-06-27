@@ -1,0 +1,185 @@
+854125
+  -OEChem-06241222472D
+
+ 32 34  0     1  0  0  0  0  0999 V2000
+    2.8660    2.8100    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    2.8100    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -2.1900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.8100    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9939   -1.1900    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4103   -1.9947    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.1900    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.3100    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.1900    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.4641   -0.6900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.6900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4103   -0.3853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -1.6900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.6900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    1.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7210    0.5653    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    2.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    2.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    2.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.1900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8620    0.2350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6139   -1.1900    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    1.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3103    0.3726    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9136    1.1546    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1317    0.7579    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    3.4300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291   -1.8800    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291    1.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 19  1  0  0  0  0
+  2 20  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4 16  1  0  0  0  0
+  4 32  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 24  1  0  0  0  0
+  6 14  2  0  0  0  0
+  7 15  1  0  0  0  0
+  7 30  1  0  0  0  0
+  7 31  1  0  0  0  0
+  8 22  3  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 23  1  1  0  0  0
+ 10 13  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 11 17  2  0  0  0  0
+ 12 15  2  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 16 19  2  0  0  0  0
+ 17 20  1  0  0  0  0
+ 17 25  1  0  0  0  0
+ 18 26  1  0  0  0  0
+ 18 27  1  0  0  0  0
+ 18 28  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 29  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+854125
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+534
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzsAAGAAAAAAAAAAAAAAAAAWAAAAAwQAAAAAAAAEABwAAAHgIYCAAADQ6BniAyhpBjBgCyByRiQACyDAAgJUAQuSA0T5kMpiKH89qI9CBm2BkI+A+Q8O0OgCAAIACICAAAQABAARAQAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(4S)-6-amino-4-(3,5-dichloro-2-hydroxy-phenyl)-3-methyl-2,4-dihydropyrano[2,3-c]pyrazole-5-carbonitrile
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(4S)-6-amino-4-(3,5-dichloro-2-hydroxyphenyl)-3-methyl-2,4-dihydropyrano[2,3-c]pyrazole-5-carbonitrile
+
+> <PUBCHEM_IUPAC_NAME>
+(4S)-6-amino-4-(3,5-dichloro-2-hydroxyphenyl)-3-methyl-2,4-dihydropyrano[2,3-c]pyrazole-5-carbonitrile
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(4S)-6-azanyl-4-[3,5-bis(chloranyl)-2-oxidanyl-phenyl]-3-methyl-2,4-dihydropyrano[2,3-c]pyrazole-5-carbonitrile
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(4S)-6-amino-4-(3,5-dichloro-2-hydroxy-phenyl)-3-methyl-2,4-dihydropyrano[2,3-c]pyrazole-5-carbonitrile
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C14H10Cl2N4O2/c1-5-10-11(7-2-6(15)3-9(16)12(7)21)8(4-17)13(18)22-14(10)20-19-5/h2-3,11,21H,18H2,1H3,(H,19,20)/t11-/m0/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+XTXJJTRHBGRMLF-NSHDSACASA-N
+
+> <PUBCHEM_XLOGP3_AA>
+3.2
+
+> <PUBCHEM_EXACT_MASS>
+336.018081
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C14H10Cl2N4O2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+337.1608
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=C2C(C(=C(OC2=NN1)N)C#N)C3=CC(=CC(=C3O)Cl)Cl
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=C2[C@H](C(=C(OC2=NN1)N)C#N)C3=CC(=CC(=C3O)Cl)Cl
+
+> <PUBCHEM_CACTVS_TPSA>
+108
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+336.018081
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+22
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+12
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  13  8
+10  14  8
+11  16  8
+11  17  8
+16  19  8
+17  20  8
+19  21  8
+20  21  8
+5  13  8
+5  6  8
+6  14  8
+9  23  5
+
+$$$$
+

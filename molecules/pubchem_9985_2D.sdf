@@ -1,0 +1,160 @@
+9985
+  -OEChem-06261204142D
+
+ 26 26  0     1  0  0  0  0  0999 V2000
+    5.4641   -0.6900    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.1900    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.5981    0.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    1.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.6900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    0.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -0.1900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.1900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.6900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -1.0400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3860    1.3926    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9875    0.7023    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8626    1.7850    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0656    1.7850    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3335   -1.1650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1306   -1.1650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9407    0.7023    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5422    1.3926    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5422   -0.7726    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9407   -0.0823    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -1.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2646    0.2849    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4675    0.2849    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900   -0.1531    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -1.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -1.2269    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1 21  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+  9 25  1  0  0  0  0
+  9 26  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+9985
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+71
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceByAAAAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAAAHAAQAAAACCjBAAQCAALAAAAAAAAAAAAAAAAAAAAAAIAIAAAAAAIAgAAEAAAAEACAAAEQgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-propylpiperidine
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-propylpiperidine
+
+> <PUBCHEM_IUPAC_NAME>
+2-propylpiperidine
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-propylpiperidine
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+coniine
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H17N/c1-2-5-8-6-3-4-7-9-8/h8-9H,2-7H2,1H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+NDNUANOUGZGEPO-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+2
+
+> <PUBCHEM_EXACT_MASS>
+127.1361
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C8H17N
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+127.22728
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCCC1CCCCN1
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCCC1CCCCN1
+
+> <PUBCHEM_CACTVS_TPSA>
+12
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+127.1361
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+2  10  3
+
+$$$$
+

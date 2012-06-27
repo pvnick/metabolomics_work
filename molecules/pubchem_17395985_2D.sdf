@@ -1,0 +1,193 @@
+17395985
+  -OEChem-06241222532D
+
+ 36 38  0     1  0  0  0  0  0999 V2000
+   11.6414   -0.0296    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.6047    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.3953    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1340    1.0772    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.3953    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2622   -0.4194    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    1.1047    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.5981    0.1047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    1.1047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.1047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4920   -0.4299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3981    0.0839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4920    1.6394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.6047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3981    1.1255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1301    0.0772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9942   -0.4261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8622    0.0706    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7263   -0.4328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8269   -1.4277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8043   -1.6394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3076   -0.7753    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    1.7247    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.0153    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4848   -1.0499    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4848    2.2593    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100    2.1417    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631    1.9147    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900    1.0678    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9338    1.4376    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2598   -1.0394    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9918   -1.0461    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8646    0.6905    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3646   -1.8408    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0543   -2.2068    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9245   -0.7129    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 19  1  0  0  0  0
+  1 22  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3 10  2  0  0  0  0
+  4 16  2  0  0  0  0
+  5  8  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 24  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 31  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 11  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 26  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 14 29  1  0  0  0  0
+ 15 30  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 32  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 33  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 34  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 21 35  1  0  0  0  0
+ 22 36  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+17395985
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+468
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccB7MABAAAAAAAAAAAAAAAAAASAAAAA8QAAAAAAAAACxwAAAHgQQAAAACByl0AKyx4LABAiMACVSUAKDCIAhKhBIiBlHbMgOJiLk8d+HOCjk1BH46YewQAAAAEAAAAQAEAAAgAAACAAgAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(E)-N-(2-methyl-3-oxo-4H-1,4-benzoxazin-6-yl)-3-(2-thienyl)prop-2-enamide
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(E)-N-(2-methyl-3-oxo-4H-1,4-benzoxazin-6-yl)-3-thiophen-2-yl-2-propenamide
+
+> <PUBCHEM_IUPAC_NAME>
+(E)-N-(2-methyl-3-oxo-4H-1,4-benzoxazin-6-yl)-3-thiophen-2-ylprop-2-enamide
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(E)-N-(2-methyl-3-oxidanylidene-4H-1,4-benzoxazin-6-yl)-3-thiophen-2-yl-prop-2-enamide
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(E)-N-(3-keto-2-methyl-4H-1,4-benzoxazin-6-yl)-3-(2-thienyl)acrylamide
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C16H14N2O3S/c1-10-16(20)18-13-9-11(4-6-14(13)21-10)17-15(19)7-5-12-3-2-8-22-12/h2-10H,1H3,(H,17,19)(H,18,20)/b7-5+
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+FCIGLFOJLVWPLZ-FNORWQNLSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+2.3
+
+> <PUBCHEM_EXACT_MASS>
+314.072513
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C16H14N2O3S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+314.35896
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1C(=O)NC2=C(O1)C=CC(=C2)NC(=O)C=CC3=CC=CS3
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1C(=O)NC2=C(O1)C=CC(=C2)NC(=O)/C=C/C3=CC=CS3
+
+> <PUBCHEM_CACTVS_TPSA>
+95.7
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+314.072513
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+22
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+6
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+1  19  8
+1  22  8
+11  12  8
+12  15  8
+13  15  8
+19  20  8
+20  21  8
+21  22  8
+7  14  3
+8  11  8
+8  9  8
+9  13  8
+
+$$$$
+

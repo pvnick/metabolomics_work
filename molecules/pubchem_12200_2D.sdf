@@ -1,0 +1,141 @@
+12200
+  -OEChem-06261206392D
+
+ 18 17  0     0  0  0  0  0  0999 V2000
+    5.4641   -1.0950    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962   -0.0950    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.0950    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282   -0.0950    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.0950    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    8.0622    1.4050    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    1.4050    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    0.4050    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.4050    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.0950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    0.4050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.4050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -0.4050    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7287    0.8799    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9316    0.8799    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9966    0.8799    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1996    0.8799    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9272   -1.4050    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7  9  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 17  1  0  0  0  0
+M  CHG  4   4  -1   5  -1   8   1   9   1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+12200
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+141
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+7
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYBDOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgAECAAACBSggAIAAAAAQgABAAAAAQAAAAAAAAAAAAAAAAABEAAAAAAAAAABAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(2-hydroxy-3-nitrooxy-propyl) nitrate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+nitric acid (2-hydroxy-3-nitrooxypropyl) ester
+
+> <PUBCHEM_IUPAC_NAME>
+(2-hydroxy-3-nitrooxypropyl) nitrate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(3-nitrooxy-2-oxidanyl-propyl) nitrate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+nitric acid (2-hydroxy-3-nitrooxy-propyl) ester
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C3H6N2O7/c6-3(1-11-4(7)8)2-12-5(9)10/h3,6H,1-2H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+ASIGVDLTBLZXNC-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+0.1
+
+> <PUBCHEM_EXACT_MASS>
+182.017501
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C3H6N2O7
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+182.08894
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(C(CO[N+](=O)[O-])O)O[N+](=O)[O-]
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C(C(CO[N+](=O)[O-])O)O[N+](=O)[O-]
+
+> <PUBCHEM_CACTVS_TPSA>
+130
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+182.017501
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+12
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+

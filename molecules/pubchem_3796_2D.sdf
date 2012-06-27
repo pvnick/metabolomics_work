@@ -1,0 +1,200 @@
+3796
+  -OEChem-06251223412D
+
+ 37 39  0     0  0  0  0  0  0999 V2000
+    9.8104   -0.5474    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    8.0437   -3.5272    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.5272    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    2.5272    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7872   -2.5473    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3465   -0.5074    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3580    2.5619    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2641    1.0064    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    1.0272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    2.0272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3580    0.4926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.5272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.0272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    2.5272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    2.0272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2067   -1.0174    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1951   -2.0173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0784   -0.5274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2641    2.0480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9386   -1.0374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0553   -2.5273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9270   -2.0373    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.0272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    3.5272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.0928    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    3.1472    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8060   -0.8112    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6546   -2.3211    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0856    0.0925    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7998    2.3601    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100    1.5642    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631    1.3372    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900    0.4903    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4860    3.5272    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    4.1472    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2460    3.5272    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7800   -3.1673    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 20  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 23  1  0  0  0  0
+  4 15  1  0  0  0  0
+  4 24  1  0  0  0  0
+  5 22  1  0  0  0  0
+  5 37  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 27  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 19  2  0  0  0  0
+  8 11  2  0  0  0  0
+  8 19  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+ 10 14  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 21  1  0  0  0  0
+ 17 28  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 18 29  1  0  0  0  0
+ 19 30  1  0  0  0  0
+ 20 22  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 23 31  1  0  0  0  0
+ 23 32  1  0  0  0  0
+ 23 33  1  0  0  0  0
+ 24 34  1  0  0  0  0
+ 24 35  1  0  0  0  0
+ 24 36  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+3796
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+408
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+6
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccB7MAAAGAAAAAAAAAAAAAAAAAAAAAA8YIAAAAAAAACx9AAAHgBQCAABrAyBngY39vbIFgCgAyZjZACCiCkxIqQB2CA+7LiNLuLG+duEdCpu0BvK+jew0BMOIEABAgEiRABAgAIEAkSIAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2,6-dibromo-4-[(6,7-dimethoxyquinazolin-4-yl)amino]phenol
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2,6-dibromo-4-[(6,7-dimethoxy-4-quinazolinyl)amino]phenol
+
+> <PUBCHEM_IUPAC_NAME>
+2,6-dibromo-4-[(6,7-dimethoxyquinazolin-4-yl)amino]phenol
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2,6-bis(bromanyl)-4-[(6,7-dimethoxyquinazolin-4-yl)amino]phenol
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2,6-dibromo-4-[(6,7-dimethoxyquinazolin-4-yl)amino]phenol
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C16H13Br2N3O3/c1-23-13-5-9-12(6-14(13)24-2)19-7-20-16(9)21-8-3-10(17)15(22)11(18)4-8/h3-7,22H,1-2H3,(H,19,20,21)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+YVCXQRVVNQMZEI-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+4.4
+
+> <PUBCHEM_EXACT_MASS>
+454.930319
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C16H13Br2N3O3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+455.10072
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+COC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC(=C(C(=C3)Br)O)Br)OC
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+COC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC(=C(C(=C3)Br)O)Br)OC
+
+> <PUBCHEM_CACTVS_TPSA>
+76.5
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+452.932365
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+24
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+8
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  14  8
+12  13  8
+13  15  8
+14  15  8
+16  17  8
+16  18  8
+17  21  8
+18  20  8
+20  22  8
+21  22  8
+7  10  8
+7  19  8
+8  11  8
+8  19  8
+9  10  8
+9  11  8
+9  12  8
+
+$$$$
+

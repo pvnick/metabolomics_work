@@ -1,0 +1,213 @@
+17395807
+  -OEChem-06241222522D
+
+ 43 45  0     1  0  0  0  0  0999 V2000
+    4.4654   -4.7976    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4654   -0.7976    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4654    1.2024    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3884    2.7902    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1974    1.2024    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6974    3.7412    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4374    2.4812    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1974    2.2024    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3314   -0.2976    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.6942    3.1503    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3314    0.7024    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0064    2.7902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1974   -0.7976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6974    3.7412    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9021    4.1285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7431    2.8413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4654   -1.7976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1590    4.7976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    3.5104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2079    4.4886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5993   -2.2976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3314   -2.2976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5993   -3.2976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3314   -3.2976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4654   -3.7976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9488    2.0995    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7284    1.9338    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3314   -0.9176    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7344    0.8924    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5961    2.5986    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8874   -1.3345    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7344   -1.1076    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5074   -0.2607    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0618    4.2428    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4918    4.3200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6142    2.2348    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2879    5.4040    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4103    3.3188    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7472    4.9034    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0624   -1.9876    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8683   -1.9876    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0624   -3.6076    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8683   -3.6076    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 25  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 29  1  0  0  0  0
+  6 14  2  0  0  0  0
+  7 10  1  0  0  0  0
+  7 26  1  0  0  0  0
+  7 27  1  0  0  0  0
+  8 12  2  0  0  0  0
+  9 11  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 28  1  0  0  0  0
+ 10 15  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 30  1  0  0  0  0
+ 13 31  1  0  0  0  0
+ 13 32  1  0  0  0  0
+ 13 33  1  0  0  0  0
+ 14 34  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 15 35  1  0  0  0  0
+ 16 19  2  0  0  0  0
+ 16 36  1  0  0  0  0
+ 17 21  2  0  0  0  0
+ 17 22  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 18 37  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 38  1  0  0  0  0
+ 20 39  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 21 40  1  0  0  0  0
+ 22 24  2  0  0  0  0
+ 22 41  1  0  0  0  0
+ 23 25  2  0  0  0  0
+ 23 42  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 43  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+17395807
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+423
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+6
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceB7MQAAAAAAAAAAAAAAAAAAAWAAAAAwYAAAAAAAAAAB0AAAHwAYAAAADBThmg4/tpLIBACqAjN3dAKSDAMhogAd2CF+bJiOJqLE+V+HvCj83RPYqAeQwAAOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+N-(2-benzylpyrazol-3-yl)-2-(4-fluorophenoxy)propanamide
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-(4-fluorophenoxy)-N-[2-(phenylmethyl)-3-pyrazolyl]propanamide
+
+> <PUBCHEM_IUPAC_NAME>
+N-(2-benzylpyrazol-3-yl)-2-(4-fluorophenoxy)propanamide
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-(4-fluoranylphenoxy)-N-[2-(phenylmethyl)pyrazol-3-yl]propanamide
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+N-(2-benzylpyrazol-3-yl)-2-(4-fluorophenoxy)propionamide
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C19H18FN3O2/c1-14(25-17-9-7-16(20)8-10-17)19(24)22-18-11-12-21-23(18)13-15-5-3-2-4-6-15/h2-12,14H,13H2,1H3,(H,22,24)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+SZZASPNOTUKYDR-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+3.5
+
+> <PUBCHEM_EXACT_MASS>
+339.138305
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C19H18FN3O2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+339.363523
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(C(=O)NC1=CC=NN1CC2=CC=CC=C2)OC3=CC=C(C=C3)F
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(C(=O)NC1=CC=NN1CC2=CC=CC=C2)OC3=CC=C(C=C3)F
+
+> <PUBCHEM_CACTVS_TPSA>
+56.2
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+339.138305
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+25
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+7
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  15  8
+10  16  8
+12  14  8
+15  18  8
+16  19  8
+17  21  8
+17  22  8
+18  20  8
+19  20  8
+21  23  8
+22  24  8
+23  25  8
+24  25  8
+4  6  8
+4  8  8
+6  14  8
+8  12  8
+9  13  3
+
+$$$$
+

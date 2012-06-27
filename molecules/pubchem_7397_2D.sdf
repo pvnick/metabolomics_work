@@ -1,0 +1,149 @@
+7397
+  -OEChem-06261202032D
+
+ 18 18  0     0  0  0  0  0  0999 V2000
+    3.0000    2.5000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    1.5000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0000    1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1340    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8660    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1340   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8660   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5970    0.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4030    0.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5970   -1.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4030   -1.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3800   -2.5000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -3.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6200   -2.5000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  9  2  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+7397
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+209
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYBgMABEAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAGAQAAAAADACAWAAyAYAAAAKAAiBCAHBCAAAgAAAIiBgAAIgIICKAERCAIAAggAAIiAcAgAAOEAAAAAAAAAAgAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+4-methylbenzenesulfonyl chloride
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+4-methylbenzenesulfonyl chloride
+
+> <PUBCHEM_IUPAC_NAME>
+4-methylbenzenesulfonyl chloride
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+4-methylbenzenesulfonyl chloride
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+4-methylbenzenesulfonyl chloride
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C7H7ClO2S/c1-6-2-4-7(5-3-6)11(8,9)10/h2-5H,1H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+YYROPELSRYBVMQ-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3>
+3
+
+> <PUBCHEM_EXACT_MASS>
+189.985528
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C7H7ClO2S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+190.64728
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=CC=C(C=C1)S(=O)(=O)Cl
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=CC=C(C=C1)S(=O)(=O)Cl
+
+> <PUBCHEM_CACTVS_TPSA>
+42.5
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+189.985528
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+11
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+5  7  8
+5  8  8
+6  10  8
+6  9  8
+7  9  8
+8  10  8
+
+$$$$
+

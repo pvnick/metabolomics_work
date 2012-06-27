@@ -1,0 +1,228 @@
+4861
+  -OEChem-06261200232D
+
+ 52 54  0     1  0  0  0  0  0999 V2000
+    6.0061   -1.9358    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7839    2.1229    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5323    2.0884    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1304    0.5608    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2740   -1.9425    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5381   -0.9492    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2807    2.1229    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8663   -0.4325    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    7.7724   -0.9463    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8663    0.6092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0022   -0.9358    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    8.6663   -0.4117    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6663    0.5883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7724    1.1230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1343   -0.4391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5323   -0.9117    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5323    1.0884    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2702   -0.9425    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+   10.3984   -0.4117    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3984    0.5883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4022   -0.4458    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+   11.2923    1.1230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2923   -0.9463    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1420   -2.4391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1984    0.6092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1984   -0.4325    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3984    0.5542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0625    1.1125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3288   -0.1235    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3787   -1.4253    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1770   -1.4161    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6572    1.1928    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2554    0.5031    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4665   -1.2479    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5323   -1.5316    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7344   -1.2546    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8641   -0.1379    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2851   -1.5663    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8299   -1.9034    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6062   -2.7512    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4540   -2.9749    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7341   -0.7445    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0184    0.5566    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3960    1.1742    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7784    0.5518    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9954    2.3984    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7383   -2.2545    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3745    0.5768    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.5982    1.4246    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7504    1.6482    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.6412    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8140    2.4391    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 24  1  0  0  0  0
+  2 14  2  0  0  0  0
+  3 17  1  0  0  0  0
+  3 46  1  0  0  0  0
+  4 15  2  0  0  0  0
+  5 18  1  0  0  0  0
+  5 47  1  0  0  0  0
+  6 21  1  0  0  0  0
+  6 51  1  0  0  0  0
+  7 22  1  0  0  0  0
+  7 52  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 29  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 30  1  0  0  0  0
+  9 31  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 32  1  0  0  0  0
+ 10 33  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 34  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 19  2  0  0  0  0
+ 16 35  1  0  0  0  0
+ 17 20  2  0  0  0  0
+ 18 21  1  0  0  0  0
+ 18 36  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 23  1  0  0  0  0
+ 20 22  1  0  0  0  0
+ 21 27  1  0  0  0  0
+ 21 37  1  0  0  0  0
+ 22 25  2  0  0  0  0
+ 23 26  2  0  0  0  0
+ 23 38  1  0  0  0  0
+ 24 39  1  0  0  0  0
+ 24 40  1  0  0  0  0
+ 24 41  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 28  1  0  0  0  0
+ 26 42  1  0  0  0  0
+ 27 43  1  0  0  0  0
+ 27 44  1  0  0  0  0
+ 27 45  1  0  0  0  0
+ 28 48  1  0  0  0  0
+ 28 49  1  0  0  0  0
+ 28 50  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+4861
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+593
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+7
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+4
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceB4OAAAAAAAAAAAAAAAAAAAAAAAAAAwYMAAAAAAAADBUAAAGgAACAAADRSgmAIyBsAABgCIAqBSAAICAAAkIAAIiAFECMgJNzaCFRaAcUAl4BUJmQfKzvDuwAADAAAYAACAAAYAADAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+3-(3,4-dihydroxy-1-methoxy-2-oxo-pentyl)-8,9-dihydroxy-7-methyl-3,4-dihydro-2H-anthracen-1-one
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+3-(3,4-dihydroxy-1-methoxy-2-oxopentyl)-8,9-dihydroxy-7-methyl-3,4-dihydro-2H-anthracen-1-one
+
+> <PUBCHEM_IUPAC_NAME>
+3-(3,4-dihydroxy-1-methoxy-2-oxopentyl)-8,9-dihydroxy-7-methyl-3,4-dihydro-2H-anthracen-1-one
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+3-[1-methoxy-3,4-bis(oxidanyl)-2-oxidanylidene-pentyl]-7-methyl-8,9-bis(oxidanyl)-3,4-dihydro-2H-anthracen-1-one
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+3-(3,4-dihydroxy-2-keto-1-methoxy-pentyl)-8,9-dihydroxy-7-methyl-3,4-dihydro-2H-anthracen-1-one
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C21H24O7/c1-9-4-5-11-6-12-7-13(21(28-3)20(27)18(25)10(2)22)8-14(23)15(12)19(26)16(11)17(9)24/h4-6,10,13,18,21-22,24-26H,7-8H2,1-3H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+XBKVKSRQTHGEJA-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+2.1
+
+> <PUBCHEM_EXACT_MASS>
+388.152203
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C21H24O7
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+388.41106
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=C(C2=C(C3=C(CC(CC3=O)C(C(=O)C(C(C)O)O)OC)C=C2C=C1)O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=C(C2=C(C3=C(CC(CC3=O)C(C(=O)C(C(C)O)O)OC)C=C2C=C1)O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+124
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+388.152203
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+28
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+4
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+700
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  15  3
+12  13  8
+12  16  8
+13  17  8
+16  19  8
+17  20  8
+19  20  8
+19  23  8
+20  22  8
+22  25  8
+23  26  8
+25  26  8
+18  5  3
+21  6  3
+8  9  3
+
+$$$$
+

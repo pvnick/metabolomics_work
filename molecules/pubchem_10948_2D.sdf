@@ -1,0 +1,151 @@
+10948
+  -OEChem-06261205092D
+
+ 22 21  0     1  0  0  0  0  0999 V2000
+    4.2690    0.4400    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -1.0600    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369    0.4400    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    0.4400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -0.0600    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    6.8671   -0.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -1.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7331    0.4400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -0.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3996    0.9149    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6025    0.9149    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    0.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4685   -0.5349    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2656   -0.5349    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5150   -1.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -1.6800    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7550   -1.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0431   -0.0969    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2700    0.7500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4231    0.9769    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.1300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369    1.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  9  1  0  0  0  0
+  3 21  1  0  0  0  0
+  3 22  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+10948
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+93.1
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBiMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAQAAAACBSggAICCABABAAIAAAAGAAAAAAAAAAAAAAAAAEAAAIAAAAIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1-methylbutyl carbamate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+carbamic acid pentan-2-yl ester
+
+> <PUBCHEM_IUPAC_NAME>
+pentan-2-yl carbamate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+pentan-2-yl carbamate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+carbamic acid 1-methylbutyl ester
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C6H13NO2/c1-3-4-5(2)9-6(7)8/h5H,3-4H2,1-2H3,(H2,7,8)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+HZMVPSHLMIQQNX-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+1.2
+
+> <PUBCHEM_EXACT_MASS>
+131.094629
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C6H13NO2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+131.17292
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCCC(C)OC(=O)N
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCCC(C)OC(=O)N
+
+> <PUBCHEM_CACTVS_TPSA>
+52.3
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+131.094629
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+2
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+5  7  3
+
+$$$$
+

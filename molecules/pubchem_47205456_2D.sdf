@@ -1,0 +1,185 @@
+47205456
+  -OEChem-06241222582D
+
+ 33 34  0     1  0  0  0  0  0999 V2000
+    3.2601   -3.6206    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3582    0.4182    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8940   -0.5818    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3582    2.4182    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6261    0.4182    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6261   -0.5818    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4408    3.6206    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4921    1.9182    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.6261    2.4182    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4921    0.9182    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2717    2.0115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4627    3.4127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7601   -2.0818    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9511   -2.6696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9408    2.7546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7601   -1.0818    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5691   -2.6696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.3606    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2601   -3.6206    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4921    2.5382    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9361    2.9551    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0892    2.7282    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3161    1.8813    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4006    1.4050    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0019    3.8276    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0892    0.7282    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1630   -0.8918    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5574    2.6898    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1588   -2.4780    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1916   -1.7709    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4103   -2.1690    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8084   -2.9502    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6245   -4.1222    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3 16  2  0  0  0  0
+  4  8  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 26  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 27  1  0  0  0  0
+  7 12  2  0  0  0  0
+  7 15  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+ 11 15  2  0  0  0  0
+ 11 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 29  1  0  0  0  0
+ 18 30  1  0  0  0  0
+ 18 31  1  0  0  0  0
+ 18 32  1  0  0  0  0
+ 19 33  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+47205456
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+350
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzsAAAAAAAAAAAAAAAAAAAAWJAAAAAAAAAAAAAAAAB4AAAHgAYAAAADCzhmgY/lJduFECoArl39ACCiC01MqIb6AGePMiMbj6MvDuSGWDu8BOIqaavAAAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+N'-(2-imidazol-1-ylpropanoyl)-2-methyl-furan-3-carbohydrazide
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+N'-[2-(1-imidazolyl)-1-oxopropyl]-2-methyl-3-furancarbohydrazide
+
+> <PUBCHEM_IUPAC_NAME>
+N'-(2-imidazol-1-ylpropanoyl)-2-methylfuran-3-carbohydrazide
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+N'-(2-imidazol-1-ylpropanoyl)-2-methyl-furan-3-carbohydrazide
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+N'-(2-imidazol-1-ylpropanoyl)-2-methyl-3-furohydrazide
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C12H14N4O3/c1-8(16-5-4-13-7-16)11(17)14-15-12(18)10-3-6-19-9(10)2/h3-8H,1-2H3,(H,14,17)(H,15,18)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+NDGSVWFYHZJDJL-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+0.5
+
+> <PUBCHEM_EXACT_MASS>
+262.10659
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C12H14N4O3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+262.26456
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=C(C=CO1)C(=O)NNC(=O)C(C)N2C=CN=C2
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=C(C=CO1)C(=O)NNC(=O)C(C)N2C=CN=C2
+
+> <PUBCHEM_CACTVS_TPSA>
+89.2
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+262.10659
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+19
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+4
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+1  14  8
+1  19  8
+11  15  8
+13  14  8
+13  17  8
+17  19  8
+4  11  8
+4  12  8
+7  12  8
+7  15  8
+8  9  3
+
+$$$$
+

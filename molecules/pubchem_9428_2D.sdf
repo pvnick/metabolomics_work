@@ -1,0 +1,203 @@
+9428
+  -OEChem-06261203422D
+
+ 36 39  0     0  0  0  0  0  0999 V2000
+    3.7841   -0.1863    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8001   -1.2278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9180    0.3137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6501    1.3137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9021   -1.7555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7841    1.8137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6501    0.3137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9180    1.3137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0080   -0.1931    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.2347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7520   -1.7484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8937   -2.8405    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7680    2.8552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5601    1.8206    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8334   -3.3830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6660    3.3830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7688   -2.8333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5681    2.8622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8372   -4.3830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6622    4.3830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1870    0.0037    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3811    1.6237    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4747    0.1231    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4619   -1.5426    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2829   -1.4281    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3556   -3.1484    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2275    3.1590    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0934    1.5044    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3093   -3.1370    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1062    3.1701    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2172   -4.3854    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8396   -5.0030    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4572   -4.3806    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2822    4.3854    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6598    5.0030    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0422    4.3806    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2  5  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3  8  2  0  0  0  0
+  3  9  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 17  2  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 16  2  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 18  2  0  0  0  0
+ 14 28  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 29  1  0  0  0  0
+ 18 30  1  0  0  0  0
+ 19 31  1  0  0  0  0
+ 19 32  1  0  0  0  0
+ 19 33  1  0  0  0  0
+ 20 34  1  0  0  0  0
+ 20 35  1  0  0  0  0
+ 20 36  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+9428
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+346
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+0
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceB4AAAAAAAAAAAAAAAAAAAAAAAAAAAwYMGAAAAAAADBVAAAGAAAAAAADACAGAAyAMAAAACAAiBCAAACAAAgAAAIiAAAAIgIICKAERCAIAAggAAIiAcAgMAOwAACAAAQAACAAAQAACAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+3,9-dimethylbenzo[a]anthracene
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+3,9-dimethylbenzo[a]anthracene
+
+> <PUBCHEM_IUPAC_NAME>
+3,9-dimethylbenzo[a]anthracene
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+3,9-dimethylbenzo[a]anthracene
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+3,9-dimethylbenz[a]anthracene
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C20H16/c1-13-3-5-15-12-20-17(11-18(15)10-13)7-6-16-9-14(2)4-8-19(16)20/h3-12H,1-2H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+DBPDWIZRMPUWRH-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3>
+6.8
+
+> <PUBCHEM_EXACT_MASS>
+256.125201
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C20H16
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+256.34104
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=CC2=C(C=C1)C3=CC4=C(C=C(C=C4)C)C=C3C=C2
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=CC2=C(C=C1)C3=CC4=C(C=C(C=C4)C)C=C3C=C2
+
+> <PUBCHEM_CACTVS_TPSA>
+0
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+256.125201
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+20
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+1  2  8
+1  3  8
+1  7  8
+11  17  8
+12  15  8
+13  16  8
+14  18  8
+15  17  8
+16  18  8
+2  11  8
+2  5  8
+3  8  8
+3  9  8
+4  14  8
+4  6  8
+4  7  8
+5  10  8
+5  12  8
+6  13  8
+6  8  8
+9  10  8
+
+$$$$
+

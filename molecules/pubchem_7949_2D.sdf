@@ -1,0 +1,153 @@
+7949
+  -OEChem-06261202292D
+
+ 20 20  0     0  0  0  0  0  0999 V2000
+    3.7320    1.3450    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.1550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -1.1550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.6550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.3450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.1550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.1550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.6550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -1.6550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -2.2750    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291    0.1550    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    0.1550    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900   -1.1181    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -1.9650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -2.1919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1541   -2.1919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -1.9650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7741   -1.1181    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    1.6550    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1951    1.6550    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 19  1  0  0  0  0
+  1 20  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  6  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  2  0  0  0  0
+  3  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+7949
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+80.6
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccByAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAHAAQAAAADAiBGAAywIBAAACAAiRCQACCAAAgAgAAiAAAZIgIICKAkZGAIABgkAAIyAcQgEAOAAACQAAAAAAAAASAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+3,5-dimethylaniline
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+3,5-dimethylaniline
+
+> <PUBCHEM_IUPAC_NAME>
+3,5-dimethylaniline
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+3,5-dimethylaniline
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+3,5-xylidine
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H11N/c1-6-3-7(2)5-8(9)4-6/h3-5H,9H2,1-2H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+MKARNSWMMBGSHX-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3>
+2
+
+> <PUBCHEM_EXACT_MASS>
+121.089149
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C8H11N
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+121.17964
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=CC(=CC(=C1)N)C
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=CC(=CC(=C1)N)C
+
+> <PUBCHEM_CACTVS_TPSA>
+26
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+121.089149
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+2  4  8
+2  6  8
+3  4  8
+3  7  8
+5  6  8
+5  7  8
+
+$$$$
+

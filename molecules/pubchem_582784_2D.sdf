@@ -1,0 +1,188 @@
+582784
+  -OEChem-06241222442D
+
+ 35 36  0     0  0  0  0  0  0999 V2000
+    9.8349    3.4129    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    9.2136    1.5118    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6783   -2.8236    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5673    2.0499    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9889   -0.2636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9674   -0.0573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6783   -1.2141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2781    0.8932    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.5188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -2.5188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2566    1.0994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2619   -2.0188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.0188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -3.0188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.5188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.5188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5458    2.2561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8564    3.2066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9684    0.3561    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3751   -0.1762    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9880   -0.6770    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5812   -0.1447    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2575    1.5128    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6643    0.9805    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2772    0.4797    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8704    1.0120    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8819   -2.0188    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8709   -3.4129    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.3988    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -3.6388    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1532    2.5114    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -1.2088    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -2.8288    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8359    3.8263    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2426    3.2940    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  2 17  2  0  0  0  0
+  3 10  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 28  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 17  1  0  0  0  0
+  4 31  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 19  1  0  0  0  0
+  5 20  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 21  1  0  0  0  0
+  6 22  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 12  2  0  0  0  0
+  8 11  1  0  0  0  0
+  8 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  2  0  0  0  0
+ 10 14  2  0  0  0  0
+ 11 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 32  1  0  0  0  0
+ 16 33  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 34  1  0  0  0  0
+ 18 35  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+582784
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+273
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+6
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBzIAAEAAAAAAAAAAAAAAAAAWAAAAAwAAAAAAAAAFgB8AAAHgIQAAAADAvBnkQ8wPLJkACoAzV3VACCgCAxAiAI2aA4ZJhIIOLAkZHEIAhglgDIyAcQgMAOgAAAAAACAAAAAAAAAAQAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-chloro-N-[4-(1H-indol-3-yl)butyl]acetamide
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-chloro-N-[4-(1H-indol-3-yl)butyl]acetamide
+
+> <PUBCHEM_IUPAC_NAME>
+2-chloro-N-[4-(1H-indol-3-yl)butyl]acetamide
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-chloranyl-N-[4-(1H-indol-3-yl)butyl]ethanamide
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-chloro-N-[4-(1H-indol-3-yl)butyl]acetamide
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C14H17ClN2O/c15-9-14(18)16-8-4-3-5-11-10-17-13-7-2-1-6-12(11)13/h1-2,6-7,10,17H,3-5,8-9H2,(H,16,18)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+XAJZIXWTEJJNOZ-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3>
+3.1
+
+> <PUBCHEM_EXACT_MASS>
+264.102941
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C14H17ClN2O
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+264.75058
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=CC=C2C(=C1)C(=CN2)CCCCNC(=O)CCl
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=CC=C2C(=C1)C(=CN2)CCCCNC(=O)CCl
+
+> <PUBCHEM_CACTVS_TPSA>
+44.9
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+264.102941
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+18
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+2
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  14  8
+13  15  8
+14  16  8
+15  16  8
+3  10  8
+3  12  8
+7  12  8
+7  9  8
+9  10  8
+9  13  8
+
+$$$$
+

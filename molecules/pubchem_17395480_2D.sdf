@@ -1,0 +1,202 @@
+17395480
+  -OEChem-06241222502D
+
+ 36 39  0     0  0  0  0  0  0999 V2000
+    7.1279   -0.0670    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1577   -0.4330    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.4330    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2115   -1.7378    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5443    0.7377    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.0670    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5443   -0.8717    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6279   -0.9330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.9330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1577   -1.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6279   -0.9330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2115   -0.1283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.5670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.5670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1279   -0.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0238    0.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0238   -1.9330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.9330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8898   -0.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8898   -1.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0453   -1.1451    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7356   -1.5436    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0189    0.4610    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291    0.7430    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0238    0.6870    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0238   -2.5530    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3520    1.9330    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    2.5530    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1120    1.9330    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4267   -0.1230    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4267   -1.7430    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900   -0.5301    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -1.3770    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -1.6039    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 16  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5 16  2  0  0  0  0
+  6 13  1  0  0  0  0
+  6 15  2  0  0  0  0
+  7 13  2  0  0  0  0
+  7 16  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 12  2  0  0  0  0
+  9 14  2  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 15 22  1  0  0  0  0
+ 17 20  2  0  0  0  0
+ 17 27  1  0  0  0  0
+ 18 21  2  0  0  0  0
+ 18 28  1  0  0  0  0
+ 19 29  1  0  0  0  0
+ 19 30  1  0  0  0  0
+ 19 31  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 32  1  0  0  0  0
+ 21 33  1  0  0  0  0
+ 22 34  1  0  0  0  0
+ 22 35  1  0  0  0  0
+ 22 36  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+17395480
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+396
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzgABAAAAAAAAAAAAAAAAAAWLAAAAsWAAAAAAAAFgB/gAAHAQIAAAACAjFVwS/sJ8MGAiiATZnZACS1C9xErAd2CA4dJiIaOLg2dGUpAhoiALIyCYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-(imidazo[1,2-a]pyridin-2-ylmethylsulfanyl)-5,7-dimethyl-[1,2,4]triazolo[1,5-a]pyrimidine
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-(2-imidazo[1,2-a]pyridinylmethylthio)-5,7-dimethyl-[1,2,4]triazolo[1,5-a]pyrimidine
+
+> <PUBCHEM_IUPAC_NAME>
+2-(imidazo[1,2-a]pyridin-2-ylmethylsulfanyl)-5,7-dimethyl-[1,2,4]triazolo[1,5-a]pyrimidine
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-(imidazo[1,2-a]pyridin-2-ylmethylsulfanyl)-5,7-dimethyl-[1,2,4]triazolo[1,5-a]pyrimidine
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-(imidazo[1,2-a]pyridin-2-ylmethylthio)-5,7-dimethyl-[1,2,4]triazolo[1,5-a]pyrimidine
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H14N6S/c1-10-7-11(2)21-14(16-10)18-15(19-21)22-9-12-8-20-6-4-3-5-13(20)17-12/h3-8H,9H2,1-2H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+OUXNIRPKVHMYMG-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+3.1
+
+> <PUBCHEM_EXACT_MASS>
+310.100065
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H14N6S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+310.37686
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=CC(=NC2=NC(=NN12)SCC3=CN4C=CC=CC4=N3)C
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=CC(=NC2=NC(=NN12)SCC3=CN4C=CC=CC4=N3)C
+
+> <PUBCHEM_CACTVS_TPSA>
+85.7
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+310.100065
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+22
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  18  8
+14  15  8
+17  20  8
+18  21  8
+2  10  8
+2  12  8
+2  17  8
+20  21  8
+3  13  8
+3  5  8
+3  9  8
+4  10  8
+4  8  8
+5  16  8
+6  13  8
+6  15  8
+7  13  8
+7  16  8
+8  12  8
+9  14  8
+
+$$$$
+

@@ -1,0 +1,144 @@
+8745
+  -OEChem-06261203032D
+
+ 17 16  0     0  0  0  0  0  0999 V2000
+    3.7321    2.9050    0.0000 K   0  3  0  0  0  0  0  0  0  0  0  0
+    3.7321    1.9050    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.9050    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.5950    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.4050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.5950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321   -0.0950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.0950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7321   -1.0950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.0950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    1.4050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    0.2150    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631    0.2150    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -1.4050    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -1.4050    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291   -2.9050    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -2.9050    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2 11  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4 16  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  9  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 15  1  0  0  0  0
+M  CHG  2   1   1   2  -1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+8745
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+122
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYBiMAAAQAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAHgAQAAAADAiBmAAwyIBAAACIAiTSSACCAAAkAgAIiAEAbMgIJjKAlZGAMQBk0AEIyYeY2SGeCAAAAAAAAAAQAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+potassium 4-aminobenzoate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+potassium 4-aminobenzoate
+
+> <PUBCHEM_IUPAC_NAME>
+potassium 4-aminobenzoate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+potassium 4-azanylbenzoate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+potassium 4-aminobenzoate
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C7H7NO2.K/c8-6-3-1-5(2-4-6)7(9)10;/h1-4H,8H2,(H,9,10);/q;+1/p-1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+MZKKJVZIFIQOPP-UHFFFAOYSA-M
+
+> <PUBCHEM_EXACT_MASS>
+175.00356
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C7H6KNO2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+175.22634
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=CC(=CC=C1C(=O)[O-])N.[K+]
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=CC(=CC=C1C(=O)[O-])N.[K+]
+
+> <PUBCHEM_CACTVS_TPSA>
+66.2
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+175.00356
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+11
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+2
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+2
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+5  7  8
+5  8  8
+6  10  8
+6  9  8
+7  9  8
+8  10  8
+
+$$$$
+

@@ -1,0 +1,197 @@
+17396599
+  -OEChem-06241222572D
+
+ 36 38  0     0  0  0  0  0  0999 V2000
+    9.4022    3.5580    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    8.0173    2.4365    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1808    1.4420    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5827   -2.0580    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0468   -0.0580    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6691   -1.6512    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3147   -2.0580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1808   -1.5580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4487   -1.5580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1808   -0.5580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3147   -3.0580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0468   -2.0580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1808   -3.5580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0468   -3.0580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4782   -3.0525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0468    0.9420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5000   -3.2604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9128    1.4420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.3944    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8264    1.0353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4955    1.7784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9955    2.6444    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8472   -1.0830    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0502   -1.0830    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9687    0.0246    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5702   -0.6657    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7778   -3.3680    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5837   -1.7480    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5837   -0.3680    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1808   -4.1780    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5837   -3.3680    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9389   -3.4674    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2478   -3.8268    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3834   -2.3296    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9552    0.4288    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1121    1.7136    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 22  1  0  0  0  0
+  2 18  1  0  0  0  0
+  2 22  1  0  0  0  0
+  3 16  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 29  1  0  0  0  0
+  6 19  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 11  2  0  0  0  0
+  8 10  1  0  0  0  0
+  8 12  2  0  0  0  0
+  9 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 30  1  0  0  0  0
+ 14 31  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 32  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 33  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 19 34  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 35  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 21 36  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+17396599
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+382
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccB7MAAAEAAAAAAAAAAAAAAAAWJAAAAwAAAAAAAAAAAB8AAAHgBYAAABLATBmgQ8hJLIBECqArF3VAKSDAA1ogQY2KH+bPgOJrLE9X+HvSjkzhHYq5eYl4IOgAAAAAAQAAAAAAAAACAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+5-bromo-N-[[2-(pyrazol-1-ylmethyl)phenyl]methyl]furan-2-carboxamide
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+5-bromo-N-[[2-(1-pyrazolylmethyl)phenyl]methyl]-2-furancarboxamide
+
+> <PUBCHEM_IUPAC_NAME>
+5-bromo-N-[[2-(pyrazol-1-ylmethyl)phenyl]methyl]furan-2-carboxamide
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+5-bromanyl-N-[[2-(pyrazol-1-ylmethyl)phenyl]methyl]furan-2-carboxamide
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+5-bromo-N-[2-(pyrazol-1-ylmethyl)benzyl]-2-furamide
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C16H14BrN3O2/c17-15-7-6-14(22-15)16(21)18-10-12-4-1-2-5-13(12)11-20-9-3-8-19-20/h1-9H,10-11H2,(H,18,21)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+ITTKTAOLFOKZHU-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+3
+
+> <PUBCHEM_EXACT_MASS>
+359.026939
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C16H14BrN3O2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+360.20526
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=CC=C(C(=C1)CNC(=O)C2=CC=C(O2)Br)CN3C=CC=N3
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=CC=C(C(=C1)CNC(=O)C2=CC=C(O2)Br)CN3C=CC=N3
+
+> <PUBCHEM_CACTVS_TPSA>
+60.1
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+359.026939
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+22
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+2
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  13  8
+12  14  8
+13  14  8
+15  17  8
+17  19  8
+18  20  8
+2  18  8
+2  22  8
+20  21  8
+21  22  8
+4  15  8
+4  6  8
+6  19  8
+7  11  8
+7  8  8
+8  12  8
+
+$$$$
+

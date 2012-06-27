@@ -1,0 +1,177 @@
+585176
+  -OEChem-06241222452D
+
+ 35 37  0     0  0  0  0  0  0999 V2000
+    5.4050    3.1801    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    6.2711    1.6801    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.5390    0.6801    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6730    2.1801    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6730   -0.8199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5092   -2.2682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8368   -2.2682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9819   -2.7033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5092   -1.3027    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8368   -1.3027    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9819   -1.6580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6730   -2.5710    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8876   -3.1801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.7510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6730    0.1801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5390    1.6801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4050    2.1801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1016   -2.4509    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8478   -3.3086    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8912   -2.8858    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6383   -1.1420    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6247   -0.7201    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2262   -1.4103    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1198   -1.4103    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7212   -0.7201    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3885   -1.8375    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3030   -3.0685    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0430   -3.0685    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5782   -3.7174    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4127   -3.5097    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5188   -2.3601    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8068   -3.3401    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4609    0.7627    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0624    0.0724    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4050    1.5601    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3 15  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4 16  2  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 24  1  0  0  0  0
+  9 25  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 13 30  1  0  0  0  0
+ 14 31  1  0  0  0  0
+ 14 32  1  0  0  0  0
+ 15 33  1  0  0  0  0
+ 15 34  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 35  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+585176
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+286
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwMAAGAAAAAAAAAAAAAAAAAAAAAAAwYMGAAAAAAAAAAAAAGgIAAAAADwOggMIACAAABAAIAACQCAAAAAAAAAAAAAAAAQBAAAIAAAACAAAEAAAAAAGAwOAPAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1-adamantylmethyl 2,2-dichloroacetate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2,2-dichloroacetic acid 1-adamantylmethyl ester
+
+> <PUBCHEM_IUPAC_NAME>
+1-adamantylmethyl 2,2-dichloroacetate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1-adamantylmethyl 2,2-bis(chloranyl)ethanoate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2,2-dichloroacetic acid 1-adamantylmethyl ester
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C13H18Cl2O2/c14-11(15)12(16)17-7-13-4-8-1-9(5-13)3-10(2-8)6-13/h8-11H,1-7H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+AEIUSUKMRDGKNL-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+4.4
+
+> <PUBCHEM_EXACT_MASS>
+276.068385
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C13H18Cl2O2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+277.18682
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1C2CC3CC1CC(C2)(C3)COC(=O)C(Cl)Cl
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1C2CC3CC1CC(C2)(C3)COC(=O)C(Cl)Cl
+
+> <PUBCHEM_CACTVS_TPSA>
+26.3
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+276.068385
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+17
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+

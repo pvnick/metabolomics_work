@@ -1,0 +1,148 @@
+12205
+  -OEChem-06261206392D
+
+ 20 18  0     0  0  0  0  0  0999 V2000
+    0.0000    3.3100    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.9030    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.4030    6.8100    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4030    2.8100    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4030    5.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4030    3.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2690    5.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2690    4.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5369    5.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5369    4.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8059    5.6200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8059    4.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    4.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    5.6200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9399    7.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8660    7.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8660    2.5000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9399    2.5000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9030    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0000    3.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 20  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 15  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 17  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 13  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+12205
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+54.9
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+4
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBjAAAGAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAHAAQAAAACAiBEAAwwIBAAACAACRCQACCAAAgAgAIiAAAZIgIICKAkZGAIABgkAAIyAcQAAAAAACAAAAAAAAAAQAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+benzene-1,4-diamine dihydrochloride
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+benzene-1,4-diamine dihydrochloride
+
+> <PUBCHEM_IUPAC_NAME>
+benzene-1,4-diamine dihydrochloride
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+benzene-1,4-diamine dihydrochloride
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+p-phenylenediamine dihydrochloride
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C6H8N2.2ClH/c7-5-1-2-6(8)4-3-5;;/h1-4H,7-8H2;2*1H
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+IYXMNTLBLQNMLM-UHFFFAOYSA-N
+
+> <PUBCHEM_EXACT_MASS>
+180.022104
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C6H10Cl2N2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+181.063
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=CC(=CC=C1N)N.Cl.Cl
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=CC(=CC=C1N)N.Cl.Cl
+
+> <PUBCHEM_CACTVS_TPSA>
+52
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+180.022104
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+10
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+3
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+5  7  8
+5  9  8
+6  10  8
+6  8  8
+7  8  8
+9  10  8
+
+$$$$
+

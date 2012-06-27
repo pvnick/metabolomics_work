@@ -1,0 +1,153 @@
+5831
+  -OEChem-06261200542D
+
+ 26 24  0     0  0  0  0  0  0999 V2000
+    2.8850    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  0  0  0
+    4.0010    4.4030    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8671    2.9030    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    3.9030    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    5.7331    4.4030    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    4.4030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5369    3.4030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9030    4.7690    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9030    3.0369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    3.9030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8671    3.9030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6675    4.8779    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8705    4.8779    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2269    3.9399    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.0930    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8469    2.8660    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4399    5.0790    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5930    5.3059    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3660    4.4590    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3660    2.7269    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2130    2.5000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4399    3.3469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7365    3.4280    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5335    3.4280    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2700    4.0930    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7331    5.0230    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2 10  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 25  1  0  0  0  0
+  5 26  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+M  CHG  2   1  -1   4   1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+5831
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+117
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBjMAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAQAAAAAADhgAYCCANABAAIAAAAGAAAAAAAAAAAAAAIAAECAAAAAAAJAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-carbamoyloxyethyl(trimethyl)ammonium chloride
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-carbamoyloxyethyl(trimethyl)ammonium chloride
+
+> <PUBCHEM_IUPAC_NAME>
+2-carbamoyloxyethyl(trimethyl)azanium chloride
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-aminocarbonyloxyethyl(trimethyl)azanium chloride
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-carbamoyloxyethyl(trimethyl)ammonium chloride
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C6H14N2O2.ClH/c1-8(2,3)4-5-10-6(7)9;/h4-5H2,1-3H3,(H-,7,9);1H
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+AIXAANGOTKPUOY-UHFFFAOYSA-N
+
+> <PUBCHEM_EXACT_MASS>
+182.082205
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C6H15ClN2O2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+182.6485
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C[N+](C)(C)CCOC(=O)N.[Cl-]
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C[N+](C)(C)CCOC(=O)N.[Cl-]
+
+> <PUBCHEM_CACTVS_TPSA>
+52.3
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+182.082205
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+11
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+2
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+2
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+

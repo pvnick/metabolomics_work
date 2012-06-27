@@ -1,0 +1,189 @@
+17395713
+  -OEChem-06241222512D
+
+ 35 36  0     0  0  0  0  0  0999 V2000
+    2.0000   -3.1307    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.3693    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -4.1307    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0981    2.9081    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4071    1.9571    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7891    1.9571    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6859    3.7172    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0981    2.9081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6804    3.6126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2791    4.6307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.1307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.1307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    1.3693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.6307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -1.6307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -3.1307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.6307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -2.6307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -4.6307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0503    4.2188    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8455    4.8829    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0270    5.1971    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6156    2.9960    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2970    3.5478    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7452    4.2292    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7127    4.3785    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7336    3.4097    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5200    0.4519    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1215   -0.2384    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291   -1.3207    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -1.3207    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -2.9407    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2881   -5.1676    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -4.9407    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9081   -4.0938    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3 16  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 27  1  0  0  0  0
+  5  8  2  0  0  0  0
+  5 13  1  0  0  0  0
+  6 13  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 20  1  0  0  0  0
+  9 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+  9 25  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 12 29  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 15 31  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 18 32  1  0  0  0  0
+ 19 33  1  0  0  0  0
+ 19 34  1  0  0  0  0
+ 19 35  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+17395713
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+283
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBzIABAEAAAAAAAAAAAAAAAAWAAAAAwAAAAAAAAAAABwAAAHgRYAAABrQSF2wKzFoZrFAiiAiJiJAAS2AvgILQdqAA2CKiMLiKkORqEMCAk2BMIqheAwAAOIAAAEAAABABAAAAgAAAIAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+3-[(3-bromo-4-methoxy-phenyl)methylsulfanyl]-5-isopropyl-1H-1,2,4-triazole
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+3-[(3-bromo-4-methoxyphenyl)methylthio]-5-propan-2-yl-1H-1,2,4-triazole
+
+> <PUBCHEM_IUPAC_NAME>
+3-[(3-bromo-4-methoxyphenyl)methylsulfanyl]-5-propan-2-yl-1H-1,2,4-triazole
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+3-[(3-bromanyl-4-methoxy-phenyl)methylsulfanyl]-5-propan-2-yl-1H-1,2,4-triazole
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+3-[(3-bromo-4-methoxy-benzyl)thio]-5-isopropyl-1H-1,2,4-triazole
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C13H16BrN3OS/c1-8(2)12-15-13(17-16-12)19-7-9-4-5-11(18-3)10(14)6-9/h4-6,8H,7H2,1-3H3,(H,15,16,17)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+FJZOWCCSOOAMDE-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+4.1
+
+> <PUBCHEM_EXACT_MASS>
+341.019745
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C13H16BrN3OS
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+342.25464
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(C)C1=NC(=NN1)SCC2=CC(=C(C=C2)OC)Br
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(C)C1=NC(=NN1)SCC2=CC(=C(C=C2)OC)Br
+
+> <PUBCHEM_CACTVS_TPSA>
+76.1
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+341.019745
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+19
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+5
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  14  8
+11  15  8
+14  17  8
+15  18  8
+16  17  8
+16  18  8
+4  6  8
+4  8  8
+5  13  8
+5  8  8
+6  13  8
+
+$$$$
+

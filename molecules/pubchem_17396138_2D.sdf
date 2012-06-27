@@ -1,0 +1,194 @@
+17396138
+  -OEChem-06241222542D
+
+ 37 38  0     1  0  0  0  0  0999 V2000
+    2.0000   -4.3080    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.8080    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    0.1920    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9128    2.5284    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.8080    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    1.6920    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2437    1.7853    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.1920    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.7320    0.6920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    0.6920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.6920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    2.1920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.3080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -2.3080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4347    3.1865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4128    3.3944    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.8080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -2.8080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -3.8080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -3.8080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8195    4.3080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -4.3080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -0.1180    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1215    0.7997    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5200    0.1094    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3520    1.6920    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    2.3120    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1120    1.6920    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9272    2.0020    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9739    3.6014    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291   -2.4980    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -2.4980    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -4.1180    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3859    4.0558    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0717    4.8744    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2531    4.5602    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -4.9280    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 19  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3 10  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5 13  2  0  0  0  0
+  6 10  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 29  1  0  0  0  0
+  7 12  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 23  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 24  1  0  0  0  0
+  9 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 11 28  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 30  1  0  0  0  0
+ 16 21  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 31  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 18 32  1  0  0  0  0
+ 19 22  2  0  0  0  0
+ 20 22  1  0  0  0  0
+ 20 33  1  0  0  0  0
+ 21 34  1  0  0  0  0
+ 21 35  1  0  0  0  0
+ 21 36  1  0  0  0  0
+ 22 37  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+17396138
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+407
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+6
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzOAAAEAAAAAAAAAAAAAAAAWAAAAAwAAAAAAAAAAABwAAAHgBUAAABrBShmgIzvJLQBACpAqPyegKCAAAlIgQpmCF2bPqKJjrAvZyHMYhm1QvY69eIyCCOAAAAEAAAAAAAAAAgAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1-[(5-methylisoxazol-3-yl)carbamoyl]propyl 3-bromobenzoate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+3-bromobenzoic acid [1-[(5-methyl-3-isoxazolyl)amino]-1-oxobutan-2-yl] ester
+
+> <PUBCHEM_IUPAC_NAME>
+[1-[(5-methyl-1,2-oxazol-3-yl)amino]-1-oxobutan-2-yl] 3-bromobenzoate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+[1-[(5-methyl-1,2-oxazol-3-yl)amino]-1-oxidanylidene-butan-2-yl] 3-bromanylbenzoate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+3-bromobenzoic acid 1-[(5-methylisoxazol-3-yl)carbamoyl]propyl ester
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H15BrN2O4/c1-3-12(14(19)17-13-7-9(2)22-18-13)21-15(20)10-5-4-6-11(16)8-10/h4-8,12H,3H2,1-2H3,(H,17,18,19)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+NXODTBBJUDJXDR-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+3.5
+
+> <PUBCHEM_EXACT_MASS>
+366.021519
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H15BrN2O4
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+367.1946
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCC(C(=O)NC1=NOC(=C1)C)OC(=O)C2=CC(=CC=C2)Br
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCC(C(=O)NC1=NOC(=C1)C)OC(=O)C2=CC(=CC=C2)Br
+
+> <PUBCHEM_CACTVS_TPSA>
+81.4
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+366.021519
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+22
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+10
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+12  15  8
+14  17  8
+14  18  8
+15  16  8
+17  19  8
+18  20  8
+19  22  8
+20  22  8
+4  16  8
+4  7  8
+7  12  8
+8  9  3
+
+$$$$
+

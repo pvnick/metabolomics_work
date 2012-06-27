@@ -1,0 +1,198 @@
+4705
+  -OEChem-06261200182D
+
+ 36 38  0     0  0  0  0  0  0999 V2000
+    8.0437   -3.5272    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.5272    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    2.5272    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3465   -0.5074    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3580    2.5619    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2641    1.0064    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    1.0272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    2.0272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3580    0.4926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.5272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.0272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    2.5272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    2.0272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2067   -1.0174    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2641    2.0480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1951   -2.0173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0784   -0.5274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0553   -2.5273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9386   -1.0374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9270   -2.0373    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.0272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    3.5272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.0928    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    3.1472    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8060   -0.8112    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7998    2.3601    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6546   -2.3211    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0856    0.0925    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4791   -0.7336    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4604   -2.3535    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100    1.5642    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631    1.3372    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900    0.4903    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4860    3.5272    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    4.1472    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2460    3.5272    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 22  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 25  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 15  2  0  0  0  0
+  6  9  2  0  0  0  0
+  6 15  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8 12  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 26  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 27  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 28  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 29  1  0  0  0  0
+ 20 30  1  0  0  0  0
+ 21 31  1  0  0  0  0
+ 21 32  1  0  0  0  0
+ 21 33  1  0  0  0  0
+ 22 34  1  0  0  0  0
+ 22 35  1  0  0  0  0
+ 22 36  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+4705
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+360
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccB7MAAAEAAAAAAAAAAAAAAAAAAAAAA8YIAAAAAAAACx9AAAHgBQAAABrAyBngY39vbIFACgAyZjZACCiCkxIqQJ2CA+7LiNLuLE+duENCpu0BvK6jew0BMOIEABAgECQABAgAIEAgSAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+N-(3-bromophenyl)-6,7-dimethoxy-quinazolin-4-amine
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+N-(3-bromophenyl)-6,7-dimethoxy-4-quinazolinamine
+
+> <PUBCHEM_IUPAC_NAME>
+N-(3-bromophenyl)-6,7-dimethoxyquinazolin-4-amine
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+N-(3-bromophenyl)-6,7-dimethoxy-quinazolin-4-amine
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(3-bromophenyl)-(6,7-dimethoxyquinazolin-4-yl)amine
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C16H14BrN3O2/c1-21-14-7-12-13(8-15(14)22-2)18-9-19-16(12)20-11-5-3-4-10(17)6-11/h3-9H,1-2H3,(H,18,19,20)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+LSPANGZZENHZNJ-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+4
+
+> <PUBCHEM_EXACT_MASS>
+359.026939
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C16H14BrN3O2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+360.20526
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+COC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC(=CC=C3)Br)OC
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+COC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC(=CC=C3)Br)OC
+
+> <PUBCHEM_CACTVS_TPSA>
+56.3
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+359.026939
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+22
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+3
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  11  8
+11  13  8
+12  13  8
+14  16  8
+14  17  8
+16  18  8
+17  19  8
+18  20  8
+19  20  8
+5  15  8
+5  8  8
+6  15  8
+6  9  8
+7  10  8
+7  8  8
+7  9  8
+8  12  8
+
+$$$$
+

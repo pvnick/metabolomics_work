@@ -1,0 +1,145 @@
+8704
+  -OEChem-06261203012D
+
+ 20 20  0     0  0  0  0  0  0999 V2000
+    4.6261   -0.5427    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.3215    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5471    2.4399    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.8215    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3660    0.7173    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0570   -0.2337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3660    0.7173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6750   -0.2337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.8215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9538    1.5264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4906    0.0185    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7470   -0.7706    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4308    1.3340    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7596    0.8462    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0781   -2.4041    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4766   -1.7138    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3845    1.0804    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4678    1.8731    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9115    2.9415    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.9415    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  2  0  0  0  0
+  2  9  1  0  0  0  0
+  2 20  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+8704
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+125
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBjMAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAAAAAAAAAAAAAAHgAACAAAAADBAAYBAAMAAgAIAAAAEAAAAAAAAAAAAAAIAACAUAAAAAAQAAAIBgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1,3-bis(hydroxymethyl)imidazolidin-2-one
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1,3-bis(hydroxymethyl)-2-imidazolidinone
+
+> <PUBCHEM_IUPAC_NAME>
+1,3-bis(hydroxymethyl)imidazolidin-2-one
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1,3-bis(hydroxymethyl)imidazolidin-2-one
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1,3-dimethylol-2-imidazolidinone
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C5H10N2O3/c8-3-6-1-2-7(4-9)5(6)10/h8-9H,1-4H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+WVJOGYWFVNTSAU-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+-1.1
+
+> <PUBCHEM_EXACT_MASS>
+146.069142
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C5H10N2O3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+146.1445
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1CN(C(=O)N1CO)CO
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1CN(C(=O)N1CO)CO
+
+> <PUBCHEM_CACTVS_TPSA>
+64
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+146.069142
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+10
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+

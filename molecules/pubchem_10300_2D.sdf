@@ -1,0 +1,145 @@
+10300
+  -OEChem-06261204262D
+
+ 20 20  0     0  0  0  0  0  0999 V2000
+    5.4641    1.4400    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.5600    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.9400    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.0600    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -1.5600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -2.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.5600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.5600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.5600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6762   -2.1426    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0747   -1.4523    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1996   -2.5349    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9966   -2.5349    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0747   -0.6677    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6762    0.0226    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1215   -1.4523    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5200   -2.1426    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0611    1.2500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    2.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1 20  1  0  0  0  0
+  2  4  2  0  0  0  0
+  3  9  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+10300
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+165
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBjMAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAHAAUCAAACAiBAAAAAABQAACBAARAQgAAAAAgAAAgCAAAAAgAAAIAgAAAAAAAkAAIAAMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+N-(2-nitrosocyclohexen-1-yl)hydroxylamine
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+N-(2-nitroso-1-cyclohexenyl)hydroxylamine
+
+> <PUBCHEM_IUPAC_NAME>
+N-(2-nitrosocyclohexen-1-yl)hydroxylamine
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+N-(2-nitrosocyclohexen-1-yl)hydroxylamine
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+N-(2-nitrosocyclohexen-1-yl)hydroxylamine
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C6H10N2O2/c9-7-5-3-1-2-4-6(5)8-10/h7,9H,1-4H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+IGRLVVLCDUAJSB-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+0.9
+
+> <PUBCHEM_EXACT_MASS>
+142.074228
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C6H10N2O2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+142.1558
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1CCC(=C(C1)NO)N=O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1CCC(=C(C1)NO)N=O
+
+> <PUBCHEM_CACTVS_TPSA>
+61.7
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+142.074228
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+10
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+7
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+

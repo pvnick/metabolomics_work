@@ -1,0 +1,196 @@
+17396287
+  -OEChem-06241222552D
+
+ 35 37  0     1  0  0  0  0  0999 V2000
+    6.3301    0.7500    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8744    0.9453    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -3.7500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    3.7500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    2.2500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -1.7500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    0.7500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -0.2500    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    5.4641   -0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282    2.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962   -0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282    1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    2.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -2.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8744    2.5547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4580    1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -3.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -3.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -3.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671    0.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8862   -1.2869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7331   -1.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5062   -0.2131    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6592    2.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -2.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0670    3.1440    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0780    1.7500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.1300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -3.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291   -1.9400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -4.3700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2 14  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3 23  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5 15  2  0  0  0  0
+  6 12  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 28  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 29  1  0  0  0  0
+  8 12  2  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 16 19  2  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 30  1  0  0  0  0
+ 18 31  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 19 32  1  0  0  0  0
+ 20 22  2  0  0  0  0
+ 20 33  1  0  0  0  0
+ 21 23  2  0  0  0  0
+ 21 34  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 35  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+17396287
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+509
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+6
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzMQBgAAAAAAAAAAAAAAAAASAAAAAwQAAAAAAAAEABwAAAHwQQAAAADAiF2AizwYLAAAisAiVSdACDEIFlChBJiBkAZMgIIDrg3ZGEIYhglADoyccQAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+N-(4-fluorophenyl)-2-[(4-oxo-3H-thieno[2,3-d]pyrimidin-2-yl)sulfanyl]propanamide
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+N-(4-fluorophenyl)-2-[(4-oxo-3H-thieno[2,3-d]pyrimidin-2-yl)thio]propanamide
+
+> <PUBCHEM_IUPAC_NAME>
+N-(4-fluorophenyl)-2-[(4-oxo-3H-thieno[2,3-d]pyrimidin-2-yl)sulfanyl]propanamide
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+N-(4-fluorophenyl)-2-[(4-oxidanylidene-3H-thieno[2,3-d]pyrimidin-2-yl)sulfanyl]propanamide
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+N-(4-fluorophenyl)-2-[(4-keto-3H-thieno[2,3-d]pyrimidin-2-yl)thio]propionamide
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H12FN3O2S2/c1-8(12(20)17-10-4-2-9(16)3-5-10)23-15-18-13(21)11-6-7-22-14(11)19-15/h2-8H,1H3,(H,17,20)(H,18,19,21)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+FOTPOYHPTLFABS-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+3.1
+
+> <PUBCHEM_EXACT_MASS>
+349.035497
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H12FN3O2S2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+349.403083
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(C(=O)NC1=CC=C(C=C1)F)SC2=NC3=C(C=CS3)C(=O)N2
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(C(=O)NC1=CC=C(C=C1)F)SC2=NC3=C(C=CS3)C(=O)N2
+
+> <PUBCHEM_CACTVS_TPSA>
+124
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+349.035497
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+23
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+12
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  14  8
+11  15  8
+11  17  8
+16  19  8
+16  20  8
+17  18  8
+19  21  8
+2  14  8
+2  18  8
+20  22  8
+21  23  8
+22  23  8
+6  12  8
+6  15  8
+8  12  8
+8  14  8
+9  13  3
+
+$$$$
+

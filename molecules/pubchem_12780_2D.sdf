@@ -1,0 +1,152 @@
+12780
+  -OEChem-06261207212D
+
+ 20 20  0     0  0  0  0  0  0999 V2000
+    2.8090    0.2239    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4712   -0.1154    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5691    0.5026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7770   -0.4755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6180    0.8116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7281   -0.7845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3090    1.7627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9360   -1.7627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3090    1.7627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.8116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1887    0.5243    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6554    1.1166    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1574   -0.4972    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6907   -1.0895    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6734    2.2643    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3295   -1.8916    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0649   -2.3691    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5424   -1.6338    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9446    2.2643    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4103    0.6200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+12780
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+120
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBwMAAAAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAAAAABgAAAGgAAAAAACASgkAIyBIAABECIAKhSgAACCAAkIAAIiAEGCMgMJjKENRqCGSCkwBEIqYeLyKCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+4-(2-furyl)butan-2-one
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+4-(2-furanyl)-2-butanone
+
+> <PUBCHEM_IUPAC_NAME>
+4-(furan-2-yl)butan-2-one
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+4-(furan-2-yl)butan-2-one
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+4-(2-furyl)butan-2-one
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H10O2/c1-7(9)4-5-8-3-2-6-10-8/h2-3,6H,4-5H2,1H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+GGJUJWSDTDBTLX-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3>
+0.8
+
+> <PUBCHEM_EXACT_MASS>
+138.06808
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C8H10O2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+138.1638
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(=O)CCC1=CC=CO1
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(=O)CCC1=CC=CO1
+
+> <PUBCHEM_CACTVS_TPSA>
+30.2
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+138.06808
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+10
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+3
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+1  10  8
+1  5  8
+5  7  8
+7  9  8
+9  10  8
+
+$$$$
+

@@ -1,0 +1,183 @@
+9703
+  -OEChem-06261203582D
+
+ 37 36  0     0  0  0  0  0  0999 V2000
+    6.5380    4.2869    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    7.0369    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    7.0369    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    2.0369    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    1.0369    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    8.0369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    3.5369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    5.5369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    6.5369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    2.5369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0010    8.5369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    8.5369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    4.0369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    4.0369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    5.0369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    5.0369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5369    0.5369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6720    7.7269    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6720    6.7269    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4810    1.9543    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8796    2.6446    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3110    8.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5380    8.8469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6910    9.0739    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5790    9.0739    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7320    8.8469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9590    8.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6720    3.7269    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8660    3.7269    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6720    5.3469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8660    5.3469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8660    2.3469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9399    0.7269    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2269    1.0739    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.2269    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8469    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5380    4.2869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 37  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 32  1  0  0  0  0
+  5 17  1  0  0  0  0
+  5 33  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 13  2  0  0  0  0
+  7 14  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 15  2  0  0  0  0
+  8 16  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 29  1  0  0  0  0
+ 15 30  1  0  0  0  0
+ 16 31  1  0  0  0  0
+ 17 34  1  0  0  0  0
+ 17 35  1  0  0  0  0
+ 17 36  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+9703
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+210
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+4
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBzIAAEAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAHgAYAAAADCjBmAQyAILiAACIAiFSEACCAAAkAAIYqIEIBMgIIDKAlRGEIQhglgCIiYcYiACOQAAAAAAAAACAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+N-isopropyl-4-[(2-methylhydrazino)methyl]benzamide hydrochloride
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+4-[(methylhydrazo)methyl]-N-propan-2-ylbenzamide hydrochloride
+
+> <PUBCHEM_IUPAC_NAME>
+4-[(2-methylhydrazinyl)methyl]-N-propan-2-ylbenzamide hydrochloride
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+4-[(2-methylhydrazinyl)methyl]-N-propan-2-yl-benzamide hydrochloride
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+N-isopropyl-4-[(N'-methylhydrazino)methyl]benzamide hydrochloride
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C12H19N3O.ClH/c1-9(2)15-12(16)11-6-4-10(5-7-11)8-14-13-3;/h4-7,9,13-14H,8H2,1-3H3,(H,15,16);1H
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+DERJYEZSLHIUKF-UHFFFAOYSA-N
+
+> <PUBCHEM_EXACT_MASS>
+257.12949
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C12H20ClN3O
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+257.7597
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(C)NC(=O)C1=CC=C(C=C1)CNNC.Cl
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(C)NC(=O)C1=CC=C(C=C1)CNNC.Cl
+
+> <PUBCHEM_CACTVS_TPSA>
+53.2
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+257.12949
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+17
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+2
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+2
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+13  15  8
+14  16  8
+7  13  8
+7  14  8
+8  15  8
+8  16  8
+
+$$$$
+

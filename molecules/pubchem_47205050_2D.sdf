@@ -1,0 +1,195 @@
+47205050
+  -OEChem-06241222572D
+
+ 35 37  0     0  0  0  0  0  0999 V2000
+    3.3987    0.7521    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2647   -0.7479    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5896   -2.8357    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8987   -3.7868    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1307    1.7521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9967    2.2521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1307    0.7521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9967    3.2521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2647    2.2521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2647    0.2521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8907    1.7174    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1307    3.7521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3987   -1.2479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2647    3.2521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8907    3.7868    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3987   -2.2479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7968    2.2313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7968    3.2729    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2077   -2.8357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8987   -3.7868    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3428    0.1695    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7413    0.8598    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7278    1.9421    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8835    1.0975    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1307    4.3721    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1866   -0.6653    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7881   -1.3556    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7278    3.5621    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8016   -1.0579    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8835    4.4067    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3325    1.9192    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3325    3.5850    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7973   -2.6441    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.6441    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2631   -4.2883    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  2  0  0  0  0
+  2 10  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 29  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 16  1  0  0  0  0
+  3 34  1  0  0  0  0
+  4 20  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  2  0  0  0  0
+  7 10  1  0  0  0  0
+  7 21  1  0  0  0  0
+  7 22  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 15  2  0  0  0  0
+  9 14  1  0  0  0  0
+  9 23  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 25  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 15 30  1  0  0  0  0
+ 16 19  2  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 31  1  0  0  0  0
+ 18 32  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 33  1  0  0  0  0
+ 20 35  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+47205050
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+334
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccB7IAAAAAAAAAAAAAAAAAAAAWAAAAAwYAAAAAAAAADB1AAAHgAYAAAADAjBngQ8gNLjAACqAzV3UACSBAAgggAYuaE4ZJgIYLKA1dGUpAhgngCIyAcYiMCOgAACAAAQAAAAAAQAACAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-(1-naphthyl)-N-(1H-pyrazol-5-ylmethyl)acetamide
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-(1-naphthalenyl)-N-(1H-pyrazol-5-ylmethyl)acetamide
+
+> <PUBCHEM_IUPAC_NAME>
+2-naphthalen-1-yl-N-(1H-pyrazol-5-ylmethyl)acetamide
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-naphthalen-1-yl-N-(1H-pyrazol-5-ylmethyl)ethanamide
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-(1-naphthyl)-N-(1H-pyrazol-5-ylmethyl)acetamide
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C16H15N3O/c20-16(17-11-14-8-9-18-19-14)10-13-6-3-5-12-4-1-2-7-15(12)13/h1-9H,10-11H2,(H,17,20)(H,18,19)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+RPCJOWDDTCUVML-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+2.2
+
+> <PUBCHEM_EXACT_MASS>
+265.121512
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C16H15N3O
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+265.3098
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=CC=C2C(=C1)C=CC=C2CC(=O)NCC3=CC=NN3
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=CC=C2C(=C1)C=CC=C2CC(=O)NCC3=CC=NN3
+
+> <PUBCHEM_CACTVS_TPSA>
+57.8
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+265.121512
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+20
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+4
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  17  8
+12  14  8
+15  18  8
+16  19  8
+17  18  8
+19  20  8
+3  16  8
+3  4  8
+4  20  8
+5  6  8
+5  9  8
+6  11  8
+6  8  8
+8  12  8
+8  15  8
+9  14  8
+
+$$$$
+

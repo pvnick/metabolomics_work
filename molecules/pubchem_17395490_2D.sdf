@@ -1,0 +1,188 @@
+17395490
+  -OEChem-06241222502D
+
+ 36 37  0     1  0  0  0  0  0999 V2000
+    2.8660    2.2694    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0052   -2.8184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    0.7694    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    3.7694    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.7320    3.7694    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -0.7306    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    3.2694    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    7.1962   -2.2306    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    6.3871   -2.8184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6962   -3.7694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6962   -3.7694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962   -1.2306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    0.2694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    0.7694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    1.7694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.2694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    2.2694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.7694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.7694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.7694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7486   -1.9491    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0771   -2.2814    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8207   -3.0705    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0897   -3.8983    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7610   -4.3860    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6313   -4.3860    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3026   -3.8983    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8067   -1.3382    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4082   -0.6480    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7932   -1.0406    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    2.0794    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.3506    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1951    0.4594    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900    2.3064    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631    1.4594    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100    1.2325    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  1 20  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3 13  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 30  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 12 29  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 31  1  0  0  0  0
+ 16 19  2  0  0  0  0
+ 16 32  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 33  1  0  0  0  0
+ 20 34  1  0  0  0  0
+ 20 35  1  0  0  0  0
+ 20 36  1  0  0  0  0
+M  CHG  2   4  -1   7   1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+17395490
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+361
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBzOABAAAAAAAAAAAAAAAAAASAAAAAwAAAAAAAAAAABAAAAHgQUAAAADBzh2AaywYLQRAiJAiVSUwCCAAAkChAoiJ0IZMoKIDKglZGHIQhklgCYyYecmAKOEAAAQAAAAQAgAACAAAACAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+4-methylsulfanyl-3-nitro-N-(tetrahydrofuran-2-ylmethyl)benzamide
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+4-(methylthio)-3-nitro-N-(2-oxolanylmethyl)benzamide
+
+> <PUBCHEM_IUPAC_NAME>
+4-methylsulfanyl-3-nitro-N-(oxolan-2-ylmethyl)benzamide
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+4-methylsulfanyl-3-nitro-N-(oxolan-2-ylmethyl)benzamide
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+4-(methylthio)-3-nitro-N-(tetrahydrofurfuryl)benzamide
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C13H16N2O4S/c1-20-12-5-4-9(7-11(12)15(17)18)13(16)14-8-10-3-2-6-19-10/h4-5,7,10H,2-3,6,8H2,1H3,(H,14,16)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+GKGXQYYMMNWGBW-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+1.9
+
+> <PUBCHEM_EXACT_MASS>
+296.083078
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C13H16N2O4S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+296.34214
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CSC1=C(C=C(C=C1)C(=O)NCC2CCCO2)[N+](=O)[O-]
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CSC1=C(C=C(C=C1)C(=O)NCC2CCCO2)[N+](=O)[O-]
+
+> <PUBCHEM_CACTVS_TPSA>
+109
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+296.083078
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+20
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+2
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+14  15  8
+14  16  8
+15  17  8
+16  19  8
+17  18  8
+18  19  8
+8  12  3
+
+$$$$
+

@@ -1,0 +1,148 @@
+11980
+  -OEChem-06261206212D
+
+ 18 18  0     0  0  0  0  0  0999 V2000
+    4.7770   -0.4755    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8090    0.2239    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3122    1.1718    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7281   -0.7845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6180    0.8116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5691    0.5026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3090    1.7627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9360   -1.7627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3090    1.7627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.8116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3477   -0.7629    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8144   -0.1706    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3295   -1.8916    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0649   -2.3691    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5424   -1.6338    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6734    2.2643    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9446    2.2643    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4103    0.6200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  8  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+11980
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+122
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBgMAAAAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAAAAABgAAAGgAAAAAACASgkAIyDIAABECIAKjSiAICCAAkIAAIiAFGCMgNJjKENR6CGSCkwBEKqYaIJggAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+ethyl furan-2-carboxylate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-furancarboxylic acid ethyl ester
+
+> <PUBCHEM_IUPAC_NAME>
+ethyl furan-2-carboxylate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+ethyl furan-2-carboxylate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+furan-2-carboxylic acid ethyl ester
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C7H8O3/c1-2-9-7(8)6-4-3-5-10-6/h3-5H,2H2,1H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+NHXSTXWKZVAVOQ-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3>
+1.5
+
+> <PUBCHEM_EXACT_MASS>
+140.047344
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C7H8O3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+140.13662
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCOC(=O)C1=CC=CO1
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCOC(=O)C1=CC=CO1
+
+> <PUBCHEM_CACTVS_TPSA>
+39.4
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+140.047344
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+10
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+2  10  8
+2  5  8
+5  7  8
+7  9  8
+9  10  8
+
+$$$$
+

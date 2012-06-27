@@ -1,0 +1,153 @@
+14047
+  -OEChem-06241222412D
+
+ 26 24  0     0  0  0  0  0  0999 V2000
+    5.7331    3.6200    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+    4.8671    3.1200    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.0010    4.6200    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    3.1200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    3.6200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    2.1200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    3.1200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    1.6200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0010    3.6200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5369    3.6200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    0.6200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    3.7400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8705    4.0949    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6675    4.0949    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7456    2.2277    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3471    1.5374    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0044    2.6451    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8015    2.6451    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0569    2.2026    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6584    1.5123    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8469    4.1569    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.9300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2269    3.0831    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6490    0.6200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8890    0.6200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  9  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+M  CHG  2   1   1   2  -1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+14047
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+87.9
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBwMCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgAAAAAADQCAgAACCAAAAAAIAACQCAAAAAAAAAAAAAEAAAAAABIAAAAAAAAEAAAAAAGIgAAOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+sodium 2-propylpentanoate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+sodium 2-propylpentanoate
+
+> <PUBCHEM_IUPAC_NAME>
+sodium 2-propylpentanoate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+sodium 2-propylpentanoate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+sodium 2-propylvalerate
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H16O2.Na/c1-3-5-7(6-4-2)8(9)10;/h7H,3-6H2,1-2H3,(H,9,10);/q;+1/p-1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+AEQFSUDEHCCHBT-UHFFFAOYSA-M
+
+> <PUBCHEM_EXACT_MASS>
+166.096974
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C8H15NaO2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+166.193269
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCCC(CCC)C(=O)[O-].[Na+]
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCCC(CCC)C(=O)[O-].[Na+]
+
+> <PUBCHEM_CACTVS_TPSA>
+40.1
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+166.096974
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+11
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+2
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+

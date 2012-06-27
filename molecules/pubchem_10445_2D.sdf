@@ -1,0 +1,128 @@
+10445
+  -OEChem-06261204332D
+
+ 12 11  0     0  0  0  0  0  0999 V2000
+    3.7321    0.2500    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.2500    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.2500    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -0.2500    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.2500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    1.2500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.8700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -0.8700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291   -1.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    1.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 12  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+10445
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+96.6
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+6
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+4
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYBDAABwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQQAAAAAAAAAAAAAABAAAQgAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+[(sulfanylcarbonimidoyl)disulfanyl]methanimidothioic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+[[imino(mercapto)methyl]disulfanyl]methanimidothioic acid
+
+> <PUBCHEM_IUPAC_NAME>
+[(C-sulfanylcarbonimidoyl)disulfanyl]methanimidothioic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+[(C-sulfanylcarbonimidoyl)disulfanyl]methanimidothioic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+[(mercaptocarbonimidoyl)disulfanyl]thioformimidic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C2H4N2S4/c3-1(5)7-8-2(4)6/h(H2,3,5)(H2,4,6)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+CSNJTIWCTNEOSW-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+1.8
+
+> <PUBCHEM_EXACT_MASS>
+183.925732
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C2H4N2S4
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+184.32656
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(=N)(S)SSC(=N)S
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C(=N)(S)SSC(=N)S
+
+> <PUBCHEM_CACTVS_TPSA>
+100
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+183.925732
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+8
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+3
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+
