@@ -1,1 +1,0 @@
-/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/asa_calc.dir/main.cpp.o  -o asa_calc  -lchemkit 
