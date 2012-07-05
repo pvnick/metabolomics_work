@@ -3,12 +3,26 @@
 KEGG_ID=$1
 PUBCHEM_ID=$2
 
-SDF_2D_MOLECULE_PATH="../molecules/pubchem_"$PUBCHEM_ID"_2D.sdf"
-SDF_3D_MOLECULE_PATH="../molecules/pubchem_"$PUBCHEM_ID"_3D.sdf"
+DATASHEET_FILE="../molecules/pubchem_"$PUBCHEM_ID"_data.dat"
 
-NUMERIC_PUBCHEM_PROPERTIES="PUBCHEM_MOLECULAR_WEIGHT	PUBCHEM_MONOISOTOPIC_WEIGHT	PUBCHEM_EXACT_MASS	PUBCHEM_TOTAL_CHARGE	PUBCHEM_COMPONENT_COUNT	PUBCHEM_HEAVY_ATOM_COUNT	PUBCHEM_ISOTOPIC_ATOM_COUNT	PUBCHEM_ATOM_DEF_STEREO_COUNT	PUBCHEM_ATOM_UDEF_STEREO_COUNT	PUBCHEM_BOND_DEF_STEREO_COUNT	PUBCHEM_BOND_UDEF_STEREO_COUNT	PUBCHEM_CACTVS_TAUTO_COUNT	PUBCHEM_CACTVS_HBOND_ACCEPTOR	PUBCHEM_CACTVS_HBOND_DONOR	PUBCHEM_CACTVS_ROTATABLE_BOND	PUBCHEM_CACTVS_COMPLEXITY	PUBCHEM_CACTVS_TPSA	PUBCHEM_XLOGP3	PUBCHEM_XLOGP3_AA	PUBCHEM_OPENEYE_TAUTO_COUNT	PUBCHEM_EFFECTIVE_ROTOR_COUNT	PUBCHEM_CONFORMER_RMSD	PUBCHEM_SHAPE_VOLUME	PUBCHEM_MMFF94_ENERGY	PUBCHEM_SHAPE_SELFOVERLAP	PUBCHEM_FEATURE_SELFOVERLAP"			
-
-for PUBCHEM_PROP in $NUMERIC_PUBCHEM_PROPERTIES; do
-	./lookup_and_set_molecule_prop_if_present.sh $SDF_2D_MOLECULE_PATH $KEGG_ID $PUBCHEM_PROP
-	./lookup_and_set_molecule_prop_if_present.sh $SDF_3D_MOLECULE_PATH $KEGG_ID $PUBCHEM_PROP
-done
+./store_molecule_property_if_extant.sh $KEGG_ID $DATASHEET_FILE "Molecular Weight" "PUBCHEM_MOLECULAR_WEIGHT"
+./store_molecule_property_if_extant.sh $KEGG_ID $DATASHEET_FILE "XLogP3-AA" "PUBCHEM_XLOGP"
+./store_molecule_property_if_extant.sh $KEGG_ID $DATASHEET_FILE "H-Bond Donor" "PUBCHEM_HBOND_DONOR"
+./store_molecule_property_if_extant.sh $KEGG_ID $DATASHEET_FILE "H-Bond Acceptor" "PUBCHEM_HBOND_ACCEPTOR"
+./store_molecule_property_if_extant.sh $KEGG_ID $DATASHEET_FILE "Rotatable Bond Count" "ROTATABLE_BOND_COUNT"
+./store_molecule_property_if_extant.sh $KEGG_ID $DATASHEET_FILE "Exact Mass" "PUBCHEM_EXACT_MASS"
+./store_molecule_property_if_extant.sh $KEGG_ID $DATASHEET_FILE "MonoIsotopic Mass" "PUBCHEM_MONOISOTOPIC_MASS"
+./store_molecule_property_if_extant.sh $KEGG_ID $DATASHEET_FILE "Topological Polar Surface Area" "PUBCHEM_TPSA"
+./store_molecule_property_if_extant.sh $KEGG_ID $DATASHEET_FILE "Heavy Atom Count" "PUBCHEM_HEAVY_ATOM_COUNT"
+./store_molecule_property_if_extant.sh $KEGG_ID $DATASHEET_FILE "Formal Charge" "PUBCHEM_FORMAL_CHARGE"
+./store_molecule_property_if_extant.sh $KEGG_ID $DATASHEET_FILE "Complexity" "PUBCHEM_COMPLEXITY"
+./store_molecule_property_if_extant.sh $KEGG_ID $DATASHEET_FILE "Isotope Atom Count" "PUBCHEM_ISOTOPE_ATOM_COUNT"
+./store_molecule_property_if_extant.sh $KEGG_ID $DATASHEET_FILE "Defined Atom Stereocenter Count" "PUBCHEM_DEFINED_ATOM_ATEREOCENTER_COUNT"
+./store_molecule_property_if_extant.sh $KEGG_ID $DATASHEET_FILE "Undefined Atom Stereocenter Count" "PUBCHEM_UNDEFINED_ATOM_STEREOCENTER_COUNT"
+./store_molecule_property_if_extant.sh $KEGG_ID $DATASHEET_FILE "Defined Bond Stereocenter Count" "PUBCHEM_DEFINED_BOND_STEREOCENTER_COUNT"
+./store_molecule_property_if_extant.sh $KEGG_ID $DATASHEET_FILE "Undefined Bond Stereocenter Count" "PUBCHEM_UNDEFINED_BOND_STEREOCENTER_COUNT"
+./store_molecule_property_if_extant.sh $KEGG_ID $DATASHEET_FILE "Covalently-Bonded Unit Count" "PUBCHEM_COVALENTLY_BONDED_UNIT_COUNT"
+./store_molecule_property_if_extant.sh $KEGG_ID $DATASHEET_FILE "Feature 3D Acceptor Count" "PUBCHEM_FEATURE_3D_ACCEPTOR_COUNT"
+./store_molecule_property_if_extant.sh $KEGG_ID $DATASHEET_FILE "Feature 3D Anion Count" "PUBCHEM_FEATURE_3D_ANION_COUNT"
+./store_molecule_property_if_extant.sh $KEGG_ID $DATASHEET_FILE "Effective Rotor Count" "PUBCHEM_EFFECTIVE_ROTOR_COUNT"
+./store_molecule_property_if_extant.sh $KEGG_ID $DATASHEET_FILE "Conformer Sampling RMSD" "PUBCHEM_CONFORMER_SAMPLING_RMSD"
