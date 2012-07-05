@@ -1,0 +1,49 @@
+   Color/Form
+        Crystals from methanol
+   from [1]HSDB
+
+   Melting Point
+        228-230 deg C (decomposes)
+   from [2]HSDB
+
+   Spectral Properties
+
+     * UV max (water): 241 nm (epsilon 8767); (0.01 N HCl): 249 nm
+       (epsilon 3077); (0.01 N KOH): 223 nm (epsilon 24200)
+     * Optical rotation: + 39 degrees @ 25 deg C (c = 1 in water)
+
+   from [3]HSDB
+
+   Computed Properties
+   Molecular Weight                  244.20468 [g/mol]
+   Molecular Formula                 C[8]H[12]N[4]O[5]
+   XLogP3                            -2.2
+   H-Bond Donor                      4
+   H-Bond Acceptor                   5
+   Rotatable Bond Count              2
+   Tautomer Count                    3
+   Exact Mass                        244.08077
+   MonoIsotopic Mass                 244.08077
+   Topological Polar Surface Area    141
+   Heavy Atom Count                  17
+   Formal Charge                     0
+   Complexity                        384
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   4
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         5
+   Feature 3D Donor Count            5
+   Feature 3D Ring Count             2
+   Effective Rotor Count             3
+   Conformer Sampling RMSD           0.6
+   CID Conformer Count               [4]14
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+320-67-2
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+320-67-2
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+320-67-2
+   4. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=9444

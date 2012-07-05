@@ -1,0 +1,88 @@
+   Color/Form
+        Yellow oil
+   from [1]HSDB
+
+   Boiling Point
+        116 deg C at 14 mm Hg
+   from [2]HSDB
+
+   Density/Specific Gravity
+        0.9009 at 20 deg C/4 deg C
+   from [3]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = 2.63
+   from [4]HSDB
+
+   Solubilities
+
+     * Sol in water 0.12%, org solvents and vegetable oils
+     * In water, 1.27X10+3 mg/L at 24 deg C [Mirvish SS et al; J Natl
+       Cancer Inst 56: 1125-9 (1976)] [5]PubMed Abstract
+
+   from [6]HSDB
+
+   Spectral Properties
+
+     * Index of refraction: 1.4475 at 20 deg C/D; max absorption (water):
+       233 nm (epsilon= 441.7, 1%, 1 cm), 347 nm (epsilon= 5.6, 1%, 1 cm)
+     * Ultraviolet absorption maxima values; solvent: Water (230 nm, 347
+       nm)
+     * MASS: 574 (National Bureau of Standards EPA-NIH Mass Spectra Data
+       Base, NSRDS-NBS-63)
+
+   from [7]HSDB
+
+   Vapor Pressure
+        4.69X10-2 mm Hg at 25 deg C /Extrapolated/ [Klein RG; Toxicology
+   23: 135-48 (1982)] [8]PubMed Abstract
+   from [9]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Can be easily split by hydrogen bromide in acetic acid
+     * Henry's Law constant = 1.32X10-5 atm-cu m/mol at 37 deg C [Mirvish
+       SS et al; J Natl Cancer Inst 56: 1125-9 (1976)] [10]PubMed Abstract
+     * Hydroxyl radical reaction rate constant = 2.68X10-11 cu
+       cm/molecule-sec at 25 deg C at 25 deg C /Estimated/
+
+   from [11]HSDB
+
+   Computed Properties
+   Molecular Weight                  158.24132 [g/mol]
+   Molecular Formula                 C[8]H[18]N[2]O
+   XLogP3                            2.6
+   H-Bond Donor                      0
+   H-Bond Acceptor                   3
+   Rotatable Bond Count              6
+   Exact Mass                        158.141913
+   MonoIsotopic Mass                 158.141913
+   Topological Polar Surface Area    32.7
+   Heavy Atom Count                  11
+   Formal Charge                     0
+   Complexity                        88.1
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Hydrophobe Count       2
+   Effective Rotor Count             7
+   Conformer Sampling RMSD           0.8
+   CID Conformer Count               [12]73
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+924-16-3
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+924-16-3
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+924-16-3
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+924-16-3
+   5. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=994213
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+924-16-3
+   7. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+924-16-3
+   8. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=7112590
+   9. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+924-16-3
+  10. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=994213
+  11. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+924-16-3
+  12. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=13542

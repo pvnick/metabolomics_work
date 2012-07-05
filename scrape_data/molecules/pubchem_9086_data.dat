@@ -1,0 +1,50 @@
+   Octanol/Water Partition Coefficient
+        logP = 1.13
+   from [1]HSDB
+
+   pH
+        PH: (1% SOLN, WT/VOL) BETWEEN 6.8 & 7.5
+   from [2]HSDB
+
+   Other Chemical/Physical Properties
+        WHITE TO OFF-WHITE, CRYSTALLINE POWDER; BITTER TASTE; HYGROSCOPIC;
+   ODORLESS; PKA1: 2.76; PKA2: 3.5; SPECIFIC OPTICAL ROTATION: +175 TO
+   +185 DEG; 1 G SOL IN 1.2 ML WATER, 25 ML ALCOHOL; SOL IN METHANOL, DIL
+   ALKALI, DIL ACID; INSOL IN ACETONE, CHLOROFORM, ETHER /DISODIUM/
+   from [3]HSDB
+
+   Computed Properties
+   Molecular Weight                  378.39962 [g/mol]
+   Molecular Formula                 C[17]H[18]N[2]O[6]S
+   XLogP3                            1.1
+   H-Bond Donor                      3
+   H-Bond Acceptor                   7
+   Rotatable Bond Count              5
+   Tautomer Count                    4
+   Exact Mass                        378.088557
+   MonoIsotopic Mass                 378.088557
+   Topological Polar Surface Area    149
+   Heavy Atom Count                  26
+   Formal Charge                     0
+   Complexity                        645
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   3
+   Undefined Atom Stereocenter Count 1
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         6
+   Feature 3D Donor Count            1
+   Feature 3D Anion Count            3
+   Feature 3D Hydrophobe Count       1
+   Feature 3D Ring Count             2
+   Effective Rotor Count             6.8
+   Conformer Sampling RMSD           0.8
+   CID Conformer Count               [4]68
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+4697-36-3
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+4697-36-3
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+4697-36-3
+   4. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=20824

@@ -1,0 +1,111 @@
+   Color/Form
+        Needles from benzene-petroleum ether
+   from [1]HSDB
+
+   Taste
+        Taste threshold in water: 0.3 ug/l
+   from [2]HSDB
+
+   Boiling Point
+        253 deg C
+   from [3]HSDB
+
+   Melting Point
+        68 deg C
+   from [4]HSDB
+
+   Dissociation Constants
+        pKa = 8.63
+   from [5]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = 3.33
+   from [6]HSDB
+
+   Solubilities
+
+     * Very soluble in ethanol, ethyl ether; soluble in benzene, petroleum
+       ether
+     * In water, 9,260 mg/L at 25 deg C
+
+   from [7]HSDB
+
+   Spectral Properties
+
+     * MAX ABSORPTION (0.1 N NAOH): 244 NM (LOG E= 4.12); 302 NM (LOG E=
+       3.51)
+     * IR: 17124 (Sadtler Research Laboratories Prism Collection)
+     * UV: 5405 (Sadtler Research Laboratories Spectral Collection)
+     * NMR: 12791 (Sadtler Research Laboratories Spectral Collection)
+     * MASS: 43743 (NIST/EPA/MSDC Mass Spectral Database, 1990 version);
+       628 (National Bureau of Standards EPA-NIH Mass Spectra Data Base,
+       NSRDS-NBS-63)
+
+   from [8]HSDB
+
+   Vapor Pressure
+        1.73X10-2 mm Hg at 25 deg C (est)
+   from [9]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Aqueous solutions of Fenton's reagent iron (2+)+ hydrogen peroxide
+       have been used to affect the total decomposition of the
+       chlorophenols: 2-chlorophenol, 3-chlorophenol, 4-chlorophenol,
+       3,4-dichlorophenol and 2,4,5-trichorophenol. The mineralization of
+       these chlorinated aromatic substrates to carbon dioxide and free
+       chloride has been studied as a function of iron (2+)+ hydrogen
+       peroxide and perchloric acid. Increasing the concentration of iron
+       (2+)+ hydrogen peroxide enhances the decomposition process, while
+       an increase in the concentration of perchloric acid, inhibits the
+       reaction. The presence of iron (3+) alone without any iron (2+)
+       with hydrogen peroxide has no effect on the degradation of the
+       chlorophenols. In all cases, the stoichiometric quantity of free
+       chloride was obtained at the completion of the decomposition
+       reaction; but the rates of disappearance of the chlorophenol and of
+       the formation of the chloride are not similar.
+     * Henry's Law constant = 3.08X10-7 atm-cu m/mol at 25 deg C (est)
+     * Hydroxyl radical reaction rate constant = 6.99X10-12 cu
+       cm/molec-sec at 25 deg C (est)
+
+   from [10]HSDB
+
+   Computed Properties
+   Molecular Weight                  163.00136 [g/mol]
+   Molecular Formula                 C[6]H[4]Cl[2]O
+   XLogP3                            3.3
+   H-Bond Donor                      1
+   H-Bond Acceptor                   1
+   Rotatable Bond Count              0
+   Tautomer Count                    3
+   Exact Mass                        161.96392
+   MonoIsotopic Mass                 161.96392
+   Topological Polar Surface Area    20.2
+   Heavy Atom Count                  9
+   Formal Charge                     0
+   Complexity                        97.1
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Donor Count            1
+   Feature 3D Ring Count             1
+   Effective Rotor Count             0
+   Conformer Sampling RMSD           0.4
+   CID Conformer Count               [11]1
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+95-77-2
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+95-77-2
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+95-77-2
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+95-77-2
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+95-77-2
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+95-77-2
+   7. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+95-77-2
+   8. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+95-77-2
+   9. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+95-77-2
+  10. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+95-77-2
+  11. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=7258

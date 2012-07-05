@@ -1,0 +1,69 @@
+   Octanol/Water Partition Coefficient
+        log Kow = 9.52 (est)
+   from [1]HSDB
+
+   Solubilities
+        In water, 3.6X10-6 mg/L at 25 deg C (est)
+   from [2]HSDB
+
+   Spectral Properties
+        Optically active
+   from [3]HSDB
+
+   Vapor Pressure
+        4.14X10-21 mm Hg at 25 deg C (est)
+   from [4]HSDB
+
+   Other Chemical/Physical Properties
+
+     * MW 608.17, Hygroscopic, white to off-white powder. Freely sol in
+       ethanol, methanol, water. Practically insol in acetonitrile
+       /Monosodium salt/
+     * Henry's Law constant = 1.42X10-20 atm-cu m/mole at 25 deg C (est)
+     * Hydroxyl radical reaction rate constant = 1.06X10-14 cu
+       cm/molec-sec at 25 deg C (est) /cis isomer/
+     * Hydroxyl radical reaction rate constant = 1.14X10-14 cu
+       cm/molec-sec at 25 deg C (est) /trans isomer/
+     * Ozone reaction rate constant = 1.3X10-18 cu cm/molec-sec at 25 deg
+       C (est) /cis isomer/
+     * Ozone reaction rate constant = 2.5X10-18 cu cm/molec-sec at 25 deg
+       C (est) /trans isomer/
+
+   from [5]HSDB
+
+   Computed Properties
+   Molecular Weight                  586.18324 [g/mol]
+   Molecular Formula                 C[35]H[36]ClNO[3]S
+   XLogP3-AA                         7.7
+   H-Bond Donor                      2
+   H-Bond Acceptor                   5
+   Rotatable Bond Count              12
+   Exact Mass                        585.210443
+   MonoIsotopic Mass                 585.210443
+   Topological Polar Surface Area    95.7
+   Heavy Atom Count                  41
+   Formal Charge                     0
+   Complexity                        891
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   1
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   1
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         4
+   Feature 3D Donor Count            1
+   Feature 3D Anion Count            1
+   Feature 3D Hydrophobe Count       2
+   Feature 3D Ring Count             4
+   Effective Rotor Count             12.6
+   Conformer Sampling RMSD           1.2
+   CID Conformer Count               [6]217
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+158966-92-8
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+158966-92-8
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+158966-92-8
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+158966-92-8
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+158966-92-8
+   6. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=5281040

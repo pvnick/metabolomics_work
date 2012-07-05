@@ -1,0 +1,106 @@
+   Color/Form
+        Viscous liquid
+   from [1]HSDB
+
+   Melting Point
+        59 deg C
+   from [2]HSDB
+
+   Dissociation Constants
+        pKa = 7.75
+   from [3]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = 0.98
+   from [4]HSDB
+
+   Solubilities
+
+     * Sol in 9.5 parts water at 15 deg C; freely sol in alcohol, ether,
+       chloroform, acetone; sparingly sol in benzene, petroleum ether
+     * Very soluble in hot water
+     * In water, 1.0X10+5 mg/L, temp not specified
+
+   from [5]HSDB
+
+   Spectral Properties
+
+     * Intense mass spectral peaks: 94 m/z, 138 m/z, 154 m/z, 285 m/z, 303
+       m/z
+     * Specific optical rotation: -28 deg at 20 deg C/D ( c = 2.7)
+     * MASS: 79741 (NIST/EPA/MSDC Mass Spectral database, 1990 version);
+       2275 (National Bureau of Standards)
+
+   from [6]HSDB
+
+   Vapor Pressure
+        7.18X10-9 mm Hg at 25 deg C (est)
+   from [7]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Orthorhombic sphenoidal crystals from water, slightly efflorescent
+       in dry air. MP 195 deg C (after drying at 105 deg for 3 hrs).
+       Specific optical rotation: -24 to -26 deg at 25 deg C/D ( c = 5,
+       calculated on anhydrous basis). UV max (emethanol): 246, 252, 258,
+       264 nm (A (1%, 1 cm): 3.5, 4.0, 4,5, 3.0). pH of 0.5M solution
+       5.85. One gram dissolves in 1.5 ML water, 20 mL alcohol. Slightly
+       soluble in chloroform. Practically insoluble in ether.
+       /Hydrobromide trihydrate/
+     * Crystals from acetone; very sol in water and alcohol; pH of 0.05
+       molar soln: 5.85 /Scopolamine hydrochloride/
+     * Crystals. Freely soluble in water, dilute alcohol; slightly soluble
+       in absolute alcohol /Methyl nitrate/
+     * Dihydrate: chisel-shaped prisms from ethanol+water, mp 38-40 deg C.
+       Monohydrate: efflorescent crystals, mp 55-57 deg C. Anhydrous: long
+       prisms, mp 82-82 deg C. Very slightly soluble in water; soluble in
+       alcohol, chlorform, ether, oils /DL-form/
+     * White powder; mp: about 80 deg C; specific rotation: -14 deg at 20
+       deg C/D (water) /N-oxide/
+     * ODORLESS /SCOPOLAMINE HYDROBROMIDE USP/
+     * COLORLESS OR WHITE CRYSTALS OR WHITE GRANULAR POWDER /SCOPOLAMINE
+       HYDROBROMIDE NF/
+     * Henry's Law constant = 3.36X10-16 atm-cu m/mol at 25 deg C (est)
+     * Hydroxyl radical reaction rate constant = 5.97X10-11 cy
+       cm/molec-sec at 25 deg C (est)
+
+   from [8]HSDB
+
+   Computed Properties
+   Molecular Weight                  303.35294 [g/mol]
+   Molecular Formula                 C[17]H[21]NO[4]
+   XLogP3                            0.9
+   H-Bond Donor                      1
+   H-Bond Acceptor                   5
+   Rotatable Bond Count              5
+   Exact Mass                        303.147058
+   MonoIsotopic Mass                 303.147058
+   Topological Polar Surface Area    62.3
+   Heavy Atom Count                  22
+   Formal Charge                     0
+   Complexity                        418
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   3
+   Undefined Atom Stereocenter Count 2
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         3
+   Feature 3D Donor Count            1
+   Feature 3D Cation Count           1
+   Feature 3D Ring Count             3
+   Effective Rotor Count             6
+   Conformer Sampling RMSD           0.8
+   CID Conformer Count               [9]103
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+51-34-3
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+51-34-3
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+51-34-3
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+51-34-3
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+51-34-3
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+51-34-3
+   7. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+51-34-3
+   8. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+51-34-3
+   9. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=153311

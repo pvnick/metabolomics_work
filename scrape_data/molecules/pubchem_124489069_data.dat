@@ -1,0 +1,56 @@
+   Color/Form
+        Colorless to yellow liquid.
+   from [1]HSDB
+
+   Boiling Point
+        112-114 deg C @ 0.8 mm Hg
+   from [2]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = 3.9
+   from [3]HSDB
+
+   Solubilities
+
+     * Miscible with acetone, acetonitrile, dichloromethane, ethyl
+       acetate, toluene, methanol, isopropanol, and heptane.
+     * In water, 248 mg/l @ 25 deg C
+
+   from [4]HSDB
+
+   Vapor Pressure
+        1.2X10+2 mPa (9.0X10-4 mm Hg) @ 25 deg C
+   from [5]HSDB
+
+   Computed Properties
+   Molecular Weight                  270.392182 [g/mol]
+   Molecular Formula                 C[10]H[23]O[2]PS[2]
+   XLogP3-AA                         3.3
+   H-Bond Donor                      0
+   H-Bond Acceptor                   4
+   Rotatable Bond Count              8
+   Exact Mass                        270.087709
+   MonoIsotopic Mass                 270.087709
+   Topological Polar Surface Area    76.9
+   Heavy Atom Count                  15
+   Formal Charge                     0
+   Complexity                        196
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 2
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Hydrophobe Count       4
+   Effective Rotor Count             8
+   Conformer Sampling RMSD           0.8
+   CID Conformer Count               [6]361
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+95465-99-9
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+95465-99-9
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+95465-99-9
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+95465-99-9
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+95465-99-9
+   6. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=91752

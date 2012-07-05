@@ -1,0 +1,73 @@
+   Color/Form
+        BUFF SOLID
+   from [1]HSDB
+
+   Melting Point
+        68-71 DEG C
+   from [2]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow= 0.57
+   from [3]HSDB
+
+   Solubilities
+
+     * SLIGHTLY SOL IN WATER; SOL IN METHANOL, ETHER, ACETONE, BENZENE, &
+       ETHYL ACETATE; INSOL IN GASOLINE.
+     * Water solubility of 4555 mg/l (est)
+
+   from [4]HSDB
+
+   Spectral Properties
+
+     * IR: 11236 (Sadtler Research Laboratories Prism Collection)
+     * UV: 2-41 (Organic Electronic Spectral Data, Phillips et al, John
+       Wiley & Sons, New York)
+     * NMR: 190 (Sadtler Research Laboratories Spectral Collection)
+     * MASS: 280 (National Bureau of Standards EPA-NIH Mass Spectra Data
+       Base, NSRDS-NBS-63)
+
+   from [5]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Decomposes
+     * Henry's Law constant of 6.85X10-8 atm-cu m/mole at 25 deg C (est)
+
+   from [6]HSDB
+
+   Computed Properties
+   Molecular Weight                  132.22718 [g/mol]
+   Molecular Formula                 C[5]H[12]N[2]S
+   XLogP3                            0.6
+   H-Bond Donor                      2
+   H-Bond Acceptor                   1
+   Rotatable Bond Count              2
+   Tautomer Count                    2
+   Exact Mass                        132.072119
+   MonoIsotopic Mass                 132.072119
+   Topological Polar Surface Area    56.2
+   Heavy Atom Count                  8
+   Formal Charge                     0
+   Complexity                        64.8
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         1
+   Feature 3D Donor Count            2
+   Effective Rotor Count             4
+   Conformer Sampling RMSD           0.6
+   CID Conformer Count               [7]13
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+105-55-5
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+105-55-5
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+105-55-5
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+105-55-5
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+105-55-5
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+105-55-5
+   7. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=2735009

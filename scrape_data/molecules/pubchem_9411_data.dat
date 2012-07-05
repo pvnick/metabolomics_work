@@ -1,0 +1,52 @@
+   Octanol/Water Partition Coefficient
+        log Kow = 1.88
+   from [1]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Solubility (mg/ml) @ 25 deg C: water >1000; methanol >500;
+       chloroform 496; acetone 1.1; acetonitrile 0.89; hexane 0.001; UV
+       max (water): 223 nm (E 23400) /Tartrate/
+     * White crystalline powder; freely soluble in water; soluble in
+       methanol; sparingly soluble in ethanol; slightly soluble in
+       dichloromethane and 2-propanol; practically insoluble in ethyl
+       acetate, acetone, diethylether and heptane /Metoprolol succinate/
+     * White crystalline powder /Metoprolol tartrate/
+     * Bitter taste; pKa = 9.68; very sol in water and freely sol in alc.
+       /Metoprolol tartrate/
+
+   from [2]HSDB
+
+   Computed Properties
+   Molecular Weight                  267.3639 [g/mol]
+   Molecular Formula                 C[15]H[25]NO[3]
+   XLogP3                            1.9
+   H-Bond Donor                      2
+   H-Bond Acceptor                   4
+   Rotatable Bond Count              9
+   Exact Mass                        267.183444
+   MonoIsotopic Mass                 267.183444
+   Topological Polar Surface Area    50.7
+   Heavy Atom Count                  19
+   Formal Charge                     0
+   Complexity                        215
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 1
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         3
+   Feature 3D Donor Count            2
+   Feature 3D Cation Count           1
+   Feature 3D Hydrophobe Count       1
+   Feature 3D Ring Count             1
+   Effective Rotor Count             9
+   Conformer Sampling RMSD           1
+   CID Conformer Count               [3]90
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+37350-58-6
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+37350-58-6
+   3. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=4171

@@ -1,0 +1,114 @@
+   Color/Form
+
+     * White crystals
+     * Colorless needles
+
+   from [1]HSDB
+
+   Boiling Point
+        262.5 deg C
+   from [2]HSDB
+
+   Melting Point
+        94-95 deg C
+   from [3]HSDB
+
+   Density/Specific Gravity
+        0.962 at 20 deg C/4 deg C
+   from [4]HSDB
+
+   Dissociation Constants
+        pKa = 10.43 [Schultz TW; Ecotoxicology and Environmental Safety
+   14: 178-83 (1987)] [5]PubMed Abstract
+   from [6]HSDB
+
+   Heat of Vaporization
+        6.5751X10+7 J/kmol at melting point
+   from [7]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = 4.03 [Schultz TW; Ecotoxicology and Environmental Safety
+   14: 178-83 (1987)] [8]PubMed Abstract
+   from [9]HSDB
+
+   Solubilities
+
+     * Soluble in alcohol, ether, benzene, chloroform.
+     * In water, 1.68X10+2 m/L at 25 deg C
+
+   from [10]HSDB
+
+   Spectral Properties
+
+     * Intense mass spectral peaks: 107 m/z (100%), 164 m/z (44%), 135 m/z
+       (38%), 95 m/z (29%)
+     * MASS: 6042 (NIST/EPA/MSDC Mass Spectral Database 1990 version)
+     * IR: 560 (Sadtler Research Laboratories IR grating)
+     * UV: 2245 (Sadtler Research Laboratories Spectral Collection)
+
+   from [11]HSDB
+
+   Surface Tension
+        6.4552E-2 N/m at melting point (predicted)
+   from [12]HSDB
+
+   Vapor Pressure
+        2.00X10-3 mm Hg at 25 deg C (ext)
+   from [13]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Incompatible with oxidizing materials
+     * Boiling point: 248-250 deg C at 740 mm Hg; 138.5 deg C at 15 mm Hg;
+       112-120 deg C at 3 mm Hg
+     * Liquid molar volume is 0.180266 cu m/kmo
+     * Henry's Law constant = 2.03X10-6 atm-cu m/mole at 25 deg C (est)
+     * Hydroxyl radical reaction rate constant = 4.2X10-11 cu cm/molec-sec
+       at 25 deg c (est)
+
+   from [14]HSDB
+
+   Computed Properties
+   Molecular Weight                  164.24414 [g/mol]
+   Molecular Formula                 C[11]H[16]O
+   XLogP3                            3.9
+   H-Bond Donor                      1
+   H-Bond Acceptor                   1
+   Rotatable Bond Count              2
+   Tautomer Count                    2
+   Exact Mass                        164.120115
+   MonoIsotopic Mass                 164.120115
+   Topological Polar Surface Area    20.2
+   Heavy Atom Count                  12
+   Formal Charge                     0
+   Complexity                        132
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Donor Count            1
+   Feature 3D Hydrophobe Count       2
+   Feature 3D Ring Count             1
+   Effective Rotor Count             2
+   Conformer Sampling RMSD           0.6
+   CID Conformer Count               [15]4
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+80-46-6
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+80-46-6
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+80-46-6
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+80-46-6
+   5. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=3121279
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+80-46-6
+   7. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+80-46-6
+   8. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=3121279
+   9. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+80-46-6
+  10. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+80-46-6
+  11. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+80-46-6
+  12. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+80-46-6
+  13. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+80-46-6
+  14. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+80-46-6
+  15. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=6643

@@ -1,0 +1,88 @@
+   Color/Form
+        Oil
+   from [1]HSDB
+
+   Boiling Point
+        220 deg C at 0.5 mm Hg
+   from [2]HSDB
+
+   Dissociation Constants
+        pKa1 = 2.47 (amine); pKa2 = 6.95 (amine) (est)
+   from [3]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = 2.36 (est)
+   from [4]HSDB
+
+   Solubilities
+        In water, 428 mg/L at 25 deg C (est)
+   from [5]HSDB
+
+   Spectral Properties
+
+     * Intense mass spectral peaks: 165 m/z, 201 m/z, 299 m/z, 374 m/z
+     * MASS: 58694 (NIST/EPA/MSDC Mass Spectral Database, 1990 version)
+     * IR: 5046 (Coblentz Society spectral collection)
+
+   from [6]HSDB
+
+   Vapor Pressure
+        1.17X10-11 mm Hg at 25 deg C (est)
+   from [7]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Crystals; MP 193 deg C; Bitter taste. Solubility in mg/mL: water
+       <700; chloroform 60; acetone 2; ether <0.1. Solutions are unstable
+       to intense UV light. /Hydroxyzine dihydrochloride/
+     * White powder; odorless; melts with decomp at about 200 deg C; 1 g
+       sol in about 11 mL chloroform; slightly sol in acetone; practically
+       insol in ether /Hydrochloride/
+     * Crystals; mw 763.27; practically insoluble in water /Hydroxyzine
+       pamoate/
+     * Light-yellow powder; practically odorless; practically insol in
+       methanol /Pamoate/
+     * Henry's Law constant = 3.86X10-17 atm-cu m/mol at 25 deg C (est)
+     * Hydroxyl radical reaction rate constant = 2.48X10-10 cu
+       cm/molec-sec at 25 deg C (est)
+
+   from [8]HSDB
+
+   Computed Properties
+   Molecular Weight                  374.90428 [g/mol]
+   Molecular Formula                 C[21]H[27]ClN[2]O[2]
+   XLogP3                            3.7
+   H-Bond Donor                      1
+   H-Bond Acceptor                   4
+   Rotatable Bond Count              8
+   Exact Mass                        374.176106
+   MonoIsotopic Mass                 374.176106
+   Topological Polar Surface Area    35.9
+   Heavy Atom Count                  26
+   Formal Charge                     0
+   Complexity                        376
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 1
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         2
+   Feature 3D Donor Count            1
+   Feature 3D Cation Count           2
+   Feature 3D Ring Count             3
+   Effective Rotor Count             9.2
+   Conformer Sampling RMSD           1
+   CID Conformer Count               [9]56
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+68-88-2
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+68-88-2
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+68-88-2
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+68-88-2
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+68-88-2
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+68-88-2
+   7. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+68-88-2
+   8. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+68-88-2
+   9. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=3658

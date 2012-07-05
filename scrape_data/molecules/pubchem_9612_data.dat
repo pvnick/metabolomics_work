@@ -1,0 +1,53 @@
+   Octanol/Water Partition Coefficient
+        log Kow= 1.18 @ 25 deg C
+   from [1]HSDB
+
+   Spectral Properties
+        Intense mass spectral peaks: 70 m/z, 84 m/z, 191 m/z, 263 m/z
+   from [2]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Max absorption 290 nm (e= 13,311); MP: 169-171 deg C; crystals from
+       isopropanol- ethyl ether /hydrochloride/
+     * ODORLESS OR HAS NOT MORE THAN SLIGHT ODOR & HAS BITTER TASTE; WHITE
+       TO YELLOWISH POWDER /HYDROCHLORIDE/
+     * SOL: 1 G IN ABOUT 2 ML WATER, ABOUT 2 ML METHANOL, ABOUT 2.3 ML
+       CHLOROFORM, ABOUT 4 ML ALCOHOL; PRACTICALLY INSOL IN ETHER
+       /HYDROCHLORIDE/
+     * Freely sol in water /hydrochloride/
+
+   from [3]HSDB
+
+   Computed Properties
+   Molecular Weight                  263.37674 [g/mol]
+   Molecular Formula                 C[19]H[21]N
+   XLogP3-AA                         4.4
+   H-Bond Donor                      1
+   H-Bond Acceptor                   1
+   Rotatable Bond Count              4
+   Exact Mass                        263.1674
+   MonoIsotopic Mass                 263.1674
+   Topological Polar Surface Area    12
+   Heavy Atom Count                  20
+   Formal Charge                     0
+   Complexity                        296
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Donor Count            1
+   Feature 3D Cation Count           1
+   Feature 3D Ring Count             3
+   Effective Rotor Count             4.2
+   Conformer Sampling RMSD           0.6
+   CID Conformer Count               [4]17
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+438-60-8
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+438-60-8
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+438-60-8
+   4. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=4976

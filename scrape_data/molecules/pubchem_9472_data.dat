@@ -1,0 +1,73 @@
+   Color/Form
+        Crystals from pyridine and water
+   from [1]HSDB
+
+   Melting Point
+        247-249 deg C
+   from [2]HSDB
+
+   Dissociation Constants
+        pKa = 2.8
+   from [3]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = 3.89 /Estimated/ [Meylan WM, Howard PH; J Pharm Sci 84:
+   83-92 (1995)] [4]PubMed Abstract
+   from [5]HSDB
+
+   Solubilities
+        In water, 100 mg/l @ neutral pH
+   from [6]HSDB
+
+   Vapor Pressure
+        3.4X10-9 mm Hg @ 25 deg C /Estimated/
+   from [7]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Henry's Law constant = 3.3X10-17 atm-cu m/mol @ 25 deg C
+       /Estimated/
+     * Hydroxyl radical reaction rate constant = 6.4X10-11 cu cm/molec-sec
+       @ 25 deg C /Estimated/
+
+   from [8]HSDB
+
+   Computed Properties
+   Molecular Weight                  266.29786 [g/mol]
+   Molecular Formula                 C[15]H[14]N[4]O
+   XLogP3-AA                         2
+   H-Bond Donor                      1
+   H-Bond Acceptor                   4
+   Rotatable Bond Count              1
+   Tautomer Count                    2
+   Exact Mass                        266.116761
+   MonoIsotopic Mass                 266.116761
+   Topological Polar Surface Area    58.1
+   Heavy Atom Count                  20
+   Formal Charge                     0
+   Complexity                        397
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         2
+   Feature 3D Donor Count            1
+   Feature 3D Cation Count           1
+   Feature 3D Ring Count             3
+   Effective Rotor Count             2
+   Conformer Sampling RMSD           0.6
+   CID Conformer Count               [9]2
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+129618-40-2
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+129618-40-2
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+129618-40-2
+   4. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=7714751
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+129618-40-2
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+129618-40-2
+   7. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+129618-40-2
+   8. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+129618-40-2
+   9. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=4463

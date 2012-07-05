@@ -1,0 +1,107 @@
+   Chemical and Physical Properties References
+
+   [1]USDA ARS - USDA chemical properties
+   from [2]ChemIDplus
+
+   Color/Form
+
+     * White solid
+     * Colorless powder
+     * Crystals from ethanol or methyl Cellosolve
+
+   from [3]HSDB
+
+   Melting Point
+        225 to 227 deg C (decomp)
+   from [4]HSDB
+
+   Density/Specific Gravity
+        1.33 at 22 deg C /as per source/
+   from [5]HSDB
+
+   Dissociation Constants
+        pKa = 1.62 at 20 deg C
+   from [6]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = 2.18
+   from [7]HSDB
+
+   Solubilities
+
+     * 400 PPM IN METHANOL @ 20 DEG C
+     * 3.0 ppm in n-pentane at 25 deg C
+     * Slightly sol in ethyl cellosolve, dioxane
+     * In water, 6.2 mg/L (pH 7, 20 deg C)
+     * In ethanol 570, acetone 1500, toluene 130, n-octanol 390, n-hexane
+       3.1 (all in mg/L, 25 deg C).
+
+   from [8]HSDB
+
+   Spectral Properties
+
+     * Intense mass spectral peaks: 44 m/z (100%), 201 m/z (78%), 186 m/z
+       (51%), 43 m/z (51%)
+     * Intense mass spectral peaks: 72 m/z, 84 m/z, 173 m/z
+
+   from [9]HSDB
+
+   Vapor Pressure
+        2.2X10-8 mm Hg at 25 deg C
+   from [10]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Relatively stable in neutral, weakly acidic and weakly alkaline
+       media. Rapidly hydrolyzed by stronger acids and bases; calculated
+       half-lives: 8.8 days at pH 1, 3.7 days at pH 13 (20 deg C).
+       Decomposed by UV irradiation (approx. 90% in 96 hr).
+     * Henry's Law constant = 9.4X10-10 atm-cu m/mole (est)
+     * Hydroxyl radical reaction rate constant = 1.1X10-11 cu cm/molec-sec
+       at 25 deg C [Palm WU et al; Ecotoxicol Environ Safety 41: 36-43
+       (1998)] [11]PubMed Abstract
+
+   from [12]HSDB
+
+   Computed Properties
+   Molecular Weight                  201.65668 [g/mol]
+   Molecular Formula                 C[7]H[12]ClN[5]
+   XLogP3                            2.2
+   H-Bond Donor                      2
+   H-Bond Acceptor                   5
+   Rotatable Bond Count              4
+   Tautomer Count                    5
+   Exact Mass                        201.078123
+   MonoIsotopic Mass                 201.078123
+   Topological Polar Surface Area    62.7
+   Heavy Atom Count                  13
+   Formal Charge                     0
+   Complexity                        131
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Donor Count            2
+   Feature 3D Cation Count           2
+   Feature 3D Ring Count             1
+   Effective Rotor Count             4
+   Conformer Sampling RMSD           0.6
+   CID Conformer Count               [13]15
+
+References
+
+   1. http://www.ars.usda.gov/SP2UserFiles/ad_hoc/12755100DatabaseFiles/PesticidePropertiesDatabase/IndividualPesticideFiles/SIMAZINE.TXT
+   2. http://chem.sis.nlm.nih.gov/chemidplus/
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+122-34-9
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+122-34-9
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+122-34-9
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+122-34-9
+   7. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+122-34-9
+   8. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+122-34-9
+   9. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+122-34-9
+  10. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+122-34-9
+  11. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=9756687
+  12. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+122-34-9
+  13. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=5216

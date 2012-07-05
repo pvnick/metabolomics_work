@@ -1,0 +1,68 @@
+   Color/Form
+        YELLOW CRYSTALS
+   from [1]HSDB
+
+   Boiling Point
+        224-224.5 DEG C @ 747 MM HG
+   from [2]HSDB
+
+   Melting Point
+        29 DEG C
+   from [3]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow= -0.44.
+   from [4]HSDB
+
+   Solubilities
+        MISCIBLE IN WATER IN ALL PROP; SOL IN ORG SOLVENTS
+   from [5]HSDB
+
+   Other Chemical/Physical Properties
+
+     * STRONG OXIDANTS (PERACIDS) OXIDIZE IT TO CORRESPONDING NITRAMINE;
+       CAN BE REDUCED TO CORRESPONDING HYDRAZINE &/OR AMINE
+     * RELATIVELY RESISTANT TO HYDROLYSIS BUT CAN BE SPLIT BY HYDROGEN
+       BROMIDE IN ACETIC ACID
+     * BP: 139-140 deg C at 25 mm Hg
+     * Henry's Law constant = 2.45X10-8 atm-cu m/mol at 37 deg C
+       /converted from unitless/ [Mirvish SS et al; J Nat Cancer Inst 56:
+       1125-9 (1976)] [6]PubMed Abstract
+
+   from [7]HSDB
+
+   Computed Properties
+   Molecular Weight                  116.11852 [g/mol]
+   Molecular Formula                 C[4]H[8]N[2]O[2]
+   XLogP3                            -0.4
+   H-Bond Donor                      0
+   H-Bond Acceptor                   4
+   Rotatable Bond Count              0
+   Exact Mass                        116.058578
+   MonoIsotopic Mass                 116.058578
+   Topological Polar Surface Area    41.9
+   Heavy Atom Count                  8
+   Formal Charge                     0
+   Complexity                        80.1
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         1
+   Feature 3D Ring Count             1
+   Effective Rotor Count             2.2
+   Conformer Sampling RMSD           0.4
+   CID Conformer Count               [8]12
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+59-89-2
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+59-89-2
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+59-89-2
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+59-89-2
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+59-89-2
+   6. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=994213
+   7. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+59-89-2
+   8. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=6046

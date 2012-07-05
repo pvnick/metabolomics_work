@@ -1,0 +1,61 @@
+   Color/Form
+        White solid
+   from [1]HSDB
+
+   Boiling Point
+        158 deg C @ 2 kPa
+   from [2]HSDB
+
+   Melting Point
+        84-85 deg C
+   from [3]HSDB
+
+   Density/Specific Gravity
+        0.89 g/ml @ 90 deg C
+   from [4]HSDB
+
+   Vapor Pressure
+        4.7X10-3 kPa at 74 deg C
+   from [5]HSDB
+
+   Other Chemical/Physical Properties
+        Liquid Molar Volume = 0.2232 cu m/kmol, determined at the triple
+   point
+   from [6]HSDB
+
+   Computed Properties
+   Molecular Weight                  206.32388 [g/mol]
+   Molecular Formula                 C[14]H[22]O
+   XLogP3                            5
+   H-Bond Donor                      1
+   H-Bond Acceptor                   1
+   Rotatable Bond Count              3
+   Tautomer Count                    2
+   Exact Mass                        206.167065
+   MonoIsotopic Mass                 206.167065
+   Topological Polar Surface Area    20.2
+   Heavy Atom Count                  15
+   Formal Charge                     0
+   Complexity                        192
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Donor Count            1
+   Feature 3D Hydrophobe Count       2
+   Feature 3D Ring Count             1
+   Effective Rotor Count             3
+   Conformer Sampling RMSD           0.6
+   CID Conformer Count               [7]5
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+140-66-9
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+140-66-9
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+140-66-9
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+140-66-9
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+140-66-9
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+140-66-9
+   7. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=8814

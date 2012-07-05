@@ -1,0 +1,91 @@
+   Color/Form
+        White leaflets
+   from [1]HSDB
+
+   Boiling Point
+        214 deg C @ 1.33 kPa
+   from [2]HSDB
+
+   Melting Point
+        138.5 deg C
+   from [3]HSDB
+
+   Dissociation Constants
+        pKa = 10.17 @ 20 deg C
+   from [4]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = 0.82
+   from [5]HSDB
+
+   Solubilities
+
+     * Soluble in alcohol
+     * In water, 3.16X10+3 mg/L @ 25 deg C
+
+   from [6]HSDB
+
+   Spectral Properties
+
+     * MAX ABSORPTION (ALCOHOL): 224 NM (LOG E= 4.08), 263 NM (LOG E=
+       2.7), 275 NM SHOULDER (LOG E= 2.5)
+     * IR: 5776 (Coblentz Society Spectral Collection)
+     * UV: 611 (Sadtler Research Laboratories Spectral Collection)
+     * NMR: 666 (Sadtler Research Laboratories Spectral Collection)
+     * MASS: 52475 (NIST/EPA/MSDC Mass Spectral Database, 1990 version)
+
+   from [7]HSDB
+
+   Vapor Pressure
+        9.6X10-5 mm Hg @ 25 deg C /Estimated/
+   from [8]HSDB
+
+   Other Chemical/Physical Properties
+
+     * MP: 105 DEG C (HYDRATED)
+     * Monoclinic plates /Dihydrate/
+     * Henry's Law constant = 4.7X10-7 atm-cu m/mole @ 25 deg C
+       /Estimated/
+     * Hydroxyl radical reaction rate constant = 1.2X10-12 cu
+       cm/molecule-sec @ 25 deg C /Estimated/
+
+   from [9]HSDB
+
+   Computed Properties
+   Molecular Weight                  171.21686 [g/mol]
+   Molecular Formula                 C[7]H[9]NO[2]S
+   XLogP3                            0.8
+   H-Bond Donor                      1
+   H-Bond Acceptor                   3
+   Rotatable Bond Count              1
+   Exact Mass                        171.0354
+   MonoIsotopic Mass                 171.0354
+   Topological Polar Surface Area    68.5
+   Heavy Atom Count                  11
+   Formal Charge                     0
+   Complexity                        209
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         2
+   Feature 3D Donor Count            1
+   Feature 3D Ring Count             1
+   Effective Rotor Count             1
+   Conformer Sampling RMSD           0.4
+   CID Conformer Count               [10]1
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+70-55-3
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+70-55-3
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+70-55-3
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+70-55-3
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+70-55-3
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+70-55-3
+   7. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+70-55-3
+   8. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+70-55-3
+   9. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+70-55-3
+  10. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=6269

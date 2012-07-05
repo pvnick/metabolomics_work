@@ -1,0 +1,103 @@
+   Color/Form
+        Clear, oily liuid
+   from [1]HSDB
+
+   Odor
+        Slightly aromatic
+   from [2]HSDB
+
+   Boiling Point
+        210 deg C at 5 mm Hg
+   from [3]HSDB
+
+   Melting Point
+        -58 deg C
+   from [4]HSDB
+
+   Density/Specific Gravity
+        1.010-1.016 at 20 deg C/20 deg C
+   from [5]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = 6.82
+   from [6]HSDB
+
+   Solubilities
+        In water, 0.05 mg/L at 25 deg C
+   from [7]HSDB
+
+   Spectral Properties
+
+     * MASS: 15515 (NIST/EPA/MSDC Mass Spectral database, 1990 version)
+     * IR: 197 (Sadtler Research Laboratories IR grating Collection)
+     * UV: 297 (Sadtler Research Laboratories Spectral Collection)
+     * Raman: 482 (Sadtler Research Laboratories Spectral Collection)
+
+   from [8]HSDB
+
+   Vapor Density
+        11.5 (Air = 1)
+   from [9]HSDB
+
+   Vapor Pressure
+        1.4X10-5 mm Hg at 25 deg C
+   from [10]HSDB
+
+   Other Chemical/Physical Properties
+
+     * CONVERSION FACTORS: 13.65 MG/CU M= APPROX 1 PPM
+     * Acidity (as phthalic acid) 0.01% max
+     * Phthalate esters are soluble to various extents in many common
+       organic solvents and oils, but have a relatively low solubility in
+       water. /Phthalate esters/
+     * Phthalate esters would be expected to have UV maxima in the 230 nm
+       and 270 nm regions. /Phthalate esters/
+     * ... Resistance to migration from polymers, low temperature
+       flexibility ... compatibility with polar polymers and additives
+       over a wide range of compositions. /Phthalate esters/
+     * Henry's Law constant = 2.57X10-5 atm-cu m/mol at 25 deg C (est)
+     * Hydroxyl radical reaction rate constant = 1.49X10-11 cu
+       cm/molec-sec at 25 deg C (est)
+
+   from [11]HSDB
+
+   Computed Properties
+   Molecular Weight                  334.4498 [g/mol]
+   Molecular Formula                 C[20]H[30]O[4]
+   XLogP3                            6.9
+   H-Bond Donor                      0
+   H-Bond Acceptor                   4
+   Rotatable Bond Count              14
+   Exact Mass                        334.214409
+   MonoIsotopic Mass                 334.214409
+   Topological Polar Surface Area    52.6
+   Heavy Atom Count                  24
+   Formal Charge                     0
+   Complexity                        320
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         2
+   Feature 3D Hydrophobe Count       4
+   Feature 3D Ring Count             1
+   Effective Rotor Count             14
+   Conformer Sampling RMSD           1.4
+   CID Conformer Count               [12]52
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+84-75-3
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+84-75-3
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+84-75-3
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+84-75-3
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+84-75-3
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+84-75-3
+   7. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+84-75-3
+   8. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+84-75-3
+   9. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+84-75-3
+  10. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+84-75-3
+  11. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+84-75-3
+  12. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=6786

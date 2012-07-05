@@ -1,0 +1,101 @@
+   Color/Form
+
+     * YELLOW GAS
+     * Yellow gas [Note: Shipped as a liquefied compressed gas].
+
+   from [1]HSDB
+
+   Odor
+
+     * MUSTY ODOR
+     * Musty odor.
+
+   from [2]HSDB
+
+   Boiling Point
+        -23 DEG C
+   from [3]HSDB
+
+   Melting Point
+        -145 DEG C
+   from [4]HSDB
+
+   Density/Specific Gravity
+        1.45
+   from [5]HSDB
+
+   Solubilities
+
+     * SOL IN ETHER, DIOXANE
+     * FREELY SOL IN BENZENE
+     * SLIGHTLY SOL IN ETHYL ALCOHOL, ETHYL ETHER
+
+   from [6]HSDB
+
+   Spectral Properties
+
+     * MAX ABSORPTION (GAS): 380 NM (LOG E= 0.5); 408 NM (LOG E= 0.5); 435
+       NM (LOG E= 0.5)
+     * IR: 1628 (Documentation of Molecular Spectroscopy Collection)
+     * MASS: 3978 (National Bureau of Standards EPA-NIH Mass Spectra Data
+       Base, NSRDS-NBS-63)
+
+   from [7]HSDB
+
+   Vapor Density
+        1.45
+   from [8]HSDB
+
+   Other Chemical/Physical Properties
+
+     * SOLN OF DIAZOMETHANE & ETHER OR DIOXANE DECOMP ONLY SLOWLY @ LOW
+       TEMP; DECOMP MORE RAPID IF ALCOHOL OR WATER PRESENT
+     * COPPER POWDER CAUSES ACTIVE DECOMP WITH EVOLUTION OF NITROGEN &
+       FORMATION OF INSOL WHITE FLAKES OF POLYMETHYLENE (CH2)
+     * UNDILUTED LIQ & CONCN SOLN MAY EXPLODE VIOLENTLY, ESP IF IMPURITIES
+       ARE PRESENT. GASEOUS DIAZOMETHANE MAY EXPLODE ON HEATING TO 100 DEG
+       C OR ON ROUGH GLASS SURFACES. GROUND GLASS APPARATUS & GLASS
+       STIRRERS WITH GLASS SLEEVE BEARINGS WHERE GRINDING MAY OCCUR,
+       SHOULD NOT BE USED. ALKALI METALS ALSO PRODUCE EXPLOSIONS ...
+     * ... MAY EXPLODE VIOLENTLY ON HEATING OR IN CONTACT WITH ROUGH
+       SURFACES. IN ETHER OR BENZENE, IN WHICH DIAZOMETHANE IS SOL, THE
+       DANGER OF EXPLOSION IS MUCH DECREASED.
+
+   from [9]HSDB
+
+   Computed Properties
+   Molecular Weight                  42.03998 [g/mol]
+   Molecular Formula                 CH[2]N[2]
+   XLogP3-AA                         1.6
+   H-Bond Donor                      0
+   H-Bond Acceptor                   1
+   Rotatable Bond Count              0
+   Exact Mass                        42.021798
+   MonoIsotopic Mass                 42.021798
+   Topological Polar Surface Area    2
+   Heavy Atom Count                  3
+   Formal Charge                     0
+   Complexity                        25.8
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         1
+   Effective Rotor Count             0
+   Conformer Sampling RMSD           0.4
+   CID Conformer Count               [10]1
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+334-88-3
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+334-88-3
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+334-88-3
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+334-88-3
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+334-88-3
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+334-88-3
+   7. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+334-88-3
+   8. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+334-88-3
+   9. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+334-88-3
+  10. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=9550

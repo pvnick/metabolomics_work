@@ -1,0 +1,65 @@
+   Color/Form
+        NEEDLES
+   from [1]HSDB
+
+   Melting Point
+        158 DEG C
+   from [2]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow= 3.97 (est)
+   from [3]HSDB
+
+   Solubilities
+
+     * INSOL IN WATER
+     * SOL IN ACETONE, BENZENE
+     * Water solubility of 1.73 mg/l at 25 deg C (est)
+
+   from [4]HSDB
+
+   Spectral Properties
+
+     * MAX ABSORPTION (ALC): 234 NM (LOG E= 3.98); 332 NM (LOG E= 4.25);
+       SADTLER REFERENCE NUMBER: 8442 (IR, PRISM)
+     * IR: 7950 (Coblentz Society Spectral Collection)
+     * UV: 15875 (Sadtler Research Lab Spectral Collection)
+     * NMR: 5:192A (Aldrich Library of Mass Spectra, Aldrich Chemical Co,
+       Milwaukee, WI)
+
+   from [5]HSDB
+
+   Computed Properties
+   Molecular Weight                  211.21606 [g/mol]
+   Molecular Formula                 C[13]H[9]NO[2]
+   XLogP3                            3.7
+   H-Bond Donor                      0
+   H-Bond Acceptor                   2
+   Rotatable Bond Count              0
+   Exact Mass                        211.063329
+   MonoIsotopic Mass                 211.063329
+   Topological Polar Surface Area    45.8
+   Heavy Atom Count                  16
+   Formal Charge                     0
+   Complexity                        286
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         2
+   Feature 3D Anion Count            1
+   Feature 3D Ring Count             3
+   Effective Rotor Count             1.2
+   Conformer Sampling RMSD           0.6
+   CID Conformer Count               [6]1
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+607-57-8
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+607-57-8
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+607-57-8
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+607-57-8
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+607-57-8
+   6. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=11831

@@ -1,0 +1,63 @@
+   Octanol/Water Partition Coefficient
+        log Kow = 1.40 /Estimated/
+   from [1]HSDB
+
+   Solubilities
+        In water, 1.12X10+4 mg/L at 25 deg C /Estimated/
+   from [2]HSDB
+
+   Vapor Pressure
+        5.0X10-14 mm Hg at 25 deg C /Estimated/
+   from [3]HSDB
+
+   Other Chemical/Physical Properties
+
+     * White to yellowish crystalline powder which is freely soluble in
+       glacial acetic acid, soluble in methanol, sparingly soluble in
+       ethanol and isopropanol, slightly soluble in water, and practically
+       insoluble in acetone, ethyl acetate, and diethyl ether. /Fumurate/
+     * Mol wt: 840.91. Crystals from 95% isopropyl alcohol, mp 138-140 deg
+       C, pKa1 = 7.9, pKa2 = 9.2; log Kow (octanol/water) 0.4 (pH 7.4);
+       readily soluble in water at physiological pH /Fumarate dihydrate/
+     * Henry's Law constant = 9.0X10-23 atm-cu m/mol at 25 deg C
+       /Estimated/
+     * Hydroxyl radical reaction rate constant = 2.0X10-14 cu cm/molc-sec
+       at 25 deg C /Estimated/
+
+   from [4]HSDB
+
+   Computed Properties
+   Molecular Weight                  344.40486 [g/mol]
+   Molecular Formula                 C[19]H[24]N[2]O[4]
+   XLogP3-AA                         1.8
+   H-Bond Donor                      4
+   H-Bond Acceptor                   5
+   Rotatable Bond Count              8
+   Tautomer Count                    8
+   Exact Mass                        344.173607
+   MonoIsotopic Mass                 344.173607
+   Topological Polar Surface Area    90.8
+   Heavy Atom Count                  25
+   Formal Charge                     0
+   Complexity                        388
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 2
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         3
+   Feature 3D Donor Count            4
+   Feature 3D Cation Count           1
+   Feature 3D Ring Count             2
+   Effective Rotor Count             9
+   Conformer Sampling RMSD           1
+   CID Conformer Count               [5]165
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+73573-87-2
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+73573-87-2
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+73573-87-2
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+73573-87-2
+   5. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=3410

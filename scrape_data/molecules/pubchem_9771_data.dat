@@ -1,0 +1,57 @@
+   Octanol/Water Partition Coefficient
+        log Kow = 3.60 (est)
+   from [1]HSDB
+
+   Solubilities
+        In water, 2.13 mg/L at 25 deg C (est)
+   from [2]HSDB
+
+   Vapor Pressure
+        1.02X10-13 mm Hg at 25 deg C (est)
+   from [3]HSDB
+
+   Other Chemical/Physical Properties
+
+     * White to slightly pink powder. MW 467.41. Also prepared as the
+       hemihydrate, mp >300 deg C /Ziprasidone hydrochloride monohydrate/
+     * Henry's Law constant = 6.43X10-19 atm-cu m/mol at 25 deg C (est)
+     * Hydroxyl radical reaction rate constant = 3.34X10-10 cu
+       cm/molec-sec at 25 deg C (est)
+
+   from [4]HSDB
+
+   Computed Properties
+   Molecular Weight                  412.93564 [g/mol]
+   Molecular Formula                 C[21]H[21]ClN[4]OS
+   XLogP3-AA                         4
+   H-Bond Donor                      1
+   H-Bond Acceptor                   5
+   Rotatable Bond Count              4
+   Tautomer Count                    3
+   Exact Mass                        412.11246
+   MonoIsotopic Mass                 412.11246
+   Topological Polar Surface Area    76.7
+   Heavy Atom Count                  28
+   Formal Charge                     0
+   Complexity                        573
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         1
+   Feature 3D Donor Count            1
+   Feature 3D Cation Count           2
+   Feature 3D Ring Count             5
+   Effective Rotor Count             5.6
+   Conformer Sampling RMSD           0.8
+   CID Conformer Count               [5]116
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+146939-27-7
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+146939-27-7
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+146939-27-7
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+146939-27-7
+   5. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=60854

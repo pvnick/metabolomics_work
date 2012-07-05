@@ -1,0 +1,101 @@
+   Color/Form
+        Colorless liquid
+   from [1]HSDB
+
+   Boiling Point
+        201 deg C @ 760 mm Hg
+   from [2]HSDB
+
+   Melting Point
+        -13.5 deg C
+   from [3]HSDB
+
+   Density/Specific Gravity
+        1.2476 @ 20 deg C/20 deg C
+   from [4]HSDB
+
+   Octanol/Water Partition Coefficient
+        Log Kow= 4.24
+   from [5]HSDB
+
+   Solubilities
+        INSOL IN WATER
+   from [6]HSDB
+
+   Spectral Properties
+
+     * Index of refraction: 1.5511 @ 20 deg C/D
+     * IR: 144 (Sadtler Research Laboratories IR Grating Collection)
+     * UV: 211 (Sadtler Research Laboratories Spectral Collection)
+     * NMR: 1185 (Sadtler Research Laboratories Spectral Collection)
+     * MASS: 1003 (Atlas of Mass Spectral Data, John Wiley & Sons, New
+       York)
+
+   from [7]HSDB
+
+   Surface Tension
+        38.29 dynes/cm @ 25 deg C
+   from [8]HSDB
+
+   Vapor Pressure
+        0.458 mm Hg at 25 deg C
+   from [9]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Weight 10.34 lb/gal
+     * The use of global and substituent physicochemical structure
+       descriptors for quantitative structure-property relationship
+       studies has been evaluated through direct and autocorrelated
+       applications. Partial least squares analysis has been used to
+       predict the partition coefficient for octanol/water, log P, for
+       chlorinated alkylbenzenes. This investigation revealed that various
+       of the physicochemical parameters considered were highly correlated
+       with the partition coefficient and that partial least square models
+       based on global, direct or autocorrelated substituent parameters
+       all seem to be adequate for prediction of log P, as compared to
+       results obtained experimentally or by means of standard substituent
+       calculation schemes. However, the use of autocorrelation vectors of
+       connectivity, steric and electronic effects may be preferably due
+       to a high degree of explanation of the molecular descriptor
+       variance.
+
+   from [10]HSDB
+
+   Computed Properties
+   Molecular Weight                  161.02854 [g/mol]
+   Molecular Formula                 C[7]H[6]Cl[2]
+   XLogP3                            4.2
+   H-Bond Donor                      0
+   H-Bond Acceptor                   0
+   Rotatable Bond Count              0
+   Exact Mass                        159.984656
+   MonoIsotopic Mass                 159.984656
+   Topological Polar Surface Area    0
+   Heavy Atom Count                  9
+   Formal Charge                     0
+   Complexity                        92.9
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Ring Count             1
+   Effective Rotor Count             0
+   Conformer Sampling RMSD           0.4
+   CID Conformer Count               [11]1
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+95-73-8
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+95-73-8
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+95-73-8
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+95-73-8
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+95-73-8
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+95-73-8
+   7. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+95-73-8
+   8. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+95-73-8
+   9. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+95-73-8
+  10. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+95-73-8
+  11. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=7254

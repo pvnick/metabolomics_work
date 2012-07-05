@@ -1,0 +1,45 @@
+   Color/Form
+        WHITE SOLID
+   from [1]HSDB
+
+   Solubilities
+        WATER-SOL HIGH POLYMER
+   from [2]HSDB
+
+   Other Chemical/Physical Properties
+        POLYACRYLAMIDES, FREE OF MONOMER, ARE INERT
+   from [3]HSDB
+
+   Computed Properties
+   Molecular Weight                  71.0779 [g/mol]
+   Molecular Formula                 C[3]H[5]NO
+   XLogP3                            -0.7
+   H-Bond Donor                      1
+   H-Bond Acceptor                   1
+   Rotatable Bond Count              1
+   Tautomer Count                    2
+   Exact Mass                        71.037114
+   MonoIsotopic Mass                 71.037114
+   Topological Polar Surface Area    43.1
+   Heavy Atom Count                  5
+   Formal Charge                     0
+   Complexity                        57.9
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         1
+   Feature 3D Donor Count            1
+   Feature 3D Hydrophobe Count       1
+   Effective Rotor Count             1
+   Conformer Sampling RMSD           0.4
+   CID Conformer Count               [4]4
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+9003-05-8
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+9003-05-8
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+9003-05-8
+   4. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=6579

@@ -1,0 +1,60 @@
+   Dissociation Constants
+        pKa = 7.55
+   from [1]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = 2.85
+   from [2]HSDB
+
+   Solubilities
+        In water, 96 mg/L at 25 deg C (est)
+   from [3]HSDB
+
+   Vapor Pressure
+        2.2X10-10 mm Hg at 25 deg C (est)
+   from [4]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Henry's Law constant = 6.4X10-9 atm-cu m/mol at 25 deg C (est)
+     * Hydroxyl radical reaction rate constant = 2.7X10-11 cu cm/molec-sec
+       at 25 deg C (est)
+
+   from [5]HSDB
+
+   Computed Properties
+   Molecular Weight                  242.33782 [g/mol]
+   Molecular Formula                 C[11]H[18]N[2]O[2]S
+   XLogP3                            2.9
+   H-Bond Donor                      2
+   H-Bond Acceptor                   3
+   Rotatable Bond Count              4
+   Tautomer Count                    5
+   Exact Mass                        242.108899
+   MonoIsotopic Mass                 242.108899
+   Topological Polar Surface Area    90.3
+   Heavy Atom Count                  16
+   Formal Charge                     0
+   Complexity                        308
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 1
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         3
+   Feature 3D Donor Count            2
+   Feature 3D Hydrophobe Count       3
+   Feature 3D Ring Count             1
+   Effective Rotor Count             4.6
+   Conformer Sampling RMSD           0.6
+   CID Conformer Count               [6]15
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+76-75-5
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+76-75-5
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+76-75-5
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+76-75-5
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+76-75-5
+   6. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=3000715

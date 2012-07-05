@@ -1,0 +1,83 @@
+   Color/Form
+        YELLOW LIQUID
+   from [1]HSDB
+
+   Boiling Point
+        214 DEG C @ 760 MM HG
+   from [2]HSDB
+
+   Density/Specific Gravity
+        1.10
+   from [3]HSDB
+
+   Octanol/Water Partition Coefficient
+        Log Kow= -0.19
+   from [4]HSDB
+
+   Solubilities
+        MISCIBLE WITH WATER; SOL IN ORG SOLVENTS & LIPIDS
+   from [5]HSDB
+
+   Spectral Properties
+
+     * MAX ABSORPTION (WATER): 230 NM (E= 812.8, 1%, 1 CM); 333 NM (E=
+       10.7, 1%, 1 CM)
+     * IR: 16909 (Sadtler Research Laboratories IR Grating Collection)
+     * NMR: 8950 (Sadtler Research Laboratories Spectral Collection)
+     * MASS: 3-564 (Archives of Mass Spectral Data, John Wiley & Sons, New
+       York)
+
+   from [6]HSDB
+
+   Vapor Pressure
+        Vapor pressure determined by gas phase analysis: 0.013, 0.025,
+   0.06, 0.13, & 0.29 mm Hg at 0, 10, 20, 30, & 40 deg C [Klein RG;
+   Toxicology 23 (2-3): 135-48 (1982)] [7]PubMed Abstract
+   from [8]HSDB
+
+   Other Chemical/Physical Properties
+
+     * BP: 104-106 deg C @ 20 mm Hg
+     * CAN BE STEAM-DISTILLED; STRONG OXIDANTS (PERACIDS) OXIDIZE IT TO
+       CORRESPONDING NITRAMINE; CAN BE REDUCED TO CORRESPONDING HYDRAZINE
+       &/OR AMINE; RELATIVELY RESISTANT TO HYDROLYSIS, BUT CAN BE SPLIT BY
+       HYDROGEN BROMIDE IN ACETIC ACID
+
+   from [9]HSDB
+
+   Computed Properties
+   Molecular Weight                  100.11912 [g/mol]
+   Molecular Formula                 C[4]H[8]N[2]O
+   XLogP3                            -0.2
+   H-Bond Donor                      0
+   H-Bond Acceptor                   3
+   Rotatable Bond Count              0
+   Exact Mass                        100.063663
+   MonoIsotopic Mass                 100.063663
+   Topological Polar Surface Area    32.7
+   Heavy Atom Count                  7
+   Formal Charge                     0
+   Complexity                        68.1
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Ring Count             1
+   Effective Rotor Count             2
+   Conformer Sampling RMSD           0.4
+   CID Conformer Count               [10]6
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+930-55-2
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+930-55-2
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+930-55-2
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+930-55-2
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+930-55-2
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+930-55-2
+   7. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=7112590
+   8. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+930-55-2
+   9. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+930-55-2
+  10. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=13591

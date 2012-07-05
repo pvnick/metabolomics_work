@@ -1,0 +1,57 @@
+   Color/Form
+        Pale yellow viscous liquid /Nonylphenol/
+   from [1]HSDB
+
+   Odor
+        Slight phenolic odor /Nonylphenol/
+   from [2]HSDB
+
+   Octanol/Water Partition Coefficient
+        Log Kow = 5.76 [Itokawa H et al; Chem Pharm Bull 37: 1619-21
+   (1989)] [3]PubMed Abstract
+   from [4]HSDB
+
+   Solubilities
+        Water solubility = 7 mg/L at 25 deg C
+   from [5]HSDB
+
+   Vapor Pressure
+        Vapor pressure = 0.109 Pa at 25 deg C
+   from [6]HSDB
+
+   Computed Properties
+   Molecular Weight                  220.35046 [g/mol]
+   Molecular Formula                 C[15]H[24]O
+   XLogP3                            5.9
+   H-Bond Donor                      1
+   H-Bond Acceptor                   1
+   Rotatable Bond Count              8
+   Tautomer Count                    2
+   Exact Mass                        220.182715
+   MonoIsotopic Mass                 220.182715
+   Topological Polar Surface Area    20.2
+   Heavy Atom Count                  16
+   Formal Charge                     0
+   Complexity                        148
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Donor Count            1
+   Feature 3D Hydrophobe Count       1
+   Feature 3D Ring Count             1
+   Effective Rotor Count             8
+   Conformer Sampling RMSD           0.8
+   CID Conformer Count               [7]121
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+104-40-5
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+104-40-5
+   3. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=2776245
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+104-40-5
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+104-40-5
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+104-40-5
+   7. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=1752

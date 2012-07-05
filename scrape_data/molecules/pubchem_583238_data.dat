@@ -1,0 +1,56 @@
+   Color/Form
+        NEEDLES
+   from [1]HSDB
+
+   Density/Specific Gravity
+        1.337
+   from [2]HSDB
+
+   Solubilities
+        MISCIBLE WITH WATER, ALCOHOL
+   from [3]HSDB
+
+   Spectral Properties
+        Index of Refraction = 1.4890 at 20 deg C
+   from [4]HSDB
+
+   Other Chemical/Physical Properties
+        DELIQUESCENT
+   from [5]HSDB
+
+   Computed Properties
+   Molecular Weight                  174.17444 [g/mol]
+   Molecular Formula                 C[6]H[6]O[4]S
+   XLogP3                            0.2
+   H-Bond Donor                      2
+   H-Bond Acceptor                   4
+   Rotatable Bond Count              1
+   Tautomer Count                    2
+   Exact Mass                        173.99868
+   MonoIsotopic Mass                 173.99868
+   Topological Polar Surface Area    83
+   Heavy Atom Count                  11
+   Formal Charge                     0
+   Complexity                        207
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         3
+   Feature 3D Donor Count            1
+   Feature 3D Anion Count            1
+   Feature 3D Ring Count             1
+   Effective Rotor Count             1
+   Conformer Sampling RMSD           0.4
+   CID Conformer Count               [6]1
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+98-67-9
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+98-67-9
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+98-67-9
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+98-67-9
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+98-67-9
+   6. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=4765

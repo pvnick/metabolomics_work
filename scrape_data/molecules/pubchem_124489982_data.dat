@@ -1,0 +1,89 @@
+   Color/Form
+        Liquid
+   from [1]HSDB
+
+   Boiling Point
+        128 deg C @ 760 mm Hg
+   from [2]HSDB
+
+   Melting Point
+        -108.9 deg C
+   from [3]HSDB
+
+   Density/Specific Gravity
+        0.8299 @ 20 deg C
+   from [4]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = 3.93
+   from [5]HSDB
+
+   Solubilities
+
+     * Miscible with methanol
+     * Soluble in ether, benzene, petroleum ether.
+     * In water, 50 mg/l @ 25 deg C
+
+   from [6]HSDB
+
+   Spectral Properties
+
+     * Index of refraction: 1.4639 @ 20 deg C
+     * MAX ABSORPTION (ETHANOL): 230 NM (E= 1935)
+     * IR: u API 146 (American Petroleum Institute spectral collection)
+     * 1H NMR: VAR 210 (Varian Associates NMR Spectra Catalogue)
+     * MS: NIST 1402 (NIST/EPA/MSDC Mass Spectral database 1990 version);
+       NBS 4444
+
+   from [7]HSDB
+
+   Vapor Density
+        3.76 (Air= 1)
+   from [8]HSDB
+
+   Vapor Pressure
+        15.7 mm Hg @ 25 deg C
+   from [9]HSDB
+
+   Other Chemical/Physical Properties
+        Conversion factor: 4.43 mg/cu m = 1 ppm
+   from [10]HSDB
+
+   Computed Properties
+   Molecular Weight                  108.18088 [g/mol]
+   Molecular Formula                 C[8]H[12]
+   XLogP3-AA                         2.8
+   H-Bond Donor                      0
+   H-Bond Acceptor                   0
+   Rotatable Bond Count              1
+   Exact Mass                        108.0939
+   MonoIsotopic Mass                 108.0939
+   Topological Polar Surface Area    0
+   Heavy Atom Count                  8
+   Formal Charge                     0
+   Complexity                        101
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 1
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Hydrophobe Count       1
+   Feature 3D Ring Count             1
+   Effective Rotor Count             1.8
+   Conformer Sampling RMSD           0.4
+   CID Conformer Count               [11]3
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+100-40-3
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+100-40-3
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+100-40-3
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+100-40-3
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+100-40-3
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+100-40-3
+   7. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+100-40-3
+   8. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+100-40-3
+   9. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+100-40-3
+  10. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+100-40-3
+  11. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=7499

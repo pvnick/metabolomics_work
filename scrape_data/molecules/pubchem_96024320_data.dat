@@ -1,0 +1,43 @@
+   Solubilities
+        Water solubility= 1.9X10-3 mg/l (measured)
+   from [1]HSDB
+
+   Vapor Pressure
+        7.4X10-8 mm Hg (est)
+   from [2]HSDB
+
+   Other Chemical/Physical Properties
+        Henry's Law constant= 2.18X10-5 atm-cu m/mole (est)
+   from [3]HSDB
+
+   Computed Properties
+   Molecular Weight                  425.30614 [g/mol]
+   Molecular Formula                 C[12]HCl[7]O[2]
+   XLogP3                            7.5
+   H-Bond Donor                      0
+   H-Bond Acceptor                   2
+   Rotatable Bond Count              0
+   Exact Mass                        423.776673
+   MonoIsotopic Mass                 421.779623
+   Topological Polar Surface Area    18.5
+   Heavy Atom Count                  21
+   Formal Charge                     0
+   Complexity                        400
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         2
+   Feature 3D Ring Count             3
+   Effective Rotor Count             0.4
+   Conformer Sampling RMSD           0.6
+   CID Conformer Count               [4]1
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+35822-46-9
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+35822-46-9
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+35822-46-9
+   4. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=37270

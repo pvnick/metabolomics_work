@@ -1,0 +1,65 @@
+   Color/Form
+        Needles
+   from [1]HSDB
+
+   Melting Point
+        270 deg C
+   from [2]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = 0.33
+   from [3]HSDB
+
+   Solubilities
+
+     * Sparingly soluble in methanol, ethanol, acetone, ethyl acetate,
+       butyl acetate, glacial acetic acid. Very soluble in dioxane, DMF,
+       pyridine. Practically insoluble in ether, chloroform, benzene.
+     * In water, 45-60 mg/l @ 25 deg C.
+
+   from [4]HSDB
+
+   Spectral Properties
+        UV max (neutral solution): 220, 300 nm.
+   from [5]HSDB
+
+   Other Chemical/Physical Properties
+        C 60.46%, H 3.90%, N 10.85%, O 24.78%
+   from [6]HSDB
+
+   Computed Properties
+   Molecular Weight                  258.2295 [g/mol]
+   Molecular Formula                 C[13]H[10]N[2]O[4]
+   XLogP3                            0.3
+   H-Bond Donor                      1
+   H-Bond Acceptor                   4
+   Rotatable Bond Count              1
+   Tautomer Count                    8
+   Exact Mass                        258.064057
+   MonoIsotopic Mass                 258.064057
+   Topological Polar Surface Area    83.6
+   Heavy Atom Count                  19
+   Formal Charge                     0
+   Complexity                        449
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 1
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         4
+   Feature 3D Donor Count            1
+   Feature 3D Ring Count             3
+   Effective Rotor Count             2
+   Conformer Sampling RMSD           0.6
+   CID Conformer Count               [7]8
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+50-35-1
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+50-35-1
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+50-35-1
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+50-35-1
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+50-35-1
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+50-35-1
+   7. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=5426

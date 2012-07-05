@@ -1,0 +1,64 @@
+   Color/Form
+
+     * Colorless liquid
+     * Yellow to amber liquid.
+
+   from [1]HSDB
+
+   Boiling Point
+        120 deg C at 1X10-3 mmHg
+   from [2]HSDB
+
+   Density/Specific Gravity
+        1.539 @ 26 deg C
+   from [3]HSDB
+
+   Solubilities
+
+     * Soluble in acetone, xylene, benzene, ethanol and toluene,
+       moderately soluble in water.
+     * Solubility in water at 25 deg C: 57 g/kg.
+
+   from [4]HSDB
+
+   Spectral Properties
+
+     * Intense mass spectral peaks: 140 m/z (100%), 106 m/z (75%), 196 m/z
+       (68%), 74 m/z (66%)
+     * Index of refraction: 1.5354 at 26 deg C/D
+
+   from [5]HSDB
+
+   Computed Properties
+   Molecular Weight                  269.321302 [g/mol]
+   Molecular Formula                 C[8]H[16]NO[3]PS[2]
+   XLogP3                            1
+   H-Bond Donor                      0
+   H-Bond Acceptor                   6
+   Rotatable Bond Count              5
+   Exact Mass                        269.030922
+   MonoIsotopic Mass                 269.030922
+   Topological Polar Surface Area    98.5
+   Heavy Atom Count                  15
+   Formal Charge                     0
+   Complexity                        275
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 1
+   Defined Bond Stereocenter Count   1
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         2
+   Feature 3D Ring Count             1
+   Effective Rotor Count             5.8
+   Conformer Sampling RMSD           0.6
+   CID Conformer Count               [6]151
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+950-10-7
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+950-10-7
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+950-10-7
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+950-10-7
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+950-10-7
+   6. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=9568069

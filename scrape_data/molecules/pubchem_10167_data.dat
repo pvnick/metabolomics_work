@@ -1,0 +1,63 @@
+   Dissociation Constants
+        pKa1 = 3.9 (carboxylic acid); pKa2 = 5.4 (pyridine)
+   from [1]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = 4.83 (est)
+   from [2]HSDB
+
+   Solubilities
+        In water, 2.4X10-1 mg/L at 25 deg C (est)
+   from [3]HSDB
+
+   Vapor Pressure
+        1.03X10-16 mm Hg at 25 deg C (est)
+   from [4]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Mol wt 481.53. Solid, specific optical rotation at 20 deg C for D
+       (sodium) line = +24.1 deg (c = 1 in ethanol) /Sodium salt/
+     * Henry's Law constant = 5.8X10-19 atm-cu m/mol at 25 deg C (est)
+     * Hydroxyl radical reaction rate constant = 9.4X10-11 cu
+       cm/molecule-sec at 25 deg C (est)
+
+   from [5]HSDB
+
+   Computed Properties
+   Molecular Weight                  459.550263 [g/mol]
+   Molecular Formula                 C[26]H[34]FNO[5]
+   XLogP3-AA                         3.6
+   H-Bond Donor                      3
+   H-Bond Acceptor                   7
+   Rotatable Bond Count              11
+   Tautomer Count                    4
+   Exact Mass                        459.242101
+   MonoIsotopic Mass                 459.242101
+   Topological Polar Surface Area    99.9
+   Heavy Atom Count                  33
+   Formal Charge                     0
+   Complexity                        620
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   2
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   1
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         6
+   Feature 3D Donor Count            2
+   Feature 3D Anion Count            1
+   Feature 3D Hydrophobe Count       2
+   Feature 3D Ring Count             2
+   Effective Rotor Count             11
+   Conformer Sampling RMSD           1
+   CID Conformer Count               [6]34
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+145599-86-6
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+145599-86-6
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+145599-86-6
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+145599-86-6
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+145599-86-6
+   6. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=446156

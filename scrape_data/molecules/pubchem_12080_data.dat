@@ -1,0 +1,93 @@
+   Color/Form
+        Viscous liquid
+   from [1]HSDB
+
+   Boiling Point
+        192-193 deg C @ 0.007 mm Hg
+   from [2]HSDB
+
+   Corrosivity
+        Non-corrosive
+   from [3]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = 4.3
+   from [4]HSDB
+
+   Solubilities
+
+     * Soluble in ethanol, ether
+     * Sol in petroleum ether (less sol than pyrethrin I), kerosene,
+       carbon tetrachloride, ethylene dichloride, nitromethane.
+     * In water, 9.0 mg/l (temperature not specified)
+
+   from [5]HSDB
+
+   Spectral Properties
+
+     * MS: NIST 16475 (NIST/EPA/MSDC Mass Spectral Database, 1990 version)
+     * Specific optical rotation: -6 deg at 20 deg C/D (diethyl ether,
+       percentage concentration = 5%)
+     * Index of refraction: 1.5355 @ 20 deg C/D
+     * Specific optical rotation: +14.7 deg at 19 deg C/D
+       (isooctane-ether)
+     * Max absorption (95% ethanol): 229 nm (molar extinction coefficient=
+       45,850 g-moles/l)
+
+   from [6]HSDB
+
+   Vapor Pressure
+        3.98X10-7 mm Hg (temperature not specified)
+   from [7]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Refined extract is a pale yellow mobile oil with a faint flowery
+       order; unrefined extract is a dark greenish brown viscous liquid.
+       Powder (ground flowers) is tan color. /Pyrethrins/
+     * Hydrolyzed in water, and the process is speeded by acid or alkali.
+     * BP: 200 deg C/ 0.1 mm Hg (with decomposition)
+     * Pyrethrins I and II are ... more potent than the cinerins and
+       jasmolins.
+     * Oxidizes readily in air and becomes inactive in air.
+
+   from [8]HSDB
+
+   Computed Properties
+   Molecular Weight                  372.45472 [g/mol]
+   Molecular Formula                 C[22]H[28]O[5]
+   XLogP3                            4.4
+   H-Bond Donor                      0
+   H-Bond Acceptor                   5
+   Rotatable Bond Count              9
+   Tautomer Count                    5
+   Exact Mass                        372.193674
+   MonoIsotopic Mass                 372.193674
+   Topological Polar Surface Area    69.7
+   Heavy Atom Count                  27
+   Formal Charge                     0
+   Complexity                        751
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   3
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   2
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         3
+   Feature 3D Hydrophobe Count       3
+   Feature 3D Ring Count             1
+   Effective Rotor Count             10
+   Conformer Sampling RMSD           1
+   CID Conformer Count               [9]109
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+121-29-9
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+121-29-9
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+121-29-9
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+121-29-9
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+121-29-9
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+121-29-9
+   7. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+121-29-9
+   8. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+121-29-9
+   9. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=5281555

@@ -1,0 +1,68 @@
+   Color/Form
+
+     * Yellow fine needles from ethanol
+     * Yellow powder
+
+   from [1]HSDB
+
+   Melting Point
+        190-191 deg C
+   from [2]HSDB
+
+   Dissociation Constants
+        pKa = 4.2 /Estimated/
+   from [3]HSDB
+
+   Solubilities
+        Solubility: 7.01 mg/g @ 25 deg C in ethanol; insoluble in water
+   from [4]HSDB
+
+   Vapor Pressure
+        1.0X10-7 mm Hg @ 25 deg C /Estimated/
+   from [5]HSDB
+
+   Other Chemical/Physical Properties
+
+     * log Kow = 6.30 /trans-Retinoic acid/
+     * Henry's Law constant: 9.5X10-6 atm-cu m/mol @ 25 deg C /Estimated/
+     * Hydroxyl radical reaction rate constant: 3.9X10-10 cu
+       cm/molecule-sec @ 25 deg C /Estimated/
+
+   from [6]HSDB
+
+   Computed Properties
+   Molecular Weight                  300.43512 [g/mol]
+   Molecular Formula                 C[20]H[28]O[2]
+   XLogP3                            6.3
+   H-Bond Donor                      1
+   H-Bond Acceptor                   2
+   Rotatable Bond Count              5
+   Exact Mass                        300.20893
+   MonoIsotopic Mass                 300.20893
+   Topological Polar Surface Area    37.3
+   Heavy Atom Count                  22
+   Formal Charge                     0
+   Complexity                        567
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   4
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         2
+   Feature 3D Anion Count            1
+   Feature 3D Hydrophobe Count       3
+   Feature 3D Ring Count             1
+   Effective Rotor Count             5.8
+   Conformer Sampling RMSD           0.8
+   CID Conformer Count               [7]30
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+5300-03-8
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+5300-03-8
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+5300-03-8
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+5300-03-8
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+5300-03-8
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+5300-03-8
+   7. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=449171

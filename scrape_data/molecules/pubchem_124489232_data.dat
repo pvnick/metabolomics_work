@@ -1,0 +1,71 @@
+   Color/Form
+
+     * White solid
+     * Powdery
+
+   from [1]HSDB
+
+   Melting Point
+        116 deg C
+   from [2]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = 2.50
+   from [3]HSDB
+
+   Solubilities
+
+     * Low solubility in hexane, n-octanol; moderate solubility in
+       methanol, toluene, acetone; high solubility in ethyl acetate,
+       acetonitrile, dichloromethane.
+     * In water, 6 mg/l @ 20 deg C
+
+   from [4]HSDB
+
+   Vapor Pressure
+        8.25X10-13 mm Hg @ 25 deg C
+   from [5]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Henry's Law constant = 6.91X10-14 atm-cu m/mol @ 25 deg C
+     * MP: 114-116 deg C /Technical/
+     * Color: Beige solid /Heritage fungicide/
+
+   from [6]HSDB
+
+   Computed Properties
+   Molecular Weight                  403.38748 [g/mol]
+   Molecular Formula                 C[22]H[17]N[3]O[5]
+   XLogP3-AA                         3.7
+   H-Bond Donor                      0
+   H-Bond Acceptor                   8
+   Rotatable Bond Count              8
+   Exact Mass                        403.116821
+   MonoIsotopic Mass                 403.116821
+   Topological Polar Surface Area    104
+   Heavy Atom Count                  30
+   Formal Charge                     0
+   Complexity                        646
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   1
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         4
+   Feature 3D Cation Count           1
+   Feature 3D Ring Count             3
+   Effective Rotor Count             8
+   Conformer Sampling RMSD           1.2
+   CID Conformer Count               [7]288
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+131860-33-8
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+131860-33-8
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+131860-33-8
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+131860-33-8
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+131860-33-8
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+131860-33-8
+   7. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=3034285

@@ -1,0 +1,45 @@
+   pH
+        Basic
+   from [1]HSDB
+
+   Solubilities
+        WATER-SOL SUBSTANCE
+   from [2]HSDB
+
+   Spectral Properties
+        SPECIFIC OPTICAL ROTATION: 128 DEG/D
+   from [3]HSDB
+
+   Computed Properties
+   Molecular Weight                  467.51448 [g/mol]
+   Molecular Formula                 C[18]H[37]N[5]O[9]
+   XLogP3-AA                         -6.2
+   H-Bond Donor                      10
+   H-Bond Acceptor                   14
+   Rotatable Bond Count              6
+   Exact Mass                        467.259128
+   MonoIsotopic Mass                 467.259128
+   Topological Polar Surface Area    268
+   Heavy Atom Count                  32
+   Formal Charge                     0
+   Complexity                        609
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   14
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         9
+   Feature 3D Donor Count            10
+   Feature 3D Cation Count           5
+   Feature 3D Ring Count             3
+   Effective Rotor Count             9.6
+   Conformer Sampling RMSD           1
+   CID Conformer Count               [4]106
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+32986-56-4
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+32986-56-4
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+32986-56-4
+   4. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=36294

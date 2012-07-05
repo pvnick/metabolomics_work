@@ -1,0 +1,62 @@
+   Color/Form
+        CRYSTALS FROM ACETONE
+   from [1]HSDB
+
+   Melting Point
+        178 DEG C
+   from [2]HSDB
+
+   Solubilities
+        SLIGHTLY SOL IN WATER; SOL IN ALCOHOL, BENZENE, CHLOROFORM, ETHER,
+   ACETONE, DILUTE ACIDS
+   from [3]HSDB
+
+   Spectral Properties
+
+     * SPECIFIC OPTICAL ROTATION (C= 1.2 IN CHLOROFORM): +13 DEG @ 20 DEG
+       C/D; PKA 7.75 IN 80% METHYLCELLOSOLVE; MAX ABSORPTION (METHANOL):
+       210, 252, 280 NM (LOG E= 4.50, 3.87, 3.15)
+     * IR: 12213 (Sadtler Research Laboratories Prism Collection)
+     * UV: 3-784 (Organic Electronic Spectral Data, Phillips et al, John
+       Wiley & Sons, New York)
+     * MASS: 2480 (National Bureau of Standards EPA-NIH Mass Spectra Data
+       Base, NSRDS-NBS-63)
+
+   from [4]HSDB
+
+   Computed Properties
+   Molecular Weight                  322.40088 [g/mol]
+   Molecular Formula                 C[20]H[22]N[2]O[2]
+   XLogP3-AA                         1.8
+   H-Bond Donor                      1
+   H-Bond Acceptor                   3
+   Rotatable Bond Count              1
+   Tautomer Count                    2
+   Exact Mass                        322.168128
+   MonoIsotopic Mass                 322.168128
+   Topological Polar Surface Area    41.6
+   Heavy Atom Count                  24
+   Formal Charge                     0
+   Complexity                        635
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   6
+   Undefined Atom Stereocenter Count 1
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         2
+   Feature 3D Donor Count            1
+   Feature 3D Cation Count           1
+   Feature 3D Hydrophobe Count       1
+   Feature 3D Ring Count             4
+   Effective Rotor Count             2.2
+   Conformer Sampling RMSD           0.6
+   CID Conformer Count               [5]1
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+509-15-9
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+509-15-9
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+509-15-9
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+509-15-9
+   5. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=5462429

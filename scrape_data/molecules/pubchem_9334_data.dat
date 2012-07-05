@@ -1,0 +1,56 @@
+   Octanol/Water Partition Coefficient
+        log Kow = 2.47 (est)
+   from [1]HSDB
+
+   Solubilities
+        In water, 215.9 mg/L at 25 deg C (est)
+   from [2]HSDB
+
+   Vapor Pressure
+        3.96X10-11 mm Hg at 25 deg C (est)
+   from [3]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Henry's Law constant = 4.95X10-15 atm-cu m/mol at 25 deg C (est)
+     * Hydroxyl radical reaction rate constant = 1.55X10-10 cu
+       cm/molec-sec at 25 deg C (est)
+     * MW 444.97. MP 228-230 deg C; Specfic optical rotation: -4.0 deg at
+       24 deg C/D (c = 0.35 in methanol) /Tamsulosin hydrochloride/
+
+   from [4]HSDB
+
+   Computed Properties
+   Molecular Weight                  408.51172 [g/mol]
+   Molecular Formula                 C[20]H[28]N[2]O[5]S
+   XLogP3-AA                         2.7
+   H-Bond Donor                      2
+   H-Bond Acceptor                   7
+   Rotatable Bond Count              11
+   Exact Mass                        408.171893
+   MonoIsotopic Mass                 408.171893
+   Topological Polar Surface Area    108
+   Heavy Atom Count                  28
+   Formal Charge                     0
+   Complexity                        539
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   1
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         5
+   Feature 3D Donor Count            2
+   Feature 3D Cation Count           1
+   Feature 3D Ring Count             2
+   Effective Rotor Count             11
+   Conformer Sampling RMSD           1
+   CID Conformer Count               [5]121
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+106133-20-4
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+106133-20-4
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+106133-20-4
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+106133-20-4
+   5. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=129211

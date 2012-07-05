@@ -1,0 +1,73 @@
+   Color/Form
+        LIQUID
+   from [1]HSDB
+
+   Odor
+        FISHY AMINE ODOR
+   from [2]HSDB
+
+   Dissociation Constants
+        PKA: 10.38
+   from [3]HSDB
+
+   pH
+        ALKALINE REACTION
+   from [4]HSDB
+
+   Solubilities
+        FREELY SOL IN ALCOHOL; SOL IN ETHER; PRACTICALLY INSOL IN WATER
+   from [5]HSDB
+
+   Spectral Properties
+        MAX ABSORPTION (0.2 MOLAR H2BO3): 257 NM (A= 8, 1%, 1 CM); 251 NM;
+   263 NM; MAX ABSORPTION (PH 9, BORATE BUFFER): 257 NM (A= 8, 1%, 1 CM);
+   252 NM; 263 NM
+   from [6]HSDB
+
+   Other Chemical/Physical Properties
+
+     * YELLOW CRYSTALS; MP: 155-156 DEG C /PICRATE/
+     * WHITE CRYSTALS OR CRYSTALLINE POWDER; ODORLESS; SOLUTIONS ARE ACID
+       TO LITMUS, HAVING A PH OF ABOUT 6 /SULFATE/
+     * 1 G DISSOLVES IN 20 ML WATER, ABOUT 150 ML ETHANOL (95%);
+       PRACTICALLY INSOL IN CHLOROFORM /SULFATE DIHYDRATE/
+
+   from [7]HSDB
+
+   Computed Properties
+   Molecular Weight                  163.25938 [g/mol]
+   Molecular Formula                 C[11]H[17]N
+   XLogP3                            2.4
+   H-Bond Donor                      1
+   H-Bond Acceptor                   1
+   Rotatable Bond Count              3
+   Exact Mass                        163.1361
+   MonoIsotopic Mass                 163.1361
+   Topological Polar Surface Area    12
+   Heavy Atom Count                  12
+   Formal Charge                     0
+   Complexity                        123
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Donor Count            1
+   Feature 3D Cation Count           1
+   Feature 3D Hydrophobe Count       1
+   Feature 3D Ring Count             1
+   Effective Rotor Count             3
+   Conformer Sampling RMSD           0.6
+   CID Conformer Count               [8]5
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+100-92-5
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+100-92-5
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+100-92-5
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+100-92-5
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+100-92-5
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+100-92-5
+   7. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+100-92-5
+   8. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=3677

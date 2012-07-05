@@ -1,0 +1,60 @@
+   Boiling Point
+        172-174 DEG C @ 0.02 MM HG
+   from [1]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = 4.90
+   from [2]HSDB
+
+   Solubilities
+        In water, 58.6 mg/l @ 24 deg C.
+   from [3]HSDB
+
+   Spectral Properties
+
+     * MAX ABSORPTION: 213 NM (LOG E= 4.39); 252 NM (LOG E= 3.93)
+     * Intense mass spectral peaks: 44 m/z, 71 m/z, 195 m/z, 235 m/z, 266
+       m/z
+
+   from [4]HSDB
+
+   Other Chemical/Physical Properties
+        WHITE CRYSTALLINE POWDER; ODORLESS; BITTER TASTE; MELTS WITHIN 5
+   DEG RANGE BETWEEN 208-218 DEG C; 1 G IN CA 4 ML CHLOROFORM, 20 ML
+   WATER, 20 ML ALC; FREELY SOL IN METHANOL; INSOL IN ETHER /HCL/
+   from [5]HSDB
+
+   Computed Properties
+   Molecular Weight                  266.38068 [g/mol]
+   Molecular Formula                 C[18]H[22]N[2]
+   XLogP3                            4.9
+   H-Bond Donor                      1
+   H-Bond Acceptor                   2
+   Rotatable Bond Count              4
+   Exact Mass                        266.178299
+   MonoIsotopic Mass                 266.178299
+   Topological Polar Surface Area    15.3
+   Heavy Atom Count                  20
+   Formal Charge                     0
+   Complexity                        267
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Donor Count            1
+   Feature 3D Cation Count           2
+   Feature 3D Ring Count             3
+   Effective Rotor Count             4.6
+   Conformer Sampling RMSD           0.6
+   CID Conformer Count               [6]29
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+50-47-5
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+50-47-5
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+50-47-5
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+50-47-5
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+50-47-5
+   6. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=2995

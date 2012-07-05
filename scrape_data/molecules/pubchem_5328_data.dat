@@ -1,0 +1,90 @@
+   Color/Form
+
+     * White crystals from methanol/water
+     * White to off-white solid
+
+   from [1]HSDB
+
+   Melting Point
+        220-225 deg C
+   from [2]HSDB
+
+   Dissociation Constants
+        pKa = 5.2 in water
+   from [3]HSDB
+
+   Solubilities
+        Freely soluble in water, aqueous solubility > 100 mg/ml
+   from [4]HSDB
+
+   Spectral Properties
+
+     * Max absorption: (water, pH7) 282 nm (E= 8000); (pH 11) 283 nm (E=
+       7970); (pH 2) 273 nm (E= 7570 initially, 3143 after 6.5 hr)
+     * Specific optical rotation: + 76.4 deg at 25 deg C/D (concentration
+       by volume = 1 g 100 ml water); specific optical rotation: + 73.0
+       deg at 23 deg C/D (concentration by volume = 1 g in 100 ml water pH
+       7 buffer)
+
+   from [5]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Mp: also reported as 204-209.5 deg C with darkening at > 150 deg C.
+     * Pentostatin differs from the physiologic nucleosides, adenosine and
+       deoxyadenosine, by the interposition of a methylene group between
+       N-1 and C-6 of the purine ring, resulting in a 7-membered
+       (imidazobenzopin) rather than a 6-membered ring, and by the
+       deletion of an amino group from, and the addition of a hydroxyl
+       group to, the ring; the sugar moiety, deoxyribose, is common to
+       both pentostatin and deoxyadenosine, while adenosine contains
+       ribose. The resultant stereochemical and tautomeric differences in
+       the compounds provide an increased binding affinity of pentostatin
+       for the catalytic center of adenosine deaminase compared with the
+       affinities of these physiologic substrates for the enzyme.
+       Pentostatin is thought to resemble closely the transition-state
+       intermediates of the adenosine deaminase reaction involving these
+       nucleosides (ie, the intermediaries formed during the deamination
+       of adenosine and deoxyadenosine to inosine and deoxyinosine,
+       respectively), The drug is a purine antagonist antimetabolite that
+       acts as an adenosine deaminase inhibitor.
+
+   from [6]HSDB
+
+   Computed Properties
+   Molecular Weight                  268.26914 [g/mol]
+   Molecular Formula                 C[11]H[16]N[4]O[4]
+   XLogP3                            -2.1
+   H-Bond Donor                      4
+   H-Bond Acceptor                   6
+   Rotatable Bond Count              2
+   Tautomer Count                    2
+   Exact Mass                        268.117155
+   MonoIsotopic Mass                 268.117155
+   Topological Polar Surface Area    112
+   Heavy Atom Count                  19
+   Formal Charge                     0
+   Complexity                        356
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   4
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         4
+   Feature 3D Donor Count            4
+   Feature 3D Cation Count           2
+   Feature 3D Ring Count             3
+   Effective Rotor Count             3.6
+   Conformer Sampling RMSD           0.6
+   CID Conformer Count               [7]25
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+53910-25-1
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+53910-25-1
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+53910-25-1
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+53910-25-1
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+53910-25-1
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+53910-25-1
+   7. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=439693

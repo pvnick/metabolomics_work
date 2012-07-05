@@ -1,0 +1,55 @@
+   Octanol/Water Partition Coefficient
+        log Kow = 1.13 (est)
+   from [1]HSDB
+
+   Solubilities
+        In water, 5,602 mg/L at 25 deg C (est)
+   from [2]HSDB
+
+   Vapor Pressure
+        1.64X10-6 mm Hg at 25 deg C (est)
+   from [3]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Henry's Law constant = 2.46X10-10 atm-cu m/mole at 25 deg C (est)
+     * Hydroxyl radical reaction rate constant = 1.35X10-11 cu
+       cm/molec-sec at 25 deg C (est)
+     * Ozone reaction rate constant = 1.06X10-17 cu cm/molec-sec at 25 deg
+       C (est)
+
+   from [4]HSDB
+
+   Computed Properties
+   Molecular Weight                  217.43452 [g/mol]
+   Molecular Formula                 C[5]H[3]Cl[3]O[3]
+   XLogP3-AA                         1.2
+   H-Bond Donor                      1
+   H-Bond Acceptor                   3
+   Rotatable Bond Count              1
+   Exact Mass                        215.914777
+   MonoIsotopic Mass                 215.914777
+   Topological Polar Surface Area    46.5
+   Heavy Atom Count                  11
+   Formal Charge                     0
+   Complexity                        223
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 1
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         2
+   Feature 3D Donor Count            1
+   Feature 3D Ring Count             1
+   Effective Rotor Count             1.4
+   Conformer Sampling RMSD           0.4
+   CID Conformer Count               [5]6
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+77439-76-0
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+77439-76-0
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+77439-76-0
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+77439-76-0
+   5. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=53665

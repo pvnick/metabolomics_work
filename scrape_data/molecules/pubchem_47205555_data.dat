@@ -1,0 +1,88 @@
+   Color/Form
+        Needles from water
+   from [1]HSDB
+
+   Boiling Point
+        255 deg C; 162 deg C at 21 mm Hg
+   from [2]HSDB
+
+   Melting Point
+        56.5 deg C
+   from [3]HSDB
+
+   Dissociation Constants
+        pKa = 6.67
+   from [4]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = 3.36 [Sotomatsu T et al; J Pharm Sci 82: 776-81 (1993)]
+   [5]PubMed Abstract
+   from [6]HSDB
+
+   Solubilities
+
+     * Very soluble in ethanol, ether
+     * In water, 119 mg/L at 25 deg C (est)
+
+   from [7]HSDB
+
+   Spectral Properties
+
+     * MASS: 73619 (NIST/EPA/MSDC Mass Spectral Database, 1990 version)
+     * IR: 391 (National Research Council spectral collection)
+     * UV: HBCP
+
+   from [8]HSDB
+
+   Vapor Pressure
+        1.34X10-3 mm Hg at 25 deg C (est)
+   from [9]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Henry's Law constant = 8.9X10-8 atm-cu m/mol at 25 deg C (est)
+     * Hydroxyl radical reaction rate constant = 2.88X10-12 cu
+       cm/molec-sec at 25 deg C (est)
+
+   from [10]HSDB
+
+   Computed Properties
+   Molecular Weight                  251.90336 [g/mol]
+   Molecular Formula                 C[6]H[4]Br[2]O
+   XLogP3                            3.4
+   H-Bond Donor                      1
+   H-Bond Acceptor                   1
+   Rotatable Bond Count              0
+   Tautomer Count                    2
+   Exact Mass                        251.860842
+   MonoIsotopic Mass                 249.862889
+   Topological Polar Surface Area    20.2
+   Heavy Atom Count                  9
+   Formal Charge                     0
+   Complexity                        87.1
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Donor Count            1
+   Feature 3D Hydrophobe Count       2
+   Feature 3D Ring Count             1
+   Effective Rotor Count             0
+   Conformer Sampling RMSD           0.4
+   CID Conformer Count               [11]1
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+608-33-3
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+608-33-3
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+608-33-3
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+608-33-3
+   5. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=8377112
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+608-33-3
+   7. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+608-33-3
+   8. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+608-33-3
+   9. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+608-33-3
+  10. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+608-33-3
+  11. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=11847

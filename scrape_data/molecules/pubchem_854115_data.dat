@@ -1,0 +1,107 @@
+   Color/Form
+
+     * COLORLESS
+     * Oily liquid
+
+   from [1]HSDB
+
+   Odor
+        FRUITY, BUTTERY
+   from [2]HSDB
+
+   Taste
+        Bitter taste
+   from [3]HSDB
+
+   Boiling Point
+        307 deg C
+   from [4]HSDB
+
+   Melting Point
+        -75 deg C
+   from [5]HSDB
+
+   Density/Specific Gravity
+        1.032 at 20 deg C
+   from [6]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = 2.54 [Valvani SC et al; J Pharm Sci 70: 502-7 (1981)]
+   [7]PubMed Abstract
+   from [8]HSDB
+
+   Solubilities
+
+     * SOL IN ACETONE, BENZENE
+     * Very soluble in alcohol and ether
+     * In water, 133 mg/L at 37 deg C
+
+   from [9]HSDB
+
+   Spectral Properties
+
+     * Index of refraction = 1.4309 at 20 deg C
+     * IR: 18542 (Sadtler Research Laboratories IR Grating Spectral
+       Collection)
+     * 1H NMR: 6880 (Sadtler Research Laboratories Spectral Collection)
+     * 13C NMR: 467FT (Johnson and Jankowski Carbon-13 NMR Spectra. John
+       Wiley and Sons, New York)
+     * MASS: 36536 (NIST/EPA/MSDC Mass Spectral Database 1990 Version);
+       7171 (Aldermaston, Eight Peak Index of Mass Spectra, UK)
+
+   from [10]HSDB
+
+   Vapor Pressure
+        1.3X10-3 mm Hg at 25 deg C /Estimated/
+   from [11]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Conversion factor: 12.34 mg/cu m= 1 ppm
+     * Henry's Law constant = 9.6X10-9 atm cu m/mole at 25 deg C
+       /Estimated/
+     * Hydroxyl radical reaction rate constant = 1.3X10-11cu cm/molec-sec
+       at 25 deg C /Estimated/
+
+   from [12]HSDB
+
+   Computed Properties
+   Molecular Weight                  302.36334 [g/mol]
+   Molecular Formula                 C[15]H[26]O[6]
+   XLogP3-AA                         2.4
+   H-Bond Donor                      0
+   H-Bond Acceptor                   6
+   Rotatable Bond Count              14
+   Exact Mass                        302.172939
+   MonoIsotopic Mass                 302.172939
+   Topological Polar Surface Area    78.9
+   Heavy Atom Count                  21
+   Formal Charge                     0
+   Complexity                        304
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         3
+   Feature 3D Hydrophobe Count       3
+   Effective Rotor Count             14
+   Conformer Sampling RMSD           1
+   CID Conformer Count               [13]160
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+60-01-5
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+60-01-5
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+60-01-5
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+60-01-5
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+60-01-5
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+60-01-5
+   7. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=7241352
+   8. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+60-01-5
+   9. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+60-01-5
+  10. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+60-01-5
+  11. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+60-01-5
+  12. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+60-01-5
+  13. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=6050

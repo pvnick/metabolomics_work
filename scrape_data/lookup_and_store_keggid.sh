@@ -15,12 +15,3 @@ VALUES
 ('$KEGG_ID', $PUBCHEM_ID, '$MET3D_ID')"
 
 mysql -uroot -e"$SQL"
-
-#download molecule files
-
-#XXX uncomment this to enable downloading pubchem 2d and 3d sdf files. ive already downloaded everything i need so i commented it out
-#./download_molecule_files_from_pubchem.sh $PUBCHEM_ID
-
-cd 3dmet
-./download_datasheet.sh $MET3D_ID
-cd ..

@@ -1,0 +1,49 @@
+   Octanol/Water Partition Coefficient
+        LogP = 2.44
+   from [1]HSDB
+
+   Other Chemical/Physical Properties
+
+     * WHITE, CRYSTALLINE POWDER; SOL IN ALCOHOL; SLIGHTLY SOL IN ACETONE,
+       CHLOROFORM; AQ SOLN IS ALKALINE; DECOMP BETWEEN 170 DEG C & 173 DEG
+       C; ODORLESS; BITTER TASTE /MONOHYDRATE/
+     * Microcryst powder, dec 170 deg C, specific optical rotation +163
+       deg @ 20 deg C/D; pH 6.0-7.5. Soluble in water, methanol, ethanol,
+       pyridine, ethylene glycol /Sodium monohydrate/
+
+   from [2]HSDB
+
+   Computed Properties
+   Molecular Weight                  435.88132 [g/mol]
+   Molecular Formula                 C[19]H[18]ClN[3]O[5]S
+   XLogP3                            2.4
+   H-Bond Donor                      2
+   H-Bond Acceptor                   7
+   Rotatable Bond Count              4
+   Tautomer Count                    4
+   Exact Mass                        435.065569
+   MonoIsotopic Mass                 435.065569
+   Topological Polar Surface Area    138
+   Heavy Atom Count                  29
+   Formal Charge                     0
+   Complexity                        722
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   3
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         5
+   Feature 3D Donor Count            1
+   Feature 3D Anion Count            1
+   Feature 3D Hydrophobe Count       1
+   Feature 3D Ring Count             4
+   Effective Rotor Count             5.8
+   Conformer Sampling RMSD           0.8
+   CID Conformer Count               [3]54
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+61-72-3
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+61-72-3
+   3. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=6098

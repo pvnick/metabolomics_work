@@ -1,0 +1,107 @@
+   Chemical and Physical Properties References
+
+   [1]USDA ARS - USDA chemical properties
+   from [2]ChemIDplus
+
+   Color/Form
+
+     * Minute crystals
+     * White, crystalline powder
+     * White to tan, crystalline solid
+
+   from [3]HSDB
+
+   Odor
+        Odorless
+   from [4]HSDB
+
+   Boiling Point
+        Decomposes on distilation
+   from [5]HSDB
+
+   Melting Point
+        91.5 deg C
+   from [6]HSDB
+
+   Density/Specific Gravity
+        1.12 @ 20 deg C
+   from [7]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = 1.52
+   from [8]HSDB
+
+   Solubilities
+
+     * Sol in methanol, acetone, and many org solvents; slightly sol in
+       cold hydrocarbons
+     * Readily soluble in 2-propanol, dichloromethane, toluene; hardly
+       soluble in n-hexane
+     * In water, 1860 mg/l @ 30 deg C [Bowman BT, Sans WW; J Environ Sci
+       Health B18: 221-7 (1983)] [9]PubMed Abstract
+
+   from [10]HSDB
+
+   Spectral Properties
+
+     * Intense mass spectral peaks: 110 m/z (100%), 152 m/z (18%), 111 m/z
+       (10%), 81 m/z (10%)
+     * Intense mass spectral peaks: 209 m/z
+
+   from [11]HSDB
+
+   Vapor Pressure
+        9.68X10-6 mm Hg @ 20 deg C
+   from [12]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Decomp @ high temp forming methyl isocyanate
+     * Unstable in highly alkaline conditions
+
+   from [13]HSDB
+
+   Computed Properties
+   Molecular Weight                  209.2417 [g/mol]
+   Molecular Formula                 C[11]H[15]NO[3]
+   XLogP3                            1.5
+   H-Bond Donor                      1
+   H-Bond Acceptor                   3
+   Rotatable Bond Count              4
+   Tautomer Count                    2
+   Exact Mass                        209.105193
+   MonoIsotopic Mass                 209.105193
+   Topological Polar Surface Area    47.6
+   Heavy Atom Count                  15
+   Formal Charge                     0
+   Complexity                        206
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         2
+   Feature 3D Donor Count            1
+   Feature 3D Hydrophobe Count       1
+   Feature 3D Ring Count             1
+   Effective Rotor Count             5
+   Conformer Sampling RMSD           0.6
+   CID Conformer Count               [14]119
+
+References
+
+   1. http://www.ars.usda.gov/SP2UserFiles/ad_hoc/12755100DatabaseFiles/PesticidePropertiesDatabase/IndividualPesticideFiles/PROPOXUR.TXT
+   2. http://chem.sis.nlm.nih.gov/chemidplus/
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+114-26-1
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+114-26-1
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+114-26-1
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+114-26-1
+   7. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+114-26-1
+   8. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+114-26-1
+   9. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=6853964
+  10. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+114-26-1
+  11. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+114-26-1
+  12. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+114-26-1
+  13. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+114-26-1
+  14. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=4944

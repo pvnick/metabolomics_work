@@ -1,0 +1,82 @@
+   Color/Form
+        Solid
+   from [1]HSDB
+
+   Melting Point
+        103 deg C
+   from [2]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = 3.85
+   from [3]HSDB
+
+   Solubilities
+
+     * Soluble in ethanol, ethyl ether, ligroin
+     * Soluble in hot water
+     * In water, 0.91 mg/L at 25 deg C
+
+   from [4]HSDB
+
+   Spectral Properties
+
+     * Max absorption (chloroform): 262 nm (epsilon = 755, 1 cm, 1%), 314
+       nm (epsilon = 145, 1 cm, 1%), 376 nm (epsilon = 361, 1 cm, 1%)
+     * MASS: 76028 (NIST/EPA/MSDC Mass Spectral Database, 1990 version);
+       2069 (Atlas of Mass Spectral Data, John Wiley & Sons, New York)
+     * IR: 2657 (Coblentz Society spectral collection)
+     * UV: 3364 (Sadtler Research Laboratories Spectral Collection)
+     * 1H NMR: 18055 (Sadtler Research Laboratories spectral collection)
+
+   from [5]HSDB
+
+   Vapor Pressure
+        3.85X10-5 mm Hg at 25 deg C (est)
+   from [6]HSDB
+
+   Other Chemical/Physical Properties
+
+     * IR: 4935 (Coblentz Society Spectral Collection)
+       /3-Nitroacenaphthene/
+     * Henry's Law constant = 1.11X10-6 atm-cu m/mol at 25 deg C (est)
+     * Hydroxyl radical reaction rate constant = 8.30X10-12 cu
+       cm/molec-sec at 25 deg C (est)
+
+   from [7]HSDB
+
+   Computed Properties
+   Molecular Weight                  199.20536 [g/mol]
+   Molecular Formula                 C[12]H[9]NO[2]
+   XLogP3                            3.9
+   H-Bond Donor                      0
+   H-Bond Acceptor                   2
+   Rotatable Bond Count              0
+   Exact Mass                        199.063329
+   MonoIsotopic Mass                 199.063329
+   Topological Polar Surface Area    45.8
+   Heavy Atom Count                  15
+   Formal Charge                     0
+   Complexity                        273
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         2
+   Feature 3D Anion Count            1
+   Feature 3D Ring Count             3
+   Effective Rotor Count             1.4
+   Conformer Sampling RMSD           0.6
+   CID Conformer Count               [8]1
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+602-87-9
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+602-87-9
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+602-87-9
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+602-87-9
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+602-87-9
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+602-87-9
+   7. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+602-87-9
+   8. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=11769

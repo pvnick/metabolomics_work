@@ -1,0 +1,86 @@
+   Color/Form
+
+     * White to off-white crystalline powder
+     * Crystals from acetone
+
+   from [1]HSDB
+
+   Melting Point
+        146.5-148.5 deg C
+   from [2]HSDB
+
+   Dissociation Constants
+        pKa = 8.91 (tertiary nitrogen) (EST)
+   from [3]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = 7.63 (est)
+   from [4]HSDB
+
+   Solubilities
+
+     * Solubility at 30 deg C (g/100 ml): ethanol 3.780; methanol 3.750;
+       hexane 0.034; 0.1M HCl 0.012; 00.1M citric acid 0.110; 0.1M
+       tartaric acid 0.045
+     * In water, 9.63X10-2 mg/L at 25 deg C [McFarland JW et al; J Chem
+       Inf Comput Sci 41: 1355-9 (2001)] [5]PubMed Abstract
+
+   from [6]HSDB
+
+   Spectral Properties
+        UV max (methanol): 260 nm (A 660.4); (ethanol): 260 nm (A 671.4);
+   (dichloromethane): 260 nm (A 762.2)
+   from [7]HSDB
+
+   Vapor Pressure
+        9.4X10-15 mm Hg at 25 deg C (est)
+   from [8]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Henry's Law constant = 2.1X10-13 atm-cu m/mol at 25 deg C (est)
+     * Hydroxyl radical reaction rate constant = 1.4X10-10 cu
+       cm/molecule-sec at 25 deg C (est)
+
+   from [9]HSDB
+
+   Computed Properties
+   Molecular Weight                  471.67344 [g/mol]
+   Molecular Formula                 C[32]H[41]NO[2]
+   XLogP3-AA                         6.6
+   H-Bond Donor                      2
+   H-Bond Acceptor                   3
+   Rotatable Bond Count              9
+   Exact Mass                        471.31373
+   MonoIsotopic Mass                 471.31373
+   Topological Polar Surface Area    43.7
+   Heavy Atom Count                  35
+   Formal Charge                     0
+   Complexity                        582
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 1
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         2
+   Feature 3D Donor Count            2
+   Feature 3D Cation Count           1
+   Feature 3D Hydrophobe Count       1
+   Feature 3D Ring Count             4
+   Effective Rotor Count             10.2
+   Conformer Sampling RMSD           1
+   CID Conformer Count               [10]208
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+50679-08-8
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+50679-08-8
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+50679-08-8
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+50679-08-8
+   5. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=11604037
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+50679-08-8
+   7. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+50679-08-8
+   8. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+50679-08-8
+   9. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+50679-08-8
+  10. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=5405

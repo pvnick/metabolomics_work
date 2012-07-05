@@ -1,0 +1,92 @@
+   Color/Form
+
+     * Lemon-yellow needles from alc
+     * Soln changes color with change in pH, from lemon-yellow at pH 4.6
+       to cherry-red at pH 9.9
+
+   from [1]HSDB
+
+   Boiling Point
+        178-179 deg C (decomposes)
+   from [2]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = 0.45 /Estimated/
+   from [3]HSDB
+
+   pH
+        Strong acid
+   from [4]HSDB
+
+   Solubilities
+
+     * Practically insol in water; sol in alc, dioxane, dilute alkali
+     * Slightly sol in ether; sol in acetone
+
+   from [5]HSDB
+
+   Spectral Properties
+
+     * Specific optical rotation: -37.4 deg at 18 deg C/D (alc, 1.15%);
+       max absorption: 250 nm, 331 nm (epsilon= 370, 418, 1%, 1 cm)
+     * MAX ABSORPTION (ETHANOL): 319 NM (E= 4,700), 253 NM (E= 8,300), 222
+       NM (E= 22,300); (3-METHYL PENTANE): 322 NM (E= 8,800);
+       (CHLOROFORM): 332 NM (E= 16,100)
+     * UV: 3-407 (Organic Electronic Spectral Data, Phillips et al, John
+       Wiley & Sons, New York)
+     * MASS: 53244 (NIST/EPA/MSDC Mass Spectral Data base, version 1990)
+
+   from [6]HSDB
+
+   Vapor Pressure
+        5.6X10-10 mm Hg at 25 deg C /Estimated/
+   from [7]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Henry's Law constant = 2.1X10-15 atm-cu m/mole at 25 deg C
+       /Estimated/
+     * Hydroxyl radical reaction rate constant = 8.4X10-11 cu cm/molec-sec
+       at 25 deg C /Estimated/
+
+   from [8]HSDB
+
+   Computed Properties
+   Molecular Weight                  250.24726 [g/mol]
+   Molecular Formula                 C[13]H[14]O[5]
+   XLogP3-AA                         1.7
+   H-Bond Donor                      2
+   H-Bond Acceptor                   5
+   Rotatable Bond Count              1
+   Tautomer Count                    11
+   Exact Mass                        250.084124
+   MonoIsotopic Mass                 250.084124
+   Topological Polar Surface Area    83.8
+   Heavy Atom Count                  18
+   Formal Charge                     0
+   Complexity                        536
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   2
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         4
+   Feature 3D Donor Count            1
+   Feature 3D Anion Count            2
+   Feature 3D Ring Count             2
+   Effective Rotor Count             1.6
+   Conformer Sampling RMSD           0.6
+   CID Conformer Count               [9]2
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+518-75-2
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+518-75-2
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+518-75-2
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+518-75-2
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+518-75-2
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+518-75-2
+   7. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+518-75-2
+   8. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+518-75-2
+   9. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=54680783

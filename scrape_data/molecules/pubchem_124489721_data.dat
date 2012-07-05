@@ -1,0 +1,58 @@
+   Octanol/Water Partition Coefficient
+        log Kow = 3.83
+   from [1]HSDB
+
+   Solubilities
+
+     * 3 g/100mL in benzene
+     * In water, > 0.01 g/100mL
+
+   from [2]HSDB
+
+   Vapor Pressure
+        3.7X10-6 mm Hg at 25 deg C /Estimated/
+   from [3]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Henry's Law constant: 2.6X10-3 atm cu m/mole at 25 deg C
+       /Estimated/
+     * Hydroxyl radical reaction rate constant: 2.8X10-12 cu cm/mole-sec
+       at 25 deg C /Estimated/
+
+   from [4]HSDB
+
+   Computed Properties
+   Molecular Weight                  230.09056 [g/mol]
+   Molecular Formula                 C[10]H[9]Cl[2]NO
+   XLogP3                            3.8
+   H-Bond Donor                      1
+   H-Bond Acceptor                   1
+   Rotatable Bond Count              2
+   Tautomer Count                    3
+   Exact Mass                        229.006119
+   MonoIsotopic Mass                 229.006119
+   Topological Polar Surface Area    29.1
+   Heavy Atom Count                  14
+   Formal Charge                     0
+   Complexity                        230
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         1
+   Feature 3D Donor Count            1
+   Feature 3D Ring Count             1
+   Effective Rotor Count             3.6
+   Conformer Sampling RMSD           0.6
+   CID Conformer Count               [5]9
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+2759-71-9
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+2759-71-9
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+2759-71-9
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+2759-71-9
+   5. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=17693

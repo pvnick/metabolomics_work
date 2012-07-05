@@ -1,0 +1,58 @@
+   Color/Form
+        NEEDLES FROM METHANOL + WATER
+   from [1]HSDB
+
+   Melting Point
+        243.5-244.5 DEG C
+   from [2]HSDB
+
+   Solubilities
+        SOL IN ALCOHOL, ACETONE, CHLOROFORM
+   from [3]HSDB
+
+   Spectral Properties
+
+     * SPECIFIC OPTICAL ROTATION (ETHANOL): -150 DEG @ 20 DEG C/D; -167.6
+       DEG @ 20 DEG C/D (CHLOROFORM); MAX ABSORPTION: 250, 360 NM (E=
+       15,000, 60)
+     * IR: 21767 (Sadtler Research Laboratories IR Grating Collection)
+     * UV: 3-1008 (Organic Electronic Spectral Data, Phillips et al, John
+       Wiley & Sons, New York)
+
+   from [4]HSDB
+
+   Computed Properties
+   Molecular Weight                  425.60346 [g/mol]
+   Molecular Formula                 C[27]H[39]NO[3]
+   XLogP3-AA                         2.9
+   H-Bond Donor                      2
+   H-Bond Acceptor                   4
+   Rotatable Bond Count              0
+   Tautomer Count                    5
+   Exact Mass                        425.292994
+   MonoIsotopic Mass                 425.292994
+   Topological Polar Surface Area    58.6
+   Heavy Atom Count                  31
+   Formal Charge                     0
+   Complexity                        876
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   10
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         3
+   Feature 3D Donor Count            2
+   Feature 3D Cation Count           1
+   Feature 3D Ring Count             6
+   Effective Rotor Count             2.6
+   Conformer Sampling RMSD           0.8
+   CID Conformer Count               [5]2
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+469-59-0
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+469-59-0
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+469-59-0
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+469-59-0
+   5. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=10098

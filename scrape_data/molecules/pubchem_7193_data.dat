@@ -1,0 +1,80 @@
+   Color/Form
+        White, crystalline solid
+   from [1]HSDB
+
+   Melting Point
+        89 deg C
+   from [2]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = 6.51
+   from [3]HSDB
+
+   Solubilities
+
+     * Soluble in fat and most organic solvents
+     * In water, 0.065 mg/L at 24 deg C
+     * In water, 0.04 mg/L at 25 deg C
+
+   from [4]HSDB
+
+   Spectral Properties
+
+     * Intensity of mass spectral peaks: 246 M/z (100%), 318 M/z (79%),
+       248 M/z (66%), 316 M/z (61%)
+     * MASS: 42356 (NIST/EPA/MSDC Mass Spectral Database, 1990 version);
+       1322 (Atlas of Mass Spectral Data, John Wiley & Sons, New York)
+     * IR: 2:550G (Aldrich Library of Infrared Spectra, Aldrich Chemical
+       Co, Milwaukee, WI)
+
+   from [5]HSDB
+
+   Vapor Pressure
+        6.0X10-6 mm Hg at 25 deg C [Bidleman TF; Anal Chem 56: 2490-96
+   (1984)] [6]PubMed Abstract
+   from [7]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Stable to concentrated sulfuric acid
+     * Henry's Law constant = 4.16X10-5 atm-cu m/mole at 25 deg C
+     * Hydroxyl radical reaction rate constant = 7.4X10-12 cu cm/molec-sec
+       at 25 deg C (est)
+
+   from [8]HSDB
+
+   Computed Properties
+   Molecular Weight                  318.02532 [g/mol]
+   Molecular Formula                 C[14]H[8]Cl[4]
+   XLogP3                            7
+   H-Bond Donor                      0
+   H-Bond Acceptor                   0
+   Rotatable Bond Count              2
+   Exact Mass                        317.935061
+   MonoIsotopic Mass                 315.938011
+   Topological Polar Surface Area    0
+   Heavy Atom Count                  18
+   Formal Charge                     0
+   Complexity                        269
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Ring Count             2
+   Effective Rotor Count             2
+   Conformer Sampling RMSD           0.6
+   CID Conformer Count               [9]1
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+72-55-9
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+72-55-9
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+72-55-9
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+72-55-9
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+72-55-9
+   6. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=6440454
+   7. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+72-55-9
+   8. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+72-55-9
+   9. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=3035

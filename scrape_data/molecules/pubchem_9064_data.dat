@@ -1,0 +1,48 @@
+   Octanol/Water Partition Coefficient
+        log Kow = 4.28 (est)
+   from [1]HSDB
+
+   Solubilities
+        In water, 24.9 mg/L at 25 deg C (est)
+   from [2]HSDB
+
+   Vapor Pressure
+        6.86X10-7 mm Hg at 25 deg C (est)
+   from [3]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Crystals from acetone+ether, mp 143 deg C. UV max: 259 nm (Em =
+       437). Soluble in water. pH about 6 /Mesylate/
+     * Henry's Law constant = 2.23X10-9 atm-cu m/mol at 25 deg C (est)
+     * Hydroxyl radical reaction rate constant = 8.58X10-11 cu
+       cm/molec-sec at 25 deg C (est)
+
+   from [4]HSDB
+
+   Computed Properties
+   Molecular Weight                  307.4293 [g/mol]
+   Molecular Formula                 C[21]H[25]NO
+   XLogP3-AA                         4.5
+   H-Bond Donor                      0
+   H-Bond Acceptor                   2
+   Rotatable Bond Count              4
+   Exact Mass                        307.193614
+   MonoIsotopic Mass                 307.193614
+   Topological Polar Surface Area    12.5
+   Heavy Atom Count                  23
+   Formal Charge                     0
+   Complexity                        340
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   2
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+86-13-5
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+86-13-5
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+86-13-5
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+86-13-5

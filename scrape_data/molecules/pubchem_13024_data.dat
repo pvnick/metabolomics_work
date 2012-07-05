@@ -1,0 +1,62 @@
+   Color/Form
+        Oil
+   from [1]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = 1.1 (est)
+   from [2]HSDB
+
+   Solubilities
+        In water, 7.2X10+4 mg/L at 25 deg C (est)
+   from [3]HSDB
+
+   Vapor Pressure
+        5.8X10-3 mm Hg at 25 deg C (est)
+   from [4]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Unstable under basic conditions
+     * C10H15NO.HCl; WM: 201.7 /Anatoxin A hydrochloride/
+     * Henry's Law constant = 6.6X10-9 atm-cu m/mol at 25 deg C (est)
+     * Hydroxyl radical reaction rate constant = 1.2X10-10 cu cm/molec-sec
+       at 25 deg C (est)
+
+   from [5]HSDB
+
+   Computed Properties
+   Molecular Weight                  165.2322 [g/mol]
+   Molecular Formula                 C[10]H[15]NO
+   XLogP3-AA                         0.8
+   H-Bond Donor                      1
+   H-Bond Acceptor                   2
+   Rotatable Bond Count              1
+   Tautomer Count                    5
+   Exact Mass                        165.115364
+   MonoIsotopic Mass                 165.115364
+   Topological Polar Surface Area    29.1
+   Heavy Atom Count                  12
+   Formal Charge                     0
+   Complexity                        232
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 2
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         1
+   Feature 3D Donor Count            1
+   Feature 3D Cation Count           1
+   Feature 3D Ring Count             2
+   Effective Rotor Count             2
+   Conformer Sampling RMSD           0.6
+   CID Conformer Count               [6]9
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+64285-06-9
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+64285-06-9
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+64285-06-9
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+64285-06-9
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+64285-06-9
+   6. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=431734

@@ -1,0 +1,56 @@
+   Dissociation Constants
+        pKa = 10.5 (amine group) /Estimated/
+   from [1]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = 3.28
+   from [2]HSDB
+
+   Vapor Pressure
+        1.9X10-4 mm Hg at 25 deg C /Estimated/
+   from [3]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Melting point: 290-295 deg C /Memantine hydrochloride salt/
+     * White to off white fine powder /Memantine hydrochloride salt/
+     * Henry's Law constant: 1.5X10-5 atm-cu m/mole at 25 deg C
+       /Estimated/
+     * Hydroxyl radical reaction rate constant: 3.3X10-11 cu cm/molec-sec
+       at 25 deg C /Estimated/
+
+   from [4]HSDB
+
+   Computed Properties
+   Molecular Weight                  179.30184 [g/mol]
+   Molecular Formula                 C[12]H[21]N
+   XLogP3                            3.3
+   H-Bond Donor                      1
+   H-Bond Acceptor                   1
+   Rotatable Bond Count              0
+   Exact Mass                        179.1674
+   MonoIsotopic Mass                 179.1674
+   Topological Polar Surface Area    26
+   Heavy Atom Count                  13
+   Formal Charge                     0
+   Complexity                        240
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 2
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Donor Count            1
+   Feature 3D Cation Count           1
+   Feature 3D Ring Count             4
+   Effective Rotor Count             1.2
+   Conformer Sampling RMSD           0.4
+   CID Conformer Count               [5]1
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+19982-08-2
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+19982-08-2
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+19982-08-2
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+19982-08-2
+   5. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=4054

@@ -1,0 +1,54 @@
+   Octanol/Water Partition Coefficient
+        log Kow= 1.215 (calc)
+   from [1]HSDB
+
+   Spectral Properties
+
+     * IR: 14710 (Sadtler Research Laboratories Prism Collection)
+     * NMR: 18781 (Sadtler Research Laboratories Spectral Collection)
+     * MASS: 398 (Atlas of Mass Spectral Data, John Wiley & Sons, New
+       York)
+
+   from [2]HSDB
+
+   Vapor Pressure
+        1.35X10-1 mm Hg at 25 deg C
+   from [3]HSDB
+
+   Other Chemical/Physical Properties
+        Henry's Law constant= 1.809X10-4 atm-cu m/mole at 25 deg C (est)
+   from [4]HSDB
+
+   Computed Properties
+   Molecular Weight                  114.1424 [g/mol]
+   Molecular Formula                 C[6]H[10]O[2]
+   XLogP3                            0
+   H-Bond Donor                      0
+   H-Bond Acceptor                   2
+   Rotatable Bond Count              0
+   Tautomer Count                    2
+   Exact Mass                        114.06808
+   MonoIsotopic Mass                 114.06808
+   Topological Polar Surface Area    26.3
+   Heavy Atom Count                  8
+   Formal Charge                     0
+   Complexity                        88.5
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         1
+   Feature 3D Ring Count             1
+   Effective Rotor Count             1.2
+   Conformer Sampling RMSD           0.4
+   CID Conformer Count               [5]4
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+502-44-3
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+502-44-3
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+502-44-3
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+502-44-3
+   5. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=10401

@@ -1,0 +1,68 @@
+   Dissociation Constants
+
+     * pKa = 4.42 (hydroxy) (est)
+     * pKa = 4.58
+
+   from [1]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = 1.51
+   from [2]HSDB
+
+   Solubilities
+        In water, 5.97X10+3 mg/L at 25 deg C (est)
+   from [3]HSDB
+
+   Vapor Pressure
+        2.69X10-6 mm Hg at 25 deg C (est)
+   from [4]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Yellow oil. UV max (alcohol): 316 nm /cis-Form/
+     * Orthorhombic needles from water, mp 174 deg C. UV max (alcohol):
+       236, 322 nm. Soluble in hot water, alcohol, ethyl acetate.
+       Moderately soluble in ether. Sparingly soluble in petroleum ether,
+       benzene. Forms a sodium salt. /trans-Form/
+     * Henry's Law constant = 7.96X10-14 atm-cu m/mol at 25 deg C (est)
+     * Hydroxyl radical reaction rate constant = 4.83X10-11 cu
+       cm/molec-sec at 25 deg C (est)
+
+   from [5]HSDB
+
+   Computed Properties
+   Molecular Weight                  194.184 [g/mol]
+   Molecular Formula                 C[10]H[10]O[4]
+   XLogP3                            1.5
+   H-Bond Donor                      2
+   H-Bond Acceptor                   4
+   Rotatable Bond Count              3
+   Tautomer Count                    5
+   Exact Mass                        194.057909
+   MonoIsotopic Mass                 194.057909
+   Topological Polar Surface Area    66.8
+   Heavy Atom Count                  14
+   Formal Charge                     0
+   Complexity                        224
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   1
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         3
+   Feature 3D Donor Count            1
+   Feature 3D Anion Count            1
+   Feature 3D Ring Count             1
+   Effective Rotor Count             3
+   Conformer Sampling RMSD           0.6
+   CID Conformer Count               [6]4
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+1135-24-6
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+1135-24-6
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+1135-24-6
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+1135-24-6
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+1135-24-6
+   6. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=445858

@@ -1,0 +1,63 @@
+   Color/Form
+        White solid
+   from [1]HSDB
+
+   Melting Point
+        202-205 deg C
+   from [2]HSDB
+
+   Density/Specific Gravity
+        Relative density (water=1): 1.7
+   from [3]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = 5.68
+   from [4]HSDB
+
+   Solubilities
+
+     * Methanol 11.3, xylene 5.2 (both g/l @ 20 deg C)
+     * In water, 0.027 mg/l @ 18 deg C
+
+   from [5]HSDB
+
+   Vapor Pressure
+        4.43X10-7 mm Hg @ 25 deg C
+   from [6]HSDB
+
+   Computed Properties
+   Molecular Weight                  461.142739 [g/mol]
+   Molecular Formula                 C[16]H[8]Cl[2]F[6]N[2]O[3]
+   XLogP3                            5.7
+   H-Bond Donor                      2
+   H-Bond Acceptor                   9
+   Rotatable Bond Count              5
+   Tautomer Count                    5
+   Exact Mass                        459.981617
+   MonoIsotopic Mass                 459.981617
+   Topological Polar Surface Area    67.4
+   Heavy Atom Count                  29
+   Formal Charge                     0
+   Complexity                        581
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         3
+   Feature 3D Donor Count            2
+   Feature 3D Ring Count             2
+   Effective Rotor Count             8
+   Conformer Sampling RMSD           1
+   CID Conformer Count               [7]40
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+86479-06-3
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+86479-06-3
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+86479-06-3
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+86479-06-3
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+86479-06-3
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+86479-06-3
+   7. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=91741

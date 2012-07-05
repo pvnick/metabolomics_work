@@ -1,0 +1,84 @@
+   Color/Form
+        LIQUID
+   from [1]HSDB
+
+   Boiling Point
+        237 DEG C
+   from [2]HSDB
+
+   Melting Point
+        20-21 DEG C
+   from [3]HSDB
+
+   Density/Specific Gravity
+        1.1922 @ 20 DEG C/4 DEG C
+   from [4]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow= 2.32 (experimental)
+   from [5]HSDB
+
+   Solubilities
+        PRACTICALLY INSOL IN WATER; MISCIBLE WITH ALC, ETHER
+   from [6]HSDB
+
+   Spectral Properties
+
+     * INDEX OF REFRACTION: 1.5550 @ 20 DEG C/D
+     * SADTLER REF NUMBER: 272 (IR, GRATING)
+     * MAX ABSORPTION (ALCOHOL): 249 NM (LOG E= 4.23); 272 NM (LOG E=
+       2.95); 284 NM (LOG E= 2.70)
+     * IR: 1769 (Sadtler Research Laboratories Prism Collection)
+     * UV: 494 (Sadtler Research Laboratories Spectral Collection)
+     * NMR: 188 (Varian Associates NMR Spectra Catalogue)
+     * MASS: 921 (Atlas of Mass Spectral Data, John Wiley & Sons, New
+       York)
+
+   from [7]HSDB
+
+   Vapor Pressure
+        0.51 mm Hg @ 25 deg C (est)
+   from [8]HSDB
+
+   Other Chemical/Physical Properties
+        Henry's Law constant= 9.3X10-4 atm cu-m/mole @ 25 deg C (est)
+   from [9]HSDB
+
+   Computed Properties
+   Molecular Weight                  154.59358 [g/mol]
+   Molecular Formula                 C[8]H[7]ClO
+   XLogP3                            2.3
+   H-Bond Donor                      0
+   H-Bond Acceptor                   1
+   Rotatable Bond Count              1
+   Tautomer Count                    2
+   Exact Mass                        154.018543
+   MonoIsotopic Mass                 154.018543
+   Topological Polar Surface Area    17.1
+   Heavy Atom Count                  10
+   Formal Charge                     0
+   Complexity                        125
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         1
+   Feature 3D Ring Count             1
+   Effective Rotor Count             1
+   Conformer Sampling RMSD           0.4
+   CID Conformer Count               [10]2
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+99-91-2
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+99-91-2
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+99-91-2
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+99-91-2
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+99-91-2
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+99-91-2
+   7. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+99-91-2
+   8. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+99-91-2
+   9. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+99-91-2
+  10. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=7467

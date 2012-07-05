@@ -1,0 +1,85 @@
+   Color/Form
+        LIQUID
+   from [1]HSDB
+
+   Boiling Point
+        173-175 DEG C @ 3 MM HG
+   from [2]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow= 2.74 (est).
+   from [3]HSDB
+
+   Solubilities
+        Water solubility: 879 mg/l (est).
+   from [4]HSDB
+
+   Spectral Properties
+
+     * INDEX OF REFRACTION: 1.5915 @ 20 DEG C/D; MAX ABSORPTION (WATER):
+       238 NM (LOG E= 4.17), 304 NM (LOG E= 3.60)
+     * INDEX OF REFRACTION: 1.5842 @ 25 DEG C/D, 1.5835 @ 25 DEG C/D
+     * MASS: 2-672 (Archives of Mass Spectral Data, John Wiley & Sons, New
+       York)
+
+   from [5]HSDB
+
+   Vapor Pressure
+        7.0X10-4 mm Hg at 25 deg C (extrapolated from vapor pressure data
+   at higher temperatures, SRC)
+   from [6]HSDB
+
+   Other Chemical/Physical Properties
+
+     * MP: 135-136 DEG C. /METHAPYRILENE FUMARATE/
+     * WHITE CRYSTALLINE POWDER; USUALLY FAINT ODOR; SOL IN WATER &
+       ALCOHOL; PH (1 IN 20 SOLN) BETWEEN 3 & 4. /METHAPYRILENE FUMARATE/
+     * 1 G DISSOLVES IN: ABOUT 0.5 ML WATER, 3 ML CHLOROFORM, 5 ML
+       ALCOHOL; PRACTICALLY INSOL IN ETHER, BENZENE; MP: 162 DEG C; MAX
+       ABSORPTION: 238 NM (E= 623, 1%, 1 CM), MIN: 272 NM. /METHAPYRILENE
+       HYDROCHLORIDE/
+     * WHITE CRYSTALLILNE POWDER; USUALLY FAINT ODOR. /METHAPYRILENE
+       HYDROCHLORIDE/
+     * ITS SOLN ARE SLIGHTLY ACID TO LITMUS, HAVING PH OF ABOUT 5.5.
+       /METHAPYRILENE HYDROCHLORIDE/
+     * BP: 125-135 DEG C @ 0.45 MM HG
+     * Henry's Law Constant 2.74X10-7 atm-cu m/mole (calc)
+
+   from [7]HSDB
+
+   Computed Properties
+   Molecular Weight                  261.38576 [g/mol]
+   Molecular Formula                 C[14]H[19]N[3]S
+   XLogP3-AA                         2.6
+   H-Bond Donor                      0
+   H-Bond Acceptor                   4
+   Rotatable Bond Count              6
+   Exact Mass                        261.129969
+   MonoIsotopic Mass                 261.129969
+   Topological Polar Surface Area    47.6
+   Heavy Atom Count                  18
+   Formal Charge                     0
+   Complexity                        235
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         1
+   Feature 3D Cation Count           2
+   Feature 3D Ring Count             2
+   Effective Rotor Count             6
+   Conformer Sampling RMSD           0.8
+   CID Conformer Count               [8]169
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+91-80-5
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+91-80-5
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+91-80-5
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+91-80-5
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+91-80-5
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+91-80-5
+   7. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+91-80-5
+   8. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=4098

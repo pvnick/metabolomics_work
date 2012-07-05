@@ -1,0 +1,59 @@
+   Octanol/Water Partition Coefficient
+        log Kow = 2.2 @ 25 deg C /Estimated/ [Meylan WM, Howard PH; J
+   Pharm Sci 84: 83-92 (1995)] [1]PubMed Abstract
+   from [2]HSDB
+
+   Solubilities
+        In water, 40 mg/l @ 25 deg C
+   from [3]HSDB
+
+   Vapor Pressure
+        9.9X10-18 mm Hg @ 25 deg C /Estimated/
+   from [4]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Henry's Law constant = 1.6X10-23 atm-cu m/mol @ 25 deg C
+       /Estimated/
+     * Hydroxyl radical reaction rate constant = 1.1X10-10 cu cm/molec sec
+       @ 25 deg C /Estimated/
+
+   from [5]HSDB
+
+   Computed Properties
+   Molecular Weight                  505.6269 [g/mol]
+   Molecular Formula                 C[25]H[35]N[3]O[6]S
+   XLogP3-AA                         2.9
+   H-Bond Donor                      3
+   H-Bond Acceptor                   8
+   Rotatable Bond Count              12
+   Tautomer Count                    2
+   Exact Mass                        505.224657
+   MonoIsotopic Mass                 505.224657
+   Topological Polar Surface Area    140
+   Heavy Atom Count                  35
+   Formal Charge                     0
+   Complexity                        745
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   3
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         5
+   Feature 3D Donor Count            3
+   Feature 3D Cation Count           1
+   Feature 3D Hydrophobe Count       1
+   Feature 3D Ring Count             3
+   Effective Rotor Count             14
+   Conformer Sampling RMSD           1.2
+   CID Conformer Count               [6]183
+
+References
+
+   1. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=7714751
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+161814-49-9
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+161814-49-9
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+161814-49-9
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+161814-49-9
+   6. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=65016

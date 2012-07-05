@@ -1,0 +1,66 @@
+   Melting Point
+        196-196.5 deg C
+   from [1]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = 6.92
+   from [2]HSDB
+
+   Solubilities
+        In water, 0.000235 mg/liter @ 23 deg C
+   from [3]HSDB
+
+   Vapor Pressure
+        2.63X10-9 mm Hg @ 25 deg C
+   from [4]HSDB
+
+   Other Chemical/Physical Properties
+
+     * When heated to decomposition, it emits toxic fumes of Cl+.
+     * /Toxic equivalency factors (TEF), indicate the toxicity of a
+       compound relative to 2,3,7,8-tetrachlorodibenzo-p-dioxin, which
+       itself has been assigned a TEF of 1.0. Concentration data for
+       polychlorinated dibenzo-p-dioxins are frequently reported in units
+       of toxic equivalency which are equal to the measured concentration
+       of substance multiplied by its TEF./ The TEF for
+       2,3,4,7,8-pentachlorodibenzofuran is 0.5.
+     * Henry's Law constant: 5.01X10-6 atm-cu m/mole @ 25 deg C
+       /Estimated/
+     * Hydroxyl radical reaction rate constant: 1.15X10-13 cu
+       cm/molecule-sec @ 25 deg C /Estimated/
+
+   from [5]HSDB
+
+   Computed Properties
+   Molecular Weight                  340.41662 [g/mol]
+   Molecular Formula                 C[12]H[3]Cl[5]O
+   XLogP3                            6.9
+   H-Bond Donor                      0
+   H-Bond Acceptor                   1
+   Rotatable Bond Count              0
+   Exact Mass                        339.859703
+   MonoIsotopic Mass                 337.862653
+   Topological Polar Surface Area    13.1
+   Heavy Atom Count                  18
+   Formal Charge                     0
+   Complexity                        328
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         1
+   Feature 3D Ring Count             3
+   Effective Rotor Count             0
+   Conformer Sampling RMSD           0.4
+   CID Conformer Count               [6]1
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+57117-31-4
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+57117-31-4
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+57117-31-4
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+57117-31-4
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+57117-31-4
+   6. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=42128

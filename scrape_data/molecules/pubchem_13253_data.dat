@@ -1,0 +1,77 @@
+   Color/Form
+
+     * WHITE CRYSTALLINE SOLID
+     * TAN CRYSTALS
+
+   from [1]HSDB
+
+   Melting Point
+        93-94 DEG C
+   from [2]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow 1.90
+   from [3]HSDB
+
+   Solubilities
+
+     * SLIGHTLY SOL IN WATER; SOL IN POLAR ORG SOLVENTS; MODERATELY SOL IN
+       AROMATIC SOLVENTS
+     * water solubility = 915 mg/l @ 20 deg C
+
+   from [4]HSDB
+
+   Spectral Properties
+
+     * Max absorption (ethanol): 248.5 nm (E= 6.67X10+4)
+     * Intense mass spectral peaks: 151 m/z (100%), 150 m/z (64%), 136 m/z
+       (44%), 208 m/z (17%)
+
+   from [5]HSDB
+
+   Vapor Pressure
+        Vapor pressure = 1.88X10-6 mm Hg (est).
+   from [6]HSDB
+
+   Other Chemical/Physical Properties
+        Henry's Law constant is 5.64X10-10 atm cu m/mole (est).
+   from [7]HSDB
+
+   Computed Properties
+   Molecular Weight                  208.25694 [g/mol]
+   Molecular Formula                 C[11]H[16]N[2]O[2]
+   XLogP3                            1.9
+   H-Bond Donor                      1
+   H-Bond Acceptor                   3
+   Rotatable Bond Count              3
+   Tautomer Count                    2
+   Exact Mass                        208.121178
+   MonoIsotopic Mass                 208.121178
+   Topological Polar Surface Area    41.6
+   Heavy Atom Count                  15
+   Formal Charge                     0
+   Complexity                        219
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         1
+   Feature 3D Donor Count            1
+   Feature 3D Cation Count           1
+   Feature 3D Ring Count             1
+   Effective Rotor Count             4
+   Conformer Sampling RMSD           0.6
+   CID Conformer Count               [8]27
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+2032-59-9
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+2032-59-9
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+2032-59-9
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+2032-59-9
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+2032-59-9
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+2032-59-9
+   7. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+2032-59-9
+   8. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=16247

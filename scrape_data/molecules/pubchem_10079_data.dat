@@ -1,0 +1,60 @@
+   Odor
+        ODORLESS
+   from [1]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow= 2.86
+   from [2]HSDB
+
+   Spectral Properties
+
+     * SADTLER REFERENCE NUMBER: R139
+     * MAX ABSORPTION (H2O): 291 NM (A= 506, 1%, 1 CM)
+
+   from [3]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Crystals; mp: 176-178 deg C (microstage); bitter taste; aq soln are
+       just acid to litmus and turn yellow on standing; about 1 g sol in:
+       22 ml water @ 20 deg C, 100 ml 95% ethanol /Hydrochloride/
+     * WHITE /HCL/
+     * VERY SOL IN CHLOROFORM; INSOL IN ETHER /HYDROCHLORIDE/
+
+   from [4]HSDB
+
+   Computed Properties
+   Molecular Weight                  270.75516 [g/mol]
+   Molecular Formula                 C[13]H[19]ClN[2]O[2]
+   XLogP3                            2.9
+   H-Bond Donor                      1
+   H-Bond Acceptor                   4
+   Rotatable Bond Count              7
+   Tautomer Count                    3
+   Exact Mass                        270.113506
+   MonoIsotopic Mass                 270.113506
+   Topological Polar Surface Area    55.6
+   Heavy Atom Count                  18
+   Formal Charge                     0
+   Complexity                        259
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         1
+   Feature 3D Donor Count            1
+   Feature 3D Cation Count           2
+   Feature 3D Ring Count             1
+   Effective Rotor Count             7
+   Conformer Sampling RMSD           0.8
+   CID Conformer Count               [5]109
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+133-16-4
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+133-16-4
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+133-16-4
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+133-16-4
+   5. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=8612

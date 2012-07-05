@@ -1,0 +1,83 @@
+   Color/Form
+        Liquid
+   from [1]HSDB
+
+   Odor
+        Fishy odor
+   from [2]HSDB
+
+   Boiling Point
+        194.5-195 deg C
+   from [3]HSDB
+
+   Density/Specific Gravity
+        0.9640 @ 25 deg C referred to water @ 4 deg C
+   from [4]HSDB
+
+   Dissociation Constants
+        pKa = 9.83 @ 25 deg C
+   from [5]HSDB
+
+   pH
+        Strong base
+   from [6]HSDB
+
+   Solubilities
+        Sol in water; freely sol in alc, ether
+   from [7]HSDB
+
+   Spectral Properties
+
+     * INDEX OF REFRACTION: 1.5290 @ 25 DEG C/D; SADTLER REF NUMBER: 290
+       (IR, PRISM)
+     * IR: 8027 (Sadtler Research Laboratories IR Grating Collection)
+     * UV: 113 (Sadtler Research Laboratories Spectral Collection)
+     * NMR: 35 (Sadtler Research Laboratories Spectral Collection)
+     * IR: 8420 (Sadtler Research Laboratories IR Grating Collection)
+     * MASS: 42275 (EPA/NIST/MSDC Mass Spectral Database, 1990 Version)
+
+   from [8]HSDB
+
+   Other Chemical/Physical Properties
+        Absorbs carbon dioxide from the air; does not solidify when cooled
+   in an ice-salt mixture.
+   from [9]HSDB
+
+   Computed Properties
+   Molecular Weight                  121.17964 [g/mol]
+   Molecular Formula                 C[8]H[11]N
+   XLogP3                            1.4
+   H-Bond Donor                      1
+   H-Bond Acceptor                   1
+   Rotatable Bond Count              2
+   Exact Mass                        121.089149
+   MonoIsotopic Mass                 121.089149
+   Topological Polar Surface Area    26
+   Heavy Atom Count                  9
+   Formal Charge                     0
+   Complexity                        65
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Donor Count            1
+   Feature 3D Cation Count           1
+   Feature 3D Ring Count             1
+   Effective Rotor Count             2
+   Conformer Sampling RMSD           0.4
+   CID Conformer Count               [10]3
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+64-04-0
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+64-04-0
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+64-04-0
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+64-04-0
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+64-04-0
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+64-04-0
+   7. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+64-04-0
+   8. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+64-04-0
+   9. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+64-04-0
+  10. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=1001

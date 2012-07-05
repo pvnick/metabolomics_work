@@ -1,0 +1,84 @@
+   Color/Form
+
+     * Crystals from methanol
+     * Solid
+
+   from [1]HSDB
+
+   Melting Point
+        134 deg C
+   from [2]HSDB
+
+   Dissociation Constants
+        pKa = 10.78 @ 25 deg C
+   from [3]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = 0.080 @ pH 5
+   from [4]HSDB
+
+   Solubilities
+        In water, 800 mg/L @ 20 deg C
+   from [5]HSDB
+
+   Vapor Pressure
+        2.0X10-14 mm Hg @ 25 deg C /Estimated/
+   from [6]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Strong alkaline reaction
+     * When heated to decomposition, emits very toxic fumes of Cl- and
+       NOX.
+     * MW: 578.38; crystals; dec 260-262 deg C. Sol in water @ 20 deg C:
+       0.06 g/100 ml /Dihydrochloride/
+     * MW: 625.6; crystals; mp: 154-155 deg C. Neutral reaction. Sol in
+       water @ 20 deg C: 1.9 g/100 ml. Aq soln dec when heated aboove 70
+       deg C. Sol in alcohol, glycerol, propylene glycol, polyethylene
+       glycol. /Diacetate/
+     * Sol in water @ 20 deg C: >50% /D-Digluconate/
+     * Henry's Law constant = 1.6X10-17 atm-cu m/mole @ 25 deg C
+       /Estimated/
+     * Hydroxyl radical reaction rate constant = 3.04X10-10 cu
+       cm/molecule-sec @ 25 deg C /Estimated/
+
+   from [7]HSDB
+
+   Computed Properties
+   Molecular Weight                  505.4466 [g/mol]
+   Molecular Formula                 C[22]H[30]Cl[2]N[10]
+   XLogP3                            0.1
+   H-Bond Donor                      6
+   H-Bond Acceptor                   2
+   Rotatable Bond Count              13
+   Tautomer Count                    36
+   Exact Mass                        504.203196
+   MonoIsotopic Mass                 504.203196
+   Topological Polar Surface Area    178
+   Heavy Atom Count                  34
+   Formal Charge                     0
+   Complexity                        649
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   2
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Donor Count            6
+   Feature 3D Cation Count           4
+   Feature 3D Hydrophobe Count       1
+   Feature 3D Ring Count             2
+   Effective Rotor Count             13
+   Conformer Sampling RMSD           1.2
+   CID Conformer Count               [8]149
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+55-56-1
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+55-56-1
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+55-56-1
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+55-56-1
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+55-56-1
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+55-56-1
+   7. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+55-56-1
+   8. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=9552079

@@ -1,0 +1,98 @@
+   Color/Form
+        Liquid
+   from [1]HSDB
+
+   Boiling Point
+        109.8 deg C
+   from [2]HSDB
+
+   Melting Point
+        -85 deg C
+   from [3]HSDB
+
+   Density/Specific Gravity
+        1.0625 at 20 deg C/4 deg C
+   from [4]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow= 1.77
+   from [5]HSDB
+
+   Solubilities
+
+     * Insol in water
+     * Sol in alc, ether
+
+   from [6]HSDB
+
+   Spectral Properties
+
+     * Index of refraction: 1.5289 at 20 deg C/D
+     * IR: 14500 (Sadtler Research Laboratories Prism Collection)
+     * UV: 5-6 (Organic Electronic Spectral Data, Phillips et al, John
+       Wiley & Sons, New York)
+     * MASS: 28 (Aldermaston, Eight Peak Index of Mass Spectra, UK)
+     * IR: 2:139D (Aldrich Library of Infrared Spectra, Aldrich Chemical
+       Co, Milwaukee, WI)
+     * NMR: 1:157B (Aldrich Library of Mass Spectra, Aldrich Chemical Co,
+       Milwaukee, WI)
+     * MASS: 59 (National Bureau of Standards EPA-NIH Mass Spectra Data
+       Base, NSRDS-NBS-63)
+
+   from [7]HSDB
+
+   Vapor Density
+        3.24
+   from [8]HSDB
+
+   Vapor Pressure
+        28.7 mm Hg at 25 deg C
+   from [9]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Heat of fusion: 23.32 cal/g= 97.57 J/g= 9,190 J/mol
+     * Heat capacity: 146.0 J/mol deg K at 1 atm (liquid); 94.6 J/mol deg
+       K at 1 atm (vapor, air=1)
+     * Taste threshold: 2.10 x 10-2 ppm in milk.
+     * Henry's Law constant = 1.21X10-3 atm-cu m/mole
+
+   from [10]HSDB
+
+   Computed Properties
+   Molecular Weight                  94.19904 [g/mol]
+   Molecular Formula                 C[2]H[6]S[2]
+   XLogP3                            1.8
+   H-Bond Donor                      0
+   H-Bond Acceptor                   2
+   Rotatable Bond Count              1
+   Exact Mass                        93.991092
+   MonoIsotopic Mass                 93.991092
+   Topological Polar Surface Area    50.6
+   Heavy Atom Count                  4
+   Formal Charge                     0
+   Complexity                        6
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Hydrophobe Count       2
+   Effective Rotor Count             1
+   Conformer Sampling RMSD           0.4
+   CID Conformer Count               [11]5
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+624-92-0
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+624-92-0
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+624-92-0
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+624-92-0
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+624-92-0
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+624-92-0
+   7. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+624-92-0
+   8. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+624-92-0
+   9. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+624-92-0
+  10. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+624-92-0
+  11. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=12232

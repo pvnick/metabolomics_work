@@ -1,0 +1,72 @@
+   Color/Form
+        Crystals from methanol
+   from [1]HSDB
+
+   Melting Point
+        119 deg C
+   from [2]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow= 4.30
+   from [3]HSDB
+
+   Solubilities
+        In water, 0.901 mg/l @ 25 deg C
+   from [4]HSDB
+
+   Spectral Properties
+
+     * Max absorption (chloroform): 248 nm (E= 53.4); 293 nm (E= 199.8);
+       max absorption (methanol): 228 nm (E= 1113); 290 nm (E= 200.8); max
+       absorption (isooctane): 230 nm (E= 530): 290 nm (E= 210).
+     * MASS: 68933 (NIST/EPA/MSDC Mass Spectral Database 1990 version);
+       1781 (National Bureau of Standards)
+     * IR: 33034 (Sadtler Research Laboratories IR grating collection)
+     * RAMAN: 1109 (Sadtler Research Laboratories IR grating collection)
+
+   from [5]HSDB
+
+   Vapor Pressure
+        4.12x10-4 mm Hg at 25 deg C
+   from [6]HSDB
+
+   Other Chemical/Physical Properties
+        Hydroxyl radical reaction rate constant = 1.20X10-11 cu
+   cm/molecule sec @ 25 deg C
+   from [7]HSDB
+
+   Computed Properties
+   Molecular Weight                  184.19072 [g/mol]
+   Molecular Formula                 C[12]H[8]O[2]
+   XLogP3                            4.4
+   H-Bond Donor                      0
+   H-Bond Acceptor                   2
+   Rotatable Bond Count              0
+   Exact Mass                        184.052429
+   MonoIsotopic Mass                 184.052429
+   Topological Polar Surface Area    18.5
+   Heavy Atom Count                  14
+   Formal Charge                     0
+   Complexity                        163
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         2
+   Feature 3D Ring Count             3
+   Effective Rotor Count             0.4
+   Conformer Sampling RMSD           0.4
+   CID Conformer Count               [8]1
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+262-12-4
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+262-12-4
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+262-12-4
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+262-12-4
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+262-12-4
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+262-12-4
+   7. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+262-12-4
+   8. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=9216

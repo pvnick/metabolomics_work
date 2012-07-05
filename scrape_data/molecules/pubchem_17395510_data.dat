@@ -1,0 +1,79 @@
+   Color/Form
+
+     * BROWN LIQUID
+     * YELLOW OIL
+
+   from [1]HSDB
+
+   Boiling Point
+        138-141 DEG C @ 0.01 MM HG
+   from [2]HSDB
+
+   Corrosivity
+        Noncorrosive
+   from [3]HSDB
+
+   Density/Specific Gravity
+        1.202 @ 20 DEG C/4 DEG C
+   from [4]HSDB
+
+   Octanol/Water Partition Coefficient
+        Log Kow = 2.23
+   from [5]HSDB
+
+   Solubilities
+
+     * SOLUBLE IN MOST ORGANIC SOLVENTS EXCEPT ALIPHATICS
+     * WATER: 1.54 G/L @ 25 DEG C
+
+   from [6]HSDB
+
+   Spectral Properties
+
+     * INDEX OF REFRACTION: 1.540 @ 25 DEG C/D
+     * Intense mass spectral peaks: 97 m/z (100%), 125 m/z (75%), 141 m/z
+       (65%), 293 m/z (63%)
+     * Intense mass spectral peaks: 308 m/z
+
+   from [7]HSDB
+
+   Vapor Pressure
+        5.0X10-5 mm Hg @ 25 deg C
+   from [8]HSDB
+
+   Computed Properties
+   Molecular Weight                  308.354042 [g/mol]
+   Molecular Formula                 C[11]H[17]O[4]PS[2]
+   XLogP3                            2.2
+   H-Bond Donor                      0
+   H-Bond Acceptor                   6
+   Rotatable Bond Count              7
+   Exact Mass                        308.030588
+   MonoIsotopic Mass                 308.030588
+   Topological Polar Surface Area    96.1
+   Heavy Atom Count                  18
+   Formal Charge                     0
+   Complexity                        306
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 1
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         1
+   Feature 3D Ring Count             1
+   Effective Rotor Count             7
+   Conformer Sampling RMSD           0.8
+   CID Conformer Count               [9]72
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+115-90-2
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+115-90-2
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+115-90-2
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+115-90-2
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+115-90-2
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+115-90-2
+   7. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+115-90-2
+   8. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+115-90-2
+   9. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=8292

@@ -1,0 +1,84 @@
+   Color/Form
+        Crystals
+   from [1]HSDB
+
+   Melting Point
+        345-346 deg C
+   from [2]HSDB
+
+   Dissociation Constants
+        pKa1 = 2.07; pKa2 = 9.45
+   from [3]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = -0.83
+   from [4]HSDB
+
+   Solubilities
+        In water, 1,820 mg/L at 25 deg C
+   from [5]HSDB
+
+   Spectral Properties
+
+     * IR: 20064 (Sadtler Research Laboratories IR Grating Collection)
+     * UV: 18668 (Sadtler Research Laboratories Spectral Collection)
+     * MASS: 25394 (National Institute of Standards and Technology)
+     * Orotic acid in water, pH 3: absorption wavelength, 310 nm, epsilon
+       11,000; absorption wavelength, 280 nm, epsilon 14,000 [Herbert MA,
+       Johns HE; Photochem Photobiol 14: 693-704 (1971)] [6]PubMed
+       Abstract
+
+   from [7]HSDB
+
+   Vapor Pressure
+        1X10-8 mm Hg at 25 deg C (est)
+   from [8]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Henry's Law constant = 8.1X10-15 atm-cu m/mol at 25 deg C (est)
+     * Hydroxyl radical reaction rate constant = 8.9X10-12 cu cm/molec-sec
+       at 25 deg C (est)
+
+   from [9]HSDB
+
+   Computed Properties
+   Molecular Weight                  156.09626 [g/mol]
+   Molecular Formula                 C[5]H[4]N[2]O[4]
+   XLogP3                            -1.4
+   H-Bond Donor                      3
+   H-Bond Acceptor                   4
+   Rotatable Bond Count              1
+   Tautomer Count                    9
+   Exact Mass                        156.017107
+   MonoIsotopic Mass                 156.017107
+   Topological Polar Surface Area    95.5
+   Heavy Atom Count                  11
+   Formal Charge                     0
+   Complexity                        268
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Acceptor Count         4
+   Feature 3D Donor Count            2
+   Feature 3D Anion Count            1
+   Feature 3D Ring Count             1
+   Effective Rotor Count             1
+   Conformer Sampling RMSD           0.4
+   CID Conformer Count               [10]2
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+65-86-1
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+65-86-1
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+65-86-1
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+65-86-1
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+65-86-1
+   6. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=5138397
+   7. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+65-86-1
+   8. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+65-86-1
+   9. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+65-86-1
+  10. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=967

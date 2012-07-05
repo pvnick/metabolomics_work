@@ -1,0 +1,66 @@
+   Melting Point
+        101.5-102 deg C
+   from [1]HSDB
+
+   Octanol/Water Partition Coefficient
+        log Kow = 5.58 (est)
+   from [2]HSDB
+
+   Solubilities
+        In water, 1.24 mg/L at 25 deg C (est)
+   from [3]HSDB
+
+   Spectral Properties
+        UV max: 293 nm (log epsilon 3.90)
+   from [4]HSDB
+
+   Vapor Pressure
+        4.37X10-7 mm Hg at 25 deg C (est)
+   from [5]HSDB
+
+   Other Chemical/Physical Properties
+
+     * Henry's Law constant = 9.41X10-12 atm-cu m/mol at 25 deg C (est)
+     * Hydroxyl radical reaction rate constant = 1.12X10-10 cu
+       cm/molec-sec at 25 deg C (est)
+     * Ozone radical reaction rate constant = 2.4X10-17 cu cm/molec-sec at
+       25 deg C (est)
+
+   from [6]HSDB
+
+   Computed Properties
+   Molecular Weight                  266.33432 [g/mol]
+   Molecular Formula                 C[18]H[18]O[2]
+   XLogP3-AA                         5
+   H-Bond Donor                      2
+   H-Bond Acceptor                   2
+   Rotatable Bond Count              5
+   Tautomer Count                    53
+   Exact Mass                        266.13068
+   MonoIsotopic Mass                 266.13068
+   Topological Polar Surface Area    40.5
+   Heavy Atom Count                  20
+   Formal Charge                     0
+   Complexity                        293
+   Isotope Atom Count                0
+   Defined Atom Stereocenter Count   0
+   Undefined Atom Stereocenter Count 0
+   Defined Bond Stereocenter Count   0
+   Undefined Bond Stereocenter Count 0
+   Covalently-Bonded Unit Count      1
+   Feature 3D Donor Count            2
+   Feature 3D Hydrophobe Count       2
+   Feature 3D Ring Count             2
+   Effective Rotor Count             5
+   Conformer Sampling RMSD           0.8
+   CID Conformer Count               [7]28
+
+References
+
+   1. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+528-43-8
+   2. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+528-43-8
+   3. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+528-43-8
+   4. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+528-43-8
+   5. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+528-43-8
+   6. http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+@rel+528-43-8
+   7. http://pubchem.ncbi.nlm.nih.gov/vw3d/vw3d.cgi?cid=72300
