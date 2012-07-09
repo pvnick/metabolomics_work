@@ -1,0 +1,187 @@
+253756
+  -OEChem-07051213062D
+
+ 35 37  0     1  0  0  0  0  0999 V2000
+    2.0000   -0.6480    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8394    1.6080    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5772   -0.4161    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    5.4432    0.0839    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.4727   -1.4106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4432    1.0839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3092   -0.4161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6636   -0.0094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4945   -1.6186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3092    1.5839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1753    0.0839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9945   -0.7525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1753    1.0839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0692   -0.4508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0692    1.6186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9753    0.0631    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9753    1.1047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4432   -0.7661    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5327    0.4327    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5375   -2.0272    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0927   -1.4106    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2312    1.6665    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8326    0.9762    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9107   -0.8911    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7078   -0.8911    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9736    0.5276    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1621    0.3550    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9281   -1.8707    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6861   -2.2082    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7078    2.0588    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9107    2.0588    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0620   -1.0707    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0620    2.2385    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5110   -0.2490    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3775    1.3001    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  2  0  0  0  0
+  2 17  1  0  0  0  0
+  2 35  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 20  1  0  0  0  0
+  5 21  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 22  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 24  1  0  0  0  0
+  7 25  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 26  1  0  0  0  0
+  8 27  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 28  1  0  0  0  0
+  9 29  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 30  1  0  0  0  0
+ 10 31  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 32  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 33  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 34  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+253756
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+299
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwMAAAAAAAAAAAAAAAAAAAAYAAAAAwYAAAAAAAAADBAAAAGgAACAAADQSAmAAwBoAAAgCIAqBSAAACAAAgIAAIiAEGCIgIJjKCERKAcAAkwBEImAeIyPCOoAABAAAQAADAAAYAACAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+3-(6-hydroxytetralin-2-yl)cyclopentanone
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+3-(6-hydroxy-1,2,3,4-tetrahydronaphthalen-2-yl)-1-cyclopentanone
+
+> <PUBCHEM_IUPAC_NAME>
+3-(6-hydroxy-1,2,3,4-tetrahydronaphthalen-2-yl)cyclopentan-1-one
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+3-(6-oxidanyl-1,2,3,4-tetrahydronaphthalen-2-yl)cyclopentan-1-one
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+3-(6-hydroxytetralin-2-yl)cyclopentanone
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H18O2/c16-14-5-3-11-7-10(1-2-12(11)8-14)13-4-6-15(17)9-13/h3,5,8,10,13,16H,1-2,4,6-7,9H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+FHYIFXKLWBYONC-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+2.7
+
+> <PUBCHEM_EXACT_MASS>
+230.13068
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H18O2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+230.30222
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1CC(=O)CC1C2CCC3=C(C2)C=CC(=C3)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1CC(=O)CC1C2CCC3=C(C2)C=CC(=C3)O
+
+> <PUBCHEM_CACTVS_TPSA>
+37.3
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+230.13068
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+17
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+2
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+27
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  13  8
+11  14  8
+13  15  8
+14  16  8
+15  17  8
+16  17  8
+3  19  3
+4  18  3
+
+$$$$
+

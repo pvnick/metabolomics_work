@@ -1,0 +1,189 @@
+25669
+  -OEChem-07051213132D
+
+ 34 35  0     1  0  0  0  0  0999 V2000
+    4.5000    0.8840    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0000    1.7500    0.0000 P   0  0  3  0  0  0  0  0  0  0  0  0
+    3.1340    1.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5000    2.6160    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1340   -3.7500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8660    2.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7320    1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8660    3.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1340    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5000    2.6160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5981    2.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7320    3.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5981    3.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2680   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0000   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    3.4820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2680   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0000   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1340   -1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1340   -2.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7320    1.1300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3291    3.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9174    2.4040    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6077    2.0054    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1350    1.9400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7320    4.3700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1350    3.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7310    0.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5369    0.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369    3.7920    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900    4.0190    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631    3.1720    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7310   -1.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5369   -1.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 20  3  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8 12  2  0  0  0  0
+  8 22  1  0  0  0  0
+  9 14  2  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 15 29  1  0  0  0  0
+ 16 30  1  0  0  0  0
+ 16 31  1  0  0  0  0
+ 16 32  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 33  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 34  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+25669
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+392
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccByMAJAAAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAAAABQAAAHggAACAADAShmAIyBoAAARCQBiBCAAAiAAAgIAAIiAAGCIgIpiKAERKAMAAkwBEIiA+AwAAOIAAAAAAAAABAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+4-[ethoxy(phenyl)phosphinothioyl]oxybenzonitrile
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+4-[ethoxy(phenyl)phosphinothioyl]oxybenzonitrile
+
+> <PUBCHEM_IUPAC_NAME>
+4-[ethoxy(phenyl)phosphinothioyl]oxybenzonitrile
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+4-[ethoxy(phenyl)phosphinothioyl]oxybenzenecarbonitrile
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+4-[ethoxy(phenyl)thiophosphoryl]oxybenzonitrile
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H14NO2PS/c1-2-17-19(20,15-6-4-3-5-7-15)18-14-10-8-13(12-16)9-11-14/h3-11H,2H2,1H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+LRNJHZNPJSPMGK-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3>
+4.3
+
+> <PUBCHEM_EXACT_MASS>
+303.048286
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H14NO2PS
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+303.315922
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCOP(=S)(C1=CC=CC=C1)OC2=CC=C(C=C2)C#N
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCOP(=S)(C1=CC=CC=C1)OC2=CC=C(C=C2)C#N
+
+> <PUBCHEM_CACTVS_TPSA>
+74.3
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+303.048286
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+20
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  13  8
+12  13  8
+14  17  8
+15  18  8
+17  19  8
+18  19  8
+2  3  3
+6  7  8
+6  8  8
+7  11  8
+8  12  8
+9  14  8
+9  15  8
+
+$$$$
+

@@ -1,0 +1,146 @@
+9548569
+  -OEChem-07051212512D
+
+ 19 18  0     1  0  0  0  0  0999 V2000
+    4.5981    1.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    0.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    1.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.2500    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.7320   -0.2500    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.4641   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    0.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -0.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0656   -0.7249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8626   -0.7249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900    0.2869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -0.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -0.7869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    1.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1951   -1.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671   -0.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  5  1  1  6  0  0  0
+  1 17  1  0  0  0  0
+  6  2  1  6  0  0  0
+  2 18  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+9548569
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+101
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBgOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgAACAAACBSggAICAAAAAgAIAIAQAAIAAAAAAAAAAAFAAAABEBYAAAAAQAAFIAABAACCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(3S,4R)-3,4,5-trihydroxypentan-2-one
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(3S,4R)-3,4,5-trihydroxy-2-pentanone
+
+> <PUBCHEM_IUPAC_NAME>
+(3S,4R)-3,4,5-trihydroxypentan-2-one
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(3S,4R)-3,4,5-tris(oxidanyl)pentan-2-one
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(3S,4R)-3,4,5-trihydroxypentan-2-one
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C5H10O4/c1-3(7)5(9)4(8)2-6/h4-6,8-9H,2H2,1H3/t4-,5-/m1/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+IGUZJYCAXLYZEE-RFZPGFLSSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+-2
+
+> <PUBCHEM_EXACT_MASS>
+134.057909
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C5H10O4
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+134.1305
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(=O)C(C(CO)O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(=O)[C@H]([C@@H](CO)O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+77.8
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+134.057909
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+2
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+8
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+5  1  6
+6  2  6
+
+$$$$
+

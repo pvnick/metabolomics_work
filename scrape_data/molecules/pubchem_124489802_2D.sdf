@@ -1,0 +1,161 @@
+73669
+  -OEChem-07051213132D
+
+ 23 24  0     1  0  0  0  0  0999 V2000
+    3.0000    2.7500    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.7500    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.0000    1.7500    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    5.5981   -2.7500    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.1340   -2.7500    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.3660    1.1160    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8660    0.2500    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.8660    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8660   -0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7320   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7320   -2.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -2.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8660   -2.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9737   -0.3606    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4486    0.4621    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3894    0.8577    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7880    0.1674    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4631   -0.9400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2690   -0.9400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8660   -3.3700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 13  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 22  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 23  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+73669
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+256
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYBwIAAHAAAAAAAAAAAAEgAAAAAAAAAwAAAAAAAAAAABAAAAGgIAAAAADEagmKIwAIAABACAAiBCAAACAAAgBQAAiAAACogIJiKBMxiAMAAkwAEIqAeAwOAOgAAAIACAAAAAAABAAQAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-(3,5-dichlorophenyl)-2-(2,2,2-trichloroethyl)oxirane
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-(3,5-dichlorophenyl)-2-(2,2,2-trichloroethyl)oxirane
+
+> <PUBCHEM_IUPAC_NAME>
+2-(3,5-dichlorophenyl)-2-(2,2,2-trichloroethyl)oxirane
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-[3,5-bis(chloranyl)phenyl]-2-[2,2,2-tris(chloranyl)ethyl]oxirane
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-(3,5-dichlorophenyl)-2-(2,2,2-trichloroethyl)oxirane
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C10H7Cl5O/c11-7-1-6(2-8(12)3-7)9(5-16-9)4-10(13,14)15/h1-3H,4-5H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+IBZHOAONZVJLOB-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+4.7
+
+> <PUBCHEM_EXACT_MASS>
+319.891003
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C10H7Cl5O
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+320.42698
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1C(O1)(CC(Cl)(Cl)Cl)C2=CC(=CC(=C2)Cl)Cl
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1C(O1)(CC(Cl)(Cl)Cl)C2=CC(=CC(=C2)Cl)Cl
+
+> <PUBCHEM_CACTVS_TPSA>
+12.5
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+317.893953
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+16
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  12  8
+10  13  8
+12  15  8
+13  14  8
+14  16  8
+15  16  8
+7  9  3
+
+$$$$
+

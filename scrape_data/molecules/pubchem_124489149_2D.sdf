@@ -1,0 +1,152 @@
+62781
+  -OEChem-07051213122D
+
+ 25 24  0     0  0  0  0  0  0999 V2000
+    4.9532    1.6890    0.0000 Cl  0  5  0  0  0  0  0  0  0  0  0  0
+    1.4766    1.4030    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.6106    1.9030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3426    1.9030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6106    2.9030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3426    2.9030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4766    3.4030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9766    0.5369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9766    0.5369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5547    1.3204    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9532    2.0106    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.0106    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3985    1.3204    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9532    2.7953    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5547    3.4856    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3985    3.4856    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.7953    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8751    3.8779    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0781    3.8779    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4397    0.2269    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2866    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5135    0.8469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4397    0.8469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6666    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5135    0.2269    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  8 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  8 25  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+M  CHG  2   1  -1   2   1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+62781
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+68.5
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBiAAAEAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAAAHAAAAAAACADBAAQCAAMAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAIAgAAEAAAAAACAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1,1-dimethylpiperidin-1-ium chloride
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1,1-dimethylpiperidin-1-ium chloride
+
+> <PUBCHEM_IUPAC_NAME>
+1,1-dimethylpiperidin-1-ium chloride
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1,1-dimethylpiperidin-1-ium chloride
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1,1-dimethylpiperidin-1-ium chloride
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C7H16N.ClH/c1-8(2)6-4-3-5-7-8;/h3-7H2,1-2H3;1H/q+1;/p-1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+VHOVSQVSAAQANU-UHFFFAOYSA-M
+
+> <PUBCHEM_EXACT_MASS>
+149.097127
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C7H16ClN
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+149.66164
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C[N+]1(CCCCC1)C.[Cl-]
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C[N+]1(CCCCC1)C.[Cl-]
+
+> <PUBCHEM_CACTVS_TPSA>
+0
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+149.097127
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+2
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+

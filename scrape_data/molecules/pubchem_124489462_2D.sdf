@@ -1,0 +1,191 @@
+5748526
+  -OEChem-07051213122D
+
+ 35 36  0     1  0  0  0  0  0999 V2000
+    3.4030   -2.7500    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -3.7500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671    0.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369    0.7500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -0.7500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    0.2500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    0.7500    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.1350   -0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -2.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -2.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671    2.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    2.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -2.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671    3.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    3.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    3.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    0.1300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8890    1.7500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    2.3700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6490    1.7500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.9400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5380   -0.9400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5380   -2.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4040    1.9400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    1.9400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4040    3.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    3.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    4.3700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.4400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4 12  1  0  0  0  0
+  4 35  1  0  0  0  0
+  5 12  2  0  0  0  0
+  7  6  1  1  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8 13  2  0  0  0  0
+  8 14  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 17  2  0  0  0  0
+ 11 18  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 28  1  0  0  0  0
+ 15 19  2  0  0  0  0
+ 16 19  1  0  0  0  0
+ 16 29  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 17 30  1  0  0  0  0
+ 18 21  2  0  0  0  0
+ 18 31  1  0  0  0  0
+ 20 22  2  0  0  0  0
+ 20 32  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 33  1  0  0  0  0
+ 22 34  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+5748526
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+414
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccB6MQAEAAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAAAABQAAAHwIACAAADCrBmCwyyIMAAgCIAiXSWACCAAAlBwAIiAGIZsgKIDLBl7GEYQhghgDYyYcYiACOAAAAAAIAAAAAAAAABAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(2R)-2-(N-benzoyl-3-chloro-4-fluoro-anilino)propanoic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(2R)-2-(N-benzoyl-3-chloro-4-fluoroanilino)propanoic acid
+
+> <PUBCHEM_IUPAC_NAME>
+(2R)-2-(N-benzoyl-3-chloro-4-fluoroanilino)propanoic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(2R)-2-[(3-chloranyl-4-fluoranyl-phenyl)-(phenylcarbonyl)amino]propanoic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2R)-2-(N-benzoyl-3-chloro-4-fluoro-anilino)propionic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C16H13ClFNO3/c1-10(16(21)22)19(12-7-8-14(18)13(17)9-12)15(20)11-5-3-2-4-6-11/h2-10H,1H3,(H,21,22)/t10-/m1/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+YQVMVCCFZCMYQB-SNVBAGLBSA-N
+
+> <PUBCHEM_XLOGP3>
+2.9
+
+> <PUBCHEM_EXACT_MASS>
+321.056799
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C16H13ClFNO3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+321.730723
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(C(=O)O)N(C1=CC(=C(C=C1)F)Cl)C(=O)C2=CC=CC=C2
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C[C@H](C(=O)O)N(C1=CC(=C(C=C1)F)Cl)C(=O)C2=CC=CC=C2
+
+> <PUBCHEM_CACTVS_TPSA>
+57.6
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+321.056799
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+22
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  17  8
+11  18  8
+13  15  8
+14  16  8
+15  19  8
+16  19  8
+17  20  8
+18  21  8
+20  22  8
+21  22  8
+7  6  5
+8  13  8
+8  14  8
+
+$$$$
+

@@ -1,0 +1,189 @@
+439971
+  -OEChem-07051212482D
+
+ 34 36  0     1  0  0  0  0  0999 V2000
+    4.4487    1.1874    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4782   -1.3072    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3147   -0.3126    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5827   -0.3126    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.6691    0.0941    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.6490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5000   -1.5151    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4487    0.1874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1808    0.1874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0468   -0.3126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9128    0.1874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9128    1.1874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1808    1.1874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0468    1.6874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8067   -0.3473    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8067    1.7220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7128    0.1665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7128    1.2082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1026   -0.6503    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9791    0.6310    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1675    0.4585    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5851   -0.1883    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4984   -1.0135    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9336   -1.7672    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6916   -2.1047    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9389   -1.7220    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3147   -0.9326    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0468   -0.9326    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6438    1.4974    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0468    2.3074    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7996   -0.9673    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7996    2.3420    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2485   -0.1455    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2485    1.5202    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 26  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 27  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 19  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 20  1  0  0  0  0
+  5 21  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 22  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7 24  1  0  0  0  0
+  7 25  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 28  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 15  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 16  2  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 29  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 31  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 32  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 33  1  0  0  0  0
+ 18 34  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+439971
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+305
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBzIAAAAAAAAAAAAAAAAAAAAWAAAAAwYAAAAAAAAADBUAAAHgAQAAAADCjBmAQwwMLAAACIAiVSUACCAAAhAgAIiIGIZIgIYDLAkbGUIAhglADIyAcYgYAOiAAAQAAQAAAQAACAACAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+N-(2-naphthyl)pyrrolidine-2-carboxamide
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+N-(2-naphthalenyl)-2-pyrrolidinecarboxamide
+
+> <PUBCHEM_IUPAC_NAME>
+N-naphthalen-2-ylpyrrolidine-2-carboxamide
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+N-naphthalen-2-ylpyrrolidine-2-carboxamide
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+N-(2-naphthyl)pyrrolidine-2-carboxamide
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H16N2O/c18-15(14-6-3-9-16-14)17-13-8-7-11-4-1-2-5-12(11)10-13/h1-2,4-5,7-8,10,14,16H,3,6,9H2,(H,17,18)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+IEZATIIUZVDELT-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+2.5
+
+> <PUBCHEM_EXACT_MASS>
+240.126263
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H16N2O
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+240.30034
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1CC(NC1)C(=O)NC2=CC3=CC=CC=C3C=C2
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1CC(NC1)C(=O)NC2=CC3=CC=CC=C3C=C2
+
+> <PUBCHEM_CACTVS_TPSA>
+41.1
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+240.126263
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+18
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+3
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  11  8
+11  12  8
+11  15  8
+12  14  8
+12  16  8
+13  14  8
+15  17  8
+16  18  8
+17  18  8
+4  8  3
+9  10  8
+9  13  8
+
+$$$$
+

@@ -1,0 +1,179 @@
+40473184
+  -OEChem-07051212542D
+
+ 33 33  0     1  0  0  0  0  0999 V2000
+    3.3100    1.5000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0420    0.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7741   -1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0420   -2.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3100    0.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3100   -1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6401    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6401    2.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3100    2.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100    1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3100    1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9081    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.9081   -1.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.0420   -1.5000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.1760   -1.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.1760    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.7741    0.5000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.7741    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9081    0.8500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9081   -1.6200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5790   -1.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1760   -1.6200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1760    0.6200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7741   -0.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5620    2.0826    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1635    1.3923    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7741   -2.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5051   -2.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7731   -1.1900    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1771    0.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6401    2.6200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.9631    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7731    2.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  1 11  2  0  0  0  0
+  2 12  1  0  0  0  0
+  2 16  1  0  0  0  0
+ 13  3  1  1  0  0  0
+  3 27  1  0  0  0  0
+ 14  4  1  6  0  0  0
+  4 28  1  0  0  0  0
+ 16  5  1  6  0  0  0
+ 15  6  1  6  0  0  0
+  6 29  1  0  0  0  0
+ 17  7  1  1  0  0  0
+  7 30  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 31  1  0  0  0  0
+  9 33  1  0  0  0  0
+ 10 32  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 12 19  1  1  0  0  0
+ 13 14  1  0  0  0  0
+ 13 20  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 21  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 22  1  0  0  0  0
+ 16 23  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 24  1  0  0  0  0
+ 18 25  1  0  0  0  0
+ 18 26  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+40473184
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+317
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+10
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+7
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBgPAIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAGgAACCAACBSwgAMACAAABxAAQAAAAIAAAAAAAAAAAAAAAAAREAIAAAACQAAFAAAHAAHA4CQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+[(2S,3S,4S,5S,6R)-6-[(1R)-1,2-dihydroxyethyl]-3,4,5-trihydroxy-tetrahydropyran-2-yl] dihydrogen phosphate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+[(2S,3S,4S,5S,6R)-6-[(1R)-1,2-dihydroxyethyl]-3,4,5-trihydroxy-2-oxanyl] dihydrogen phosphate
+
+> <PUBCHEM_IUPAC_NAME>
+[(2S,3S,4S,5S,6R)-6-[(1R)-1,2-dihydroxyethyl]-3,4,5-trihydroxyoxan-2-yl] dihydrogen phosphate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+[(2S,3S,4S,5S,6R)-6-[(1R)-1,2-bis(oxidanyl)ethyl]-3,4,5-tris(oxidanyl)oxan-2-yl] dihydrogen phosphate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+[(2S,3S,4S,5S,6R)-6-[(1R)-1,2-dihydroxyethyl]-3,4,5-trihydroxy-tetrahydropyran-2-yl] dihydrogen phosphate
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C7H15O10P/c8-1-2(9)6-4(11)3(10)5(12)7(16-6)17-18(13,14)15/h2-12H,1H2,(H2,13,14,15)/t2-,3+,4+,5+,6-,7+/m1/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+KMEJCSKJXSBBAN-QTNLNCNHSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+-4.3
+
+> <PUBCHEM_EXACT_MASS>
+290.040283
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C7H15O10P
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+290.161762
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(C(C1C(C(C(C(O1)OP(=O)(O)O)O)O)O)O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C([C@H]([C@@H]1[C@H]([C@@H]([C@@H]([C@@H](O1)OP(=O)(O)O)O)O)O)O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+177
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+290.040283
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+18
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+6
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+12  19  5
+13  3  5
+14  4  6
+16  5  6
+15  6  6
+17  7  5
+
+$$$$
+

@@ -1,0 +1,156 @@
+647
+  -OEChem-07051212442D
+
+ 26 25  0     1  0  0  0  0  0999 V2000
+    6.3301   -0.2685    0.0000 P   0  0  3  0  0  0  0  0  0  0  0  0
+    8.0622   -0.2685    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.7685    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    0.2315    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8301    0.5976    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8301   -1.1345    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282   -0.7685    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5622    0.5976    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5622   -1.1345    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.2685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.2685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.7685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.7685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.7315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9966    0.2065    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1996    0.2065    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.3885    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4860    0.7315    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    1.3515    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2460    0.7315    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900   -0.2315    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -1.0785    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -1.3054    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1401    1.1345    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4651   -0.4585    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2522    1.1345    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3 10  1  0  0  0  0
+  5 24  1  0  0  0  0
+  7 25  1  0  0  0  0
+  8 26  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 14 20  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+647
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+299
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+7
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBgOAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgAACCAADACggAICAAAAARCAQiBCAIAAAAAAAAAACAAAAAAABAAAAQAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+3-methylbut-2-enyl phosphono hydrogen phosphate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+3-methylbut-2-enyl phosphono hydrogen phosphate
+
+> <PUBCHEM_IUPAC_NAME>
+3-methylbut-2-enyl phosphono hydrogen phosphate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+3-methylbut-2-enyl phosphono hydrogen phosphate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+3-methylbut-2-enyl phosphono hydrogen phosphate
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C5H12O7P2/c1-5(2)3-4-11-14(9,10)12-13(6,7)8/h3H,4H2,1-2H3,(H,9,10)(H2,6,7,8)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+CBIDRCWHNCKSTO-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+-1.1
+
+> <PUBCHEM_EXACT_MASS>
+246.005826
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C5H12O7P2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+246.092104
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(=CCOP(=O)(O)OP(=O)(O)O)C
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(=CCOP(=O)(O)OP(=O)(O)O)C
+
+> <PUBCHEM_CACTVS_TPSA>
+113
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+246.005826
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+14
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+

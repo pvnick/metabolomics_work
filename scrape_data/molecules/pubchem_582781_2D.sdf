@@ -1,0 +1,195 @@
+5282118
+  -OEChem-07051213032D
+
+ 33 36  0     0  0  0  0  0  0999 V2000
+    5.4878    2.3615    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6297   -1.8964    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3463   -1.8660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5824    1.9383    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2559    1.4309    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9862   -0.1717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9922   -0.1692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2952    0.7793    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6858    0.7765    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4895    1.3615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6554   -0.9149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6335   -0.7070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9425    0.2441    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2734    0.9872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3106   -0.9487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6766    1.0083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9772    0.2447    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2963   -0.7403    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9579    0.4763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3185   -1.4917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6609   -0.2924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3390   -1.2830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.4573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4923    1.6003    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8828   -1.2023    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1201   -2.0791    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2668   -0.1611    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7521   -1.7454    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1318    1.0631    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3942    0.5890    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8682   -0.1486    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2198   -2.3615    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8608    1.5668    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  2  0  0  0  0
+  2 15  1  0  0  0  0
+  2 32  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4 14  2  0  0  0  0
+  5 19  1  0  0  0  0
+  5 33  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 15  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 20  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 24  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 23  1  0  0  0  0
+ 18 25  1  0  0  0  0
+ 19 21  2  0  0  0  0
+ 20 22  2  0  0  0  0
+ 20 26  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 27  1  0  0  0  0
+ 22 28  1  0  0  0  0
+ 23 29  1  0  0  0  0
+ 23 30  1  0  0  0  0
+ 23 31  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+5282118
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+633
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccB4OAAAAAAAAAAAAAAAAAAAAQAAAAAwYIAAAAAAAGCBQAAAGgAACAAADASAmAAyBoAAAgCIAqBSAAACAAAkIAAIiAEGCMgIJjaKFRKAcUAk4BEImYeLzvDuwAADAAAYAACAAAYAADAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+4,9-dihydroxy-2-methyl-benzo[b]fluorene-5,10,11-trione
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+4,9-dihydroxy-2-methylbenzo[b]fluorene-5,10,11-trione
+
+> <PUBCHEM_IUPAC_NAME>
+4,9-dihydroxy-2-methylbenzo[b]fluorene-5,10,11-trione
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-methyl-4,9-bis(oxidanyl)benzo[b]fluorene-5,10,11-trione
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+4,9-dihydroxy-2-methyl-benzo[b]fluorene-5,10,11-trione
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C18H10O5/c1-7-5-9-12(11(20)6-7)14-15(17(9)22)18(23)13-8(16(14)21)3-2-4-10(13)19/h2-6,19-20H,1H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+KESQQXMHWJFEFV-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+3
+
+> <PUBCHEM_EXACT_MASS>
+306.052823
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C18H10O5
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+306.269
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=CC(=C2C(=C1)C(=O)C3=C2C(=O)C4=C(C3=O)C(=CC=C4)O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=CC(=C2C(=C1)C(=O)C3=C2C(=O)C4=C(C3=O)C(=CC=C4)O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+91.7
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+306.052823
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+23
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+87
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  12  8
+12  13  8
+12  20  8
+13  14  8
+13  19  8
+15  18  8
+16  17  8
+17  18  8
+19  21  8
+20  22  8
+21  22  8
+6  11  8
+6  7  8
+7  15  8
+7  9  8
+8  10  8
+8  14  8
+9  10  8
+9  16  8
+
+$$$$
+

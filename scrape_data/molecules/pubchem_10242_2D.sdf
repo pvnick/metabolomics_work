@@ -1,0 +1,153 @@
+5447130
+  -OEChem-07051212542D
+
+ 20 20  0     0  0  0  0  0  0999 V2000
+    4.5032   -0.7934    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.1545    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.5352   -1.4928    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4927    1.4928    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7431   -0.5146    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    7.0064    0.1545    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9575   -0.1545    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6517    0.2056    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3122   -0.2056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0032    0.7455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6942   -0.2056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0032    0.7455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2633   -0.5146    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7006    0.5146    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3676    1.2470    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6388    1.2470    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3922   -1.1211    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0864   -0.7610    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1124    0.6205    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7806   -0.4008    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  5  2  0  0  0  0
+  4 14  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 13  2  0  0  0  0
+  7 14  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 17  1  0  0  0  0
+M  CHG  2   2  -1   5   1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+5447130
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+261
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYBjuAAAAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAAAAABgAAAHgAcAAAACATBkAQxhIByRECpALFzUwSSCAAsIgAuiAEmbNoMJrKEtZuKGSD0yBEI6Ya8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+[(E)-(5-nitro-2-furyl)methyleneamino]urea
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+[(E)-(5-nitro-2-furanyl)methylideneamino]urea
+
+> <PUBCHEM_IUPAC_NAME>
+[(E)-(5-nitrofuran-2-yl)methylideneamino]urea
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1-[(E)-(5-nitrofuran-2-yl)methylideneamino]urea
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+[(E)-(5-nitro-2-furyl)methyleneamino]urea
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C6H6N4O4/c7-6(11)9-8-3-4-1-2-5(14-4)10(12)13/h1-3H,(H3,7,9,11)/b8-3+
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+IAIWVQXQOWNYOU-FPYGCLRLSA-N
+
+> <PUBCHEM_XLOGP3>
+0.2
+
+> <PUBCHEM_EXACT_MASS>
+198.038905
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C6H6N4O4
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+198.13624
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=C(OC(=C1)[N+](=O)[O-])C=NNC(=O)N
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=C(OC(=C1)[N+](=O)[O-])/C=N/NC(=O)N
+
+> <PUBCHEM_CACTVS_TPSA>
+126
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+198.038905
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+14
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+3
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+1  11  8
+1  9  8
+10  12  8
+11  12  8
+9  10  8
+
+$$$$
+

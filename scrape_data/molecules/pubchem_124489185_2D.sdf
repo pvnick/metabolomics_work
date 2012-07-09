@@ -1,0 +1,180 @@
+3034287
+  -OEChem-07051213122D
+
+ 33 33  0     1  0  0  0  0  0999 V2000
+    2.0000   -1.7500    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    9.7942   -0.2500    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    8.9282    1.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -0.2500    0.0000 N   0  0  3  0  0  0  0  0  0  0  0  0
+    7.1962    1.2500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.7500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282    0.2500    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    5.4641    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962   -1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8626    0.7249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0656    0.7249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7196   -1.1423    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1181   -1.8326    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8862   -2.2869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7331   -2.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5062   -1.2131    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6592    1.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.8700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -1.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622   -0.8700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291    0.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3722    1.2131    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5991    2.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7522    2.2869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 17  1  0  0  0  0
+  5 26  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 18  2  0  0  0  0
+  7 15  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 15  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 12 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 13 16  2  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 15 29  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 30  1  0  0  0  0
+ 17 31  1  0  0  0  0
+ 17 32  1  0  0  0  0
+ 17 33  1  0  0  0  0
+M  CHG  2   2  -1   7   1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+3034287
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+306
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzsAAEAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAABgAAAHAIUAAAADALBGiQ/gJPYUAChAjBnRwCCgCAxByAI2KA4ZpiIIOLB05GEIAhogALIyAYQAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(E)-N1'-[(6-chloro-3-pyridyl)methyl]-N1'-ethyl-N1-methyl-2-nitro-ethene-1,1-diamine
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(E)-N1'-[(6-chloro-3-pyridinyl)methyl]-N1'-ethyl-N1-methyl-2-nitroethene-1,1-diamine
+
+> <PUBCHEM_IUPAC_NAME>
+(E)-1-N'-[(6-chloropyridin-3-yl)methyl]-1-N'-ethyl-1-N-methyl-2-nitroethene-1,1-diamine
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(E)-N1'-[(6-chloranylpyridin-3-yl)methyl]-N1'-ethyl-N1-methyl-2-nitro-ethene-1,1-diamine
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(6-chloro-3-pyridyl)methyl-ethyl-[(E)-1-(methylamino)-2-nitro-vinyl]amine
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C11H15ClN4O2/c1-3-15(11(13-2)8-16(17)18)7-9-4-5-10(12)14-6-9/h4-6,8,13H,3,7H2,1-2H3/b11-8+
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+CFRPSFYHXJZSBI-DHZHZOJOSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+2.4
+
+> <PUBCHEM_EXACT_MASS>
+270.088353
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C11H15ClN4O2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+270.7154
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCN(CC1=CN=C(C=C1)Cl)C(=C[N+](=O)[O-])NC
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCN(CC1=CN=C(C=C1)Cl)/C(=C/[N+](=O)[O-])/NC
+
+> <PUBCHEM_CACTVS_TPSA>
+74
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+270.088353
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+18
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+2
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  13  8
+11  14  8
+13  16  8
+16  18  8
+6  14  8
+6  18  8
+
+$$$$
+

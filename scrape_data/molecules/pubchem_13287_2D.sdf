@@ -1,0 +1,144 @@
+443071
+  -OEChem-07051213012D
+
+ 16 16  0     0  0  0  0  0  0999 V2000
+    5.0558   -0.9388    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8479    0.0394    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2788    0.3484    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2637   -1.9169    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0339   -0.7308    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0776   -1.1467    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0878   -0.2394    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5878    1.2995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8968    0.3484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5878    1.2995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    2.1085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9522    1.8011    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5016    2.4729    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6356    2.6101    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4984    1.7441    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8533   -2.1085    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  1  6  2  0  0  0  0
+  2  9  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4 16  1  0  0  0  0
+  7  9  2  0  0  0  0
+  8 10  2  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 15  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+443071
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+219
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+6
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYBiOABAAAAAAAAAAAAAAAAAAWAAAAAAAAAAAAAAAAABgAAAHgAECAAACASBkgAyhJAQAICpAKByQjCAAAAkIgAgGCE2bFoAJwwAgYIAEMBHIBwAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(5-methylisoxazol-3-yl) hydrogen sulfate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+sulfuric acid (5-methyl-3-isoxazolyl) ester
+
+> <PUBCHEM_IUPAC_NAME>
+(5-methyl-1,2-oxazol-3-yl) hydrogen sulfate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(5-methyl-1,2-oxazol-3-yl) hydrogen sulfate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+sulfuric acid (5-methylisoxazol-3-yl) ester
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C4H5NO5S/c1-3-2-4(5-9-3)10-11(6,7)8/h2H,1H3,(H,6,7,8)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+RQDUXWSGZLYVCI-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+0.2
+
+> <PUBCHEM_EXACT_MASS>
+178.988843
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C4H5NO5S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+179.1512
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=CC(=NO1)OS(=O)(=O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=CC(=NO1)OS(=O)(=O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+98
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+178.988843
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+11
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+3  7  8
+3  8  8
+7  9  8
+8  10  8
+9  10  8
+
+$$$$
+

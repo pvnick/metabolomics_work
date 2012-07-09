@@ -1,0 +1,182 @@
+93275
+  -OEChem-07051213012D
+
+ 37 37  0     1  0  0  0  0  0999 V2000
+    7.1485   -0.1848    0.0000 S   0  0  3  0  0  0  0  0  0  0  0  0
+    6.6485   -1.7236    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2294    0.8236    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6942   -0.8236    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1485    0.8152    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9236    1.1838    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8532   -2.1108    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9575   -0.7725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6485   -1.7236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3395   -0.7725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3884   -0.4635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9511   -1.4928    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0215    1.8018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6453   -1.1327    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1805    0.5146    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.1838    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1590   -2.4709    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0705    2.1108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7647    2.4709    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5239   -1.0247    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2675   -0.2356    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5837   -2.3402    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2549   -1.8525    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6112    1.6102    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5407   -1.6844    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1916   -0.5941    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4103   -0.9922    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8084   -1.7734    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5525   -2.5998    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2879   -3.0774    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7654   -2.3420    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2621    2.7005    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4808    2.3024    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8789    1.5212    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1795    2.0102    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2254    2.8858    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3498    2.9317    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  2  0  0  0  0
+  1  8  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 14  1  0  0  0  0
+  6 15  2  0  0  0  0
+  7 14  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 16 26  1  0  0  0  0
+ 16 27  1  0  0  0  0
+ 16 28  1  0  0  0  0
+ 17 29  1  0  0  0  0
+ 17 30  1  0  0  0  0
+ 17 31  1  0  0  0  0
+ 18 32  1  0  0  0  0
+ 18 33  1  0  0  0  0
+ 18 34  1  0  0  0  0
+ 19 35  1  0  0  0  0
+ 19 36  1  0  0  0  0
+ 19 37  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+93275
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+402
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+7
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+6
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwOABgAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAAAAAAAAAAGgQAAAAADBSkwAKCCAAABAqIAgDQCEBAAQAAABAAAAEAAEAABAQIIAACAAABIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+diisopropyl 2-(1-oxo-1,3-dithiolan-2-ylidene)propanedioate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-(1-oxo-1,3-dithiolan-2-ylidene)propanedioic acid dipropan-2-yl ester
+
+> <PUBCHEM_IUPAC_NAME>
+dipropan-2-yl 2-(1-oxo-1,3-dithiolan-2-ylidene)propanedioate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+dipropan-2-yl 2-(1-oxidanylidene-1,3-dithiolan-2-ylidene)propanedioate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-(1-keto-1,3-dithiolan-2-ylidene)malonic acid diisopropyl ester
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C12H18O5S2/c1-7(2)16-10(13)9(11(14)17-8(3)4)12-18-5-6-19(12)15/h7-8H,5-6H2,1-4H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+ZFQQZUBSEINSSR-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3>
+1.6
+
+> <PUBCHEM_EXACT_MASS>
+306.059566
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C12H18O5S2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+306.39832
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(C)OC(=O)C(=C1SCCS1=O)C(=O)OC(C)C
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(C)OC(=O)C(=C1SCCS1=O)C(=O)OC(C)C
+
+> <PUBCHEM_CACTVS_TPSA>
+114
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+306.059566
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+19
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+1  10  3
+
+$$$$
+

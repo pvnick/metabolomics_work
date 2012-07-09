@@ -1,0 +1,193 @@
+255968
+  -OEChem-07051213052D
+
+ 34 36  0     0  0  0  0  0  0999 V2000
+    4.6783   -1.8895    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3211    1.4148    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9030    1.4954    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6783   -0.2800    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.5847    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2619   -1.0847    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.5847    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2619   -1.0847    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9889    0.6705    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.0847    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.0847    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9674    0.8767    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7619   -1.9508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.5847    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.5847    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6353    0.1324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2781    1.8273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6138    0.3387    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2566    2.0335    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9244    1.2892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8445   -0.8727    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1542   -0.4741    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.5353    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.7047    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2249   -2.2607    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0719   -2.4877    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2988   -1.6408    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -0.2747    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -1.8947    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4427   -0.4569    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8640    2.2887    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0279   -0.1228    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4492    2.6228    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0956    2.0847    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3 20  1  0  0  0  0
+  3 34  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7 11  2  0  0  0  0
+  8 13  1  0  0  0  0
+  8 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 12 16  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 28  1  0  0  0  0
+ 15 29  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 30  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 31  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 18 32  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 33  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+255968
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+346
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccB4MAAAAAAAAAAAAAAAAAAAASAAAAAwYAAAAAAAAEgB9AAAGgAACAAADASAmAAyBsAABkCIAqBSAAACCAAkIAAIiAEGCMgMJjaONRqCeWCk4BEIuYeLzPDOoAAAAAAIAABAAAAAABAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(2-ethylbenzofuran-3-yl)-(4-hydroxyphenyl)methanone
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(2-ethyl-3-benzofuranyl)-(4-hydroxyphenyl)methanone
+
+> <PUBCHEM_IUPAC_NAME>
+(2-ethyl-1-benzofuran-3-yl)-(4-hydroxyphenyl)methanone
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(2-ethyl-1-benzofuran-3-yl)-(4-hydroxyphenyl)methanone
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2-ethylbenzofuran-3-yl)-(4-hydroxyphenyl)methanone
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C17H14O3/c1-2-14-16(13-5-3-4-6-15(13)20-14)17(19)11-7-9-12(18)10-8-11/h3-10,18H,2H2,1H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+RFRXIWQYSOIBDI-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3>
+4.3
+
+> <PUBCHEM_EXACT_MASS>
+266.094294
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C17H14O3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+266.29126
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCC1=C(C2=CC=CC=C2O1)C(=O)C3=CC=C(C=C3)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCC1=C(C2=CC=CC=C2O1)C(=O)C3=CC=C(C=C3)O
+
+> <PUBCHEM_CACTVS_TPSA>
+50.4
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+266.094294
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+20
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+4
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+1  6  8
+1  7  8
+10  14  8
+11  15  8
+12  16  8
+12  17  8
+14  15  8
+16  18  8
+17  19  8
+18  20  8
+19  20  8
+4  5  8
+4  6  8
+5  10  8
+5  7  8
+7  11  8
+
+$$$$
+

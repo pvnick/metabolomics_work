@@ -1,0 +1,140 @@
+3032309
+  -OEChem-07051212452D
+
+ 18 17  0     0  0  0  0  0  0999 V2000
+    2.5369   -0.8100    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    1.1900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    0.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    1.1900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -0.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -0.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -1.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -0.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -0.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    0.6900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6490   -1.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -2.4300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8890   -1.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6910   -1.3469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5380   -1.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3110   -0.2731    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.5000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    1.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4 10  2  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+3032309
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+180
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBgOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgAACAAADACAgAACCAAAAgCIAgDQCAAAAAAAAAAACAEAAEAABAAAAAAAUAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(Z)-2,3-dimethylbut-2-enedioic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(Z)-2,3-dimethyl-2-butenedioic acid
+
+> <PUBCHEM_IUPAC_NAME>
+(Z)-2,3-dimethylbut-2-enedioic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(Z)-2,3-dimethylbut-2-enedioic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(Z)-2,3-dimethylbut-2-enedioic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C6H8O4/c1-3(5(7)8)4(2)6(9)10/h1-2H3,(H,7,8)(H,9,10)/b4-3-
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+CGBYBGVMDAPUIH-ARJAWSKDSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+0.3
+
+> <PUBCHEM_EXACT_MASS>
+144.042259
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C6H8O4
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+144.12532
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(=C(C)C(=O)O)C(=O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C/C(=C(\C)/C(=O)O)/C(=O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+74.6
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+144.042259
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+10
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+

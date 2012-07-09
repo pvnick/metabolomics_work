@@ -1,0 +1,137 @@
+160766
+  -OEChem-07051212482D
+
+ 16 15  0     0  0  0  0  0  0999 V2000
+    5.1350    0.2500    0.0000 S   0  3  0  0  0  0  0  0  0  0  0  0
+    2.5369    0.7500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -0.7500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6675    1.2250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8705    1.2250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3110    0.2131    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5380    1.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6910    1.2869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5150   -0.7500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -1.3700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7550   -0.7500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.4400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+M  CHG  1   1   1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+160766
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+70.1
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBgMABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgQACAAAAACEwACCCAAAAggIAACQCAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+carboxymethyl(dimethyl)sulfonium
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+carboxymethyl(dimethyl)sulfonium
+
+> <PUBCHEM_IUPAC_NAME>
+carboxymethyl(dimethyl)sulfanium
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-hydroxy-2-oxoethyl(dimethyl)sulfanium
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+carboxymethyl(dimethyl)sulfonium
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C4H8O2S/c1-7(2)3-4(5)6/h3H2,1-2H3/p+1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+PSBDWGZCVUAZQS-UHFFFAOYSA-O
+
+> <PUBCHEM_XLOGP3_AA>
+0.5
+
+> <PUBCHEM_EXACT_MASS>
+121.032326
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C4H9O2S+
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+121.17806
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C[S+](C)CC(=O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C[S+](C)CC(=O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+38.3
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+121.032326
+
+> <PUBCHEM_TOTAL_CHARGE>
+1
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+7
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+

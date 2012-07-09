@@ -1,0 +1,143 @@
+440156
+  -OEChem-07051212482D
+
+ 18 17  0     1  0  0  0  0  0999 V2000
+    3.4030   -0.3170    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    0.1830    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671   -0.3170    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369   -0.8170    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9030    0.5490    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9030   -1.1830    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    0.1830    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    5.1350   -0.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    1.1830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5380    0.4930    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7365   -0.7919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5335   -0.7919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6210    1.1830    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    1.8030    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3810    1.1830    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4040   -0.0070    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2130    1.0860    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.5070    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5 17  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+440156
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+117
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBAOAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgAACCAACBSggAICAAAAAxAAQAAAAIAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-hydroxypropyl dihydrogen phosphate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-hydroxypropyl dihydrogen phosphate
+
+> <PUBCHEM_IUPAC_NAME>
+2-hydroxypropyl dihydrogen phosphate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-oxidanylpropyl dihydrogen phosphate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-hydroxypropyl dihydrogen phosphate
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C3H9O5P/c1-3(4)2-8-9(5,6)7/h3-4H,2H2,1H3,(H2,5,6,7)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+PDKDLYHHQBVFJL-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+-1.8
+
+> <PUBCHEM_EXACT_MASS>
+156.01876
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C3H9O5P
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+156.074322
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(COP(=O)(O)O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(COP(=O)(O)O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+87
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+156.01876
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+7  3  3
+
+$$$$
+

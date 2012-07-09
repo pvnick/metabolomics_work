@@ -1,0 +1,193 @@
+126769
+  -OEChem-07051213022D
+
+ 34 36  0     0  0  0  0  0  0999 V2000
+    5.4641    0.4324    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8744    0.7371    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -1.0676    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -1.0676    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.9324    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282    0.4324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282   -0.5676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622   -1.0676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8744   -0.8724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    0.9324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962   -0.5676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4580   -0.0676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    0.4324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1851    1.6876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.5676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.5676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.0676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.4324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.5676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.4324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622   -1.6876    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0670   -1.4617    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    1.5524    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0780   -0.0676    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6592    0.7424    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7744    1.4950    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3777    2.2769    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5958    1.8802    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -1.6876    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -1.6876    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.6876    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    0.7424    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -0.8776    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631    0.7424    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  2  0  0  0  0
+  2  6  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 15  1  0  0  0  0
+  3 29  1  0  0  0  0
+  4 15  1  0  0  0  0
+  4 16  1  0  0  0  0
+  4 30  1  0  0  0  0
+  5 18  1  0  0  0  0
+  5 20  2  0  0  0  0
+  6  7  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 11  2  0  0  0  0
+  8 21  1  0  0  0  0
+  9 12  2  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 23  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 31  1  0  0  0  0
+ 18 32  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 33  1  0  0  0  0
+ 20 34  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+126769
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+349
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzoAAAAAAAAAAAAAAAAAAAAWAAAAA8QAAAAAAAAFgB/AAAHgAQAAAADAjBHgQ/wPPMEACoAzRnVACCgCAxEiAI2CA4dJiIYOLAkZGUIAholALIyCcQgIAOAACAQAACAAAAAQCAAAQAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1-(1-methylindol-5-yl)-3-(3-pyridyl)urea
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1-(1-methyl-5-indolyl)-3-(3-pyridinyl)urea
+
+> <PUBCHEM_IUPAC_NAME>
+1-(1-methylindol-5-yl)-3-pyridin-3-ylurea
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1-(1-methylindol-5-yl)-3-pyridin-3-yl-urea
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1-(1-methylindol-5-yl)-3-(3-pyridyl)urea
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H14N4O/c1-19-8-6-11-9-12(4-5-14(11)19)17-15(20)18-13-3-2-7-16-10-13/h2-10H,1H3,(H2,17,18,20)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+OJZZJTLBYXHUSJ-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+1.5
+
+> <PUBCHEM_EXACT_MASS>
+266.116761
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H14N4O
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+266.29786
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CN1C=CC2=C1C=CC(=C2)NC(=O)NC3=CN=CC=C3
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CN1C=CC2=C1C=CC(=C2)NC(=O)NC3=CN=CC=C3
+
+> <PUBCHEM_CACTVS_TPSA>
+59
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+266.116761
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+20
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+3
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  13  8
+11  13  8
+16  17  8
+16  18  8
+17  19  8
+19  20  8
+2  12  8
+2  6  8
+5  18  8
+5  20  8
+6  10  8
+6  7  8
+7  8  8
+7  9  8
+8  11  8
+9  12  8
+
+$$$$
+

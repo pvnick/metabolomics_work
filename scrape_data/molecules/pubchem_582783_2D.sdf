@@ -1,0 +1,191 @@
+443804
+  -OEChem-07051213032D
+
+ 34 37  0     0  0  0  0  0  0999 V2000
+    7.5824    1.4383    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6297   -2.3964    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3463   -2.3660    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    9.2559    0.9309    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4878    1.8615    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    5.4860    2.8615    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9862   -0.6717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2952    0.2793    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9922   -0.6692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6858    0.2765    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4895    0.8615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2734    0.4872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6554   -1.4149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9425   -0.2559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6335   -1.2070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3106   -1.4487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6766    0.5083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9772   -0.2553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2963   -1.2403    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9579   -0.0237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3185   -1.9917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.0427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6609   -0.7924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3390   -1.7830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4923    1.1003    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8828   -1.7023    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1201   -2.5791    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1318    0.5631    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3942    0.0890    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8682   -0.6486    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2668   -0.6611    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7521   -2.2454    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1676    1.8990    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2198   -2.8615    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  1 33  1  0  0  0  0
+  2 16  1  0  0  0  0
+  2 34  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4 20  2  0  0  0  0
+  5  6  3  0  0  0  0
+  5 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  2  0  0  0  0
+  8 11  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 15 21  2  0  0  0  0
+ 16 19  2  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 25  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 22  1  0  0  0  0
+ 19 26  1  0  0  0  0
+ 20 23  1  0  0  0  0
+ 21 24  1  0  0  0  0
+ 21 27  1  0  0  0  0
+ 22 28  1  0  0  0  0
+ 22 29  1  0  0  0  0
+ 22 30  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 23 31  1  0  0  0  0
+ 24 32  1  0  0  0  0
+M  CHG  2   3  -1   5   1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+443804
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+878
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccB7OAAAAAAAAAAAAAAAAAAAAQAAAAAwQIAAAAAAAECBAAAAHgAICAAADAyBmAAyBoAAAgCIAqRSQACCAAAgIAAIiAEGDMgIJjKCkROAcABkwBEImYey4PQOwAADAAAYAACAAAYAADAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+11-diazonio-4,10-dihydroxy-2-methyl-9-oxo-benzo[b]fluoren-5-olate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+11-diazonio-4,10-dihydroxy-2-methyl-9-oxo-5-benzo[b]fluorenolate
+
+> <PUBCHEM_IUPAC_NAME>
+11-diazonio-4,10-dihydroxy-2-methyl-9-oxobenzo[b]fluoren-5-olate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+11-diazonio-2-methyl-4,10-bis(oxidanyl)-9-oxidanylidene-benzo[b]fluoren-5-olate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+11-diazonio-4,10-dihydroxy-9-keto-2-methyl-benzo[b]fluoren-5-olate
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C18H10N2O4/c1-7-5-9-12(11(22)6-7)14-15(16(9)20-19)18(24)13-8(17(14)23)3-2-4-10(13)21/h2-6,19H,1H3,(H,21,24)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+BAGDROTUZKHPHK-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+3.2
+
+> <PUBCHEM_EXACT_MASS>
+318.064057
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C18H10N2O4
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+318.283
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=CC(=C2C(=C1)C(=C3C2=C(C4=CC=CC(=O)C4=C3O)[O-])[N+]#N)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=CC(=C2C(=C1)C(=C3C2=C(C4=CC=CC(=O)C4=C3O)[O-])[N+]#N)O
+
+> <PUBCHEM_CACTVS_TPSA>
+109
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+318.064057
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+24
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+69
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  17  8
+12  14  8
+13  15  8
+14  15  8
+16  19  8
+17  18  8
+18  19  8
+7  13  8
+7  8  8
+8  12  8
+9  10  8
+9  16  8
+
+$$$$
+

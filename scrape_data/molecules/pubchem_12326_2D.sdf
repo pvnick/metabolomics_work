@@ -1,0 +1,146 @@
+442634
+  -OEChem-07051212582D
+
+ 19 19  0     1  0  0  0  0  0999 V2000
+    4.7867    0.8634    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3854    1.8815    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7044   -1.3799    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6166    0.9680    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2044    0.1589    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.0134   -0.4288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3954   -0.4288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7044   -1.3799    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7922    0.9680    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5798   -0.6810    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3234    0.1081    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0854    0.1081    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8290   -0.6810    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6396   -1.9965    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3108   -1.5088    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3400   -1.8815    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.9031    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8688    1.5344    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1511    1.3650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 16  1  0  0  0  0
+  5  4  1  6  0  0  0
+  4 17  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+442634
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+137
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBjMAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAAAAAAAAAAAAAAHgAQCAAADIjBgAQACALAAgAIAACQCAAAAAAAAAAAAIGIAAACQBgAwAAUQAAGEACAAAAkAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(3R)-3-aminopyrrolidine-3-carboxylic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(3R)-3-amino-3-pyrrolidinecarboxylic acid
+
+> <PUBCHEM_IUPAC_NAME>
+(3R)-3-aminopyrrolidine-3-carboxylic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(3R)-3-azanylpyrrolidine-3-carboxylic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(3R)-3-aminopyrrolidine-3-carboxylic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C5H10N2O2/c6-5(4(8)9)1-2-7-3-5/h7H,1-3,6H2,(H,8,9)/t5-/m1/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+DWAKXSZUASEUHH-RXMQYKEDSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+-3.8
+
+> <PUBCHEM_EXACT_MASS>
+130.074228
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C5H10N2O2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+130.1451
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1CNCC1(C(=O)O)N
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1CNC[C@]1(C(=O)O)N
+
+> <PUBCHEM_CACTVS_TPSA>
+75.4
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+130.074228
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+5  4  6
+
+$$$$
+

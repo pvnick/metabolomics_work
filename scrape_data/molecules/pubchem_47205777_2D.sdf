@@ -1,0 +1,147 @@
+23724764
+  -OEChem-07051213082D
+
+ 19 19  0     1  0  0  0  0  0999 V2000
+    6.0010   -0.1345    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7690    0.7315    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369   -0.1345    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    1.5976    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7690    0.7315    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -0.1345    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.4030   -0.6345    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.1350   -0.6345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -1.6345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7690    0.7315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -1.6345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -2.1345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -0.0145    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.9445    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6720   -1.9445    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -2.7545    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1490    0.7315    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.4445    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5790    2.1345    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  6  2  1  6  0  0  0
+  2 17  1  0  0  0  0
+  7  3  1  6  0  0  0
+  3 18  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 19  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 11  2  0  0  0  0
+  9 12  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 16  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+23724764
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+271
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYBgOQAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAGwAACAAADFSggAIACAAAAgCIACDSCAIAAAAgAAAICAFAAAgJFBQAAQAAUAAF4AAJkAIAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(1R,6S)-2-fluoro-1,6-dihydroxy-cyclohexa-2,4-diene-1-carboxylic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(1R,6S)-2-fluoro-1,6-dihydroxy-1-cyclohexa-2,4-dienecarboxylic acid
+
+> <PUBCHEM_IUPAC_NAME>
+(1R,6S)-2-fluoro-1,6-dihydroxycyclohexa-2,4-diene-1-carboxylic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(1R,6S)-2-fluoranyl-1,6-bis(oxidanyl)cyclohexa-2,4-diene-1-carboxylic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(1R,6S)-2-fluoro-1,6-dihydroxy-cyclohexa-2,4-diene-1-carboxylic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C7H7FO4/c8-4-2-1-3-5(9)7(4,12)6(10)11/h1-3,5,9,12H,(H,10,11)/t5-,7+/m0/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+MRJAXZUNYLKGBV-CAHLUQPWSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+-0.1
+
+> <PUBCHEM_EXACT_MASS>
+174.032837
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C7H7FO4
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+174.126483
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=CC(C(C(=C1)F)(C(=O)O)O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=C[C@@H]([C@](C(=C1)F)(C(=O)O)O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+77.8
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+174.032837
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+12
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+2
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+6  2  6
+7  3  6
+
+$$$$
+

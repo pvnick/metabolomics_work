@@ -1,0 +1,180 @@
+127293
+  -OEChem-07051213022D
+
+ 36 36  0     1  0  0  0  0  0999 V2000
+    3.2601   -4.2694    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -3.0094    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4921   -1.7306    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3582   -0.2306    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7601   -1.7306    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7601   -2.7306    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.5691   -3.3184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2601   -4.2694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3582    1.7694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9511   -3.3184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3582    2.7694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4921    1.2694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6261   -0.2306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6261   -1.2306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2242    3.2694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4921    0.2694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2242    4.2694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3125   -2.4491    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1355   -3.5705    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8791   -2.7814    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1953   -4.8860    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8665   -4.3983    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5702    1.1868    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9687    1.8771    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2231   -1.4206    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1461    3.3520    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7476    2.6618    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2801    1.8520    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8815    1.1618    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4140    0.3520    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0155   -0.3382    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4362    2.6868    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8348    3.3771    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8442    4.2694    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2242    4.8894    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6042    4.2694    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3 14  2  0  0  0  0
+  4 16  2  0  0  0  0
+  6  5  1  1  0  0  0
+  5 14  1  0  0  0  0
+  5 25  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 12 29  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 13 30  1  0  0  0  0
+ 13 31  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 32  1  0  0  0  0
+ 15 33  1  0  0  0  0
+ 17 34  1  0  0  0  0
+ 17 35  1  0  0  0  0
+ 17 36  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+127293
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+301
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+7
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceByOAAAAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAAAAAAAAAAHgAQAAAACCzhgAYCCALABAAIAIGQGAAAAAAAAAAAAIGIAAACABoIgCAHAAAGFgCQAAEaiICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+3-oxo-N-[(3S)-2-oxotetrahydrofuran-3-yl]octanamide
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+3-oxo-N-[(3S)-2-oxo-3-oxolanyl]octanamide
+
+> <PUBCHEM_IUPAC_NAME>
+3-oxo-N-[(3S)-2-oxooxolan-3-yl]octanamide
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+3-oxidanylidene-N-[(3S)-2-oxidanylideneoxolan-3-yl]octanamide
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+3-keto-N-[(3S)-2-ketotetrahydrofuran-3-yl]caprylamide
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C12H19NO4/c1-2-3-4-5-9(14)8-11(15)13-10-6-7-17-12(10)16/h10H,2-8H2,1H3,(H,13,15)/t10-/m0/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+FXCMGCFNLNFLSH-JTQLQIEISA-N
+
+> <PUBCHEM_XLOGP3_AA>
+1.9
+
+> <PUBCHEM_EXACT_MASS>
+241.131408
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C12H19NO4
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+241.28356
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCCCCC(=O)CC(=O)NC1CCOC1=O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCCCCC(=O)CC(=O)N[C@H]1CCOC1=O
+
+> <PUBCHEM_CACTVS_TPSA>
+72.5
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+241.131408
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+17
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+16
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+6  5  5
+
+$$$$
+

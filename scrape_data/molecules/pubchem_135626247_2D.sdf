@@ -1,0 +1,146 @@
+6558437
+  -OEChem-07051213152D
+
+ 19 19  0     1  0  0  0  0  0999 V2000
+    2.5369   -0.3100    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -1.8100    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -0.8100    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    1.1900    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -0.3100    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.2690    0.6900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -0.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    0.6900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -0.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -0.9300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0569    1.2726    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6584    0.5823    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2131   -0.8926    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6116   -0.2023    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6116    0.5823    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2131    1.2726    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -1.4300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    1.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.6200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 17  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  1  0  0  0
+  5 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+6558437
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+116
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBjMAAAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAAAHgAQCAAACCjBgAQACALAAgAIAACQCAAAAAAAAAAAAIGIAAACQAgAACAUQAACEACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(2R)-piperazine-2-carboxylic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(2R)-2-piperazinecarboxylic acid
+
+> <PUBCHEM_IUPAC_NAME>
+(2R)-piperazine-2-carboxylic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(2R)-piperazine-2-carboxylic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2R)-piperazine-2-carboxylic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C5H10N2O2/c8-5(9)4-3-6-1-2-7-4/h4,6-7H,1-3H2,(H,8,9)/t4-/m1/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+JSSXHAMIXJGYCS-SCSAIBSYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+-3.5
+
+> <PUBCHEM_EXACT_MASS>
+130.074228
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C5H10N2O2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+130.1451
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1CNC(CN1)C(=O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1CN[C@H](CN1)C(=O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+61.4
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+130.074228
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+5  9  5
+
+$$$$
+

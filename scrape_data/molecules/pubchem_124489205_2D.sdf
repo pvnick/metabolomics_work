@@ -1,0 +1,193 @@
+53297385
+  -OEChem-07051213122D
+
+ 36 37  0     1  0  0  0  0  0999 V2000
+    2.0000   -3.5000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -3.5000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    1.5000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.0000    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.7320   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -3.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -4.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    4.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.6200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1541   -1.0369    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -0.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7741    0.0369    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291   -1.6900    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -1.6900    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    1.1900    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1120   -4.5000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -5.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3520   -4.5000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671    2.6900    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0611    2.6900    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671    4.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0611    4.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    5.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  8  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 28  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 22  1  0  0  0  0
+  7 11  2  0  0  0  0
+  7 12  1  0  0  0  0
+  9 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+  9 25  1  0  0  0  0
+ 10 14  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 12 27  1  0  0  0  0
+ 13 17  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 16 29  1  0  0  0  0
+ 16 30  1  0  0  0  0
+ 16 31  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 32  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 18 33  1  0  0  0  0
+ 19 21  2  0  0  0  0
+ 19 34  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 35  1  0  0  0  0
+ 21 36  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+53297385
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+335
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccB6MAAGAAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAAAABQAAAHgIQAAAADB6hmCIyxoLABACIAiVSUAKCCAAhJwAIiAFGbogOJiLFs5+HOCjk1BHY6AeQwAAOIAAAAQCBAABAAAACAQIAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-(3,5-dichloro-4-methyl-phenoxy)-N-phenyl-propanamide
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-(3,5-dichloro-4-methylphenoxy)-N-phenylpropanamide
+
+> <PUBCHEM_IUPAC_NAME>
+2-(3,5-dichloro-4-methylphenoxy)-N-phenylpropanamide
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-[3,5-bis(chloranyl)-4-methyl-phenoxy]-N-phenyl-propanamide
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-(3,5-dichloro-4-methyl-phenoxy)-N-phenyl-propionamide
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C16H15Cl2NO2/c1-10-14(17)8-13(9-15(10)18)21-11(2)16(20)19-12-6-4-3-5-7-12/h3-9,11H,1-2H3,(H,19,20)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+RKEPXZFDMPAEAN-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3>
+4.8
+
+> <PUBCHEM_EXACT_MASS>
+323.047984
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C16H15Cl2NO2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+324.2018
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=C(C=C(C=C1Cl)OC(C)C(=O)NC2=CC=CC=C2)Cl
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=C(C=C(C=C1Cl)OC(C)C(=O)NC2=CC=CC=C2)Cl
+
+> <PUBCHEM_CACTVS_TPSA>
+38.3
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+323.047984
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+21
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+3
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  14  8
+10  15  8
+11  14  8
+12  15  8
+13  17  8
+13  18  8
+17  19  8
+18  20  8
+19  21  8
+20  21  8
+6  9  3
+7  11  8
+7  12  8
+
+$$$$
+

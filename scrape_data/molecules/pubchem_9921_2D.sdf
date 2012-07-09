@@ -1,0 +1,155 @@
+441318
+  -OEChem-07051212542D
+
+ 20 21  0     1  0  0  0  0  0999 V2000
+    4.9889    1.3776    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7619   -1.2436    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2619   -0.3776    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.6783   -1.1824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.8776    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.1224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6783    0.4271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.3776    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.6224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2619   -0.3776    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.8776    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.1224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5436   -0.9299    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4272   -1.7493    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2156   -1.4916    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.9976    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    1.2424    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5719    0.1593    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -1.1876    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631    0.4324    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  2  0  0  0  0
+  2 10  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  2  0  0  0  0
+  8 11  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 20  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+441318
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+210
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBwMAAAAAAAAAAAAAAAAAAAAYAAAAAwAAAAAAAAAGABAAAAGgAAAAAADQSgmAIwAIAAAACIAqhSgAACAAAkAAAIiAEAAMgIIDKIFRCAIQAggAAIiYcIiMCOgAAAAAAQAAAAAAAAACAAAQAACAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1-oxoindane-2-carbaldehyde
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+3-oxo-1,2-dihydroindene-2-carboxaldehyde
+
+> <PUBCHEM_IUPAC_NAME>
+3-oxo-1,2-dihydroindene-2-carbaldehyde
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+3-oxidanylidene-1,2-dihydroindene-2-carbaldehyde
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1-ketoindane-2-carbaldehyde
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C10H8O2/c11-6-8-5-7-3-1-2-4-9(7)10(8)12/h1-4,6,8H,5H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+NWROWRUAPHQSLF-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+1.4
+
+> <PUBCHEM_EXACT_MASS>
+160.052429
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C10H8O2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+160.16932
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1C(C(=O)C2=CC=CC=C21)C=O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1C(C(=O)C2=CC=CC=C21)C=O
+
+> <PUBCHEM_CACTVS_TPSA>
+34.1
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+160.052429
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+12
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+3
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  12  8
+3  10  3
+5  6  8
+5  8  8
+6  9  8
+8  11  8
+9  12  8
+
+$$$$
+

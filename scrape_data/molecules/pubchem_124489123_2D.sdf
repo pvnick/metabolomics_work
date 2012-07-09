@@ -1,0 +1,151 @@
+3034395
+  -OEChem-07051213122D
+
+ 26 23  0     0  0  0  0  0  0999 V2000
+    6.5991    1.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5369    1.5000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7331    2.5000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8671    1.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    1.5000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5680    5.1200    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5680    8.0500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0010    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7331    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3996    1.9750    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6025    1.9750    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7365    0.5251    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5335    0.5251    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8671    0.3800    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    2.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.1900    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1360    1.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1050    5.4300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0311    5.4300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5680    4.5000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1050    8.3600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0311    8.3600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5680    7.4300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 20  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4 12  2  0  0  0  0
+  5  9  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7 21  1  0  0  0  0
+  7 22  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  8 25  1  0  0  0  0
+  8 26  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+3034395
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+119
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+6
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+6
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBjgABwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAQQAAAAAADBAAQAAALAAAQEAAAAAAAAAAAAAAkAAIAIAAAAQAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+ammonia; 2-(dithiocarboxyamino)ethylcarbamodithioic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+ammonia; 2-(dithiocarboxyamino)ethylcarbamodithioic acid
+
+> <PUBCHEM_IUPAC_NAME>
+azane; 2-(dithiocarboxyamino)ethylcarbamodithioic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+azane; 2-(dithiocarboxyamino)ethylcarbamodithioic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+ammonia; 2-(dithiocarboxyamino)ethylcarbamodithioic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C4H8N2S4.2H3N/c7-3(8)5-1-2-6-4(9)10;;/h1-2H2,(H2,5,7,8)(H2,6,9,10);2*1H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+FROZIYRKKUFAOC-UHFFFAOYSA-N
+
+> <PUBCHEM_EXACT_MASS>
+246.01013
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C4H14N4S4
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+246.44076
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(CNC(=S)S)NC(=S)S.N.N
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C(CNC(=S)S)NC(=S)S.N.N
+
+> <PUBCHEM_CACTVS_TPSA>
+92.2
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+246.01013
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+12
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+3
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+3
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+

@@ -1,0 +1,191 @@
+10834
+  -OEChem-07051213002D
+
+ 37 39  0     1  0  0  0  0  0999 V2000
+    5.4641   -1.3255    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.1745    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3010    1.9595    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0376    0.9768    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    8.7788    0.0109    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+   10.8696    0.2180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6108   -0.7479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4347    0.1690    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2437   -1.2322    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -0.8255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8010    2.8255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.8255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.3255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.8255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -2.3255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.3255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.8255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.3255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8678   -0.6027    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0092    0.3575    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3987   -1.3305    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2021   -0.9343    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4609    0.0316    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0817    0.8006    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9060   -1.7522    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7044   -1.6471    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3324    0.7805    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8149    0.1501    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8102   -0.4878    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3380    3.1355    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4910    3.3624    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2641    2.5155    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.2055    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -2.6355    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -1.0155    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -3.4455    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -2.6355    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2 12  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 20  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 19  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 23  1  0  0  0  0
+  6 24  1  0  0  0  0
+  7 21  1  0  0  0  0
+  7 22  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 27  1  0  0  0  0
+  8 28  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 25  1  0  0  0  0
+  9 26  1  0  0  0  0
+ 10 29  1  0  0  0  0
+ 11 30  1  0  0  0  0
+ 11 31  1  0  0  0  0
+ 11 32  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 33  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 34  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 35  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 36  1  0  0  0  0
+ 18 37  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+10834
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+298
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceByMAAAAAAAAAAAAAAAAAAAAWAAAAA8QAAABgAAAAABAAAAHgAAAAAADDzhmAYyCIMABACIAiDSCAACAAAkAAAIiAEICMgIJjKAtRiGMQAmwAGIqYeYyCCOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(8-methyl-8-azabicyclo[3.2.1]octan-3-yl) benzoate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+benzoic acid (8-methyl-8-azabicyclo[3.2.1]octan-3-yl) ester
+
+> <PUBCHEM_IUPAC_NAME>
+(8-methyl-8-azabicyclo[3.2.1]octan-3-yl) benzoate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(8-methyl-8-azabicyclo[3.2.1]octan-3-yl) benzoate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+benzoic acid (8-methyl-8-azabicyclo[3.2.1]octan-3-yl) ester
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H19NO2/c1-16-12-7-8-13(16)10-14(9-12)18-15(17)11-5-3-2-4-6-11/h2-6,12-14H,7-10H2,1H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+XQJMXPAEFMWDOZ-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+3
+
+> <PUBCHEM_EXACT_MASS>
+245.141579
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H19NO2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+245.31686
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CN1C2CCC1CC(C2)OC(=O)C3=CC=CC=C3
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CN1C2CCC1CC(C2)OC(=O)C3=CC=CC=C3
+
+> <PUBCHEM_CACTVS_TPSA>
+29.5
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+245.141579
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+18
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+2
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+13  14  8
+13  15  8
+14  16  8
+15  17  8
+16  18  8
+17  18  8
+4  6  3
+5  7  3
+
+$$$$
+

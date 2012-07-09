@@ -1,0 +1,190 @@
+441697
+  -OEChem-07051212552D
+
+ 33 35  0     0  0  0  0  0  0999 V2000
+    6.0290    0.6126    0.0000 O   0  3  0  0  0  0  0  0  0  0  0  0
+    7.7991   -1.4462    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -2.4221    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369   -1.4221    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369    0.5779    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3991    0.1121    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3914    2.1121    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -0.9221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    0.0779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9350    0.0987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7991    0.6021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0290   -1.4567    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9350   -0.9429    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -1.4221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    0.5779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -0.9221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    0.0779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6671    0.1054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7953    1.6021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5312    0.6088    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6594    2.1054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5273    1.6087    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0218   -2.0767    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    1.1979    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6694   -0.5146    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2571    1.9100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6570    2.7254    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7967   -2.0662    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -2.7321    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.1121    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369    1.1979    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9348    0.4242    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3890    2.7321    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0  0  0  0
+  1 10  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 28  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 29  1  0  0  0  0
+  4 16  1  0  0  0  0
+  4 30  1  0  0  0  0
+  5 17  1  0  0  0  0
+  5 31  1  0  0  0  0
+  6 20  1  0  0  0  0
+  6 32  1  0  0  0  0
+  7 22  1  0  0  0  0
+  7 33  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 12  2  0  0  0  0
+  8 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 11 18  2  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 24  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 18 25  1  0  0  0  0
+ 19 21  2  0  0  0  0
+ 19 26  1  0  0  0  0
+ 20 22  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 27  1  0  0  0  0
+M  CHG  1   1   1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+441697
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+392
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+6
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+6
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBwOAAAAAAAAAAAAAAAAAAAAAAAAAA0YIAAAAAAAACR9AAAGgAACAAADASAmAAwBsAABkCIAqBSAAICCAAkIAAIiAFGiMgNJzaGNRqCeWOl4BULuYfK7PzOIQABCAAIQABCAAIQABCAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-(3,4-dihydroxyphenyl)chromenylium-3,5,6,7-tetrol
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-(3,4-dihydroxyphenyl)-1-benzopyrylium-3,5,6,7-tetrol
+
+> <PUBCHEM_IUPAC_NAME>
+2-(3,4-dihydroxyphenyl)chromenylium-3,5,6,7-tetrol
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-[3,4-bis(oxidanyl)phenyl]chromenylium-3,5,6,7-tetrol
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-(3,4-dihydroxyphenyl)-1-benzopyrylium-3,5,6,7-tetrol
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H10O7/c16-8-2-1-6(3-9(8)17)15-11(19)4-7-12(22-15)5-10(18)14(21)13(7)20/h1-5H,(H5-,16,17,18,19,20,21)/p+1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+PWDAKBACEAGRSH-UHFFFAOYSA-O
+
+> <PUBCHEM_EXACT_MASS>
+303.050478
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H11O7+
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+303.24364
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=CC(=C(C=C1C2=C(C=C3C(=[O+]2)C=C(C(=C3O)O)O)O)O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=CC(=C(C=C1C2=C(C=C3C(=[O+]2)C=C(C(=C3O)O)O)O)O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+122
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+303.050478
+
+> <PUBCHEM_TOTAL_CHARGE>
+1
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+22
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+996
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+1  10  8
+1  9  8
+10  13  8
+11  18  8
+11  19  8
+12  13  8
+14  16  8
+15  17  8
+16  17  8
+18  20  8
+19  21  8
+20  22  8
+21  22  8
+8  12  8
+8  14  8
+8  9  8
+9  15  8
+
+$$$$
+

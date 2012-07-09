@@ -1,0 +1,144 @@
+6100711
+  -OEChem-07051213122D
+
+ 20 18  0     1  0  0  0  0  0999 V2000
+    2.0000    0.2500    0.0000 Zn  0  2  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.2500    0.0000 S   0  5  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.2500    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282    0.2500    0.0000 S   0  5  0  0  0  0  0  0  0  0  0  0
+    8.0622   -1.2500    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.2500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    0.2500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    0.2500    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    6.3301   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.3700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9316   -0.7249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7287   -0.7249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0841    1.2500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    1.8700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8441    1.2500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.8700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    0.8700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2 11  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4 12  1  0  0  0  0
+  5 12  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
+M  CHG  3   1   2   2  -1   4  -1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+6100711
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+148
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBjAABwAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAQQAAAACCjBAAQCAALAAAAEAAAAAAAAAAAAAAkAAIAIAAAAQAAAAAAUAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+zinc N-[1-methyl-2-(sulfidocarbothioylamino)ethyl]carbamodithioate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+zinc N-[1-[[sulfanylidene(sulfido)methyl]amino]propan-2-yl]carbamodithioate
+
+> <PUBCHEM_IUPAC_NAME>
+zinc N-[1-(sulfidocarbothioylamino)propan-2-yl]carbamodithioate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+zinc N-[1-(sulfanidylcarbothioylamino)propan-2-yl]carbamodithioate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+zinc N-[1-methyl-2-(sulfidocarbothioylamino)ethyl]carbamodithioate
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C5H10N2S4.Zn/c1-3(7-5(10)11)2-6-4(8)9;/h3H,2H2,1H3,(H2,6,8,9)(H2,7,10,11);/q;+2/p-2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+KKMLIVYBGSAJPM-UHFFFAOYSA-L
+
+> <PUBCHEM_EXACT_MASS>
+287.886174
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C5H8N2S4Zn
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+289.77042
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(CNC(=S)[S-])NC(=S)[S-].[Zn+2]
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(CNC(=S)[S-])NC(=S)[S-].[Zn+2]
+
+> <PUBCHEM_CACTVS_TPSA>
+90.2
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+287.886174
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+12
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+2
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+4
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+8  10  3
+
+$$$$
+

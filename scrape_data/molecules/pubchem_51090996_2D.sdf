@@ -1,0 +1,147 @@
+164697
+  -OEChem-07051213092D
+
+ 20 19  0     1  0  0  0  0  0999 V2000
+    4.5981    2.5600    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.9400    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.9400    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    1.5600    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    1.0600    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.0600    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.8660   -0.4400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    1.5600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.4400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9441   -0.5226    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3426    0.1677    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.6800    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6540    0.1426    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2554   -0.5477    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291    1.2500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    2.1800    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    1.3700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    0.4400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0  0  0  0
+  2 10  1  0  0  0  0
+  2 20  1  0  0  0  0
+  3 10  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4 16  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 18  1  0  0  0  0
+  5 19  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+164697
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+146
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBjMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAQCAAACCjBgAQACABAAgAIAAGQGAAAAAAAAAAAAIGAAAAAQBIAgAAAQAAEEAAAAAC8FwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+4,5-diamino-5-oxo-pentanoic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+4,5-diamino-5-oxopentanoic acid
+
+> <PUBCHEM_IUPAC_NAME>
+4,5-diamino-5-oxopentanoic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+4,5-bis(azanyl)-5-oxidanylidene-pentanoic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+4,5-diamino-5-keto-valeric acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C5H10N2O3/c6-3(5(7)10)1-2-4(8)9/h3H,1-2,6H2,(H2,7,10)(H,8,9)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+AEFLONBTGZFSGQ-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3>
+-4.3
+
+> <PUBCHEM_EXACT_MASS>
+146.069142
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C5H10N2O3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+146.1445
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(CC(=O)O)C(C(=O)N)N
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C(CC(=O)O)C(C(=O)N)N
+
+> <PUBCHEM_CACTVS_TPSA>
+106
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+146.069142
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+10
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+5
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+7  4  3
+
+$$$$
+

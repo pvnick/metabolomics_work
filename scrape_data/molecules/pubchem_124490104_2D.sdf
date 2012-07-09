@@ -1,0 +1,237 @@
+285666
+  -OEChem-07051213142D
+
+ 58 59  0     0  0  0  0  0  0999 V2000
+    3.2018    2.1645    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4621   12.3260    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2018    5.1645    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8104    0.6200    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3281   12.8260    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9621   13.1921    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9621   11.4600    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6590    7.2190    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9502    5.1991    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7988    6.7090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8104    5.7091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9617    4.1992    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0678    3.6645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0678    2.6645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6474    8.2190    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5307    6.7291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9617    2.1299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2018    4.1645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8678    3.6854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3358    3.6645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8678    2.6437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3358    2.6645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3909    7.2390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5076    8.7289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9502    1.1299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4418    4.1992    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4418    2.1299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5357    3.6854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5357    2.6437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5961   11.8260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5800    7.2892    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1895    6.5943    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0291    5.1290    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4197    5.8238    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4097    5.5029    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1377    6.2496    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9347    6.2588    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4286    8.7991    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0381    8.1042    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4035    3.9974    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4035    2.3316    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8238    8.1956    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7071    6.7057    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9242    7.5552    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0747    7.7724    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0409    9.0451    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1914    9.2622    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3409    1.2446    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7314    0.5498    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4490    4.8191    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4490    1.5099    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.9974    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.3316    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8032    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2861   12.3630    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0592   11.5160    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9061   11.2891    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8651   12.5160    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  1 22  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  2  0  0  0  0
+  2  7  2  0  0  0  0
+  2 30  1  0  0  0  0
+  3 18  2  0  0  0  0
+  4 25  1  0  0  0  0
+  4 54  1  0  0  0  0
+  5 58  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 35  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 31  1  0  0  0  0
+ 10 32  1  0  0  0  0
+ 11 33  1  0  0  0  0
+ 11 34  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 19  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 15 24  1  0  0  0  0
+ 15 38  1  0  0  0  0
+ 15 39  1  0  0  0  0
+ 16 23  1  0  0  0  0
+ 16 36  1  0  0  0  0
+ 16 37  1  0  0  0  0
+ 17 21  1  0  0  0  0
+ 17 25  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 21  2  0  0  0  0
+ 19 40  1  0  0  0  0
+ 20 22  1  0  0  0  0
+ 20 26  2  0  0  0  0
+ 21 41  1  0  0  0  0
+ 22 27  2  0  0  0  0
+ 23 43  1  0  0  0  0
+ 23 44  1  0  0  0  0
+ 23 45  1  0  0  0  0
+ 24 42  1  0  0  0  0
+ 24 46  1  0  0  0  0
+ 24 47  1  0  0  0  0
+ 25 48  1  0  0  0  0
+ 25 49  1  0  0  0  0
+ 26 28  1  0  0  0  0
+ 26 50  1  0  0  0  0
+ 27 29  1  0  0  0  0
+ 27 51  1  0  0  0  0
+ 28 29  2  0  0  0  0
+ 28 52  1  0  0  0  0
+ 29 53  1  0  0  0  0
+ 30 55  1  0  0  0  0
+ 30 56  1  0  0  0  0
+ 30 57  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+285666
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+536
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+8
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+7
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceB7OABgAAAAAAAAAAAAAAAAAAAAAAA0YIAAAAAAAACRQAAAHgQQCAAADAzh2AaywYPAAoqIAqRSQHCCAAAlChAIiJkIbMgIdjrglZGUcYxk0AHo2ceY3OOOCAACACAGAAAQAAQAQAwAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1-[2-(diethylamino)ethylamino]-4-(hydroxymethyl)thioxanthen-9-one; methanesulfonic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1-[2-(diethylamino)ethylamino]-4-(hydroxymethyl)-9-thioxanthenone; methanesulfonic acid
+
+> <PUBCHEM_IUPAC_NAME>
+1-[2-(diethylamino)ethylamino]-4-(hydroxymethyl)thioxanthen-9-one; methanesulfonic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1-[2-(diethylamino)ethylamino]-4-(hydroxymethyl)thioxanthen-9-one; methanesulfonic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1-[2-(diethylamino)ethylamino]-4-methylol-thioxanthen-9-one; mesylic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C20H24N2O2S.CH4O3S/c1-3-22(4-2)12-11-21-16-10-9-14(13-23)20-18(16)19(24)15-7-5-6-8-17(15)25-20;1-5(2,3)4/h5-10,21,23H,3-4,11-13H2,1-2H3;1H3,(H,2,3,4)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+LOEQGPPJCCUXEJ-UHFFFAOYSA-N
+
+> <PUBCHEM_EXACT_MASS>
+452.143964
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C21H28N2O5S2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+452.58742
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCN(CC)CCNC1=C2C(=C(C=C1)CO)SC3=CC=CC=C3C2=O.CS(=O)(=O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCN(CC)CCNC1=C2C(=C(C=C1)CO)SC3=CC=CC=C3C2=O.CS(=O)(=O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+141
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+452.143964
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+30
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+2
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+5
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+1  14  8
+1  22  8
+12  13  8
+12  19  8
+13  14  8
+13  18  8
+14  17  8
+17  21  8
+18  20  8
+19  21  8
+20  22  8
+20  26  8
+22  27  8
+26  28  8
+27  29  8
+28  29  8
+
+$$$$
+

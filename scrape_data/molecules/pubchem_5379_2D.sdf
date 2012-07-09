@@ -1,0 +1,187 @@
+23665411
+  -OEChem-07051212472D
+
+ 34 34  0     0  0  0  0  0  0999 V2000
+    8.4793    3.0182    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.2728    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8916    2.2092    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    6.4903    3.2272    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6456    0.8660    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3147    1.6092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.2728    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8147    2.4752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8366    2.2673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3092    1.5047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.7728    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8535   -0.1121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.2272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.7272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.7272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.2272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8970    2.3137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.7272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.7272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -3.2272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0669    3.0416    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3758    2.6822    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1384    0.9087    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8665    1.2329    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2471   -0.2410    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9824   -0.7186    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4600    0.0168    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -0.4172    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -0.4172    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -2.0372    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -2.0372    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2460   -3.2272    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -3.8472    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4860   -3.2272    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2 11  2  0  0  0  0
+  3 17  1  0  0  0  0
+  4 17  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 15 19  2  0  0  0  0
+ 15 29  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 19  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 18 30  1  0  0  0  0
+ 19 31  1  0  0  0  0
+ 20 32  1  0  0  0  0
+ 20 33  1  0  0  0  0
+ 20 34  1  0  0  0  0
+M  CHG  2   1   1   3  -1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+23665411
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+353
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccByMCAAAAAAAAAAAAAAAAAAAWAAAAAwAAAAAAAAAAABwAAAHgAAAAAADAyBngQyiJMMEACoA6TyTACCgCAnAiAI2CG4ZNgIIPrAlbGEIQhmwAHIyYeYyeCeQAAAAAAAAACAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+sodium 2-[1-methyl-5-(4-methylbenzoyl)pyrrol-2-yl]acetate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+sodium 2-[1-methyl-5-[(4-methylphenyl)-oxomethyl]-2-pyrrolyl]acetate
+
+> <PUBCHEM_IUPAC_NAME>
+sodium 2-[1-methyl-5-(4-methylbenzoyl)pyrrol-2-yl]acetate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+sodium 2-[1-methyl-5-(4-methylphenyl)carbonyl-pyrrol-2-yl]ethanoate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+sodium 2-(1-methyl-5-p-toluoyl-pyrrol-2-yl)acetate
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H15NO3.Na/c1-10-3-5-11(6-4-10)15(19)13-8-7-12(16(13)2)9-14(17)18;/h3-8H,9H2,1-2H3,(H,17,18);/q;+1/p-1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+QGUALMNFRILWRA-UHFFFAOYSA-M
+
+> <PUBCHEM_EXACT_MASS>
+279.087138
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H14NNaO3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+279.266329
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=CC=C(C=C1)C(=O)C2=CC=C(N2C)CC(=O)[O-].[Na+]
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=CC=C(C=C1)C(=O)C2=CC=C(N2C)CC(=O)[O-].[Na+]
+
+> <PUBCHEM_CACTVS_TPSA>
+62.1
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+279.087138
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+20
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+2
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+15
+
+> <PUBCHEM_NONSTANDARDBOND>
+1  3  7
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+13  14  8
+13  15  8
+14  18  8
+15  19  8
+16  18  8
+16  19  8
+5  6  8
+5  7  8
+6  8  8
+7  9  8
+8  9  8
+
+$$$$
+

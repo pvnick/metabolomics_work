@@ -1,0 +1,154 @@
+3077
+  -OEChem-07051213112D
+
+ 25 24  0     0  0  0  0  0  0999 V2000
+    6.3301    0.4050    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.4050    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    0.4050    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962   -1.0950    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.0950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.4050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.0950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.0950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    1.4050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962   -0.0950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3335   -0.5699    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1306   -0.5699    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9966    0.8799    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1996    0.8799    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0656   -0.5699    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8626   -0.5699    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900    0.4419    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -0.4050    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -0.6319    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4860    1.4050    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    2.0250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2460    1.4050    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5991    0.0950    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    1.0250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6592   -1.4050    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 23  1  0  0  0  0
+  3 24  1  0  0  0  0
+  4 10  2  0  0  0  0
+  4 25  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+3077
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+103
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBjAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAQQAAAACADFQASDAANAAAggAAAAIAAAAgDAABAAAAAIAAAAAAAgAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-[3-(dimethylamino)propyl]isothiourea
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+carbamimidothioic acid 3-(dimethylamino)propyl ester
+
+> <PUBCHEM_IUPAC_NAME>
+3-(dimethylamino)propyl carbamimidothioate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+3-(dimethylamino)propyl carbamimidothioate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-[3-(dimethylamino)propyl]isothiourea
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C6H15N3S/c1-9(2)4-3-5-10-6(7)8/h3-5H2,1-2H3,(H3,7,8)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+OLHQOJYVQUNWPL-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+0.6
+
+> <PUBCHEM_EXACT_MASS>
+161.098668
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C6H15N3S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+161.2684
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CN(C)CCCSC(=N)N
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CN(C)CCCSC(=N)N
+
+> <PUBCHEM_CACTVS_TPSA>
+78.4
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+161.098668
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+10
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+

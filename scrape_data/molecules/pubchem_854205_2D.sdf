@@ -1,0 +1,134 @@
+93095
+  -OEChem-07051213042D
+
+ 14 13  0     1  0  0  0  0  0999 V2000
+    2.0000   -0.8170    0.0000 Ca  0  2  0  0  0  0  0  0  0  0  0  0
+    3.0000    0.1830    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8660    0.6830    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.1830    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.0000   -0.8170    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.0000    1.1830    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0000    0.1830    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.8660   -0.3170    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.3660   -1.1830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8395    0.7819    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4649   -0.1565    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8291   -1.4930    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6760   -1.7200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9030   -0.8730    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  2  0  0  0  0
+  7  2  1  1  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  1  1  0  0  0
+  8 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+M  CHG  3   1   2   4  -1   5  -1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+93095
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+127
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYBAOAIAAAgAAAAAAAAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAGggAACAACBSogAICAAAABBAAQAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+calcium [(2R,3S)-3-methyloxiran-2-yl]-dioxido-oxo-$l^{5}-phosphane
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+calcium [(2R,3S)-3-methyl-2-oxiranyl]-dioxido-oxophosphorane
+
+> <PUBCHEM_IUPAC_NAME>
+calcium [(2R,3S)-3-methyloxiran-2-yl]-dioxido-oxo-$l^{5}-phosphane
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+calcium [(2R,3S)-3-methyloxiran-2-yl]-bis(oxidanidyl)-oxidanylidene-$l^{5}-phosphane
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+calcium keto-[(2R,3S)-3-methyloxiran-2-yl]-dioxido-phosphorane
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C3H7O4P.Ca/c1-2-3(7-2)8(4,5)6;/h2-3H,1H3,(H2,4,5,6);/q;+2/p-2/t2-,3+;/m0./s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+YMZJBJPWTXJQMR-LJUKVTEVSA-L
+
+> <PUBCHEM_EXACT_MASS>
+175.955136
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C3H5CaO4P
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+176.121162
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1C(O1)P(=O)([O-])[O-].[Ca+2]
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C[C@H]1[C@H](O1)P(=O)([O-])[O-].[Ca+2]
+
+> <PUBCHEM_CACTVS_TPSA>
+75.7
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+175.955136
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+2
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+2
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+7  2  5
+8  9  5
+
+$$$$
+

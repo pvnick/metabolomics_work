@@ -1,0 +1,140 @@
+76406
+  -OEChem-07051212452D
+
+ 18 17  0     0  0  0  0  0  0999 V2000
+    2.5369   -0.4400    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671    1.0600    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    1.0600    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -0.4400    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    0.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -0.4400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671    0.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    0.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7331   -0.4400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5335    0.5349    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7365    0.5349    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8705   -0.9149    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6675   -0.9149    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -1.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4231   -0.9769    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2700   -0.7500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0431    0.0969    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.1300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  8  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+76406
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+121
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBiMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAQCAAACADBgAQCCALAAgAIAAGQGAAAAAAAAAAAAIEIAAAAAAgAAAAEQAACFgCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+3-acetamidopropanoic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+3-acetamidopropanoic acid
+
+> <PUBCHEM_IUPAC_NAME>
+3-acetamidopropanoic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+3-acetamidopropanoic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+3-acetamidopropionic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C5H9NO3/c1-4(7)6-3-2-5(8)9/h2-3H2,1H3,(H,6,7)(H,8,9)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+LJLLAWRMBZNPMO-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+-1
+
+> <PUBCHEM_EXACT_MASS>
+131.058243
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C5H9NO3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+131.12986
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(=O)NCCC(=O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(=O)NCCC(=O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+66.4
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+131.058243
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+2
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+

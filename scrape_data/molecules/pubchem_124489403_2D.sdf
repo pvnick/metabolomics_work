@@ -1,0 +1,201 @@
+6327657
+  -OEChem-07051213122D
+
+ 37 38  0     0  0  0  0  0  0999 V2000
+    3.4749   -0.0442    0.0000 Sn  0  4  0  0  0  0  0  0  0  0  0  0
+    2.4749   -0.0442    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9749   -0.9102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4749   -0.0442    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3013    0.9406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3616    1.2827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9749   -0.9102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1089   -1.4102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0673    1.5834    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9749    0.8218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8409   -1.4102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1089   -2.4102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9749   -0.9102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1879    2.2674    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8409   -2.4102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9749    0.8218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8937    2.5682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9749   -2.9102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4749   -0.0442    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9540    2.9102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1649    0.4927    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.4426    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8867    0.8842    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6649   -1.4472    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5720   -1.1002    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6499    1.3713    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6649    1.3588    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3779   -1.1002    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5720   -2.7202    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2849   -1.4472    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6053    2.4795    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3779   -2.7202    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2849    1.3588    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3686    2.9667    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9749   -3.5302    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0949   -0.0442    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8463    3.5208    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2 21  1  0  0  0  0
+  2 22  1  0  0  0  0
+  3  8  2  0  0  0  0
+  3 11  1  0  0  0  0
+  4  7  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 24  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 25  1  0  0  0  0
+  9 17  2  0  0  0  0
+  9 26  1  0  0  0  0
+ 10 16  2  0  0  0  0
+ 10 27  1  0  0  0  0
+ 11 15  2  0  0  0  0
+ 11 28  1  0  0  0  0
+ 12 18  2  0  0  0  0
+ 12 29  1  0  0  0  0
+ 13 19  2  0  0  0  0
+ 13 30  1  0  0  0  0
+ 14 20  2  0  0  0  0
+ 14 31  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 15 32  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 16 33  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 17 34  1  0  0  0  0
+ 18 35  1  0  0  0  0
+ 19 36  1  0  0  0  0
+ 20 37  1  0  0  0  0
+M  RAD  1   1   2
+M  END
+> <PUBCHEM_COMPOUND_CID>
+6327657
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+207
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceB4IAAAAAAAAACAAAAAAAAAAAAAAAAwYMAAAAAAAAABUAAAGAAACAAACACAEAAwAIAAAACAACBCAAACAAAgAAAIiAAAAIgIICKAERCAIAAggAAIiAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+triphenyltin hydrate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+triphenyltin hydrate
+
+> <PUBCHEM_IUPAC_NAME>
+triphenyltin hydrate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+triphenyltin hydrate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+triphenyltin hydrate
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/3C6H5.H2O.Sn/c3*1-2-4-6-5-3-1;;/h3*1-5H;1H2;
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+NRHFWOJROOQKBK-UHFFFAOYSA-N
+
+> <PUBCHEM_EXACT_MASS>
+369.030135
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C18H17OSn
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+368.03698
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=CC=C(C=C1)[Sn](C2=CC=CC=C2)C3=CC=CC=C3.O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=CC=C(C=C1)[Sn](C2=CC=CC=C2)C3=CC=CC=C3.O
+
+> <PUBCHEM_CACTVS_TPSA>
+1
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+369.030135
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+20
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+2
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_NONSTANDARDBOND>
+1  2  6
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  16  8
+11  15  8
+12  18  8
+13  19  8
+14  20  8
+15  18  8
+16  19  8
+17  20  8
+3  11  8
+3  8  8
+4  10  8
+4  7  8
+5  6  8
+5  9  8
+6  14  8
+7  13  8
+8  12  8
+9  17  8
+
+$$$$
+

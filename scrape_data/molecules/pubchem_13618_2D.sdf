@@ -1,0 +1,151 @@
+5281922
+  -OEChem-07051213012D
+
+ 27 29  0     1  0  0  0  0  0999 V2000
+    8.3412    1.0264    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -2.3247    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369   -1.3247    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3408    1.0261    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    7.8408    0.1601    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.4011    1.3682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9507    1.8111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4383    2.3615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3941    2.6347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6671   -0.8247    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4614    1.0261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -0.8247    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9011   -1.4675    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -1.3247    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.9614    0.1601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9011   -1.4675    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -0.8247    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6394   -0.1307    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5704    1.7905    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9504    2.7441    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6062    3.2173    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8059   -1.6347    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6890   -2.0501    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8015   -0.3498    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0044   -0.3498    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -2.6347    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.0147    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  4  1  1  1  0  0  0
+  1  5  1  0  0  0  0
+ 14  2  1  1  0  0  0
+  2 26  1  0  0  0  0
+  3 17  1  0  0  0  0
+  3 27  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 18  1  6  0  0  0
+  6  8  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 19  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 13  3  0  0  0  0
+ 11 15  3  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 16  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 14 22  1  0  0  0  0
+ 16 23  1  0  0  0  0
+ 17 24  1  0  0  0  0
+ 17 25  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+5281922
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+596
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBwMAAAAAAAAAAAAAAAEgAAAQAAAAAAAAAAAAAAAECAAAAAGgAACAAADFSggAIAAAAABgDAEiBCAAgAAAAgAAAICAAAAAgJFAIAIQACUAAEwAAJsAIAAAAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C14H10O3/c15-9-12(16)10-3-1-5-13-14(17-13)8-2-4-11(14)7-6-10/h2-4,8,12-13,15-16H,9H2/b10-3+/t12-,13-,14+/m0/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+VMDQGDOIIPCVIS-QNPGQJGNSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+-0.4
+
+> <PUBCHEM_EXACT_MASS>
+226.062994
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C14H10O3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+226.2274
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=CC23C(O2)C#CC=C(C#CC3=C1)C(CO)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=C[C@@]23[C@@H](O2)C#C/C=C(\C#CC3=C1)/[C@H](CO)O
+
+> <PUBCHEM_CACTVS_TPSA>
+53
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+226.062994
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+17
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+3
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+4  1  5
+14  2  5
+5  18  6
+
+$$$$
+

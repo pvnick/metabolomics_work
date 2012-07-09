@@ -1,0 +1,184 @@
+3704
+  -OEChem-07051213002D
+
+ 34 36  0     1  0  0  0  0  0999 V2000
+    4.2690    1.7500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -0.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369    2.7500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    1.2500    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.5369    1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    3.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    2.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0812   -1.4453    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -2.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6648   -2.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0812   -3.0547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -3.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -2.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9399    0.9400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9264    1.8577    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3249    1.1674    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7924    0.3577    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1909   -0.3326    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8015    3.7250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0044    3.7250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8796    2.6423    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4810    3.3326    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    3.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6186   -1.1360    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8302   -0.8784    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2848   -2.2500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2738   -3.6440    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.4400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -3.8700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -3.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 27  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5 19  1  0  0  0  0
+  5 20  1  0  0  0  0
+  6 21  1  0  0  0  0
+  6 22  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 23  1  0  0  0  0
+  7 24  1  0  0  0  0
+  8 25  1  0  0  0  0
+  8 26  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+ 10 15  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 28  1  0  0  0  0
+ 11 29  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 30  1  0  0  0  0
+ 14 31  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 32  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 33  1  0  0  0  0
+ 17 34  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+3704
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+279
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceByMAAAAAAAAAAAAAAAAAAAAQAAAAA8QAAAAAAAAEABAAAAHgAQAAAADBThmAYwBoLABACAAiBCAAACCAAgIAAIiIAOCIgPJiKEMRqHOCCm0BGaqAeAwLAOgAABAAAYAAAAAAIAADAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-(3H-inden-4-yloxymethyl)morpholine
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-(3H-inden-4-yloxymethyl)morpholine
+
+> <PUBCHEM_IUPAC_NAME>
+2-(3H-inden-4-yloxymethyl)morpholine
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-(3H-inden-4-yloxymethyl)morpholine
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-(3H-inden-4-yloxymethyl)morpholine
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C14H17NO2/c1-3-11-4-2-6-14(13(11)5-1)17-10-12-9-15-7-8-16-12/h1-4,6,12,15H,5,7-10H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+MADRVGBADLFHMO-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+1.9
+
+> <PUBCHEM_EXACT_MASS>
+231.125929
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C14H17NO2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+231.29028
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1COC(CN1)COC2=CC=CC3=C2CC=C3
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1COC(CN1)COC2=CC=CC3=C2CC=C3
+
+> <PUBCHEM_CACTVS_TPSA>
+30.5
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+231.125929
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+17
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  15  8
+12  16  8
+15  17  8
+16  17  8
+4  6  3
+9  10  8
+9  12  8
+
+$$$$
+

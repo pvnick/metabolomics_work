@@ -1,0 +1,134 @@
+6604703
+  -OEChem-07051213042D
+
+ 15 14  0     0  0  0  0  0  0999 V2000
+    5.1350    0.1550    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369   -1.3450    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    0.1550    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    1.6550    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671    0.1550    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -0.8450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -1.3450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    0.6550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -0.8450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6720   -1.1550    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -1.9650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5380    1.9650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    1.9650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4040    0.4650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.0350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4  8  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  8  2  0  0  0  0
+  5 14  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 11  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+6604703
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+155
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYBjMABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgQQCAAACACEwACBCABAAgioACDSKAAAAgDAAAAIAAAAAEAABAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(Z)-3-carbamimidoylsulfanylprop-2-enoic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(Z)-3-(carbamimidoylthio)-2-propenoic acid
+
+> <PUBCHEM_IUPAC_NAME>
+(Z)-3-carbamimidoylsulfanylprop-2-enoic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(Z)-3-carbamimidoylsulfanylprop-2-enoic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(Z)-3-(amidinothio)acrylic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C4H6N2O2S/c5-4(6)9-2-1-3(7)8/h1-2H,(H3,5,6)(H,7,8)/b2-1-
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+QEYNZJBVNYDZKZ-UPHRSURJSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+-0.2
+
+> <PUBCHEM_EXACT_MASS>
+146.014998
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C4H6N2O2S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+146.16764
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(=CSC(=N)N)C(=O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C(=C\SC(=N)N)\C(=O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+113
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+146.014998
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+

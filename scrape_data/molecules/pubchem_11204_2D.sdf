@@ -1,0 +1,169 @@
+5281344
+  -OEChem-07051212562D
+
+ 25 26  0     0  0  0  0  0  0999 V2000
+    5.4920    1.3797    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.6550    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4804   -1.6896    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.3450    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.1550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3981   -0.1758    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.8450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4920   -0.6897    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2622   -0.6792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.6550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3981    0.8658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.3450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.1550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.8450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1301   -0.1825    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8618   -1.1526    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6589   -1.1556    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9338    1.1779    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.9650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291   -0.4650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4380   -0.7206    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6682    0.1254    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8222    0.3556    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1951   -1.9650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.9650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 24  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4 14  1  0  0  0  0
+  4 25  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 11  2  0  0  0  0
+  7 12  2  0  0  0  0
+  9 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 19  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 20  1  0  0  0  0
+ 15 21  1  0  0  0  0
+ 15 22  1  0  0  0  0
+ 15 23  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+5281344
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+297
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBwOAAAAAAAAAAAAAAAAAAAAAAAAAAwQAAAAAAAAACBAAAAGgAACAAADASgmAIyBoAABgCIAqBSAAACCAAkIAAAiAEGCMgMJzaGNRqAcWAl4BUIuYeI7KzOIAAACAAIAABAAAAQABAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+3-ethyl-5,7-dihydroxy-chromen-4-one
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+3-ethyl-5,7-dihydroxy-1-benzopyran-4-one
+
+> <PUBCHEM_IUPAC_NAME>
+3-ethyl-5,7-dihydroxychromen-4-one
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+3-ethyl-5,7-bis(oxidanyl)chromen-4-one
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+3-ethyl-5,7-dihydroxy-chromone
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C11H10O4/c1-2-6-5-15-9-4-7(12)3-8(13)10(9)11(6)14/h3-5,12-13H,2H2,1H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+SCZKCXUGDWJJGV-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+2.2
+
+> <PUBCHEM_EXACT_MASS>
+206.057909
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C11H10O4
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+206.1947
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCC1=COC2=CC(=CC(=C2C1=O)O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCC1=COC2=CC(=CC(=C2C1=O)O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+66.8
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+206.057909
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+15
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+12
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+1  11  8
+1  7  8
+10  13  8
+12  14  8
+13  14  8
+5  10  8
+5  7  8
+5  8  8
+6  11  8
+6  8  8
+7  12  8
+
+$$$$
+

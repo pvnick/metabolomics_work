@@ -1,0 +1,191 @@
+441981
+  -OEChem-07051212562D
+
+ 35 37  0     1  0  0  0  0  0999 V2000
+    7.1671   -1.4113    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4477    0.1289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7702   -1.3396    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5224   -1.7360    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5301    1.6950    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7817    1.7296    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5467   -0.3050    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    8.1224   -1.1892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3961    0.1950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1224    0.5793    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3961   -0.8050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4477   -0.7388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1671    0.8014    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5301    0.6950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6641    0.1950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6641   -0.8050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5301   -1.3050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7702    0.7297    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8641   -0.8258    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8641    0.2159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.3291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1243   -1.8092    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7271   -1.3258    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5102    1.0630    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0646   -0.8006    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6156   -0.1420    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0324    1.4066    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5301   -1.9250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4940    0.7472    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3284    0.5279    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0810   -2.0051    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0671    2.0051    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6879   -0.7934    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4643   -1.6412    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3121   -1.8648    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 29  1  0  0  0  0
+  3 16  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 31  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 32  1  0  0  0  0
+  6 18  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 28  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 21  1  0  0  0  0
+ 20 30  1  0  0  0  0
+ 21 33  1  0  0  0  0
+ 21 34  1  0  0  0  0
+ 21 35  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+441981
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+498
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+6
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBwOAAAAAAAAAAAAAAAAAAAAAAAAAAwQAAABAAAAACBAAAAGgAACAAADESgmAIyBoAABgCIAqBSAAACCAAkIAAIiAEGCMgNNzaGNRqCeWCl4BULuQeI7OzOIAACCAAIAABAAAQQABAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+5,8-dihydroxy-8-(hydroxymethyl)-2-methyl-9H-pyrano[3,2-h][1]benzoxepin-4-one
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+5,8-dihydroxy-8-(hydroxymethyl)-2-methyl-9H-pyrano[3,2-h][1]benzoxepin-4-one
+
+> <PUBCHEM_IUPAC_NAME>
+5,8-dihydroxy-8-(hydroxymethyl)-2-methyl-9H-pyrano[3,2-h][1]benzoxepin-4-one
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+8-(hydroxymethyl)-2-methyl-5,8-bis(oxidanyl)-9H-pyrano[3,2-h][1]benzoxepin-4-one
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+5,8-dihydroxy-2-methyl-8-methylol-9H-pyrano[3,2-h][1]benzoxepin-4-one
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H14O6/c1-8-4-10(17)13-12(21-8)5-11-9(14(13)18)2-3-15(19,6-16)7-20-11/h2-5,16,18-19H,6-7H2,1H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+IVVDHMXDSFGHMC-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+0.9
+
+> <PUBCHEM_EXACT_MASS>
+290.079038
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H14O6
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+290.26806
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=CC(=O)C2=C(C3=C(C=C2O1)OCC(C=C3)(CO)O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=CC(=O)C2=C(C3=C(C=C2O1)OCC(C=C3)(CO)O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+96.2
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+290.079038
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+21
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+14
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  17  8
+14  15  8
+15  16  8
+15  18  8
+16  17  8
+18  20  8
+19  20  8
+3  16  8
+3  19  8
+7  12  3
+9  11  8
+9  14  8
+
+$$$$
+

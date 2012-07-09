@@ -1,0 +1,137 @@
+4096
+  -OEChem-07051213122D
+
+ 15 14  0     1  0  0  0  0  0999 V2000
+    2.8660   -0.9330    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.4330    0.0000 P   0  0  3  0  0  0  0  0  0  0  0  0
+    3.2320    0.4330    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2320   -1.2990    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.0670    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -0.2430    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.6870    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100    0.1039    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -0.1230    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900   -0.9699    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    0.9890    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0420    1.8360    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1951    1.6090    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+4096
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+95.7
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBCMAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgQQgCAAAAAAAAKCAAAAARAAQAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+[amino(methylsulfanyl)phosphoryl]oxymethane
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+[amino-(methylthio)phosphoryl]oxymethane
+
+> <PUBCHEM_IUPAC_NAME>
+[amino(methylsulfanyl)phosphoryl]oxymethane
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+[azanyl(methylsulfanyl)phosphoryl]oxymethane
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+[methoxy-(methylthio)phosphoryl]amine
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C2H8NO2PS/c1-5-6(3,4)7-2/h1-2H3,(H2,3,4)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+NNKVPIKMPCQWCG-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+-0.9
+
+> <PUBCHEM_EXACT_MASS>
+141.001336
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C2H8NO2PS
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+141.129182
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+COP(=O)(N)SC
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+COP(=O)(N)SC
+
+> <PUBCHEM_CACTVS_TPSA>
+77.6
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+141.001336
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+7
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+2
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+2  5  3
+
+$$$$
+

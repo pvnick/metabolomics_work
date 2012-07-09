@@ -1,0 +1,179 @@
+5353897
+  -OEChem-07051212542D
+
+ 33 33  0     0  0  0  0  0  0999 V2000
+    4.5981   -3.6550    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.8450    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.3450    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    1.8450    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    3.3450    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    0.3450    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    2.3450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.8450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    3.3450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.6550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    2.3450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.1550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -1.1550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    0.8450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -2.1550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -2.1550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -2.6550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    1.7250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4860    3.3450    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    3.9650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900    2.3819    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631    1.5350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100    1.3081    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2460    3.3450    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0611    0.6550    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1951   -0.8450    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -0.8450    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1951   -2.4650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -2.4650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0611    3.6550    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    3.6550    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671    0.6550    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -0.2750    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3 10  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 25  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 14  2  0  0  0  0
+  5 11  1  0  0  0  0
+  5 30  1  0  0  0  0
+  5 31  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 32  1  0  0  0  0
+  6 33  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+  9 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 13  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 16  2  0  0  0  0
+ 13 27  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 28  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 29  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+5353897
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+292
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBzgAAEAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAHAIQAAAACCrBECQzwILAAACgACRCZACCAAEhBwAJiAAAZoiIICLBm5GEIAhgkAJIyCcQAAAAAABAAAAAAAAAAIAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(1Z)-1-[amino-(4-chloroanilino)methylene]-2-isopropyl-guanidine
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(1Z)-1-[amino-(4-chloroanilino)methylidene]-2-propan-2-ylguanidine
+
+> <PUBCHEM_IUPAC_NAME>
+(1Z)-1-[amino-(4-chloroanilino)methylidene]-2-propan-2-ylguanidine
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(1Z)-1-[azanyl-[(4-chlorophenyl)amino]methylidene]-2-propan-2-yl-guanidine
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(1Z)-1-[amino-(4-chloroanilino)methylene]-2-isopropyl-guanidine
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C11H16ClN5/c1-7(2)15-10(13)17-11(14)16-9-5-3-8(12)4-6-9/h3-7H,1-2H3,(H5,13,14,15,16,17)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+SSOLNOMRVKKSON-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+1.5
+
+> <PUBCHEM_EXACT_MASS>
+253.109423
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C11H16ClN5
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+253.73124
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(C)N=C(N)N=C(N)NC1=CC=C(C=C1)Cl
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(C)N=C(N)/N=C(/N)\NC1=CC=C(C=C1)Cl
+
+> <PUBCHEM_CACTVS_TPSA>
+88.8
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+253.109423
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+17
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+8
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  12  8
+10  13  8
+12  15  8
+13  16  8
+15  17  8
+16  17  8
+
+$$$$
+

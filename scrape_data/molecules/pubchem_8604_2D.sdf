@@ -1,0 +1,131 @@
+6326961
+  -OEChem-07051212512D
+
+ 13 12  0     0  0  0  0  0  0999 V2000
+    3.4030   -0.2500    0.0000 P   0  3  0  0  0  0  0  0  0  0  0  0
+    2.5369    0.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -1.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -1.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671   -0.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    1.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6675    0.7249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8705    0.7249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4040    0.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  8  2  0  0  0  0
+  5  9  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  9  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  CHG  1   1   1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+6326961
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+162
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYBAOAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGggACCAACASIgAAACAAAAhAIQICQCIIAAAAAAAAAAAFAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(2-carboxy-2-oxo-ethyl)-hydroxy-oxo-phosphonium
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(2-carboxy-2-oxoethyl)-hydroxy-oxophosphonium
+
+> <PUBCHEM_IUPAC_NAME>
+(2-carboxy-2-oxoethyl)-hydroxy-oxophosphanium
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+oxidanyl-[3-oxidanyl-2,3-bis(oxidanylidene)propyl]-oxidanylidene-phosphanium
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2-carboxy-2-keto-ethyl)-hydroxy-keto-phosphonium
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C3H2O5P/c4-2(3(5)6)1-9(7)8/h1H2/q-1/p+2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+DYNYYQMQWDIZQB-UHFFFAOYSA-P
+
+> <PUBCHEM_XLOGP3_AA>
+-1.2
+
+> <PUBCHEM_EXACT_MASS>
+150.979635
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C3H4O5P+
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+151.034622
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(C(=O)C(=O)O)[P+](=O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C(C(=O)C(=O)O)[P+](=O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+91.7
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+150.979635
+
+> <PUBCHEM_TOTAL_CHARGE>
+1
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+2
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+

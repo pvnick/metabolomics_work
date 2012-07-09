@@ -1,0 +1,139 @@
+49787040
+  -OEChem-07051213112D
+
+ 17 17  0     0  0  0  0  0  0999 V2000
+    3.9602   -1.9814    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    5.0480    0.3665    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8080    0.0877    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1289    1.3749    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8231    1.7350    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5480   -1.1723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5480   -1.1723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2389   -0.2213    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8570   -0.2213    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1357   -1.9814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2879    0.0877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0800    1.0659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6341   -2.3458    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5002   -2.4829    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6373   -1.6169    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8271   -0.3271    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.9814    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4 12  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5 12  2  0  0  0  0
+  6  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 11  2  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 16  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+49787040
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+313
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYBgOAAEAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAGgIACAAADAaAgAACCAAABgCIAiDSCAAACAAAIAAACAEAAUAIBAAAIAACEAAAAAAAsQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(2Z)-2-(3-chloro-4-methyl-5-oxo-2-furylidene)acetic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(2Z)-2-(3-chloro-4-methyl-5-oxo-2-furanylidene)acetic acid
+
+> <PUBCHEM_IUPAC_NAME>
+(2Z)-2-(3-chloro-4-methyl-5-oxofuran-2-ylidene)acetic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(2Z)-2-(3-chloranyl-4-methyl-5-oxidanylidene-furan-2-ylidene)ethanoic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2Z)-2-(3-chloro-5-keto-4-methyl-2-furylidene)acetic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C7H5ClO4/c1-3-6(8)4(2-5(9)10)12-7(3)11/h2H,1H3,(H,9,10)/b4-2-
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+OYEYSZZDZDSDCR-RQOWECAXSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+0.7
+
+> <PUBCHEM_EXACT_MASS>
+187.987636
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C7H5ClO4
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+188.5652
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=C(C(=CC(=O)O)OC1=O)Cl
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=C(/C(=C/C(=O)O)/OC1=O)Cl
+
+> <PUBCHEM_CACTVS_TPSA>
+63.6
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+187.987636
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+12
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+3
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+

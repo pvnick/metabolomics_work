@@ -1,0 +1,180 @@
+53297413
+  -OEChem-07051213122D
+
+ 37 36  0     1  0  0  0  0  0999 V2000
+    7.7331   -2.1550    0.0000 Se  0  4  0  0  0  0  0  0  0  0  0  0
+    7.7331   -1.1550    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671   -0.6550    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4651    1.8450    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369    0.8450    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -0.6550    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9292    0.8450    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0632   -0.6550    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7331    0.8450    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    1.8450    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3312    0.3450    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    0.3450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    0.8450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5991    0.3450    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.2690    0.8450    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.8671    0.3450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5991   -0.6550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4651    0.8450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    0.3450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1972    0.8450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0632    0.3450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7365   -0.1299    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5335   -0.1299    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3996    1.3200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6025    1.3200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5991    0.9650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8059    1.1550    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7331    1.4650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8112   -1.2376    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2097   -0.5473    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    2.1550    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8059    2.1550    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3312   -0.2750    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5957    1.3200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7987    1.3200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.5350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4662    0.5350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3 16  2  0  0  0  0
+  4 18  2  0  0  0  0
+  5 19  1  0  0  0  0
+  5 36  1  0  0  0  0
+  6 19  2  0  0  0  0
+  7 21  1  0  0  0  0
+  7 37  1  0  0  0  0
+  8 21  2  0  0  0  0
+ 14  9  1  6  0  0  0
+  9 16  1  0  0  0  0
+  9 28  1  0  0  0  0
+ 15 10  1  1  0  0  0
+ 10 31  1  0  0  0  0
+ 10 32  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 11 33  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 15 27  1  0  0  0  0
+ 17 29  1  0  0  0  0
+ 17 30  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 34  1  0  0  0  0
+ 20 35  1  0  0  0  0
+M  RAD  1   1   2
+M  END
+> <PUBCHEM_COMPOUND_CID>
+53297413
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+408
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+8
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+5
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+9
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBzOABAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgQQCAAACCjFwASACALAAgAIAAGQGAAAAAAAAAAAAIGIAAACQBIAgCAUQAAEFgCQAACcFwIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(2S)-2-amino-5-[[(1R)-2-(carboxymethylamino)-1-($l^{1}-selanylsulfanylmethyl)-2-oxo-ethyl]amino]-5-oxo-pentanoic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(2S)-2-amino-5-[[(2R)-1-(carboxymethylamino)-3-($l^{1}-selanylthio)-1-oxopropan-2-yl]amino]-5-oxopentanoic acid
+
+> <PUBCHEM_IUPAC_NAME>
+(2S)-2-amino-5-[[(2R)-1-(carboxymethylamino)-3-$l^{1}-selanylsulfanyl-1-oxopropan-2-yl]amino]-5-oxopentanoic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(2S)-2-azanyl-5-[[(2R)-1-(2-hydroxy-2-oxoethylamino)-3-$l^{1}-selanylsulfanyl-1-oxidanylidene-propan-2-yl]amino]-5-oxidanylidene-pentanoic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2S)-2-amino-5-[[(1R)-2-(carboxymethylamino)-2-keto-1-[($l^{1}-selanylthio)methyl]ethyl]amino]-5-keto-valeric acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C10H16N3O6SSe/c11-5(10(18)19)1-2-7(14)13-6(4-20-21)9(17)12-3-8(15)16/h5-6H,1-4,11H2,(H,12,17)(H,13,14)(H,15,16)(H,18,19)/t5-,6-/m0/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+KAWPMBUMOSHIOP-WDSKDSINSA-N
+
+> <PUBCHEM_EXACT_MASS>
+385.992503
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C10H16N3O6SSe
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+385.27554
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(CC(=O)NC(CS[Se])C(=O)NCC(=O)O)C(C(=O)O)N
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C(CC(=O)N[C@@H](CS[Se])C(=O)NCC(=O)O)[C@@H](C(=O)O)N
+
+> <PUBCHEM_CACTVS_TPSA>
+184
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+385.992503
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+21
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+2
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+5
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+15  10  5
+14  9  6
+
+$$$$
+

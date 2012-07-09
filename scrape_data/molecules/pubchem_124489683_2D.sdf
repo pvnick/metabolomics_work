@@ -1,0 +1,161 @@
+13689
+  -OEChem-07051213132D
+
+ 28 28  0     0  0  0  0  0  0999 V2000
+    2.8090    0.7129    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3090    2.2518    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7770    0.0135    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9849   -0.9646    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7552    0.2215    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7988   -0.1944    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5691    0.9917    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.3007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3090    2.2518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6180    1.3007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9360   -1.2736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0642    1.1725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1439   -2.2518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0423    1.3804    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4336    1.5529    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900    0.7638    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3738    2.8684    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7026    2.3807    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0425    1.7921    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4502    1.2588    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5556   -1.2520    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0223   -0.6597    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1712    0.7740    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6488    1.5093    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9134    1.9869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5374   -2.3807    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2728   -2.8582    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7503   -2.1229    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 19  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 14 25  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+13689
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+241
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+6
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBiMAJgAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAAAAAAAAAAHgQAgCAAAACkwAKCAAAAARggQAAAAIAAAQAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+N-diethoxyphosphoryl-1,3-dithiolan-2-imine
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+N-diethoxyphosphoryl-1,3-dithiolan-2-imine
+
+> <PUBCHEM_IUPAC_NAME>
+N-diethoxyphosphoryl-1,3-dithiolan-2-imine
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+N-diethoxyphosphoryl-1,3-dithiolan-2-imine
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+diethoxyphosphoryl(1,3-dithiolan-2-ylidene)amine
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C7H14NO3PS2/c1-3-10-12(9,11-4-2)8-7-13-5-6-14-7/h3-6H2,1-2H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+ILBONRFSLATCRE-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3>
+0.6
+
+> <PUBCHEM_EXACT_MASS>
+255.015272
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C7H14NO3PS2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+255.294722
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCOP(=O)(N=C1SCCS1)OCC
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCOP(=O)(N=C1SCCS1)OCC
+
+> <PUBCHEM_CACTVS_TPSA>
+98.5
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+255.015272
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+14
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+

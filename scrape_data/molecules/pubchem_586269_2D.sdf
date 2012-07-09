@@ -1,0 +1,183 @@
+656708
+  -OEChem-07051213042D
+
+ 36 36  0     0  0  0  0  0  0999 V2000
+    6.0291    3.7217    0.0000 I   0  5  0  0  0  0  0  0  0  0  0  0
+    0.5089    6.1817    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0291    6.1817    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    1.4030    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.2690    5.9030    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    1.9030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5369    0.9030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9030    0.5369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9030    2.2690    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    2.9030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    3.4030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    3.4030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    4.9030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    4.4030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    4.4030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0780    6.4908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4600    6.4908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7690    7.4418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7690    7.4418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4810    1.3204    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8796    2.0106    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4399    2.5790    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5930    2.8059    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3660    1.9590    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3660    0.2269    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2130    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4399    0.8469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2269    1.4399    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.5930    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8469    0.3660    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6720    3.0930    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8660    3.0930    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6720    4.7130    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8660    4.7130    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4046    7.9434    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1334    7.9434    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2 17  2  0  0  0  0
+  3 16  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 20  1  0  0  0  0
+  6 21  1  0  0  0  0
+  7 28  1  0  0  0  0
+  7 29  1  0  0  0  0
+  7 30  1  0  0  0  0
+  8 25  1  0  0  0  0
+  8 26  1  0  0  0  0
+  8 27  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 31  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 12 32  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 33  1  0  0  0  0
+ 15 34  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 35  1  0  0  0  0
+ 19 36  1  0  0  0  0
+M  CHG  2   1  -1   4   1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+656708
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+356
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBzMAAAAgAAAAAAAAAAAAAAAQAAAAAwAAAAAAAAAAABAAAAHgAAAAAADAjBmAQywIMAAACIAiVSUACCAAAhAgAIiAAIZMgIICLAkZGEIAhghCDIyYcQgAAOCAAAAAAAAAAQAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+[4-(2,5-dioxopyrrol-1-yl)phenyl]methyl-trimethyl-ammonium iodide
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+[4-(2,5-dioxo-1-pyrrolyl)phenyl]methyl-trimethylammonium iodide
+
+> <PUBCHEM_IUPAC_NAME>
+[4-(2,5-dioxopyrrol-1-yl)phenyl]methyl-trimethylazanium iodide
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+[4-[2,5-bis(oxidanylidene)pyrrol-1-yl]phenyl]methyl-trimethyl-azanium iodide
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(4-maleimidobenzyl)-trimethyl-ammonium iodide
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C14H17N2O2.HI/c1-16(2,3)10-11-4-6-12(7-5-11)15-13(17)8-9-14(15)18;/h4-9H,10H2,1-3H3;1H/q+1;/p-1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+CYQZRTCPSJCHIO-UHFFFAOYSA-M
+
+> <PUBCHEM_EXACT_MASS>
+372.033476
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C14H17IN2O2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+372.20145
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C[N+](C)(C)CC1=CC=C(C=C1)N2C(=O)C=CC2=O.[I-]
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C[N+](C)(C)CC1=CC=C(C=C1)N2C(=O)C=CC2=O.[I-]
+
+> <PUBCHEM_CACTVS_TPSA>
+37.4
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+372.033476
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+19
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+2
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  11  8
+10  12  8
+11  14  8
+12  15  8
+13  14  8
+13  15  8
+
+$$$$
+

@@ -1,0 +1,198 @@
+5280362
+  -OEChem-07051212442D
+
+ 36 38  0     0  0  0  0  0  0999 V2000
+    5.1350   -2.2500    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671    0.7500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -1.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6155   -2.2846    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671   -2.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3972    0.7742    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    3.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369    2.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -3.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1350   -2.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1350   -2.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7331   -0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7331    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6270   -1.2847    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6270    0.7847    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5331   -0.7708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5331    0.2708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    2.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6199    1.4046    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6720    2.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0688   -1.0829    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -0.3700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.4400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1488   -2.6008    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9353    0.4662    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    3.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.9400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -3.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  2  0  0  0  0
+  1 11  2  0  0  0  0
+  2 13  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4 18  1  0  0  0  0
+  4 32  1  0  0  0  0
+  5 16  2  0  0  0  0
+  6 21  1  0  0  0  0
+  6 33  1  0  0  0  0
+  7 24  1  0  0  0  0
+  7 34  1  0  0  0  0
+  8 26  1  0  0  0  0
+  8 35  1  0  0  0  0
+  9 36  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 18  2  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 19  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 22  2  0  0  0  0
+ 17 23  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 19 27  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 29  1  0  0  0  0
+ 22 24  1  0  0  0  0
+ 22 28  1  0  0  0  0
+ 23 25  2  0  0  0  0
+ 23 30  1  0  0  0  0
+ 24 26  2  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 31  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+5280362
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+696
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+10
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+5
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBwPABAAAAAAAAAAAAAAAAAAAAAAAAwYIAAAAAAAACBQAAAGgAACAAADASAmAAwBoAABoCIAqBSADICCAAkIAAIiAFGiMgNJzaGNRqCeWGl4BUJuQfI7LzOIAABCAAIQABAAAIQABCAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+[2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-4-oxo-chromen-3-yl] hydrogen sulfate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+sulfuric acid [2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-4-oxo-1-benzopyran-3-yl] ester
+
+> <PUBCHEM_IUPAC_NAME>
+[2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-4-oxochromen-3-yl] hydrogen sulfate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+[2-[3,4-bis(oxidanyl)phenyl]-5,7-bis(oxidanyl)-4-oxidanylidene-chromen-3-yl] hydrogen sulfate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+sulfuric acid [2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-4-keto-chromen-3-yl] ester
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H10O10S/c16-7-4-10(19)12-11(5-7)24-14(6-1-2-8(17)9(18)3-6)15(13(12)20)25-26(21,22)23/h1-5,16-19H,(H,21,22,23)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+DNAYVNOVGHZZLH-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+1.6
+
+> <PUBCHEM_EXACT_MASS>
+381.999468
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H10O10S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+382.2989
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OS(=O)(=O)O)O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OS(=O)(=O)O)O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+179
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+381.999468
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+26
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+162
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+12  14  8
+12  16  8
+12  18  8
+13  15  8
+14  19  8
+15  16  8
+17  22  8
+17  23  8
+18  20  8
+19  21  8
+2  13  8
+2  14  8
+20  21  8
+22  24  8
+23  25  8
+24  26  8
+25  26  8
+
+$$$$
+

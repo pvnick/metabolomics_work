@@ -1,0 +1,180 @@
+5702285
+  -OEChem-07051213032D
+
+ 35 34  0     1  0  0  0  0  0999 V2000
+    3.0000    2.6200    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.2615    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.8660    4.1200    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5981    5.1200    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4641    5.6200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5981    4.1200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7320    3.6200    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    7.3301    6.1200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9641    6.4860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9641    4.7540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7320    2.6200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8660    2.1200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5981    2.1200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8660    1.1200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5981    1.1200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7320    0.6200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0611    5.4300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8101    3.5374    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2087    4.2277    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7320    4.2400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6401    5.5831    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4272    4.4440    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2741    4.2170    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5010    5.0640    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5010    6.7960    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6541    7.0230    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4272    6.1760    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8671    6.4300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0201    6.6569    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1350    2.4300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8660    4.7400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3291    0.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1350    0.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7320    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0000    3.2615    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  2 35  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 31  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 18  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  8 28  1  0  0  0  0
+  8 29  1  0  0  0  0
+  9 25  1  0  0  0  0
+  9 26  1  0  0  0  0
+  9 27  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 30  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 32  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 33  1  0  0  0  0
+ 16 34  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+5702285
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+191
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceByIAAGAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAHgIQCAAADJ7hmCYyAILAAgCAAiBCAAACAAAgBQAIiIAICogKNiKBkxGEcAAk0AGYmAeQwKAOAAAAAAABAAAAAAAAAAIAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-(tert-butylamino)-1-(2-chlorophenyl)ethanol hydrochloride
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-(tert-butylamino)-1-(2-chlorophenyl)ethanol hydrochloride
+
+> <PUBCHEM_IUPAC_NAME>
+2-(tert-butylamino)-1-(2-chlorophenyl)ethanol hydrochloride
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-(tert-butylamino)-1-(2-chlorophenyl)ethanol hydrochloride
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-(tert-butylamino)-1-(2-chlorophenyl)ethanol hydrochloride
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C12H18ClNO.ClH/c1-12(2,3)14-8-11(15)9-6-4-5-7-10(9)13;/h4-7,11,14-15H,8H2,1-3H3;1H
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+RSLNRVYIRDVHLY-UHFFFAOYSA-N
+
+> <PUBCHEM_EXACT_MASS>
+263.08437
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C12H19Cl2NO
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+264.19136
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(C)(C)NCC(C1=CC=CC=C1Cl)O.Cl
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(C)(C)NCC(C1=CC=CC=C1Cl)O.Cl
+
+> <PUBCHEM_CACTVS_TPSA>
+32.3
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+263.08437
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+16
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+2
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  12  8
+11  13  8
+12  14  8
+13  15  8
+14  16  8
+15  16  8
+7  3  3
+
+$$$$
+

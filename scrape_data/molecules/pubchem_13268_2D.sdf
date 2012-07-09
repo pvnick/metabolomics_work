@@ -1,0 +1,163 @@
+16653
+  -OEChem-07051213012D
+
+ 29 29  0     0  0  0  0  0  0999 V2000
+    2.8660   -1.0953    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -1.0953    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.4047    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2320    2.5953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2320    2.5953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8555    1.8135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6086    1.8135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8311    0.8386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6330    0.8386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.5953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.0953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.5953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3700    3.1998    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6734    2.8643    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7906    2.8643    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0941    3.1998    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2220    2.2982    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4141    1.5445    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2421    2.2982    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0500    1.5445    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7710    0.2341    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2530    0.8386    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2111    0.8386    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6931    0.2341    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0781   -2.6779    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4766   -1.9877    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900   -2.0584    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -2.9053    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -3.1323    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 18  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 12 29  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+16653
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+142
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceByIABAAAAAAAAAAAAAAAAAAAAAAAAAAAAABYAAAAAAAAAAHgQAAAAACADFQASCAAMAAAgIAAAAEAAAAABAABAAAAAIAAAAAAIAgAAEAAAABgCAAAEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+S-ethyl azepane-1-carbothioate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1-azepanecarbothioic acid S-ethyl ester
+
+> <PUBCHEM_IUPAC_NAME>
+S-ethyl azepane-1-carbothioate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+S-ethyl azepane-1-carbothioate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+azepane-1-carbothioic acid S-ethyl ester
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C9H17NOS/c1-2-12-9(11)10-7-5-3-4-6-8-10/h2-8H2,1H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+DEDOPGXGGQYYMW-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3>
+3.2
+
+> <PUBCHEM_EXACT_MASS>
+187.103085
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C9H17NOS
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+187.30238
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCSC(=O)N1CCCCCC1
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCSC(=O)N1CCCCCC1
+
+> <PUBCHEM_CACTVS_TPSA>
+45.6
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+187.103085
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+12
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+

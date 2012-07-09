@@ -1,0 +1,181 @@
+441561
+  -OEChem-07051212552D
+
+ 33 34  0     1  0  0  0  0  0999 V2000
+    4.5981    2.0880    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0981    1.2220    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.6440    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.1440    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5981    2.0880    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0981    2.9540    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.1440    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4103   -1.4488    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4103    0.1607    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.3560    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.7320   -1.1440    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.4641   -0.1440    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -1.6440    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0981    1.2220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -1.1440    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0981    1.2220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0981    1.2220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.6440    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9939   -0.6440    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5981    2.0880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1951   -0.8340    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1951    0.1660    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1996   -2.1190    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9966   -2.1190    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2057    1.8326    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5155    1.4340    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9904    0.6114    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6807    1.0099    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6029   -2.0381    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6139   -0.6440    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2881    2.6250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291   -2.9540    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9081    2.6250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  1  0  0  0  0
+  1 31  1  0  0  0  0
+  2 16  2  0  0  0  0
+  3 18  1  0  0  0  0
+  3 32  1  0  0  0  0
+  4 18  2  0  0  0  0
+  5 20  1  0  0  0  0
+  5 33  1  0  0  0  0
+  6 20  2  0  0  0  0
+  7 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 22  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 29  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 19  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 14  1  1  0  0  0
+ 10 16  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 18  1  1  0  0  0
+ 11 21  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 14 25  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 17 27  1  0  0  0  0
+ 17 28  1  0  0  0  0
+ 19 30  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+441561
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+442
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+8
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+5
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzOAAAAAAAAAAAAAAAAAAAAWAAAAAsAAAAAAAAAFgBgAAAHgAQCAAADKjBlgQFmBbJkgCoAQTxbACAgC2xEKABWYG4VAiCaBpA3CGUQAhu0APYSCO8/+OeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(4S,6S)-4-(2-carboxyethyl)-1,5,6,7-tetrahydroimidazo[4,5-c]pyridine-4,6-dicarboxylic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(4S,6S)-4-(2-carboxyethyl)-1,5,6,7-tetrahydroimidazo[4,5-c]pyridine-4,6-dicarboxylic acid
+
+> <PUBCHEM_IUPAC_NAME>
+(4S,6S)-4-(2-carboxyethyl)-1,5,6,7-tetrahydroimidazo[4,5-c]pyridine-4,6-dicarboxylic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(4S,6S)-4-(3-hydroxy-3-oxopropyl)-1,5,6,7-tetrahydroimidazo[4,5-c]pyridine-4,6-dicarboxylic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(4S,6S)-4-(2-carboxyethyl)-1,5,6,7-tetrahydroimidazo[4,5-c]pyridine-4,6-dicarboxylic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C11H13N3O6/c15-7(16)1-2-11(10(19)20)8-5(12-4-13-8)3-6(14-11)9(17)18/h4,6,14H,1-3H2,(H,12,13)(H,15,16)(H,17,18)(H,19,20)/t6-,11-/m0/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+XGCZNSAJOHDWQS-KGFZYKRKSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+-3.6
+
+> <PUBCHEM_EXACT_MASS>
+283.080435
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C11H13N3O6
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+283.23742
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1C(NC(C2=C1NC=N2)(CCC(=O)O)C(=O)O)C(=O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1[C@H](N[C@](C2=C1NC=N2)(CCC(=O)O)C(=O)O)C(=O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+153
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+283.080435
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+20
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+2
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+2
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  14  5
+11  18  5
+12  15  8
+8  15  8
+8  19  8
+9  12  8
+9  19  8
+
+$$$$
+

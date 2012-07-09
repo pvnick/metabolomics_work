@@ -1,0 +1,145 @@
+440015
+  -OEChem-07051212452D
+
+ 18 18  0     1  0  0  0  0  0999 V2000
+    6.1807   -1.5236    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5896   -0.1237    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1249    1.5236    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0929    0.8242    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5929   -0.7146    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2839    0.2365    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.5929   -0.7146    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.9019    0.2365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3328    0.5455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9864   -0.8435    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6577   -1.3312    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1869    0.8488    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2052   -0.6176    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4683   -0.0157    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2119    0.7734    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0929    1.4442    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7973   -1.4588    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.0679    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  7  1  1  1  0  0  0
+  1 17  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  9  1  1  0  0  0
+  6 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+440015
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+125
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBiMAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAAAAAAAAAAAAAAHgAQCAAACDzhgAYACALAAgAIAACQCAAAAAAAAAAAAIGIAAACEBIAgCAEQAAGEACQAADaEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(2S,4S)-4-hydroxypyrrolidine-2-carboxylic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(2S,4S)-4-hydroxy-2-pyrrolidinecarboxylic acid
+
+> <PUBCHEM_IUPAC_NAME>
+(2S,4S)-4-hydroxypyrrolidine-2-carboxylic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(2S,4S)-4-oxidanylpyrrolidine-2-carboxylic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2S,4S)-4-hydroxyproline
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C5H9NO3/c7-3-1-4(5(8)9)6-2-3/h3-4,6-7H,1-2H2,(H,8,9)/t3-,4-/m0/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+PMMYEEVYMWASQN-IMJSIDKUSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+-3.3
+
+> <PUBCHEM_EXACT_MASS>
+131.058243
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C5H9NO3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+131.12986
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1C(CNC1C(=O)O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1[C@@H](CN[C@@H]1C(=O)O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+69.6
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+131.058243
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+2
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+7  1  5
+6  9  5
+
+$$$$
+

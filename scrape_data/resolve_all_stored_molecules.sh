@@ -12,15 +12,17 @@ from
 
 #download needed molecule files
 
-cd pubchem
-#uncomment this to enable downloading pubchem 2d and 3d sdf files. ive already downloaded everything i need so i commented it out
-#./download_molecule_files_from_pubchem.sh $PUBCHEM_ID
+#cd pubchem
+#resolve molecules in parallel because they're slow
+#echo -e "$metabolites" | awk 'BEGIN{FS="	"}{print($2)}' | xargs -I{} -P20 -n1 ./download_molecule_files_from_pubchem.sh {}
 
 #resolve data sheets in parallel because they're slow
-echo -e "$metabolites" | awk 'BEGIN{FS="	"}{print($2)}' | xargs -I{} -P20 -n1 ./download_pubchem_property_sheet.sh {}
-cd ..
+#echo -e "$metabolites" | awk 'BEGIN{FS="	"}{print($2)}' | xargs -I{} -P20 -n1 ./download_pubchem_property_sheet.sh {}
+#cd ..
 
-#uncomment this to enable downloading 3dmet datasheet
+#download 3dmet datasheet
 #cd 3dmet
 #./download_datasheet.sh $MET3D_ID
 #cd ..
+
+echo -e "$metabolites" | awk 'BEGIN{FS="	"}{print($1)}' | xargs -I{} -P20 -n1 ./resolve_asa_val.sh {}

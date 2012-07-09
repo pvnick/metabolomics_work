@@ -1,0 +1,154 @@
+440901
+  -OEChem-07051212512D
+
+ 23 22  0     1  0  0  0  0  0999 V2000
+    7.7331   -0.2500    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671    0.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    1.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369   -0.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    1.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5991   -0.7500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2331    0.6160    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2331   -1.1160    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -1.2500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    0.2500    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.2690   -0.2500    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.0010   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6720    0.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8059   -0.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6025   -0.7249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3996   -0.7249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8059   -1.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6720    1.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1360   -0.4400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9231    1.1530    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  2  0  0  0  0
+  2 12  1  0  0  0  0
+ 10  3  1  6  0  0  0
+  3 20  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 21  1  0  0  0  0
+  5 13  2  0  0  0  0
+  6 22  1  0  0  0  0
+  7 23  1  0  0  0  0
+ 11  9  1  6  0  0  0
+  9 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 17  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+440901
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+225
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+8
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+5
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBiOAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAQCCAACDzhgAYACABAAxAIQACQCIAAAAAAAAAAAIGAAAADEBQAAAAAQAAHMAABAABCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(2S,3S)-2-amino-3-hydroxy-4-phosphonooxy-butanoic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(2S,3S)-2-amino-3-hydroxy-4-phosphonooxybutanoic acid
+
+> <PUBCHEM_IUPAC_NAME>
+(2S,3S)-2-amino-3-hydroxy-4-phosphonooxybutanoic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(2S,3S)-2-azanyl-3-oxidanyl-4-phosphonooxy-butanoic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2S,3S)-2-amino-3-hydroxy-4-phosphonooxy-butyric acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C4H10NO7P/c5-3(4(7)8)2(6)1-12-13(9,10)11/h2-3,6H,1,5H2,(H,7,8)(H2,9,10,11)/t2-,3+/m1/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+FKHAKIJOKDGEII-GBXIJSLDSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+-5.8
+
+> <PUBCHEM_EXACT_MASS>
+215.019488
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C4H10NO7P
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+215.098462
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(C(C(C(=O)O)N)O)OP(=O)(O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C([C@H]([C@@H](C(=O)O)N)O)OP(=O)(O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+150
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+215.019488
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+13
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+2
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  3  6
+11  9  6
+
+$$$$
+

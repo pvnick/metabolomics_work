@@ -1,0 +1,157 @@
+24883456
+  -OEChem-07051213102D
+
+ 25 24  0     1  0  0  0  0  0999 V2000
+    4.6350    2.0005    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6350   -1.4636    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671   -0.5976    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    0.9024    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369   -1.0976    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    0.4024    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -0.5976    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.6350    0.2685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -1.0976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    1.1345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -0.0976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -0.5976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6350    2.0005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1601    0.6670    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1601   -0.1301    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8705   -1.5725    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6675   -1.5725    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6100    0.7360    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6100    1.5330    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3250   -2.0005    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4040   -0.2876    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6350    2.6205    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0150    2.0005    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6350    1.3805    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.7876    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 20  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5 12  1  0  0  0  0
+  5 25  1  0  0  0  0
+  6 12  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 13 24  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+24883456
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+205
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+6
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+6
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBgOABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgQACAAADESEwACCCAAAAggIAACQCAIAAAAAABAAAAFAAAABABYgAAAAQAAFIAABAADLAAAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-hydroxy-2-(2-methylsulfanylethyl)butanedioic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-hydroxy-2-[2-(methylthio)ethyl]butanedioic acid
+
+> <PUBCHEM_IUPAC_NAME>
+2-hydroxy-2-(2-methylsulfanylethyl)butanedioic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-(2-methylsulfanylethyl)-2-oxidanyl-butanedioic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-hydroxy-2-[2-(methylthio)ethyl]succinic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C7H12O5S/c1-13-3-2-7(12,6(10)11)4-5(8)9/h12H,2-4H2,1H3,(H,8,9)(H,10,11)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+FZNWJRXTACKOPU-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+-0.5
+
+> <PUBCHEM_EXACT_MASS>
+208.040544
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C7H12O5S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+208.23218
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CSCCC(CC(=O)O)(C(=O)O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CSCCC(CC(=O)O)(C(=O)O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+120
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+208.040544
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+13
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+7  2  3
+
+$$$$
+

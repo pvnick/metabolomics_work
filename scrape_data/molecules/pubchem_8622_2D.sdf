@@ -1,0 +1,174 @@
+441001
+  -OEChem-07051212512D
+
+ 35 34  0     0  0  0  0  0  0999 V2000
+    6.8671   -1.0600    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3312   -1.0600    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -1.0600    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7953   -1.0600    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7331    0.4400    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4651    0.4400    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    0.4400    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1972    0.4400    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    0.4400    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9292    0.4400    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369    0.4400    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6613    0.4400    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5991   -0.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -0.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0632   -0.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671   -0.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3312   -0.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -0.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7953   -0.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2006   -0.5349    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9976   -0.5349    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7331    1.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4651    1.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7365   -0.5349    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5335   -0.5349    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6647   -0.5349    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4617   -0.5349    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    1.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1972    1.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9292    1.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    1.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1982    0.1300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6613    1.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.1300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369    1.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  2  0  0  0  0
+  2 17  2  0  0  0  0
+  3 18  2  0  0  0  0
+  4 19  2  0  0  0  0
+  5 13  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 23  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 28  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 29  1  0  0  0  0
+  9 14  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 31  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 10 30  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 11 34  1  0  0  0  0
+ 11 35  1  0  0  0  0
+ 12 19  1  0  0  0  0
+ 12 32  1  0  0  0  0
+ 12 33  1  0  0  0  0
+ 13 20  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 14 25  1  0  0  0  0
+ 15 26  1  0  0  0  0
+ 15 27  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+441001
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+314
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+8
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+6
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBj+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFgAQAAAAAAAAAAQBAALAAAAIAAAAEAAAAAAAAAAAAIAIAACAAAAAAAAAAAAIAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1-(ureidomethyl)-3-[(ureidomethylcarbamoylamino)methyl]urea
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1-[(carbamoylamino)methyl]-3-[[[[(carbamoylamino)methylamino]-oxomethyl]amino]methyl]urea
+
+> <PUBCHEM_IUPAC_NAME>
+1-[(carbamoylamino)methyl]-3-[[(carbamoylamino)methylcarbamoylamino]methyl]urea
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1-[(aminocarbonylamino)methyl]-3-[[(aminocarbonylamino)methylcarbamoylamino]methyl]urea
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1-(ureidomethyl)-3-[(ureidomethylcarbamoylamino)methyl]urea
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C7H16N8O4/c8-4(16)10-1-12-6(18)14-3-15-7(19)13-2-11-5(9)17/h1-3H2,(H3,8,10,16)(H3,9,11,17)(H2,12,14,18)(H2,13,15,19)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+NORSOBXRJTUXCY-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+-3.7
+
+> <PUBCHEM_EXACT_MASS>
+276.129451
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C7H16N8O4
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+276.25314
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(NC(=O)N)NC(=O)NCNC(=O)NCNC(=O)N
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C(NC(=O)N)NC(=O)NCNC(=O)NCNC(=O)N
+
+> <PUBCHEM_CACTVS_TPSA>
+193
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+276.129451
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+19
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+45
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
+

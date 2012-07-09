@@ -1,0 +1,147 @@
+441456
+  -OEChem-07051212552D
+
+ 19 19  0     1  0  0  0  0  0999 V2000
+    3.6377   -1.4206    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2068   -1.7296    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1779    2.0620    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7602    1.3575    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4467   -2.0084    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644    0.2349    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9467   -0.4696    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.3590    0.3394    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.9467   -0.4696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2558   -1.4206    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7657    1.2530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1072   -0.6025    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1068   -0.2269    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5532   -0.3407    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8819    0.1470    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4467   -2.6284    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.7365    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1122   -0.3315    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4301    2.6284    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3 11  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5 10  1  0  0  0  0
+  5 16  1  0  0  0  0
+  8  6  1  6  0  0  0
+  6 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 12  1  1  0  0  0
+  8 11  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+441456
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+193
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBjOAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAAAAAAAAAAAAAAHgAUCAAACDzhgAYACABQAgAIAAGQGAAAAAAAAAAgAIGAAAACABYAgAAAQAAHMAAAAACcFwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(2S)-2-amino-2-[(5S)-3-oxoisoxazolidin-5-yl]acetic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(2S)-2-amino-2-[(5S)-3-oxo-5-isoxazolidinyl]acetic acid
+
+> <PUBCHEM_IUPAC_NAME>
+(2S)-2-amino-2-[(5S)-3-oxo-1,2-oxazolidin-5-yl]acetic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(2S)-2-azanyl-2-[(5S)-3-oxidanylidene-1,2-oxazolidin-5-yl]ethanoic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2S)-2-amino-2-[(5S)-3-ketoisoxazolidin-5-yl]acetic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C5H8N2O4/c6-4(5(9)10)2-1-3(8)7-11-2/h2,4H,1,6H2,(H,7,8)(H,9,10)/t2-,4-/m0/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+NTHMUJMQOXQYBR-OKKQSCSOSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+-4.2
+
+> <PUBCHEM_EXACT_MASS>
+160.048407
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C5H8N2O4
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+160.12802
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1C(ONC1=O)C(C(=O)O)N
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1[C@H](ONC1=O)[C@@H](C(=O)O)N
+
+> <PUBCHEM_CACTVS_TPSA>
+102
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+160.048407
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+11
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+2
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+3
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+8  6  6
+7  12  5
+
+$$$$
+

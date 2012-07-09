@@ -1,0 +1,178 @@
+15165
+  -OEChem-07051212542D
+
+ 36 37  0     1  0  0  0  0  0999 V2000
+    5.5808    2.2613    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.0203    4.3975    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1543    2.8975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9904    1.4492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4632    1.0141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3180    1.4492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9904    2.4147    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4632    2.0594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3180    2.4147    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1543    1.1464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4812    0.9664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3688    0.5373    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1542    3.8975    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    1.2882    4.3975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3725    0.8316    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3291    0.4088    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5829    1.2664    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6010    2.3070    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1195    2.5754    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8697    1.8798    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1060    2.9973    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7075    2.3070    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2025    2.9973    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0594    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8940    0.2077    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.3573    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2881    0.3773    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7843    0.6489    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5242    0.6489    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6912    3.5875    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5982    4.9344    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7513    4.7075    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9782    3.8606    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0203    5.0175    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5572    4.0875    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5808    2.2613    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 36  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 34  1  0  0  0  0
+  2 35  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 28  1  0  0  0  0
+ 10 29  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 30  1  0  0  0  0
+ 14 31  1  0  0  0  0
+ 14 32  1  0  0  0  0
+ 14 33  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+15165
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+180
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceByAAAEAAAAAAAAAAAAAAAAAAAAAAAwYMGAAAAAAAAAAAAAHAAQAAAADyjBAAQCAABAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAIAgAAAAAAAEAAAAAEQgMAPAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1-(1-adamantyl)ethanamine hydrochloride
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1-(1-adamantyl)ethanamine hydrochloride
+
+> <PUBCHEM_IUPAC_NAME>
+1-(1-adamantyl)ethanamine hydrochloride
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1-(1-adamantyl)ethanamine hydrochloride
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1-(1-adamantyl)ethylamine hydrochloride
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C12H21N.ClH/c1-8(13)12-5-9-2-10(6-12)4-11(3-9)7-12;/h8-11H,2-7,13H2,1H3;1H
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+OZBDFBJXRJWNAV-UHFFFAOYSA-N
+
+> <PUBCHEM_EXACT_MASS>
+215.144077
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C12H22ClN
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+215.76278
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(C12CC3CC(C1)CC(C3)C2)N.Cl
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(C12CC3CC(C1)CC(C3)C2)N.Cl
+
+> <PUBCHEM_CACTVS_TPSA>
+26
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+215.144077
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+14
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+2
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+13  2  3
+
+$$$$
+

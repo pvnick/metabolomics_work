@@ -1,0 +1,186 @@
+6602346
+  -OEChem-07051213152D
+
+ 36 37  0     1  0  0  0  0  0999 V2000
+    4.5406    2.9086    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2309    0.2012    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3775   -0.3764    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1501    1.7873    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0843   -1.6214    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9756    0.1236    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1096   -1.3764    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3901   -1.2613    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5115    0.1236    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.5980   -0.2831    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.8040    1.9259    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.4070    1.1181    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.0628    0.9600    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.9720    1.1671    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2436    0.1236    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.1332   -1.9304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2436    1.1236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1096   -0.3764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9253   -2.9086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0315    0.4613    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0798   -0.6733    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5840    2.7470    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9858    0.8959    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2828    0.1390    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3807    0.9807    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7600    1.7497    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8004   -1.4529    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0212    2.3937    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2436   -0.4964    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6236    1.1236    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2436    1.7436    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8636    1.1236    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5318   -3.0375    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7964   -3.5150    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3188   -2.7796    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5126   -0.1864    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 14  1  0  0  0  0
+  9  3  1  6  0  0  0
+ 15  3  1  6  0  0  0
+ 12  4  1  1  0  0  0
+  4 28  1  0  0  0  0
+  5 16  2  0  0  0  0
+  6 18  1  0  0  0  0
+  6 36  1  0  0  0  0
+  7 18  2  0  0  0  0
+ 10  8  1  1  0  0  0
+  8 16  1  0  0  0  0
+  8 27  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 22  1  6  0  0  0
+ 12 23  1  0  0  0  0
+ 13 24  1  1  0  0  0
+ 14 25  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 15 29  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 17 30  1  0  0  0  0
+ 17 31  1  0  0  0  0
+ 17 32  1  0  0  0  0
+ 19 33  1  0  0  0  0
+ 19 34  1  0  0  0  0
+ 19 35  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+6602346
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+374
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+7
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceByOAAAAAAAAAAAAAAAAAAAASAAAAAkAAAABIAAAAAAAAAAHgAQCAAACDzxgAcCCALABgAIAAGQGAIAAAAAAAAAAIFIAAATEAIAgAQnQAAHFgCXAAHwcA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(2R)-2-[[(1R,2S,3R,4R,5R)-4-acetamido-2-hydroxy-6,8-dioxabicyclo[3.2.1]octan-3-yl]oxy]propanoic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(2R)-2-[[(1R,2S,3R,4R,5R)-4-acetamido-2-hydroxy-6,8-dioxabicyclo[3.2.1]octan-3-yl]oxy]propanoic acid
+
+> <PUBCHEM_IUPAC_NAME>
+(2R)-2-[[(1R,2S,3R,4R,5R)-4-acetamido-2-hydroxy-6,8-dioxabicyclo[3.2.1]octan-3-yl]oxy]propanoic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(2R)-2-[[(1R,2S,3R,4R,5R)-4-acetamido-2-oxidanyl-6,8-dioxabicyclo[3.2.1]octan-3-yl]oxy]propanoic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2R)-2-[[(1R,2S,3R,4R,5R)-4-acetamido-2-hydroxy-6,8-dioxabicyclo[3.2.1]octan-3-yl]oxy]propionic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C11H17NO7/c1-4(10(15)16)18-9-7(12-5(2)13)11-17-3-6(19-11)8(9)14/h4,6-9,11,14H,3H2,1-2H3,(H,12,13)(H,15,16)/t4-,6-,7-,8-,9-,11-/m1/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+ZFEGYUMHFZOYIY-YVNCZSHWSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+-1.6
+
+> <PUBCHEM_EXACT_MASS>
+275.100502
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C11H17NO7
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+275.25518
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(C(=O)O)OC1C(C2OCC(C1O)O2)NC(=O)C
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C[C@H](C(=O)O)O[C@@H]1[C@H]([C@@H]2OC[C@H]([C@H]1O)O2)NC(=O)C
+
+> <PUBCHEM_CACTVS_TPSA>
+114
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+275.100502
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+19
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+6
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+2
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  22  6
+13  24  5
+15  3  6
+9  3  6
+12  4  5
+10  8  5
+
+$$$$
+

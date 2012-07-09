@@ -1,0 +1,189 @@
+44182442
+  -OEChem-07051213092D
+
+ 35 37  0     1  0  0  0  0  0999 V2000
+    6.1248   -0.6427    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6939   -0.3337    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0216   -2.4028    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8460   -2.4028    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9338    2.9451    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5357    1.4726    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4075    2.9692    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9338   -0.0549    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    7.7428   -0.6427    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.7998    0.4451    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4338   -1.5938    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.0678    0.4451    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4338   -1.5938    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    7.7998    1.4451    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0678    1.4451    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9338    1.9451    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1738   -0.0896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1738    1.9797    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2678    0.4242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2678    1.4659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4037    1.9692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8398   -0.0304    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0119   -0.1376    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4104    0.5527    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1523   -2.1462    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5943   -1.4608    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4104    1.3374    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0119    2.0277    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1810   -0.7096    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1546   -0.7486    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1810    2.5997    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7694   -2.9692    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2294   -2.3380    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.1122    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.7846    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 13  1  0  0  0  0
+  9  2  1  1  0  0  0
+  2 30  1  0  0  0  0
+ 11  3  1  1  0  0  0
+  3 32  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 33  1  0  0  0  0
+  5 16  2  0  0  0  0
+  6 21  1  0  0  0  0
+  6 35  1  0  0  0  0
+  7 21  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 29  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 18 31  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 34  1  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+44182442
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+464
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+7
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+4
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBwOAAAAAAAAAAAAAAAAAAAASAAAAAwYAAAAAAAAADBAAAAGgAACAAADFSwmAMwCIAABgCIAqDSCAACAAAkAAAIiAEACMgZNjKANRiCcQAlwAEPuYfKzvDuwAACAAAQAACAAAYAADAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(3S,4R)-3,4,5-trihydroxy-4'-oxo-spiro[tetrahydrofuran-2,1'-tetralin]-6'-carboxylic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(3'S,4'R)-3',4',5'-trihydroxy-8-oxo-2-spiro[6,7-dihydronaphthalene-5,2'-oxolane]carboxylic acid
+
+> <PUBCHEM_IUPAC_NAME>
+(3'S,4'R)-3',4',5'-trihydroxy-8-oxospiro[6,7-dihydronaphthalene-5,2'-oxolane]-2-carboxylic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(3'S,4'R)-3',4',5'-tris(oxidanyl)-8-oxidanylidene-spiro[6,7-dihydronaphthalene-5,2'-oxolane]-2-carboxylic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(3S,4R)-3,4,5-trihydroxy-4'-keto-spiro[tetrahydrofuran-2,1'-tetralin]-6'-carboxylic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C14H14O7/c15-9-3-4-14(11(17)10(16)13(20)21-14)8-2-1-6(12(18)19)5-7(8)9/h1-2,5,10-11,13,16-17,20H,3-4H2,(H,18,19)/t10-,11+,13?,14?/m1/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+BAUPPZJHTWBQAS-UJLSLHKQSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+-1.2
+
+> <PUBCHEM_EXACT_MASS>
+294.073953
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C14H14O7
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+294.25676
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1CC2(C(C(C(O2)O)O)O)C3=C(C1=O)C=C(C=C3)C(=O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1CC2([C@H]([C@H](C(O2)O)O)O)C3=C(C1=O)C=C(C=C3)C(=O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+124
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+294.073953
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+21
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+2
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+2
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+2
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+12  15  8
+12  17  8
+13  26  3
+15  18  8
+17  19  8
+18  20  8
+19  20  8
+9  2  5
+11  3  5
+8  10  3
+
+$$$$
+

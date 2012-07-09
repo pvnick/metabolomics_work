@@ -1,0 +1,187 @@
+49999
+  -OEChem-07051213092D
+
+ 35 36  0     0  0  0  0  0  0999 V2000
+    3.7320   -0.8584    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    2.1416    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -2.3584    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6995    3.6031    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -3.3584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.3584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    1.1416    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.6416    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    2.1416    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -3.8584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -3.8584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.3584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.8584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4103    2.4464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4103    0.8369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9939    1.6416    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.1416    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    2.6416    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7210    3.3969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -3.9784    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6540   -1.7758    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2554   -2.4660    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900   -3.3214    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -4.1684    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -4.3953    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4220   -4.3953    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -4.1684    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0420   -3.3214    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8101   -0.9410    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2087   -0.2507    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6029    0.2476    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6139    1.6416    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1951    0.8316    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    3.2616    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3069    3.8584    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2 17  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3 13  2  0  0  0  0
+  4 19  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 20  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 21  1  0  0  0  0
+  6 22  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 15  2  0  0  0  0
+  8 12  1  0  0  0  0
+  8 17  2  0  0  0  0
+  9 14  1  0  0  0  0
+  9 18  2  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 11 28  1  0  0  0  0
+ 12 29  1  0  0  0  0
+ 12 30  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 31  1  0  0  0  0
+ 16 32  1  0  0  0  0
+ 17 33  1  0  0  0  0
+ 18 34  1  0  0  0  0
+ 19 35  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+49999
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+326
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+6
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwOAAAAAAAAAAAAAAAAAAAAYAAAAAkAAAAAAAAAEgBgAAAGgAAAAAADQCgmAIyDMAABECIAijSiAACCAAkIAAIiAEECMgMJzaENRqCOSCl4BEIqYeL7PiOgAAAAAAAAAAAAAAAAAAAAQAACAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(7-formylcyclopenta[c]pyran-4-yl)methyl 3-methylbutanoate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+3-methylbutanoic acid (7-formyl-4-cyclopenta[c]pyranyl)methyl ester
+
+> <PUBCHEM_IUPAC_NAME>
+(7-formylcyclopenta[c]pyran-4-yl)methyl 3-methylbutanoate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(7-methanoylcyclopenta[c]pyran-4-yl)methyl 3-methylbutanoate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+3-methylbutyric acid (7-formylcyclopenta[c]pyran-4-yl)methyl ester
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H16O4/c1-10(2)5-15(17)19-8-12-7-18-9-14-11(6-16)3-4-13(12)14/h3-4,6-7,9-10H,5,8H2,1-2H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+LTVSLKWNAZKBEX-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+2.4
+
+> <PUBCHEM_EXACT_MASS>
+260.104859
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H16O4
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+260.28514
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(C)CC(=O)OCC1=COC=C2C1=CC=C2C=O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(C)CC(=O)OCC1=COC=C2C1=CC=C2C=O
+
+> <PUBCHEM_CACTVS_TPSA>
+56.5
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+260.104859
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+19
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+14  16  8
+15  16  8
+2  17  8
+2  18  8
+7  15  8
+7  8  8
+8  17  8
+9  14  8
+9  18  8
+
+$$$$
+

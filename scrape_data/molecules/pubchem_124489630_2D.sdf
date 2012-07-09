@@ -1,0 +1,151 @@
+15583
+  -OEChem-07051213132D
+
+ 20 21  0     1  0  0  0  0  0999 V2000
+    2.0000   -2.5839    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    4.6980   -1.3251    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    5.4744    1.5727    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.5835    2.5839    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.5654    1.9961    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    7.2888   -1.9840    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    7.9136    0.3479    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.9568   -0.3592    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    5.2156    0.6068    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.2247   -1.3592    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.4790    1.5894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7247   -0.4931    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7888   -1.1180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0476   -0.1521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9659   -2.3251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6101   -1.4401    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4541    0.0647    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1770   -0.7836    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0200   -2.9427    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5836   -2.3791    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 15 19  1  0  0  0  0
+ 15 20  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+15583
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+353
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+0
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYBwAAAHEAAAAAAAAAAAAAAAAYIAAAAgAAAAAAAAAAAAAAAAGAJAAAABTQKAAIAAAAAAAACAAABAAAAAAAAgAAAACEAAAigAAAIBAAAAAAAAgAAIAAMAgAAOgAAAAAAAAAAAAAAAAAAAARAASIACAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+5-(bromomethyl)-1,2,3,4,7,7-hexachloro-bicyclo[2.2.1]hept-2-ene
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+5-(bromomethyl)-1,2,3,4,7,7-hexachlorobicyclo[2.2.1]hept-2-ene
+
+> <PUBCHEM_IUPAC_NAME>
+5-(bromomethyl)-1,2,3,4,7,7-hexachlorobicyclo[2.2.1]hept-2-ene
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+5-(bromomethyl)-1,2,3,4,7,7-hexakis(chloranyl)bicyclo[2.2.1]hept-2-ene
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+5-(bromomethyl)-1,2,3,4,7,7-hexachloro-bicyclo[2.2.1]hept-2-ene
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H5BrCl6/c9-2-3-1-6(12)4(10)5(11)7(3,13)8(6,14)15/h3H,1-2H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+DAASOABUJRMZAD-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+4.4
+
+> <PUBCHEM_EXACT_MASS>
+391.767628
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C8H5BrCl6
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+393.7473
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1C(C2(C(=C(C1(C2(Cl)Cl)Cl)Cl)Cl)Cl)CBr
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1C(C2(C(=C(C1(C2(Cl)Cl)Cl)Cl)Cl)Cl)CBr
+
+> <PUBCHEM_CACTVS_TPSA>
+0
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+389.770578
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+15
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+3
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  15  3
+8  2  3
+9  3  3
+
+$$$$
+

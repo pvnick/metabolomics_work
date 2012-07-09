@@ -1,0 +1,185 @@
+5280559
+  -OEChem-07051212472D
+
+ 36 36  0     0  0  0  0  0  0999 V2000
+    4.2690    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369   -4.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -5.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    1.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7331    5.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671    2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671    3.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7331    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -3.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -3.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0791    1.9174    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4776    2.6077    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6550    4.0826    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2565    3.3923    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7890    2.5826    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3905    1.8923    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9451    3.4174    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3437    4.1077    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5380    0.6900    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2700    5.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    5.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6720   -0.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.6900    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.1900    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6720   -2.1900    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6720   -3.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -3.6900    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8059   -5.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  2  0  0  0  0
+  2 16  1  0  0  0  0
+  2 35  1  0  0  0  0
+  3 18  1  0  0  0  0
+  3 36  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 27  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 28  1  0  0  0  0
+  5 29  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 19  1  0  0  0  0
+  6 20  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 21  1  0  0  0  0
+  7 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  9 25  1  0  0  0  0
+  9 26  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 30  1  0  0  0  0
+ 13 31  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 32  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 33  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 34  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+5280559
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+281
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+4
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+6
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBzMAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAHgAQCAAADATBmAQwBoLAAgCIAiFSEACCAAAgIAAIiIAOiMgJJiKCkRKEcAEk1hGJmYeAwBAOIAABAAAAQABAAAIAAACAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(E)-N-(4-aminobutyl)-3-(3,4-dihydroxyphenyl)prop-2-enamide
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(E)-N-(4-aminobutyl)-3-(3,4-dihydroxyphenyl)-2-propenamide
+
+> <PUBCHEM_IUPAC_NAME>
+(E)-N-(4-aminobutyl)-3-(3,4-dihydroxyphenyl)prop-2-enamide
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(E)-N-(4-azanylbutyl)-3-[3,4-bis(oxidanyl)phenyl]prop-2-enamide
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(E)-N-(4-aminobutyl)-3-(3,4-dihydroxyphenyl)acrylamide
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C13H18N2O3/c14-7-1-2-8-15-13(18)6-4-10-3-5-11(16)12(17)9-10/h3-6,9,16-17H,1-2,7-8,14H2,(H,15,18)/b6-4+
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+KTZNZCYTXQYEHT-GQCTYLIASA-N
+
+> <PUBCHEM_XLOGP3>
+0.8
+
+> <PUBCHEM_EXACT_MASS>
+250.131742
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C13H18N2O3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+250.29362
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=CC(=C(C=C1C=CC(=O)NCCCCN)O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=CC(=C(C=C1/C=C/C(=O)NCCCCN)O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+95.6
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+250.131742
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+18
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+29
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  14  8
+11  15  8
+14  16  8
+15  17  8
+16  18  8
+17  18  8
+
+$$$$
+

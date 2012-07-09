@@ -1,0 +1,179 @@
+15851
+  -OEChem-07051212542D
+
+ 34 34  0     1  0  0  0  0  0999 V2000
+    3.9994    1.7909    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.0872    7.3559    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.3879    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6200    3.3410    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1200    2.4750    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.9860    1.9750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9860    0.9749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1200    0.4749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2540    1.9750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2540    0.9749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8860    3.1177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8257    2.7757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7124    4.1025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6200    3.3410    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5918    3.4185    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4784    4.7453    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4181    4.4033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5966    1.8673    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1981    2.5576    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1981    0.3923    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5966    1.0826    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7215    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5185    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6434    1.0826    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0419    0.3923    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7277    3.9516    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1298    4.3146    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6200    3.9610    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.3410    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6200    2.7210    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1744    3.2064    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3708    5.3559    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8931    4.8018    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0872    7.3559    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  2 34  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 26  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 18  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 20  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 15  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 14 29  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 31  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 32  1  0  0  0  0
+ 17 33  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+15851
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+269
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceByIAAGAAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAAAABAAAAHgIQAAAADI6BmCQyAILAAACIAqBSAACCAAAgBQAIiIGIBogIIDKBlzGEIAhgkAAIiAcYiMCOgAAAAAABAAAAAAAAAAIAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-(2-chlorophenyl)-2-(methylamino)cyclohexanone hydrochloride
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-(2-chlorophenyl)-2-(methylamino)-1-cyclohexanone hydrochloride
+
+> <PUBCHEM_IUPAC_NAME>
+2-(2-chlorophenyl)-2-(methylamino)cyclohexan-1-one hydrochloride
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-(2-chlorophenyl)-2-(methylamino)cyclohexan-1-one hydrochloride
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-(2-chlorophenyl)-2-(methylamino)cyclohexanone hydrochloride
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C13H16ClNO.ClH/c1-15-13(9-5-4-8-12(13)16)10-6-2-3-7-11(10)14;/h2-3,6-7,15H,4-5,8-9H2,1H3;1H
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+VCMGMSHEPQENPE-UHFFFAOYSA-N
+
+> <PUBCHEM_EXACT_MASS>
+273.06872
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C13H17Cl2NO
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+274.18618
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CNC1(CCCCC1=O)C2=CC=CC=C2Cl.Cl
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CNC1(CCCCC1=O)C2=CC=CC=C2Cl.Cl
+
+> <PUBCHEM_CACTVS_TPSA>
+29.1
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+273.06872
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+17
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+2
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+2
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  12  8
+11  13  8
+12  15  8
+13  16  8
+15  17  8
+16  17  8
+5  4  3
+
+$$$$
+
