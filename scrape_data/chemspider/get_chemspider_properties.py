@@ -21,7 +21,7 @@ for child in propertyTable.find_all("td"):
 #convert plaintext property to some kind of identifierish thing
         property = re.sub(r'\W+', '', propertyPlaintext)
         property = "CHEMSPIDER_" + property.upper()
-        sys.stdout.write(property + "\t")
+        sys.stdout.write(property + ",")
     elif classSubstring == "prop_value":
         valuePlaintext = child.get_text()
         valueNumericObj = re.search(r'[0-9\.\-]+', valuePlaintext)

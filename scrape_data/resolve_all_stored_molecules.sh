@@ -5,7 +5,8 @@ metabolites=`mysql -uroot --skip-column-names -s -e"use metabolomics;
 select
     keggid,
     pubchemid,
-    met3did
+    met3did,
+    inchikey
 from
     MetaboliteCandidates
 "`
@@ -25,4 +26,9 @@ from
 #./download_datasheet.sh $MET3D_ID
 #cd ..
 
-echo -e "$metabolites" | awk 'BEGIN{FS="	"}{print($1)}' | xargs -I{} -P20 -n1 ./resolve_asa_val.sh {}
+#echo -e "$metabolites" | awk 'BEGIN{FS="	"}{print($1)}' | xargs -I{} -P20 -n1 ./resolve_asa_val.sh {}
+
+#get all properties from chemspider
+cd chemspider
+echo -e "$metabolites" | awk 'BEGIN{FS="	"}{print($1)}' | xargs -I{} -P20 -n1 ./resolve_keggid_chemspider_properties.sh {}
+cd ..
