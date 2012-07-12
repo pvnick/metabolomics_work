@@ -16,6 +16,7 @@ from (
         MetaboliteProperties
     where
         property='$PROP1'
+        and value > 250
 ) query1 join (
     select
         keggid,

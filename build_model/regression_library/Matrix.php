@@ -264,6 +264,9 @@ class Lib_Matrix
         {
             for ($j = 0; $j < $columns; $j++)
             {
+                if ($scalar == 0) {
+                    throw new Exception('about to divide by zero, disregard this result.');
+                }
                 $newMatrix[$i][$j] = $this->MainMatrix[$i][$j] / $scalar;
             }
         }

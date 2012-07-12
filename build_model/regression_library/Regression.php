@@ -220,6 +220,9 @@ class Lib_Regression
             //get the diagonal elements
             $searray[] = array(sqrt($stdErr->GetElementAt($i, $i)));
             //compute the t-statistic
+            if ($searray[$i][0] == 0) {
+                throw new Exception('about to divide by zero, disregard this result.');
+            }
             $tstat[] = array($coeff->GetElementAt($i, 0) / $searray[$i][0]);
             //compute the student p-value from the t-stat
             $pvalue[] = array($this->Student_PValue($tstat[$i][0], $dfResidual));

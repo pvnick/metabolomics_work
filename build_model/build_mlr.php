@@ -1,7 +1,7 @@
 <?php
 
-require "../regression_library/Matrix.php";
-require "../regression_library/Regression.php";
+require "regression_library/Matrix.php";
+require "regression_library/Regression.php";
 
 
 function getData() {
@@ -61,6 +61,8 @@ function getData() {
 	$reg = new Lib_Regression();
 	$reg->setX($xMatrix);
 	$reg->setY($y);
+    echo(json_encode($xMatrix) . "\n");
+    echo(json_encode($y));
 
 	//NOTE: passing true to the compute method generates standardized coefficients
 	$reg->Compute();    //go!
