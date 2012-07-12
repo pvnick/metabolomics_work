@@ -53,7 +53,7 @@ mysql -uroot --skip-column-names -e"use metabolomics;
         from
             MetaboliteProperties
         where
-            property='3DMET_DENSITY'
+            property='CHEMSPIDER_ACDLOGDPH55'
     ) query5 using (keggid)
     join (
         select
@@ -62,7 +62,7 @@ mysql -uroot --skip-column-names -e"use metabolomics;
         from
             MetaboliteProperties
         where
-            property='3DMET_SMR'
+            property='CHEMSPIDER_POLARSURFACEAREA'
     ) query6 using (keggid)
     where
         query1.val is not null
