@@ -1,6 +1,6 @@
 <?php
 
-require_once("common.php");
+require_once("../common.php");
 
 //this script gets all metabolites with measured scantimes from the database and joins to them all the properties we have stored about that molecule
 

@@ -1,7 +1,5 @@
 <?php
 
-//IMPORTANT NOTE: we are manually only grabbing pubchem and chemspider properties here since they have relatively complete converage, as opposed to other properties (eg 3dmet)
-
 define("MIN_SCANTIME", 250); //metabolites with scan times below this threshold dont work well with MLR
 define("MEASURED_SCANTIME_PROPERTY", "MEASURED_SCANTIME");
 
@@ -23,6 +21,7 @@ function getAllUniquePropertyIDs()
             where
                 property like 'PUBCHEM%'
                 or property like 'CHEMSPIDER%'
+                or property like '3DMET%'
             ";
 
 	$result = mysql_query($sql);
