@@ -11,6 +11,9 @@ foreach ($lines as $line) {
     $csvValues = explode(",", $line);
     $keggID = $csvValues[0];
     $scanTime = $csvValues[1];
+    if ($scanTime < MIN_SCANTIME) {
+        continue;
+    }
 
     $outputObject[$keggID] = array();
 

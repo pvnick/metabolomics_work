@@ -18,11 +18,14 @@ function getAllUniquePropertyIDs()
                 distinct property
             from
                 MetaboliteProperties
+            ";
+            /*
             where
                 property like 'PUBCHEM%'
                 or property like 'CHEMSPIDER%'
                 or property like '3DMET%'
             ";
+            */
 
 	$result = mysql_query($sql);
     $properties = array();
