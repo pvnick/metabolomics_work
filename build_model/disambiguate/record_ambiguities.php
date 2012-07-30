@@ -25,7 +25,7 @@ function createAmbiguityEntry($scanTime) {
     return $ambiguityID;
 }
 
-$originalList = file_get_contents("original_ambiguous_list.csv");
+$originalList = file_get_contents("scantimes.csv");
 $lines = explode("\n", $originalList);
 foreach ($lines as $line) {
     $csvValues = explode(",", $line);
@@ -42,29 +42,12 @@ foreach ($lines as $line) {
 
         mysql_select_db("metabolomics", $con);
 
-        //need a list of metabolites for which we have a measured scan times
-        $sql = "insert into MetaboliteProperties
-                (KeggID, Property, Value)
+        //add each possible metabolite as a candidate for this ambiguity
+        $sql = "insert into MetaboliteAmbiguityCandidates
+                (AmbiguityID, KeggID)
                 VALUES
-                ('$keggID', 'AMBIGUITY_ID', $ambiguityID)
+                ($ambiguityID, '$keggID')
                 ";
-        mysql_query($sql);
-        mysql_close($con);
-
-        $con = mysql_connect('127.0.0.1', 'root');
-        if (!$con)
-        {
-            die('Could not connect: ' . mysql_error());
-        }
-
-        mysql_select_db("metabolomics", $con);
-
-        //temporarily record the scantime in question to all ambiguous metabolites
-        $sql = "insert into MetaboliteProperties
-                (KeggID, Property, Value)
-                VALUES
-                ('$keggID', 'SUSPECTED_SCANTIME', $scanTime)
-                on duplicate key update value=VALUES(value);";
         mysql_query($sql);
         mysql_close($con);
     }
