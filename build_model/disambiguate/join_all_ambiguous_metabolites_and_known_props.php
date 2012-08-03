@@ -54,7 +54,7 @@ function fillAmbiguitiesObject()
         }
 
         
-        if (!isset($ambiguities[$ambiguityid][$keggid])) {
+        if (!isset($ambiguities[$ambiguityid]["candidates"][$keggid])) {
             $ambiguities[$ambiguityid]["candidates"][$keggid] = array();
         }
 

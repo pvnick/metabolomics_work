@@ -1,3 +1,10 @@
+from pyevolve import G1DList
+from pyevolve import GSimpleGA
+from pyevolve import Selectors
+from pyevolve import Mutators
+from pyevolve import Initializators
+from pyevolve import GAllele
+
 import io
 import json
 import imp
@@ -9,7 +16,7 @@ from numpy import *
 imp.load_source('ols', '../ols.py')
 from ols import ols
 
-class MetaboliteCandidate:
+class Metabolite:
     keggID = 0
     props = {}
 
@@ -18,81 +25,92 @@ class MetaboliteCandidate:
         self.props = theProps
 
 class Disambiguator:
-    xMatrix = []
-    yVector = []
     ambiguities = {}
     keggIDToAmbiguityID = {}
-    mlrPropCombo = ["PUBCHEM_XLOGP", "3DMET_DENSITY", "3DMET_ASA"] #["3DMET_ANGLE_BEND_ENERGY", "3DMET_ACIDIC_ATOMS", "CHEMSPIDER_HBONDDONORS", "CHEMSPIDER_HBONDACCEPTORS", "3DMET_SINGLE_BONDS", "CHEMSPIDER_ACDLOGDPH55", "CHEMSPIDER_ACDLOGDPH74"]
+    genome = None
+    mlrPropCombo = ["PUBCHEM_XLOGP", "3DMET_DENSITY", "3DMET_ANGLE_BEND_ENERGY", "3DMET_ACIDIC_ATOMS", "CHEMSPIDER_HBONDDONORS", "CHEMSPIDER_HBONDACCEPTORS", "3DMET_SINGLE_BONDS", "CHEMSPIDER_ACDLOGDPH55", "CHEMSPIDER_ACDLOGDPH74"]
     #mlrPropCombo = ['PUBCHEM_XLOGP', 'CHEMSPIDER_HBONDACCEPTORS', '3DMET_SINGLE_BONDS', '3DMET_ACIDIC_ATOMS']
+    generationsToEvolve = 5000
+    ga = None
 
     def __init__(self):
         ambiguitiesPropsFile = open('ambiguities.json', 'r')
         ambiguitiesPropsJSON = ambiguitiesPropsFile.read()
-        rawAmbiguities = json.loads(ambiguitiesPropsJSON)
+        self.ambiguities = json.loads(ambiguitiesPropsJSON)
 
-        for ambiguityID, ambiguityProps in rawAmbiguities.iteritems():
-            if ambiguityID not in self.ambiguities:
-                self.ambiguities[ambiguityID] = {} 
-
+        #each allele selects from one of the ambiguous metabolites with the same weight
+        setOfAlleles = GAllele.GAlleles()
+        alleleCount = 0
+        for ambiguityID, ambiguityProps in self.ambiguities.iteritems():
             scanID = ambiguityProps["scanid"]
             metabolites = ambiguityProps["candidates"]
+            alleleArray = []
 
             for keggID, props in metabolites.iteritems():
                 #this is super hackish, but it works
                 #for each metabolite candidate, we set the ambiguity's scan id as a property on the metabolite candidate property list itself
                 #that way, we can know the ambiguity's scan id without having to know the ambiguityid
-                props["SUSPECTED_SCANTIME"] = float(scanID)
-                metabolite = MetaboliteCandidate(keggID, props)
+                props["SUSPECTED_SCANTIME"] = int(scanID)
+                metabolite = Metabolite(keggID, props)
                 self.keggIDToAmbiguityID[keggID] = ambiguityID
-                self.ambiguities[ambiguityID][keggID] = metabolite
+                alleleArray.append(metabolite)
 
-    def disambiguate(self):
-        self.reset()
-        #first build a model for masses with only a single candidate
-        self.addAllSingleCandidateMetabolites()
+            #add a blank metabolite without any properties to randomly switch off this allele
+            repressedAllele = Metabolite(0, {})
+            alleleArray.append(repressedAllele)
 
+            alleleList = GAllele.GAlleleList(alleleArray)
+            setOfAlleles.add(alleleList)
+            alleleCount += 1
+
+        genome = G1DList.G1DList(alleleCount)
+        genome.setParams(allele=setOfAlleles)
+
+        # The evaluator function (objective function)
+        genome.evaluator.set(self.evaluateScore)
+        genome.mutator.set(Mutators.G1DListMutatorAllele)
+        genome.initializator.set(Initializators.G1DListInitializatorAllele)
         
+        # Genetic Algorithm Instance
+        self.ga = GSimpleGA.GSimpleGA(genome)
+        self.ga.selector.set(Selectors.GRouletteWheel)
+        self.ga.setGenerations(self.generationsToEvolve)
 
-    def addAllSingleCandidateMetabolites(self):
-        pp = pprint.PrettyPrinter()
-        pp.pprint(self.ambiguities)
-        for ambiguityID, candidates in self.ambiguities.iteritems():
-            if len(candidates) == 1:
-                candidate = candidates.itervalues().next()
+        self.ga.evolve(freq_stats=50)
 
-                self.tryToAddMetabolite(candidate)
-                
-        pp = pprint.PrettyPrinter()
-        pp.pprint(self.xMatrix)
+    def evaluateScore(self, chromosome):
+        xMatrix = []
+        yVector = []
 
-    def tryToAddMetabolite(self, metabolite):
-        #returns true if added, false if one or more properties were not found
+        for metabolite in chromosome:
+            knownProps = metabolite.props
 
-        if not isinstance(metabolite, MetaboliteCandidate):
-            return False
+            #blank, filler metabolites wont have a suspected scantime
+            if 'SUSPECTED_SCANTIME' in knownProps:
+                scanTime = knownProps['SUSPECTED_SCANTIME']
+                xMatrixRow = []
+                countThisMetabolite = True #those without the full set of properties wont be counted
+                #note: we use this same mechanism for canceling out metabolites if it would be be beneficial to do so
+                for prop in self.mlrPropCombo:
+                    if prop in knownProps:
+                        val = knownProps[prop]
+                        xMatrixRow.append(val)
+                    else:
+                        #return False
+                        countThisMetabolite = False
 
-        knownProps = metabolite.props
-        scanTime = knownProps['SUSPECTED_SCANTIME']
-        xMatrixRow = []
-        for prop in self.mlrPropCombo:
-            if prop in knownProps:
-                val = knownProps[prop]
-                xMatrixRow.append(val)
-            else:
-                return False
-        #all properties extant and added to matrix row
-        self.xMatrix.append(xMatrixRow)
-        self.yVector.append(scanTime)
-        return True
+                #all properties extant and added to matrix row
+                if countThisMetabolite == True:
+                    xMatrix.append(xMatrixRow)
+                    yVector.append(scanTime)
 
+        try:
+            m = ols(array(yVector), array(xMatrix))
+        except:
+            return 0
 
-
-    def doTrial(self):
-        self.reset()
-
-    def reset(self):
-        self.xMatrix = []
-        self.yVector = []
+        rSquared = m.R2
+        return rSquared
 
     def printSummary(self):
         bestIndividual = disambiguator.ga.bestIndividual()
@@ -185,5 +203,4 @@ warnings.resetwarnings()
 warnings.simplefilter('error')
 
 disambiguator = Disambiguator()
-disambiguator.disambiguate()
-#disambiguator.printSummary()
+disambiguator.printSummary()
