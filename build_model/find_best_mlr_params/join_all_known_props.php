@@ -22,20 +22,21 @@ function initializeMetaboliteArray()
     //need a list of metabolites for which we have a measured scan times
     //also, only select metabolites with scan times greater than MIN_SCANTIME because mlr doesnt work well with the ones below that
 	$sql = "select
-                keggid,
-                value scantime
-            from
-                MetaboliteProperties
+                cand.keggid,
+                amb.scanid
+            from 
+                MetaboliteAmbiguities amb
+                join MetaboliteAmbiguityCandidates cand using (ambiguityid)
             where
-                property='" . MEASURED_SCANTIME_PROPERTY . "'
-                and value > " . MIN_SCANTIME;
+                amb.confident = 1
+                and amb.scanid > " . MIN_SCANTIME;
 
 	$result = mysql_query($sql);
 
 	while($row = mysql_fetch_array($result))
 	{
         $keggid = $row["keggid"];
-        $scantime = (double)$row["scantime"];
+        $scantime = (double)$row["scanid"];
         $metabolites[$keggid] = array();
         $metabolites[$keggid][MEASURED_SCANTIME_PROPERTY] = (double)$scantime;
 	}

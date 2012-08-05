@@ -35,7 +35,7 @@ function fillAmbiguitiesObject()
                     metabolite_props.keggid = ambiguity_candidate.keggid
                 )
             where
-                ambiguity.scanid > " . MIN_SCANTIME;
+                ambiguity.scanid < " . MIN_SCANTIME;
 
 	$result = mysql_query($sql);
 

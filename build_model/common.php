@@ -1,6 +1,6 @@
 <?php
 
-define("MIN_SCANTIME", 250); //metabolites with scan times below this threshold dont work well with MLR
+define("MIN_SCANTIME", 330); //metabolites with scan times below this threshold dont work well with MLR
 define("MEASURED_SCANTIME_PROPERTY", "MEASURED_SCANTIME");
 
 function getAllUniquePropertyIDs()

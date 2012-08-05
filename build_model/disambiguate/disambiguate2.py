@@ -1,10 +1,3 @@
-from pyevolve import G1DList
-from pyevolve import GSimpleGA
-from pyevolve import Selectors
-from pyevolve import Mutators
-from pyevolve import Initializators
-from pyevolve import GAllele
-
 import io
 import json
 import imp
@@ -16,7 +9,7 @@ from numpy import *
 imp.load_source('ols', '../ols.py')
 from ols import ols
 
-class Metabolite:
+class MetaboliteCandidate:
     keggID = 0
     props = {}
 
@@ -25,136 +18,187 @@ class Metabolite:
         self.props = theProps
 
 class Disambiguator:
+    xMatrix = []
+    yVector = []
+    inUseCandidates = []
     ambiguities = {}
     keggIDToAmbiguityID = {}
-    genome = None
-    mlrPropCombo = ["PUBCHEM_XLOGP", "3DMET_DENSITY", "3DMET_ANGLE_BEND_ENERGY", "3DMET_ACIDIC_ATOMS", "CHEMSPIDER_HBONDDONORS", "CHEMSPIDER_HBONDACCEPTORS", "3DMET_SINGLE_BONDS", "CHEMSPIDER_ACDLOGDPH55", "CHEMSPIDER_ACDLOGDPH74"]
+    mlrPropCombo = ['PUBCHEM_XLOGP', 'CALCULATED_ASA', '3DMET_DENSITY']
+    m = None
+    maxScanIDPredictionError = 0.1
+    #mlrPropCombo = ['PUBCHEM_HBOND_ACCEPTOR', '3DMET_LOGP_O_TO_W', 'PUBCHEM_HEAVY_ATOM_COUNT', 'PUBCHEM_XLOGP']
     #mlrPropCombo = ['PUBCHEM_XLOGP', 'CHEMSPIDER_HBONDACCEPTORS', '3DMET_SINGLE_BONDS', '3DMET_ACIDIC_ATOMS']
-    generationsToEvolve = 5000
-    ga = None
+    finalSampleSize = 0
 
     def __init__(self):
         ambiguitiesPropsFile = open('ambiguities.json', 'r')
         ambiguitiesPropsJSON = ambiguitiesPropsFile.read()
-        self.ambiguities = json.loads(ambiguitiesPropsJSON)
+        rawAmbiguities = json.loads(ambiguitiesPropsJSON)
 
-        #each allele selects from one of the ambiguous metabolites with the same weight
-        setOfAlleles = GAllele.GAlleles()
-        alleleCount = 0
-        for ambiguityID, ambiguityProps in self.ambiguities.iteritems():
+        for ambiguityID, ambiguityProps in rawAmbiguities.iteritems():
             scanID = ambiguityProps["scanid"]
             metabolites = ambiguityProps["candidates"]
-            alleleArray = []
+            confident = ambiguityProps["confident"]
+
+            if ambiguityID not in self.ambiguities:
+                self.ambiguities[ambiguityID] = {
+                    "scanID": scanID,
+                    "candidates": {},
+                    "confident": confident
+                } 
 
             for keggID, props in metabolites.iteritems():
                 #this is super hackish, but it works
                 #for each metabolite candidate, we set the ambiguity's scan id as a property on the metabolite candidate property list itself
                 #that way, we can know the ambiguity's scan id without having to know the ambiguityid
-                props["SUSPECTED_SCANTIME"] = int(scanID)
-                metabolite = Metabolite(keggID, props)
+                props["SUSPECTED_SCANTIME"] = float(scanID)
+                metabolite = MetaboliteCandidate(keggID, props)
                 self.keggIDToAmbiguityID[keggID] = ambiguityID
-                alleleArray.append(metabolite)
+                self.ambiguities[ambiguityID]["candidates"][keggID] = metabolite
 
-            #add a blank metabolite without any properties to randomly switch off this allele
-            repressedAllele = Metabolite(0, {})
-            alleleArray.append(repressedAllele)
+    def disambiguate(self):
+        self.reset()
+        #first build a model for masses with only a single candidate
+        self.addAllConfidentCandidates()
+        if self.tryMLR():
+            self.removeHighErrorCandidates()
+            if self.tryMLR():
+                #self.finalSampleSize = self.m.nobs
+                return self.m.nobs
 
-            alleleList = GAllele.GAlleleList(alleleArray)
-            setOfAlleles.add(alleleList)
-            alleleCount += 1
+        #self.finalSampleSize = 0
+        return 0
 
-        genome = G1DList.G1DList(alleleCount)
-        genome.setParams(allele=setOfAlleles)
-
-        # The evaluator function (objective function)
-        genome.evaluator.set(self.evaluateScore)
-        genome.mutator.set(Mutators.G1DListMutatorAllele)
-        genome.initializator.set(Initializators.G1DListInitializatorAllele)
-        
-        # Genetic Algorithm Instance
-        self.ga = GSimpleGA.GSimpleGA(genome)
-        self.ga.selector.set(Selectors.GRouletteWheel)
-        self.ga.setGenerations(self.generationsToEvolve)
-
-        self.ga.evolve(freq_stats=50)
-
-    def evaluateScore(self, chromosome):
-        xMatrix = []
-        yVector = []
-
-        for metabolite in chromosome:
-            knownProps = metabolite.props
-
-            #blank, filler metabolites wont have a suspected scantime
-            if 'SUSPECTED_SCANTIME' in knownProps:
-                scanTime = knownProps['SUSPECTED_SCANTIME']
-                xMatrixRow = []
-                countThisMetabolite = True #those without the full set of properties wont be counted
-                #note: we use this same mechanism for canceling out metabolites if it would be be beneficial to do so
-                for prop in self.mlrPropCombo:
-                    if prop in knownProps:
-                        val = knownProps[prop]
-                        xMatrixRow.append(val)
-                    else:
-                        #return False
-                        countThisMetabolite = False
-
-                #all properties extant and added to matrix row
-                if countThisMetabolite == True:
-                    xMatrix.append(xMatrixRow)
-                    yVector.append(scanTime)
-
+    def tryMLR(self):
         try:
-            m = ols(array(yVector), array(xMatrix))
+            self.m = ols(array(self.yVector), array(self.xMatrix)) #, y_varnm = 'y', x_varnm = ['x1','x2','x3','x4','x5','x6','x7'])
+            #self.m.summary()
+            return True
         except:
-            return 0
+            #print("error")
+            return False
 
-        rSquared = m.R2
-        return rSquared
+    def addAllConfidentCandidates(self):
+        for ambiguityID, ambiguityProps in self.ambiguities.iteritems():
+            candidates = ambiguityProps["candidates"]
+            isConfident = int(ambiguityProps["confident"])
+            if isConfident == 1:
+                candidate = candidates.itervalues().next()
+                self.tryToAddMetabolite(candidate)
+
+    def addAllNonconfidentCandidates(self):
+        for ambiguityID, ambiguityProps in self.ambiguities.iteritems():
+            candidates = ambiguityProps["candidates"]
+            isConfident = int(ambiguityProps["confident"])
+            if isConfident == 0:
+                #choose the candidate whose elution time is closest to the predicted time
+                closestCandidate = None
+                smallestError = inf
+
+                b = self.m.b
+                for candidate in candidates.itervalues():
+                    validCandidate = True
+                    props = candidate.props
+                    scanID = props["SUSPECTED_SCANTIME"]
+                    lookedUpPropArr = []
+                    for prop in self.mlrPropCombo:
+                        if prop in props:
+                            val = props[prop]
+                            lookedUpPropArr.append(val)
+                        else:
+                            validCandidate = False
+                            break
+
+                    if validCandidate:
+                        predScanID = b[0]
+                        for propIndex in range(0, len(lookedUpPropArr)):
+                            propVal = lookedUpPropArr[propIndex]
+                            propCoefficient = b[propIndex + 1]
+                            predScanID += propCoefficient * propVal
+                    
+                    rawError = fabs(predScanID - scanID)
+
+                    if closestCandidate == None or rawError < smallestError:
+                        closestCandidate = candidate
+                        smallestError = rawError
+                
+                if closestCandidate != None:
+                    self.tryToAddMetabolite(candidate)
+
+    def removeHighErrorCandidates(self):
+        self.m = ols(array(self.yVector), array(self.xMatrix))
+        quantity = len(self.inUseCandidates)
+        i = 0
+        while i < quantity:
+            candidate = self.inUseCandidates[i]
+            b = self.m.b
+            validCandidate = True
+            props = candidate.props
+            scanID = props["SUSPECTED_SCANTIME"]
+            lookedUpPropArr = []
+            for prop in self.mlrPropCombo:
+                if prop in props:
+                    val = props[prop]
+                    lookedUpPropArr.append(val)
+                else:
+                    validCandidate = False
+                    del self.inUseCandidates[i]
+                    del self.yVector[i]
+                    del self.xMatrix[i]
+                    quantity -= 1
+                    i -= 1
+                    break
+
+            if validCandidate:
+                predScanID = b[0]
+                for propIndex in range(0, len(lookedUpPropArr)):
+                    propVal = lookedUpPropArr[propIndex]
+                    propCoefficient = b[propIndex + 1]
+                    predScanID += propCoefficient * propVal
+            
+                errorPct = fabs(predScanID - scanID) / float(scanID)
+                if errorPct > self.maxScanIDPredictionError:
+                    del self.inUseCandidates[i]
+                    del self.yVector[i]
+                    del self.xMatrix[i]
+                    quantity -= 1
+                    i -= 1
+
+            i += 1
+
+    def tryToAddMetabolite(self, metabolite):
+        #returns true if added, false if one or more properties were not found
+
+        if not isinstance(metabolite, MetaboliteCandidate):
+            return False
+
+        knownProps = metabolite.props
+        scanTime = knownProps['SUSPECTED_SCANTIME']
+        xMatrixRow = []
+        for prop in self.mlrPropCombo:
+            if prop in knownProps:
+                val = knownProps[prop]
+                xMatrixRow.append(val)
+            else:
+                return False
+        #all properties extant and added to matrix row
+        self.inUseCandidates.append(metabolite)
+        self.xMatrix.append(xMatrixRow)
+        self.yVector.append(scanTime)
+        return True
+
+
+    def reset(self):
+        self.finalSampleSize = 0
+        self.inUseCandidates = []
+        self.xMatrix = []
+        self.yVector = []
 
     def printSummary(self):
-        bestIndividual = disambiguator.ga.bestIndividual()
-        xMatrix = []
-        yVector = []
-        chosenKeggIDs = {}
+        self.m = ols(array(self.yVector), array(self.xMatrix))
 
-        print("best individual's keggids:")
-        for metabolite in bestIndividual:
-            knownProps = metabolite.props
-            keggID = metabolite.keggID
-            print(keggID)
-
-            #blank, filler metabolites wont have a suspected scantime
-            if 'SUSPECTED_SCANTIME' in knownProps:
-                scanTime = knownProps['SUSPECTED_SCANTIME']
-                xMatrixRow = []
-                countThisMetabolite = True #those without the full set of properties wont be counted
-                #note: we use this same mechanism for canceling out metabolites if it would be be beneficial to do so
-                for prop in self.mlrPropCombo:
-                    if prop in knownProps:
-                        val = knownProps[prop]
-                        xMatrixRow.append(val)
-                    else:
-                        #return False
-                        countThisMetabolite = False
-
-                #all properties extant and added to matrix row
-                if countThisMetabolite == True:
-                    xMatrix.append(xMatrixRow)
-                    yVector.append(scanTime)
-                    chosenKeggIDs[keggID] = scanTime
-
-
-        try:
-            m = ols(array(yVector), array(xMatrix))
-        except:
-            return 0
-
-        m = ols(array(yVector), array(xMatrix))
-
-        b = m.b
+        b = self.m.b
         summary = {}
-
 
         print("")
         print("summary of all ambiguous metabolites:")
@@ -199,8 +243,11 @@ class Disambiguator:
 
 #sometimes scipy generates warnings, which usually means something went wrong and we might get bad data
 #to remedy this, switch all warnings to error, catch them when doing the multiple linear regression, and disregard that result
-warnings.resetwarnings()
-warnings.simplefilter('error')
+#warnings.resetwarnings()
+#warnings.simplefilter('error')
 
-disambiguator = Disambiguator()
-disambiguator.printSummary()
+if __name__ == '__main__':
+    disambiguator = Disambiguator()
+    disambiguator.disambiguate()
+    print(disambiguator.finalSampleSize)
+#disambiguator.printSummary()

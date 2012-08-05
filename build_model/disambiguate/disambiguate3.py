@@ -23,10 +23,11 @@ class Disambiguator:
     inUseCandidates = []
     ambiguities = {}
     keggIDToAmbiguityID = {}
+    mlrPropCombo = ['CHEMSPIDER_MOLARREFRACTIVITY', 'CHEMSPIDER_POLARIZABILITY', 'PUBCHEM_HBOND_DONOR', 'PUBCHEM_DEFINED_ATOM_ATEREOCENTER_COUNT', 'PUBCHEM_TPSA']
     m = None
-    maxScanIDPredictionError = 0.2
+    maxScanIDPredictionError = 0.1
     #mlrPropCombo = ['PUBCHEM_HBOND_ACCEPTOR', '3DMET_LOGP_O_TO_W', 'PUBCHEM_HEAVY_ATOM_COUNT', 'PUBCHEM_XLOGP']
-    mlrPropCombo = ['PUBCHEM_XLOGP', 'CALCULATED_ASA']
+    #mlrPropCombo = ['PUBCHEM_XLOGP', 'CHEMSPIDER_HBONDACCEPTORS', '3DMET_SINGLE_BONDS', '3DMET_ACIDIC_ATOMS']
     finalSampleSize = 0
 
     def __init__(self):
@@ -63,6 +64,8 @@ class Disambiguator:
             self.removeHighErrorCandidates()
             self.addAllNonconfidentCandidates()
             if self.tryMLR():
+                disambiguator.m.summary()
+                quit()
                 self.removeHighErrorCandidates()
                 if self.tryMLR():
                     self.finalSampleSize = self.m.nobs
@@ -195,7 +198,7 @@ class Disambiguator:
         self.yVector = []
 
     def printSummary(self):
-        self.tryMLR()
+        self.m = ols(array(self.yVector), array(self.xMatrix))
 
         b = self.m.b
         summary = {}
@@ -203,11 +206,10 @@ class Disambiguator:
         print("")
         print("summary of all ambiguous metabolites:")
         for ambiguityID, ambiguityProps in self.ambiguities.iteritems():
-            candidates = ambiguityProps["candidates"]
+            metabolites = ambiguityProps["candidates"]
 
-            for keggID, candidate in candidates.iteritems():
+            for keggID, knownProps in metabolites.iteritems():
                 addToSummary = True
-                knownProps = candidate.props
                 scanTime = knownProps['SUSPECTED_SCANTIME']
                 lookedUpPropArr = []
                 for prop in self.mlrPropCombo:
@@ -225,12 +227,11 @@ class Disambiguator:
                         yPred += propCoefficient * propVal
 
                     metaboliteSummary = {
-                        "keggid": keggID,
                         "scan": scanTime,
                         "prediction": yPred,
                         "error": (math.fabs(scanTime - yPred) / scanTime)
                     }
-                    if candidate in self.inUseCandidates:
+                    if keggID in chosenKeggIDs and chosenKeggIDs[keggID] == scanTime:
                         metaboliteSummary["chosen"] = True
 
                     summaryKey = "ambiguity" + str(ambiguityID)
@@ -251,6 +252,6 @@ class Disambiguator:
 if __name__ == '__main__':
     disambiguator = Disambiguator()
     disambiguator.disambiguate()
+    print(disambiguator.finalSampleSize)
     disambiguator.m.summary()
-    disambiguator.printSummary()
 #disambiguator.printSummary()
