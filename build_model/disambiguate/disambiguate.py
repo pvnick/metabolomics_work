@@ -60,7 +60,7 @@ class Disambiguator:
         #first build a model for masses with only a single candidate
         self.addAllConfidentCandidates()
         if self.tryMLR():
-            self.removeHighErrorCandidates()
+            #self.removeHighErrorCandidates()
             self.addAllNonconfidentCandidates()
             if self.tryMLR():
                 self.removeHighErrorCandidates()

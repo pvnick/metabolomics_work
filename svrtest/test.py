@@ -31,6 +31,9 @@ y_rbf = svr_rbf.fit(X, y).predict(X)
 y_lin = svr_lin.fit(X, y).predict(X)
 y_poly = svr_poly.fit(X, y).predict(X)
 
+print(y)
+quit()
+
 ###############################################################################
 # look at the results
 import pylab as pl

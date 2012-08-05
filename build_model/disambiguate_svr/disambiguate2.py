@@ -28,14 +28,13 @@ class Disambiguator:
     ambiguities = {}
     keggIDToAmbiguityID = {}
     m = None
-    maxScanIDPredictionError = 0.2
-    mlrPropCombo = ['PUBCHEM_DEFINED_ATOM_ATEREOCENTER_COUNT', 'PUBCHEM_HBOND_DONOR', 'PUBCHEM_UNDEFINED_BOND_STEREOCENTER_COUNT', 'PUBCHEM_HBOND_DONOR', 'PUBCHEM_MONOISOTOPIC_MASS']
+    maxScanIDPredictionError = 0.05
+    mlrPropCombo = ['PUBCHEM_HBOND_ACCEPTOR', 'PUBCHEM_HEAVY_ATOM_COUNT', 'PUBCHEM_XLOGP']
     #mlrPropCombo = ["PUBCHEM_HBOND_DONOR","PUBCHEM_COMPLEXITY","PUBCHEM_TPSA"]
     finalSampleSize = 0
-    svr_C = 2 ** 10
-    svr_gamma = 2 ** -11
 
     def __init__(self):
+        self.svr_rbf = SVR(kernel='rbf', C=1e3, gamma=0.1)
 
         ambiguitiesPropsFile = open('ambiguities.json', 'r')
         ambiguitiesPropsJSON = ambiguitiesPropsFile.read()
@@ -63,8 +62,6 @@ class Disambiguator:
                 self.ambiguities[ambiguityID]["candidates"][keggID] = metabolite
 
     def disambiguate(self):
-        self.svr_rbf = SVR(kernel='rbf', C=self.svr_C, gamma=self.svr_gamma)
-
         self.reset()
         #first build a model for masses with only a single candidate
         self.addAllConfidentCandidates()
