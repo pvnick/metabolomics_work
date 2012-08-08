@@ -18,7 +18,7 @@ from ols import ols
 
 from disambiguate import Disambiguator
 
-PROP_COUNT = 5
+PROP_COUNT = 7
 GENERATIONS_TO_EVOLVE = 1000
 
 disambiguator = Disambiguator()

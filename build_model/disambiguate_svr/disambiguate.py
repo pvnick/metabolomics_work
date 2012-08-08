@@ -29,8 +29,7 @@ class Disambiguator:
     keggIDToAmbiguityID = {}
     m = None
     maxScanIDPredictionError = 0.2
-    mlrPropCombo = ['PUBCHEM_DEFINED_ATOM_ATEREOCENTER_COUNT', 'PUBCHEM_HBOND_DONOR', 'PUBCHEM_UNDEFINED_BOND_STEREOCENTER_COUNT', 'PUBCHEM_HBOND_DONOR', 'PUBCHEM_MONOISOTOPIC_MASS']
-    #mlrPropCombo = ["PUBCHEM_HBOND_DONOR","PUBCHEM_COMPLEXITY","PUBCHEM_TPSA"]
+    mlrPropCombo = ['PUBCHEM_MOLECULAR_WEIGHT', 'PUBCHEM_EFFECTIVE_ROTOR_COUNT', 'PUBCHEM_MOLECULAR_WEIGHT', 'PUBCHEM_COVALENTLY_BONDED_UNIT_COUNT', 'PUBCHEM_MONOISOTOPIC_MASS', 'PUBCHEM_UNDEFINED_BOND_STEREOCENTER_COUNT', 'PUBCHEM_FORMAL_CHARGE']
     finalSampleSize = 0
     svr_C = 2 ** 10
     svr_gamma = 2 ** -11
@@ -69,9 +68,23 @@ class Disambiguator:
         #first build a model for masses with only a single candidate
         self.addAllConfidentCandidates()
         self.model = self.svr_rbf.fit(self.xMatrix, self.yVector)
+        #next add the ambiguous ones
         self.addAllNonconfidentCandidates()
+        yPred = self.model.predict(self.xMatrix)
+
+
+        pl.scatter(self.yVector, yPred, c='red', label='raw')
+        pl.hold('on')
 
         self.removeHighErrorCandidates()
+        yPred = self.model.predict(self.xMatrix)
+        #pl.scatter(self.yVector, yPred, c='green', label='filtered')
+
+        pl.xlabel('recorded')
+        pl.ylabel('predicted')
+        pl.title('Support Vector Regression')
+        pl.legend()
+        pl.show()
 
         return len(self.inUseCandidates)
 
