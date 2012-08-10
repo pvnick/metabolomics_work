@@ -131,7 +131,7 @@ class Disambiguator:
 
     def tryMLR(self):
         try:
-            self.m = ols(array(self.yVector), array(self.xMatrix), y_varnm = 'y', x_varnm = ['x1','x2','x3','x4','x5','x6','x7','x12','x22','x32','x42','x52','x62','x72','logp'])
+            self.m = ols(array(self.yVector), array(self.xMatrix), y_varnm = 'y', x_varnm = ['x1','x2','x3','x4','x5','x6','x7','x12','x22','x32','x42','x52','x62','x72','logp', 'xblah', 'xfoo'])
             return True
         except:
             return False
